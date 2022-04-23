@@ -20,7 +20,7 @@ one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](http
 
 # List of available PCBs
 
-## AeonLabs Nextion 7" LCD Touch PCB Addon 
+## 1- AeonLabs Nextion 7" LCD Touch PCB Addon 
 This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" LCD Touch. This PCB adds WiFi and BLE capabilities to stock Nextion 7" LCDs (http://www.nextion.tech). Features a RGB LED and a Buzzer and is designed to be mounted on top of existing Nextion PCB board. Optionally can be installed with a RFID RC522 module for contactless read / write capabilities.
 
 ![](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/blob/main/designs/pcb_front.png)
@@ -28,7 +28,7 @@ This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" 
 ### Nextion LCDs
 If you like this , but on another NEXTION LCD TOUCH, drop me a DM on whatsApp [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) and i will do for free the KiCad design for you.
 
-# AeonLabs WIFI BLE RFID NFC Desk Contacless Reader Writer
+## 2- AeonLabs WIFI BLE RFID NFC Desk Contacless Reader Writer
  This repo contains the KiCad files for the  AeonLabs WIFI BLE RFID NFC Desk Contactless Reader Writer. This PCB adds WiFi and BLE capabilities to a OEM RFID NFC reader.
 Features a RGB LED and a Buzzer and is designed to be mounted on existing commercial RFID NFC reader enclosures such as the one found here https://s.click.aliexpress.com/e/_9wRPxz . 
 
@@ -36,7 +36,20 @@ This PCB is best suited for home automation or commercial uses for #attendances 
 
 ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_front.png)
 
+## 3- AeonLabs LDAD NANO MAX Smart DAQ
+This repo contains the KiCad files for the AeonLabs LDAD NANO MAX Smart DAQ and more than 20 sensors compatible with I2C protocol communication. 
+ 
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-MAX-Smart-DAQ/blob/main/designs/pcb_front.png)
 
+## 4- AeonLabs LDAD LVDT MAX Smart DAQ
+This repo contains the KiCad files for the   AeonLabs LDAD LVDT MAX Smart DAQ and more than 20 sensors compatible with I2C protocol communication. 
+ 
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ/blob/main/designs/pcb_front.png)
+
+## 5- ![AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ)
+This repo contains the KiCad files for the About AeonLabs LDAD NANO for LVDT precision measurements and more than 20 other sensors compatible with I2C protocol communication. 
+ 
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ/blob/main/designs/pcb_front.png)
 
 ______________________________________________________________________________________________________________________________
 ### License
