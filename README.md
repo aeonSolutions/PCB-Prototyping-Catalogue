@@ -1,4 +1,4 @@
-# PCB-Prototyping-Catalogue
+# PCB Prototyping Catalogue
 This the catalogue for all PCB prototyping available here on AeonLab's Github
 
 ## Join the WhatsApp Group
@@ -17,7 +17,7 @@ The price starts at 30eur plus postage fees.
 
 ## Firmware Download / Burner
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
-________________________________________________________________________________________________________________
+
 # List of available PCBs
 
 ## AeonLabs Nextion 7" LCD Touch PCB Addon 
