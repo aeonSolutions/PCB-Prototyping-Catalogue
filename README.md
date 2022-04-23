@@ -28,6 +28,15 @@ This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" 
 ### Nextion LCDs
 If you like this , but on another NEXTION LCD TOUCH, drop me a DM on whatsApp [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) and i will do for free the KiCad design for you.
 
+# AeonLabs WIFI BLE RFID NFC Desk Contacless Reader Writer
+ This repo contains the KiCad files for the  AeonLabs WIFI BLE RFID NFC Desk Contactless Reader Writer. This PCB adds WiFi and BLE capabilities to a OEM RFID NFC reader.
+Features a RGB LED and a Buzzer and is designed to be mounted on existing commercial RFID NFC reader enclosures such as the one found here https://s.click.aliexpress.com/e/_9wRPxz . 
+
+This PCB is best suited for home automation or commercial uses for #attendances #management at a factories or offices.
+
+![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_front.png)
+
+
 
 ______________________________________________________________________________________________________________________________
 ### License
