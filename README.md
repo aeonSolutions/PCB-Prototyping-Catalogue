@@ -16,7 +16,7 @@ The price starts at 30eur plus postage fees.
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
 ## Firmware Download / Burner
-one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
+one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the PCBs.
 
 # List of available PCBs
 
