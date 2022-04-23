@@ -1,11 +1,11 @@
 # PCB Prototyping Catalogue
 This the catalogue for all PCB prototyping available here on AeonLab's Github
 
-## Join the WhatsApp Group
+### Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
-## Fully assembled PCB
+### Fully assembled PCB
 Alternatively, and if you do not want to build a PCB by yourself and like to buy one:
 
 [Tindie.com](https://www.tindie.com/stores/aeonlabs/)
