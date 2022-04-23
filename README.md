@@ -51,6 +51,39 @@ This repo contains the KiCad files for the About AeonLabs LDAD NANO for LVDT pre
  
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ/blob/main/designs/pcb_front.png)
 
+
+## 6- [AeonLabs LDAD NANO HX Smart DAQ](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-HX-Smart-DAQ)
+This repo contains the KiCad files for the  AeonLabs  LDAD NANO for strain sensing / weight measurements and more than 20 other sensors compatible with I2C protocol communication. 
+ 
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-HX-Smart-DAQ/blob/main/designs/pcb_front.png)
+
+## 7- [AeonLabs Home Automation Smart Coffee Machine Addon](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)
+This repo contains the KiCad files for the AeonLabs Home Automation Smart Coffee MAchine Addon. This PCB adds WiFi and BLE capabilities to any home or office coffee machine. Is able to :
+- control water temperature
+- order a cup of coffee (with possibility control of quantity of coffee in the cup)
+-  grind coffee beans. 
+  
+To all those looking for a LCD touch solutions, this PCB features a connection to NEXTION LCD panels so one car order a cup of coffee using the LCD Touch. This PCB can be powered using 220V AC or regular 5V DC. Control of the coffee machine can be made using a 220V relays.
+
+![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/pcb_front.png)
+
+
+## 8- [Solder Reflow Plate PCB](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB)
+ Improved Kicad PCB schematics for a DIY Solder Reflow Plate from the original pcb schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
+
+### As Seen On GreatScott! 
+This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy"
+Check it out here - [The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy](https://www.youtube.com/watch?v=QarizoUnRfk)
+
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/top_snapshot.png)
+
+## 9- [DIYPERKS DIY "Building a quality USB-C microphone"](https://github.com/aeonSolutions/DIYPERKS_microphone_project)
+This is the Gerber & KiCad files for the Youtuber DIY PERKS video "Building a quality USB-C microphone"
+You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=1s
+
+![](https://github.com/aeonSolutions/DIYPERKS_microphone_project/blob/main/image_2021-11-08_111413.png)
+
+
 ______________________________________________________________________________________________________________________________
 ### License
 2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
