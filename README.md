@@ -114,6 +114,15 @@ This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/searc
 
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature/blob/main/designs/pcb_front.png)
 
+=====================================================================================
+
+## 11- [AeonLabs-LDAD-Essentials-For-I2C-Sensors](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors)
+
+This repo contains the KiCad files for the LDAD Essentials features up to  6 I2C sensor connections has WIFI and BLE connectivity and is powered by a 4.2v Lipo Battery.
+This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz) 89x43mm waterproof enclosure.
+
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_front.png)
+
 ______________________________________________________________________________________________________________________________
 ### License
 2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
