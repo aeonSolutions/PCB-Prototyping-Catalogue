@@ -123,6 +123,25 @@ This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/searc
 
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_front.png)
 
+=====================================================================================
+
+## 12- AeonLabs-LDAD-ATOM-For-I2C-Sensors
+This repo contains the KiCad files for the LDAD ATOM features 1 I2C sensor connection, has WIFI and BLE connectivity, externanlly powerted 3.3V to 12V such as a USB plug.
+This PCB was made to Fit a [45x25mm](https://s.click.aliexpress.com/e/_A5Elob) enclosure.
+
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors/blob/main/designs/pcb_front.png)
+
+=====================================================================================
+
+## 13- AeonLabs LDAD ATOM For Temperature
+This repo contains the KiCad files for the LDAD ATOM features 1 DS18b20 temperature sensor, has WIFI and BLE connectivity, externanlly powerted 3.3V to 12V such as a USB plug.
+This PCB was made to Fit a [45x25mm](https://s.click.aliexpress.com/e/_A5Elob) enclosure.
+
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-Temperature/blob/main/designs/pcb_front.png)
+
+
+=====================================================================================
+
 ______________________________________________________________________________________________________________________________
 ### License
 2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
