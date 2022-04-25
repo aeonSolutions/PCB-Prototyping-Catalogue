@@ -20,6 +20,12 @@ one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](http
 
 # List of available PCBs
 
+## 0- [AeonLabs MCU Burner USB to UART TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL)
+This repo contains the KiCad files for the micro-USB to UART TTL PCB. This PCB can do firmware download on any AeonLabs PCB designs or any other PCB running at 3.0V or 5.0V. Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset and automatic boot. It can fit an enclosure with dimensions of 35x35x4 mm
+![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/pcb_front.png)
+
+=====================================================================================
+
 ## 1- [AeonLabs Nextion 7" LCD Touch PCB Addon](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-)
 This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" LCD Touch. This PCB adds WiFi and BLE capabilities to stock Nextion 7" LCDs (http://www.nextion.tech). Features a RGB LED and a Buzzer and is designed to be mounted on top of existing Nextion PCB board. Optionally can be installed with a RFID RC522 module for contactless read / write capabilities.
 
