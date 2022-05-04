@@ -149,7 +149,7 @@ This PCB was made to Fit a [45x25mm](https://s.click.aliexpress.com/e/_A5Elob) e
 ## 14- [AeonLabs Smart Passive E-Ink Display](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display)
 A PCB for a 2.13" E-Ink Display. Requires #no #power an can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for #labelling or #price tagging. Total cost, including the E-Ink Display starts at only 10 euros. Already assembled.
 
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_back.png)
 
 
 =====================================================================================
