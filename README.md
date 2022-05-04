@@ -1,5 +1,5 @@
 # PCB Prototyping Catalogue
-This the catalogue for all PCB prototyping available here on AeonLab's Github
+This the catalogue for all PCB prototyping available here on AeonLab's Github. There are now, a total of 15 PCBs prototyped in KiCad and ready to fabrication or order on [Tidie](https://www.tindie.com/products/aeonlabs/).
 
 ### Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
