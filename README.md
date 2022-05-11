@@ -154,7 +154,7 @@ A PCB for a 2.13" E-Ink Display. Requires #no #power an can be configured using 
 
 =====================================================================================
 ## 15- [AeonLabs Smart Passive E-Ink Display Programmer](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer)
-A PCB for programming E-Ink Displays. Plug the E-Ink Display to this PCB using magnietic pogo pins to upload a new static image to the E-Ink display.
+A PCB for programming E-Ink Displays. Plug the E-Ink Display to this PCB using magnietic pogo pins to upload a new static image to it.
 
 
 ![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/blob/main/Designs/pcb_front.png)
