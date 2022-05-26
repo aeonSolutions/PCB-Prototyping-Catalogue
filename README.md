@@ -166,7 +166,7 @@ A PCB for programming E-Ink Displays. Plug the E-Ink Display to this PCB using m
 This repo contains the KiCad files for the AeonLabs E-Ink / E-Paper Display Programmer. This PCB can program any E-Ink Displays with a 24 pin FPC/FFC connector. It can fit an enclosure with dimensions of 35x35x4 mm
 
 
-![](https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer/blob/main/Designs/pcb_front.png)
 
 ______________________________________________________________________________________________________________________________
 ### License
