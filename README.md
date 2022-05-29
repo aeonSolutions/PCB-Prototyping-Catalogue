@@ -3,8 +3,8 @@ This the catalogue for all PCB prototyping available here on AeonLab's Github. T
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-### Join the WhatsApp Group
-If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
+## Q&A WhatsApp Group
+If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 ### Fully assembled PCB
