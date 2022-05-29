@@ -20,6 +20,9 @@ The price starts at 30eur plus postage fees.
 ## Firmware Download / Burner
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the PCBs.
 
+## Liked one of my PCB assemblies ? Get a Free PCB for yourself
+Send my your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
+
 # List of available PCBs
 
 ## 0- [AeonLabs MCU Burner USB to UART TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL)
