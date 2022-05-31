@@ -104,7 +104,7 @@ To all those looking for a LCD touch solutions, this PCB features a connection t
 ### As Seen On GreatScott! 
 This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy"
 
-![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/concept.jfif)
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/concept.jpg)
 
 =====================================================================================
 
