@@ -175,6 +175,19 @@ This repo contains the KiCad files for the AeonLabs E-Ink / E-Paper Display Prog
 
 ![](https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer/blob/main/Designs/pcb_front.png)
 
+=====================================================================================
+## 17 - [AeonLabs LDAD for Legrand Plexo](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo)
+ #LDAD PCB for a direct fit on [Legrand Plexo](https://www.legrand.com/ecatalogue/RESIDENTIAL-BUILDINGS-AND-HOTEL-EQUIPMENT/weatherproof-wiring-accessories-and-other-installation-equipment:5/weatherproof-wiring-accessories-and-boxes:1/plexo-boxes-ip-55-ik-07-with-direct-entry-membrane-glands-650-c:12/square-boxes:2/65-x-) Junction Box with 65x65x40xmm.
+
+Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 10 sensors. This PCB is powered with any 220V AC line. If wireless is not possible this PCB is able to connect to a Home #CanBus network for data transmission (and receive) up to 1Mbit/s.
+
+The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
+
+Simple and compatible with existing tools and technologies. Can't get better than this !!! 
+
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb_back.png)
+
 ______________________________________________________________________________________________________________________________
 ### License
 2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
