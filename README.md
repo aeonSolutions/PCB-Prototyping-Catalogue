@@ -185,7 +185,7 @@ The perfect #PCB for managing construction site works since early construction s
 
 Simple and compatible with existing tools and technologies. Can't get better than this !!! 
 
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb.jpg)
 
 =====================================================================================
 ## 18 - [AeonLabs LDAD for Universal 60x60mm Junction box](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box)
