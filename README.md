@@ -37,8 +37,8 @@ Send me your Device or hardware and i will design a custom PCB for it. Free of c
 - [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
  
 ### Commercial Businesses
- - [Office Smart Devices]()
- - [Smart Devices for Products]()
+ - [Office Smart Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
+ - [Smart Devices for Products](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
 
 ### DIY & Makers
 - [USB to UART TTL firmware burner](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
