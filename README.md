@@ -38,7 +38,8 @@ Send me your Device or hardware and i will design a custom PCB for it. Free of c
  
 ### Commercial Businesses
  - [Office Smart Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
- - [Smart Devices for Products](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
+ - [E-Ink / E-paper Displays for product labelling](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
+ - [RFID smart tags & contacless cards](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
 
 ### Smart LCD Touch Displays
  - [Warehouse](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
