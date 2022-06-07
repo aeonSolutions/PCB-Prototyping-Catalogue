@@ -51,15 +51,6 @@ This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best wa
 ![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/concept.jpg)
 
 
-## 10- [AeonLabs LDAD Essentials Temperature](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature)
-This repo contains the KiCad files for the LDAD Essentials features up to 6 Temperature Sensors has WIFI and BLE connectivity and is powered by a 4.2v Lipo Battery.
-This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz) 89x43mm waterproof enclosure 
-
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature/blob/main/designs/pcb_front.png)
-
-
-
-
 ## 1- [AeonLabs Nextion 7" LCD Touch PCB Addon](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-)
 This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" LCD Touch. This PCB adds WiFi and BLE capabilities to stock Nextion 7" LCDs (http://www.nextion.tech). Features a RGB LED and a Buzzer and is designed to be mounted on top of existing Nextion PCB board. Optionally can be installed with a RFID RC522 module for contactless read / write capabilities.
 
