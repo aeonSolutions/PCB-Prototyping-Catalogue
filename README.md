@@ -9,7 +9,7 @@ This the catalogue for all PCB prototyping available here on AeonLab's Github. T
 If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
-### Fully assembled PCB
+## Fully assembled PCB
 Alternatively, and if you do not want to build a PCB by yourself and like to buy one:
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
@@ -17,7 +17,7 @@ Alternatively, and if you do not want to build a PCB by yourself and like to buy
 The price starts at 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 
-#### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
+### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
 ## Firmware Download / Burner
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the PCBs.
@@ -30,6 +30,8 @@ Send me your Device or hardware and i will design a custom PCB for it. Free of c
 ## 0- [AeonLabs MCU Burner USB to UART TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL)
 This repo contains the KiCad files for the micro-USB to UART TTL PCB. This PCB can do firmware download on any AeonLabs PCB designs or any other PCB running at 3.0V or 5.0V. Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset and automatic boot. It can fit an enclosure with dimensions of 35x35x4 mm
 ![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/assembled.jpg)
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing.png)](https://www.tindie.com/stores/aeonlabs/)
 
 =====================================================================================
 
