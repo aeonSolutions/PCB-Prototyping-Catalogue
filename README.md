@@ -31,7 +31,7 @@ Send me your Device or hardware and i will design a custom PCB for it. Free of c
 ### Construction & Home
 - [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)
 - [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)
-- 
+
 ### Smart Data Acquisition Devies (Smart DAQ)
 - [Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
 - [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
