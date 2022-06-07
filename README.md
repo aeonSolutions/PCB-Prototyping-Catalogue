@@ -36,20 +36,10 @@ Send me your Device or hardware and i will design a custom PCB for it. Free of c
 - [Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
 - [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
 - 
-## 0- [AeonLabs MCU Burner USB to UART TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL)
-This repo contains the KiCad files for the micro-USB to UART TTL PCB. This PCB can do firmware download on any AeonLabs PCB designs or any other PCB running at 3.0V or 5.0V. Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset and automatic boot. It can fit an enclosure with dimensions of 35x35x4 mm
-![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/assembled.jpg)
 
-
-
-## 8- [Solder Reflow Plate PCB](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB)
- Improved Kicad PCB schematics for a DIY Solder Reflow Plate from the original pcb schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
-
-### As Seen On GreatScott! 
-This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy"
-
-![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/concept.jpg)
-
+### DIY & Makers
+- [USB to UART TTL firmware burner](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+- [Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
 
 ## 1- [AeonLabs Nextion 7" LCD Touch PCB Addon](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-)
 This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" LCD Touch. This PCB adds WiFi and BLE capabilities to stock Nextion 7" LCDs (http://www.nextion.tech). Features a RGB LED and a Buzzer and is designed to be mounted on top of existing Nextion PCB board. Optionally can be installed with a RFID RC522 module for contactless read / write capabilities.
