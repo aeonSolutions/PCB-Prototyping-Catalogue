@@ -58,7 +58,7 @@ ________________________________________________________________________________
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ### Own a copy of this work
-if you like to own a copy of this work, you can buy it as a NFT or Ethereum. contact me for more details at mtpsilva@gmail.com
+if you like to own a copy of this work. Contact me for more details at mtpsilva@gmail.com
 
 =====================================================================================
 
