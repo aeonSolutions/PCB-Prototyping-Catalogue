@@ -28,7 +28,7 @@ Send me your Device or hardware and i will design a custom PCB for it. Free of c
 # List of available PCBs
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing.png)](https://www.tindie.com/stores/aeonlabs/)
 
-### Construction & Hoome
+### Construction & Home
 - [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)
 - [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)
 - 
