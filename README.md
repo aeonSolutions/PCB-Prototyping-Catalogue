@@ -8,7 +8,7 @@ If you have any Questions or simply  like this kind of projects and want to stay
 [A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 ## Fully assembled PCB
-Alternatively, and if you do not want to build a PCB by yourself and like to buy one:
+To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
 
