@@ -25,7 +25,7 @@ To make any of the available PCBs here running as intented is needed to download
 ## Liked one of my PCB assemblies ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. What i accept:
 
-- home appliances
+- Home appliances
 - Office appliances
 - Industrical and commercial tools, equipments, machienry and appliances.
 
