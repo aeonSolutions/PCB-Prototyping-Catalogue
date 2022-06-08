@@ -27,7 +27,7 @@ Send me your Device or hardware and i will design a custom PCB for it. Free of c
 
 - Home appliances
 - Office appliances
-- Industrical and commercial tools, equipments, machienry and appliances.
+- Industrical and commercial tools, equipments, machinery and appliances.
 
 Contact-me on WhatsApp (+32 471 632 520) or email at mtpsilva@gmail.com for more info. 
 
