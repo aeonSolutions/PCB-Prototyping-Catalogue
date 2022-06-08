@@ -55,7 +55,9 @@ Contact-me on WhatsApp (+32 471 632 520) or email at mtpsilva@gmail.com for more
 - [USB to UART TTL firmware burner](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 - [Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
 
-
+______________________________________________________________________________________________________________________________
+### Own a copy of this work
+if you like to own a copy of this work. Contact me for more details at mtpsilva@gmail.com
 
 ______________________________________________________________________________________________________________________________
 ### License
@@ -63,10 +65,7 @@ ________________________________________________________________________________
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-### Own a copy of this work
-if you like to own a copy of this work. Contact me for more details at mtpsilva@gmail.com
-
-=====================================================================================
+______________________________________________________________________________________________________________________________
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
 
