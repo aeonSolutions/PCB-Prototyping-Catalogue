@@ -68,7 +68,7 @@ if you like to own a copy of this work. Contact me for more details at mtpsilva@
 
 =====================================================================================
 
-### Be supportive of my dedication and work towards technology education and buy me a coffee
+### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
 
