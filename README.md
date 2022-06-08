@@ -23,11 +23,11 @@ To make any of the available PCBs here running as intented is needed to download
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png)
 
 ## Liked one of my PCB assemblies ? Get a Free PCB for yourself
-Send me your Device or hardware and i will design a custom PCB for it. Free of charge. What i accept:
+Send me your device, hardware or equipment and i will design a custom PCB for it. Free of charge. What i accept:
 
 - Home appliances
 - Office appliances
-- Industrical and commercial tools, equipments, machinery and appliances.
+- Industrial and commercial tools, equipment, machinery and appliances.
 
 Contact-me on WhatsApp (+32 471 632 520) or email at mtpsilva@gmail.com for more info. 
 
