@@ -35,8 +35,8 @@ Contact-me on WhatsApp (+32 471 632 520) or email at mtpsilva@gmail.com for more
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing.png)](https://www.tindie.com/stores/aeonlabs/)
 
 ### Construction & Home
-- [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)
-- [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)
+- [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/README.md)
+- [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/README.md)
 
 ### Smart Data Acquisition Devies (Smart DAQ)
 - [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
@@ -54,7 +54,7 @@ Contact-me on WhatsApp (+32 471 632 520) or email at mtpsilva@gmail.com for more
 ### DIY & Makers
 - [USB to UART TTL firmware burner](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 - [Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
-- [PCB Shields and Modules](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields)
+- [PCB Shields and Modules](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md)
 
 ______________________________________________________________________________________________________________________________
 ### Own a copy of this work
