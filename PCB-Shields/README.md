@@ -22,20 +22,12 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
-
+# [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
 ________________________________________________________________________________________________________________
 
-# [AeonLabs PCB Shields AC 220V 1A to DC 5.0V](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0)
- This repo contains a pcb design for a AC220V 1A to DC 5V0 converter.
+# [AeonLabs PCB Shields AC 85V-220V 1A to DC 5.0V](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0)
+ This repo contains a pcb design for a AC220V 1A to DC 5V0 converter. Suitable as a add-on design for any other KiCad project.
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_front.png)
-
-
-
-## PCB Parts list
-- Capacitor 2.2uF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
-- Resistor SMD 1206 330R x3 : https://s.click.aliexpress.com/e/_A7OXrR
-
-- LED RGB x1: https://s.click.aliexpress.com/e/_AccXHT
 
 
 ________________________________________________________________________________________________________________
