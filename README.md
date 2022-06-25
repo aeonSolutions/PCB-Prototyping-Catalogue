@@ -54,6 +54,7 @@ Contact-me on WhatsApp (+32 471 632 520) or email at mtpsilva@gmail.com for more
 ### DIY & Makers
 - [USB to UART TTL firmware burner](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 - [Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
+- [PCB Shields and Modules](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields)
 
 ______________________________________________________________________________________________________________________________
 ### Own a copy of this work
