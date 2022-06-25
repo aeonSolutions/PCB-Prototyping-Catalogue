@@ -16,12 +16,6 @@ Don't forget to checkout some cool photos of assembly on a Philips Senseo Coffee
 ![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/Philips%20Senseo/20220604_134341.jpg)
 
 
-## 9- [DIYPERKS DIY "Building a quality USB-C microphone"](https://github.com/aeonSolutions/DIYPERKS_microphone_project)
-This is the Gerber & KiCad files for the Youtuber DIY PERKS video "Building a quality USB-C microphone"
-You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=1s
-
-![](https://github.com/aeonSolutions/DIYPERKS_microphone_project/blob/main/image_2021-11-08_111413.png)
-
 ## 17 - [AeonLabs LDAD for Legrand Plexo Junction box](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo)
  #LDAD PCB for a direct fit on [Legrand Plexo](https://www.legrand.com/ecatalogue/RESIDENTIAL-BUILDINGS-AND-HOTEL-EQUIPMENT/weatherproof-wiring-accessories-and-other-installation-equipment:5/weatherproof-wiring-accessories-and-boxes:1/plexo-boxes-ip-55-ik-07-with-direct-entry-membrane-glands-650-c:12/square-boxes:2/65-x-) Junction Box with 65x65x40xmm.
 
