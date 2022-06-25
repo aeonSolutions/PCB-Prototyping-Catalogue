@@ -60,3 +60,7 @@ This repo contains the KiCad files for the LDAD ATOM features 1 DS18b20 temperat
 This PCB was made to Fit a [45x25mm](https://s.click.aliexpress.com/e/_A5Elob) enclosure.
 
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-Temperature/blob/main/designs/pcb_front.png)
+
+________________________________________________________________________________________________________________
+## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
+________________________________________________________________________________________________________________
