@@ -36,6 +36,10 @@ Ro change the output voltage one needs to change the resistance in the voltage d
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/pcb_front.png)
 
+# [AeonLabs PCB Shields RFID NFC RC522](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/edit/main/README.md)
+ This is a pcb design for a AeonLabs PCB Shields RFID NFC RC522. Suitable as a add-on design for any other KiCad project.
+
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/blob/main/designs/pcb_front.png)
 ________________________________________________________________________________________________________________
 
 ## Firmware Download 
