@@ -8,6 +8,29 @@ This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" 
 ### Nextion LCDs
 If you like this , but on another NEXTION LCD TOUCH, drop me a DM on whatsApp [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) and i will do for free the KiCad design for you.
 
+
+=====================================================================================
+## 14- [AeonLabs Smart Passive E-Ink Display](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display)
+A PCB for a 2.13" E-Ink Display. Requires #no #power an can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for #labelling or #price tagging. Total cost, including the E-Ink Display starts at only 10 euros. Already assembled.
+
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_back.png)
+
+
+=====================================================================================
+## 15- [AeonLabs Smart Passive E-Ink Display Programmer](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer)
+A PCB for programming E-Ink Displays. Plug the E-Ink Display to this PCB using magnietic pogo pins to upload a new static image to it.
+
+
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/blob/main/Designs/pcb_front.png)
+
+=====================================================================================
+## 16- [AeonLabs E-Ink / E-Paper Display Programmer](https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer)
+This repo contains the KiCad files for the AeonLabs E-Ink / E-Paper Display Programmer. This PCB can program any E-Ink Displays with a 24 pin FPC/FFC connector. It can fit an enclosure with dimensions of 35x35x4 mm
+
+
+![](https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer/blob/main/Designs/pcb_front.png)
+
+
 ## Liked it ? Get a Free PCB for yourself
 Send me your device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
 
