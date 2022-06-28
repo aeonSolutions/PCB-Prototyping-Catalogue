@@ -43,7 +43,7 @@ Ro change the output voltage one needs to change the resistance in the voltage d
 
 
 # [AeonLabs PCB Modules:  2.4Ghz Receiver to UART](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/README.md)
-This is a pcb design module for a 2.4Ghz receiver to UART. Suitable as a add-on design for any other KiCad project.
+This is a pcb design module for a 2.4Ghz receiver to UART focused on all those Handheld Barcode & QR code scanners sold on AliExpress (see [here](https://s.click.aliexpress.com/e/_DFo4U4B)). Suitable as a add-on design for any other KiCad project.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/designs/pcb_front.png)
 
