@@ -40,6 +40,14 @@ Ro change the output voltage one needs to change the resistance in the voltage d
  This is a pcb design for a AeonLabs PCB Shields RFID NFC RC522. Suitable as a add-on design for any other KiCad project.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/blob/main/designs/pcb_front.png)
+
+
+# [AeonLabs PCB Modules:  2.4Ghz Receiver to UART](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/README.md)
+This is a pcb design module for a 2.4Ghz receiver to UART. Suitable as a add-on design for any other KiCad project.
+
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/designs/pcb_front.png)
+
+
 ________________________________________________________________________________________________________________
 
 ## Firmware Download 
