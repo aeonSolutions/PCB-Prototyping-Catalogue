@@ -73,7 +73,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 ______________________________________________________________________________________________________________________________
 
 ### Need a custom PCB for your DIY or Maker projects ?
-I will design your custom PCB for your DIY or Maker projects. Free of charge. Contaxt-me on WhatsApp, Telegram or WeChat to know how. Link above.
+I will design your custom PCB for your DIY or Maker projects. Free of charge. Contact-me on WhatsApp, Telegram or WeChat to know how. Link above.
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
 Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
