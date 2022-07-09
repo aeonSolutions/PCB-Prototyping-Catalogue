@@ -3,9 +3,14 @@ This is the catalogue for all PCB prototyped and publicly available here on Aeon
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked and downloaded one of AeonLabs's PCB consider sponsor this open hardware project with a donation and a cup of coffee. Links on the top, right side pane and below.
 
-## Q&A WhatsApp Group
-If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
+## Q&A WhatsApp/Telegram Groups
+If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the...
+
+WhatsApp Group
 [A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+
+Telegram group
+[A.I. Things](https://t.me/+W4rVVa0_VLEzYmI0)
 
 ## Fully assembled PCB
 To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie.
