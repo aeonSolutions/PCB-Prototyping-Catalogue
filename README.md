@@ -79,6 +79,6 @@ ________________________________________________________________________________
 ### Make a donation on Paypal
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
 
-### Support this open hardware projects and become a patreon  
+### Support all these open hardware projects and become a patreon  
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
 
