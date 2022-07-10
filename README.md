@@ -5,6 +5,7 @@
 ![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue?style=for-the-badge)
 
 ![](https://img.shields.io/liberapay/receives/aeonlabs.svg?logo=liberapay?style=for-the-badge)
+![](https://img.shields.io/liberapay/goal/aeonlabs.svg?logo=liberapay)
 
 # PCB Prototyping Catalogue ![](https://views.whatilearened.today/views/github/aeonSolutions/PCB_Prototyping_Catalogue.svg?style=for-the-badge&logo=appveyor)
 This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now, a **total of 20 PCBs** for Smart Devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tidie](https://www.tindie.com/products/aeonlabs/).
