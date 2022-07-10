@@ -10,7 +10,7 @@ This is the catalogue for all PCB prototyped and publicly available here on Aeon
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked and downloaded one of AeonLabs's PCB consider sponsor this open hardware project with a donation and a cup of coffee. Links on the top, right side pane and below.
 
 ## Q&A WhatsApp/Telegram Groups
-If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the...
+Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week.
 
 WhatsApp Group
 [A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
