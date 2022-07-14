@@ -80,16 +80,6 @@ if you like to own a copy of this work, you can buy it as a NFT or Ethereum. con
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png)](https://www.allpcb.com/?Mb_InviteId=79483)
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg)](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
 ______________________________________________________________________________________________________________________________
-### Own a copy of this work
-if you like to own a copy of this work. Contact me for more details at mtpsilva@gmail.com
-
-______________________________________________________________________________________________________________________________
-### License
-2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-______________________________________________________________________________________________________________________________
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
 Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
