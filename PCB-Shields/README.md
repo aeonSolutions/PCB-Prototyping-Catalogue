@@ -26,27 +26,32 @@ ________________________________________________________________________________
 ## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
 ________________________________________________________________________________________________________________
 
-# [AeonLabs PCB Shields AC 85V-220V 1A to DC 5.0V](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0)
+# [AC 85V-220V 1A to DC 5.0V](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0)
  This repo contains a pcb design for a AC220V 1A to DC 5V0 converter. Suitable as a add-on design for any other KiCad project.
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_front.png)
 
-# [AeonLabs PCB Shields DC DC 1.8-28V Step up/down](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down)
+# [DC DC 1.8-28V Step up/down](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down)
 This is a pcb design for a DC DC [1.8;28]V step-up/down. Suitable as a add-on design for any other KiCad project.
 Ro change the output voltage one needs to change the resistance in the voltage divider connected to pin 3 of the MT3608 IC.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/pcb_front.png)
 
-# [AeonLabs PCB Shields RFID NFC RC522](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522)
+# [RFID NFC RC522](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522)
  This is a pcb design for a AeonLabs PCB Shields RFID NFC RC522. Suitable as a add-on design for any other KiCad project.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/blob/main/designs/pcb_front.png)
 
 
-# [AeonLabs PCB Modules:  2.4Ghz Receiver to UART](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/README.md)
+# [2.4Ghz Receiver to UART](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/README.md)
 This is a pcb design module for a 2.4Ghz receiver to UART focused on all those Handheld Barcode & QR code scanners sold on AliExpress (see [here](https://s.click.aliexpress.com/e/_DFo4U4B)). Suitable as a add-on design for any other KiCad project.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/designs/pcb_front.png)
 
+
+# [8.7V Battery Charger BMS](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-8.7V-Battery-Charger-BMS/blob/main/README.md)
+This is a pcb design module for a 8.7V Battery Charger BMS up to 2A , overcharging, overcurrent protection. Suitable as a add-on design for any other KiCad project.
+
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-8.7V-Battery-Charger-BMS/blob/main/designs/pcb_front.png)
 
 ________________________________________________________________________________________________________________
 
