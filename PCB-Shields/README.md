@@ -74,6 +74,35 @@ if you like to own a copy of this work, you can buy it as a NFT or Ethereum. con
 
 <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-### Be supportive of my dedication and work towards technology education and buy me a coffee
+
+### PCB Fabrication
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png)](https://www.allpcb.com/?Mb_InviteId=79483)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg)](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
+______________________________________________________________________________________________________________________________
+### Own a copy of this work
+if you like to own a copy of this work. Contact me for more details at mtpsilva@gmail.com
+
+______________________________________________________________________________________________________________________________
+### License
+2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+______________________________________________________________________________________________________________________________
+
+### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
+Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
+
+### Make a donation on Paypal
+Make a donation on paypal and get a TAX refund*.
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+
+### Support all these open hardware projects and become a patreon  
+I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+
