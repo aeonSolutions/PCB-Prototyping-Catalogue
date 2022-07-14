@@ -1,5 +1,5 @@
-# PCB Shields
-This is a list of all PCB shield designs in KiCad format.
+# PCB Modules / Shields
+This is a list of all PCB modules / shield designs in KiCad format.
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
