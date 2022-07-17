@@ -15,10 +15,10 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 
 In here one will find the folowing kind of solutions:
 - RF Transmitters/ Recievers (XL927, Nordic NRF2901)
-- CANBUS 
+- CANBUS ([MCP2515](https://s.click.aliexpress.com/e/_DncRgN5), [TJA1050](https://s.click.aliexpress.com/e/_DF0Cqyb))
 - Ethernet
 - USB
-- DAQ sensing ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL), VL6180X, ACS712, [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir),  LSM6DS3, [HX711](https://s.click.aliexpress.com/e/_DBXNAv5), [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv) , [DS1820]()  
+- DAQ sensing ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL), VL6180X, ACS712, [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir),  LSM6DS3, [HX711](https://s.click.aliexpress.com/e/_DBXNAv5), [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv) , [DS1820]()  )
 - Smart Edge Storage (eMMC, Flash SPi, NAND Flash)
 - ...
  
