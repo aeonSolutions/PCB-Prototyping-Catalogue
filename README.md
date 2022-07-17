@@ -66,7 +66,7 @@ Telegram group
 [A.I. Things](https://t.me/+W4rVVa0_VLEzYmI0)
 
 ## Youtube Channel
-Subscribe to my Youtube channel for PCB assembly instruction of any other related to Artificial Intelligence and Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is ....
+Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is ....
 
 ### Assembly the Hot Solder Reflow Plate
 
