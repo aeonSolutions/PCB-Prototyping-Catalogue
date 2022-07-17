@@ -34,7 +34,7 @@ Displays
 - [E-Ink](https://s.click.aliexpress.com/e/_DCYDTGB) , E-paper Display Electronics
 
 Authentication:
-- RFID NFC, UHF
+- RFID [NFC](https://s.click.aliexpress.com/e/_DEkHPRl), RFID UHF
 
 Connectivity:
 - GSM LTE 4G
