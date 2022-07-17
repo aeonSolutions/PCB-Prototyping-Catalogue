@@ -46,6 +46,7 @@ Power Management
 - Charge Pumps ([HX4002B](https://s.click.aliexpress.com/e/_DehuJvZ))
 - Boost Converters ([MT3608](https://s.click.aliexpress.com/e/_Dmlecr1))
 - [AC DC converters](https://s.click.aliexpress.com/e/_DC0rbdt)
+- Battery Management Systems (BMS)
 - ...
  
 
