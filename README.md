@@ -22,7 +22,7 @@ Wired Connectivity
 
 Sensors & Sensing
 -  DAQ sensing ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL), [VL6180X](https://s.click.aliexpress.com/e/_DmCp9R5), [ACS712](https://s.click.aliexpress.com/e/_DlvK05l), [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir),  [LSM6DS3](https://s.click.aliexpress.com/e/_DCIluBv), [HX711](https://s.click.aliexpress.com/e/_DBXNAv5), [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv) , [DS1820](https://s.click.aliexpress.com/e/_DFNPD27)  )
--
+
 Storage:
 - Smart Edge Storage (eMMC, Flash SPi, NAND Flash)
 
