@@ -71,6 +71,7 @@ Telegram group
 \
 \
 \
+
 ## Youtube Channel
 Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is ....
 
@@ -81,6 +82,7 @@ Subscribe to my Youtube channel for PCB assembly instruction or any other relate
 \
 \
 \
+
 ## Fully assembled PCB
 | [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie. |
 |-------------|------|
@@ -94,6 +96,7 @@ The price starts at 30eur plus postage fees.
 \
 \
 \
+
 ## Firmware Download / Burner
 To make any of the available PCBs here running as intented is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
 
@@ -102,6 +105,7 @@ To make any of the available PCBs here running as intented is needed to download
 \
 \
 \
+
 ______________________________________________________________________________________________________________________________
 ## Need a custom PCB for your DIY or Maker projects ?
 Get a Free PCB for yourself!
@@ -116,6 +120,7 @@ I will design your custom PCB for your DIY or Maker projects. Free of charge. Co
 \
 \
 \
+
 ______________________________________________________________________________________________________________________________
 # List of available PCBs
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing.png)](https://www.tindie.com/stores/aeonlabs/)
@@ -154,6 +159,7 @@ ________________________________________________________________________________
 \
 \
 \
+
 ______________________________________________________________________________________________________________________________
 ### PCB Fabrication
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png)](https://www.allpcb.com/?Mb_InviteId=79483)
@@ -161,12 +167,14 @@ ________________________________________________________________________________
 \
 \
 \
+
 ______________________________________________________________________________________________________________________________
 ### Own a copy of this work
 if you like to own a copy of this work. Contact me for more details at mtpsilva@gmail.com
 \
 \
 \
+
 ______________________________________________________________________________________________________________________________
 ### License
 2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
@@ -177,6 +185,7 @@ ________________________________________________________________________________
 
 \
 \
+
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
 Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
