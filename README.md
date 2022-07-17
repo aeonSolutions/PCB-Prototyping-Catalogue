@@ -15,34 +15,34 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 
 In here one will find the folowing kind of solutions:
 
-<u>Wired Connectivity</u>
+*Wired Connectivity*
 - CANBUS ([MCP2515](https://s.click.aliexpress.com/e/_DncRgN5), [TJA1050](https://s.click.aliexpress.com/e/_DF0Cqyb))
 - [Ethernet 10/10 0Mbit](https://s.click.aliexpress.com/e/_DlZVeoT)
 - USB (M-USB, USB-C)
 
-Sensors & Sensing
+*Sensors & Sensing*
 -  DAQ sensing ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL), [VL6180X](https://s.click.aliexpress.com/e/_DmCp9R5), [ACS712](https://s.click.aliexpress.com/e/_DlvK05l), [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir),  [LSM6DS3](https://s.click.aliexpress.com/e/_DCIluBv), [HX711](https://s.click.aliexpress.com/e/_DBXNAv5), [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv) , [DS1820](https://s.click.aliexpress.com/e/_DFNPD27)  )
 
-Storage:
+*Storage*
 - Smart Edge Storage (eMMC, [Flash SPi](https://s.click.aliexpress.com/e/_DmQfH3l), [NAND Flash](https://s.click.aliexpress.com/e/_DB2PLgn))
 
-Robotics 
+*Robotics* 
 - Step Motor Drivers ([MX08E](https://s.click.aliexpress.com/e/_DFN2CG7))
 
-Displays
+*Displays*
 - LCD / [OLED Display](https://s.click.aliexpress.com/e/_DFrRpPd) Electronics MIPI/DSI
 - [E-Ink](https://s.click.aliexpress.com/e/_DCYDTGB) , E-paper Display Electronics
 
-Authentication:
+*Authentication*
 - RFID [NFC](https://s.click.aliexpress.com/e/_DEkHPRl), RFID UHF
 
-Connectivity:
+*Connectivity*
 - GSM LTE 4G ([SIM7000E](https://s.click.aliexpress.com/e/_DB7kwwR))
 - WIFI 2.4Ghz , 5.0Ghz
 - Bluetooth 4.2, 5.x BLE beacon
 - 2.4Ghz RF Transmitters/ Recievers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN) )
 
-Power Management
+*Power Management*
 - Charge Pumps ([HX4002B](https://s.click.aliexpress.com/e/_DehuJvZ))
 - Boost Converters ([MT3608](https://s.click.aliexpress.com/e/_Dmlecr1))
 - [AC DC converters](https://s.click.aliexpress.com/e/_DC0rbdt)
