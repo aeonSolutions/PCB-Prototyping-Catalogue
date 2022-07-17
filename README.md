@@ -123,8 +123,9 @@ I will design your custom PCB for your DIY or Maker projects. Free of charge. Co
 ______________________________________________________________________________________________________________________________
 # List of available PCBs
 
-| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing.png)](https://www.tindie.com/stores/aeonlabs/) |
+| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing.png)](https://www.tindie.com/stores/aeonlabs/) |-----|
 |-------------|------|
+
 
 
 ## Construction & Home
