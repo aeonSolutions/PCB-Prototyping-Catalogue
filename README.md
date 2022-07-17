@@ -30,8 +30,8 @@ Robotics
 - Step Motor Drivers ([MX08E](https://s.click.aliexpress.com/e/_DFN2CG7))
 
 Displays
-- LCD / OLED Display Electronics MIPI/DSI
-- E-Ink , E-paper Display Electronics
+- LCD / [OLED Display](https://s.click.aliexpress.com/e/_DFrRpPd) Electronics MIPI/DSI
+- [E-Ink](https://s.click.aliexpress.com/e/_DCYDTGB) , E-paper Display Electronics
 
 Authentication:
 - RFID NFC, UHF
