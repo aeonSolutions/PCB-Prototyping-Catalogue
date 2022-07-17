@@ -14,12 +14,14 @@ This is the catalogue for all PCB prototyped and publicly available here on Aeon
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32. 
 
 In here one will find the folowing kind of solutions:
-- RF Transmitters/ Recievers (XL927, Nordic NRF2901)
+- RF Transmitters/ Recievers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN) )
 - CANBUS ([MCP2515](https://s.click.aliexpress.com/e/_DncRgN5), [TJA1050](https://s.click.aliexpress.com/e/_DF0Cqyb))
 - Ethernet
 - USB
 - DAQ sensing ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL), VL6180X, ACS712, [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir),  LSM6DS3, [HX711](https://s.click.aliexpress.com/e/_DBXNAv5), [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv) , [DS1820]()  )
 - Smart Edge Storage (eMMC, Flash SPi, NAND Flash)
+- Step Mottor Drivers
+- LCD / OLED Display Electronics MIPI/DSI
 - ...
  
 
