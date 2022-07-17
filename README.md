@@ -19,6 +19,7 @@ In here one will find the folowing kind of solutions:
 - Ethernet
 - USB
 - DAQ sensing
+- Smart Edge Storage (eMMC, Flash SPi, NAND Flash)
 - ...
  
 
