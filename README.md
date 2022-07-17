@@ -50,7 +50,7 @@ In here one will find the folowing kind of solutions:
 - ...
  
 
-*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked and downloaded one of AeonLabs's PCB consider sponsor this open hardware project with a donation and a cup of coffee. Links on the top, right side pane and below.
+*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked and downloaded one of AeonLabs's PCB consider sponsor any of these open hardware projects with a donation or a cup of coffee. Links on the top, right side pane and below.
 
 ## Q&A WhatsApp/Telegram Groups
 Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week.
