@@ -61,9 +61,7 @@ In here one will find the folowing kind of solutions:
 <br />
 
 ## Q&A WhatsApp/Telegram Groups
-| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/whatsAppTelegram.png) |
-
-Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week.
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/whatsAppTelegram.png) | Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week.
 
 WhatsApp Group
 [A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
@@ -71,6 +69,7 @@ WhatsApp Group
 Telegram group
 [A.I. Things](https://t.me/+W4rVVa0_VLEzYmI0) |
 |-------------|------|
+
 
 <br />
 <br />
