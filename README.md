@@ -55,7 +55,8 @@ In here one will find the folowing kind of solutions:
 - ...
  
 
-*Don't forget to **LIKE** , **SHARE** and **subscribe** the free whatsApp group* and if you liked and downloaded one of AeonLabs's PCB consider sponsor any of these open hardware projects with a donation or a cup of coffee. Links on the top, right side pane and below.
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/likeShareComment.jpg) | *Don't forget to **LIKE** , **SHARE** and **subscribe** the free whatsApp group* and if you liked and downloaded one of AeonLabs's PCB consider sponsor any of these open hardware projects with a donation or a cup of coffee. Links on the top, right side pane and below. |
+|-------------|------|
 
 <br />
 <br />
