@@ -53,6 +53,12 @@ This is a pcb design module for a 8.7V Battery Charger BMS up to 2A , overchargi
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-8.7V-Battery-Charger-BMS/blob/main/designs/pcb_front.png)
 
+
+# [AeonLabs PCB modules NRF24x Transceiver](https://github.com/aeonSolutions/AeonLabs-PCB-modules-NRF24x-Transceiver/blob/main/README.md)
+This is a pcb design module for a Nordic NRF24x Tranceiver 2.4Ghz. Suitable as a add-on design for any other KiCad project.
+
+![](https://github.com/aeonSolutions/AeonLabs-PCB-modules-NRF24x-Transceiver/blob/main/designs/pcb_front.png)
+
 ________________________________________________________________________________________________________________
 
 ## Firmware Download 
