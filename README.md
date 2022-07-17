@@ -192,7 +192,7 @@ Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and thi
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
 
 \
-
+ 
 
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
