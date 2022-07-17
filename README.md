@@ -8,7 +8,8 @@
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l5m5z1845s10s47cuyl5" alt="trackgit-views" />
 </a>  ![](https://views.whatilearened.today/views/github/aeonSolutions/PCB_Prototyping_Catalogue.svg?style=for-the-badge&logo=appveyor) 
 
-\
+<br />
+
 # PCB Prototyping Catalogue
 This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of 
 
@@ -56,8 +57,8 @@ In here one will find the folowing kind of solutions:
 
 *Don't forget to **LIKE** , **SHARE** and **subscribe** the free whatsApp group* and if you liked and downloaded one of AeonLabs's PCB consider sponsor any of these open hardware projects with a donation or a cup of coffee. Links on the top, right side pane and below.
 
-
-
+<br />
+<br />
 
 ## Q&A WhatsApp/Telegram Groups
 Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week.
@@ -68,9 +69,9 @@ WhatsApp Group
 Telegram group
 [A.I. Things](https://t.me/+W4rVVa0_VLEzYmI0)
 
-\
-\
-\
+<br />
+<br />
+<br />
 
 ## Youtube Channel
 Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is ....
