@@ -72,12 +72,12 @@ I will design your custom PCB for your DIY or Maker projects. Free of charge. Co
  - [Factory Work Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
  
 ## Vehicle Automation
- - Open CANBUS (In the make...Stay Tuned for more)
+ - Open CANBUS (In the make...Stay tuned for more)
  
 ## DIY & Makers
 - [USB to UART TTL firmware burner](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 - [Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
-- [PCB Shields and Modules](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md)
+- [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md)
 
 ### PCB Fabrication
 
