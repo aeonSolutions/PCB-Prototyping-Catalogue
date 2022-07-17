@@ -73,6 +73,9 @@ I will design your custom PCB for your DIY or Maker projects. Free of charge. Co
  
 ## Vehicle Automation
  - Open CANBUS (In the make...Stay tuned for more)
+
+## Robotics & Industrial Automation
+ - Conversational Robot Vacuum Cleaner 
  
 ## DIY & Makers
 - [USB to UART TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
