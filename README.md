@@ -73,9 +73,9 @@ Subscribe to my Youtube channel for PCB assembly instruction or any other relate
 [![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
 
 ## Fully assembled PCB
-To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie.
+| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) |  To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie. |
+|:-------------:|------:|
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
 
 The price starts at 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
