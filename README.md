@@ -46,8 +46,7 @@ Send me your device, hardware or equipment and i will design a custom PCB for it
 - Office appliances
 - Industrial and commercial tools, equipment, machinery and appliances.
 
-I will design your custom PCB for your DIY or Maker projects. Free of charge. Contact-me on WhatsApp, Telegram or WeChat to know how.
-Contact-me on WhatsApp (+32 471 632 520) or email at mtpsilva@gmail.com for more info.  Links above.
+I will design your custom PCB for your DIY or Maker projects. Free of charge. Contact-me on WhatsApp, Telegram or WeChat to know how. Or email at mtpsilva@gmail.com for more info.  Links above.
 
 # List of available PCBs
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing.png)](https://www.tindie.com/stores/aeonlabs/)
