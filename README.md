@@ -65,6 +65,14 @@ WhatsApp Group
 Telegram group
 [A.I. Things](https://t.me/+W4rVVa0_VLEzYmI0)
 
+## Youtube Channel
+Subscribe to my Youtube channel for PCB assembly instruction of any other related to Artificial Intelligence and Smart devices and robotics.
+
+[Youtube Channel](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw)
+
+My most recent video on assembly the Hot Solder Reflow Plate:
+[![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
+
 ## Fully assembled PCB
 To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie.
 
