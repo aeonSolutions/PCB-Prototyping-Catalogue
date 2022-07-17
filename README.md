@@ -27,14 +27,14 @@ Storage:
 - Smart Edge Storage (eMMC, Flash SPi, NAND Flash)
 
 Robotics 
-- Step Motor Drivers ([MX08E]())
+- Step Motor Drivers ([MX08E](https://s.click.aliexpress.com/e/_DFN2CG7))
 
 Displays
 - LCD / OLED Display Electronics MIPI/DSI
 - E-Ink , E-paper Display Electronics
 
 Authentication:
-- RFID NFC
+- RFID NFC, UHF
 
 Connectivity:
 - GSM LTE 4G
