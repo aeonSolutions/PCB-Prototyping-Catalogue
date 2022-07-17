@@ -14,18 +14,34 @@ This is the catalogue for all PCB prototyped and publicly available here on Aeon
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32. 
 
 In here one will find the folowing kind of solutions:
-- RF Transmitters/ Recievers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN) )
+
+Wired Connectivity
 - CANBUS ([MCP2515](https://s.click.aliexpress.com/e/_DncRgN5), [TJA1050](https://s.click.aliexpress.com/e/_DF0Cqyb))
 - Ethernet
 - USB
-- DAQ sensing ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL), VL6180X, ACS712, [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir),  LSM6DS3, [HX711](https://s.click.aliexpress.com/e/_DBXNAv5), [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv) , [DS1820]()  )
+
+Sensors & Sensing
+-  DAQ sensing ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL), VL6180X, ACS712, [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir),  LSM6DS3, [HX711](https://s.click.aliexpress.com/e/_DBXNAv5), [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv) , [DS1820]()  )
+-
+Storage:
 - Smart Edge Storage (eMMC, Flash SPi, NAND Flash)
+
+Robotics 
 - Step Motor Drivers ([MX08E]())
+
+Displays
 - LCD / OLED Display Electronics MIPI/DSI
+- E-Ink , E-paper Display Electronics
+
+Authentication:
 - RFID NFC
+
+Connectivity:
 - GSM LTE 4G
 - WIFI 2.4Ghz , 5Ghz
 - Bluetooth 4.2, 5.x BLE beacon
+- 2.4Ghz RF Transmitters/ Recievers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN) )
+
 - ...
  
 
