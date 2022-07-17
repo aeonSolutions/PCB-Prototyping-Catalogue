@@ -20,8 +20,12 @@ In here one will find the folowing kind of solutions:
 - USB
 - DAQ sensing ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL), VL6180X, ACS712, [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir),  LSM6DS3, [HX711](https://s.click.aliexpress.com/e/_DBXNAv5), [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv) , [DS1820]()  )
 - Smart Edge Storage (eMMC, Flash SPi, NAND Flash)
-- Step Mottor Drivers
+- Step Motor Drivers ([MX08E]())
 - LCD / OLED Display Electronics MIPI/DSI
+- RFID NFC
+- GSM LTE 4G
+- WIFI 2.4Ghz , 5Ghz
+- Bluetooth 4.2, 5.x BLE beacon
 - ...
  
 
