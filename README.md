@@ -42,6 +42,10 @@ Connectivity:
 - Bluetooth 4.2, 5.x BLE beacon
 - 2.4Ghz RF Transmitters/ Recievers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN) )
 
+Power Management
+- Charge Pumps ([HX4002B](https://s.click.aliexpress.com/e/_DehuJvZ))
+- Boost Converters ([MT3608](https://s.click.aliexpress.com/e/_Dmlecr1))
+- [AC DC converters](https://s.click.aliexpress.com/e/_DC0rbdt)
 - ...
  
 
