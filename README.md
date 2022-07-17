@@ -80,9 +80,9 @@ Subscribe to my Youtube channel for PCB assembly instruction or any other relate
 
 [![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
 
-\
-\
-\
+<br />
+<br />
+<br />
 
 ## Fully assembled PCB
 | [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie. |
@@ -94,18 +94,18 @@ The price starts at 30eur plus postage fees.
 
 **Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Link below.**
 
-\
-\
-\
+<br />
+<br />
+<br />
 
 ## Firmware Download / Burner
 To make any of the available PCBs here running as intented is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png)
 
-\
-\
-\
+<br />
+<br />
+<br />
 
 ______________________________________________________________________________________________________________________________
 ## Need a custom PCB for your DIY or Maker projects ?
@@ -118,9 +118,9 @@ Send me your device, hardware or equipment and i will design a custom PCB for it
 
 I will design your custom PCB for your DIY or Maker projects. Free of charge. Contact-me on WhatsApp, Telegram or WeChat to know how. Or email me at mtpsilva@gmail.com for more info.  Links above.
 
-\
-\
-\
+<br />
+<br />
+<br />
 
 ______________________________________________________________________________________________________________________________
 # List of available PCBs
@@ -157,24 +157,26 @@ ________________________________________________________________________________
 - [120x70mm Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md)
 
-\
-\
-\
+<br />
+<br />
+<br />
 
 ______________________________________________________________________________________________________________________________
 ### PCB Fabrication
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png)](https://www.allpcb.com/?Mb_InviteId=79483)
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg)](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
-\
-\
-\
+
+<br />
+<br />
+<br />
 
 ______________________________________________________________________________________________________________________________
 ### Own a copy of this work
 if you like to own a copy of this work. Contact me for more details at mtpsilva@gmail.com
-\
-\
-\
+
+<br />
+<br />
+<br />
 
 ______________________________________________________________________________________________________________________________
 ### License
@@ -184,16 +186,16 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ______________________________________________________________________________________________________________________________
 
-\
-\
+<br />
+<br />
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
 Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
 
-\
- 
+<br />
+<br />
 
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
