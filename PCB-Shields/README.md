@@ -30,8 +30,8 @@ ________________________________________________________________________________
  This repo contains a pcb design for a AC220V 1A to DC 5V0 converter. Suitable as a add-on design for any other KiCad project.
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_front.png)
 
-# [DC DC 1.8-28V Step up/down](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down)
-This is a pcb design for a DC DC [1.8;28]V step-up/down. Suitable as a add-on design for any other KiCad project.
+# [DC DC 1.8-28V Step up](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down)
+This is a pcb design for a DC DC [1.8;28]V step-up. Suitable as a add-on design for any other KiCad project.
 Ro change the output voltage one needs to change the resistance in the voltage divider connected to pin 3 of the MT3608 IC.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/pcb_front.png)
