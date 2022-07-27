@@ -21,8 +21,6 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 
 **The most recent PCB design added is:** a 2.9 E-Ink Display that requires no batteries.
 
-Below there's a list of available Kicad Projects with PCB designs and components. Enjoy!
-
 In here one will find the folowing kind of solutions:
 
 *Wired Connectivity*
@@ -59,6 +57,8 @@ In here one will find the folowing kind of solutions:
 - Battery Management Systems (BMS)
 - ...
  
+ 
+ Below there's a list of available Kicad Projects with PCB designs and components. Enjoy!
 
 | ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/likeShareComment.jpg) | *Don't forget to **LIKE** , **SHARE** and **subscribe** the free chat groups* and if you downloaded one of AeonLabs's PCBs consider sponsor  any open hardware project with a donation or a cup of coffee. Links on the top, right side pane and below. |
 |-------------|------|
