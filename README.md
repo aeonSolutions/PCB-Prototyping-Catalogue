@@ -19,7 +19,7 @@ This is the catalogue for all PCB prototyped and publicly available here on Aeon
 for Smart Devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
 
-**The most recent PCB design added is:** a 2.9 E-Ink Display that requires no batteries.
+**The most recent PCB design added is:** *a 2.9 E-Ink Display that requires no batteries*
 
 In here one will find the folowing kind of solutions:
 
