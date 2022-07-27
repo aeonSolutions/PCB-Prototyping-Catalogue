@@ -30,11 +30,18 @@ ________________________________________________________________________________
  This repo contains a pcb design for a AC220V 1A to DC 5V0 converter. Suitable as a add-on design for any other KiCad project.
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_front.png)
 
-# [DC DC 1.8-28V Step up](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down)
+# [DC DC 1.8-28V Step up](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up)
 This is a pcb design for a DC DC [1.8;28]V step-up. Suitable as a add-on design for any other KiCad project.
 Ro change the output voltage one needs to change the resistance in the voltage divider connected to pin 3 of the MT3608 IC.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/pcb_front.png)
+
+
+# [DC DC step down converter 2.5A from 0.8V to 5V](https://github.com/aeonSolutions/DCDC-step-down-2.5A-0.8V-5V)
+This is a PCB module for a DC to DC step down to [5; 0.8]V. Ready to be imported into any KiCad project.
+
+![](https://github.com/aeonSolutions/DCDC-step-down-2.5A-0.8V-5V/blob/main/designs/pcb_front.png)
+
 
 # [RFID NFC RC522](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522)
  This is a pcb design for a AeonLabs PCB Shields RFID NFC RC522. Suitable as a add-on design for any other KiCad project.
