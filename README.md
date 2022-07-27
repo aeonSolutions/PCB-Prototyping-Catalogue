@@ -22,7 +22,7 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 **The most recent PCB design added:** 
 
 - *a 2.9 E-Ink Display that requires no batteries*
-- *DC DC step down converter 2.5A from 0.8V  to 5V*
+- *DC DC step down converter 2.5A from 0.8V  to 5V* for DIY & Makers
 
 
 In here one will find the folowing kind of solutions:
