@@ -135,7 +135,7 @@ I will design your custom PCB for your DIY or Maker projects. Free of charge. Co
 <br />
 
 ______________________________________________________________________________________________________________________________
-# List of available PCBs
+# List of available PCB Designs as KiCad Project files
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg)](https://www.tindie.com/stores/aeonlabs/)
 
