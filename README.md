@@ -186,7 +186,9 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________
 ### Own a copy of this work
-if you like to own a copy of this work. Contact me for more details at mtpsilva@gmail.com
+Is possible to request ownership or licencing of any of the PCB designs publicly available here.  Owners will get a more porfessional PCB without usage of any fast depyment PCB modules available elsewhee on the internet and instead with specific components built into the PCB. See snapshot below for an example and preview of one recenlty deployed. if you like to own one, contact me for more details at mtpsilva@gmail.com
+
+![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
 
 <br />
 <br />
