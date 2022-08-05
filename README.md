@@ -21,8 +21,8 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 
 **The most recent PCB designs added:** 
 
-- *a 2.9 E-Ink Display that requires no batteries*
-- *DC DC step down converter 2.5A from 0.8V  to 5V* for DIY & Makers
+- Revision 1.4 of the USB to UART/USB  Firmware Downloader /Burner (now UART is an option selection )
+
 
 
 In here one will find the folowing kind of solutions:
