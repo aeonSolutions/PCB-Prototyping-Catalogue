@@ -21,7 +21,7 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 
 **The most recent PCB designs added:** 
 
-- Revision 1.4 of the USB to UART/USB  Firmware Downloader /Burner (now UART is an option selection )
+- Revision 1.4 of the USB to UART/USB  Firmware Downloader /Burner (now UART/USB is an selection option )
 
 
 
