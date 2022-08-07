@@ -16,7 +16,8 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 #### Buy a PCB design 
 
-|-------------|------|
+
+| s | s |
 | s | s |
 |-------------|------|
 | s | s |
