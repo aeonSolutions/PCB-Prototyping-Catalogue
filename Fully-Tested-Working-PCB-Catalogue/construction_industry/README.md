@@ -16,7 +16,7 @@ Simple and compatible with existing tools and technologies such as #HomeAssistan
 
 **What is included:**
 - access to the private repository
-- unlimited download of KiCad project files
+- unlimited download of the KiCad project files
 - open issue tickets
 - access to future PCB revision, updates & notifications. 
 
