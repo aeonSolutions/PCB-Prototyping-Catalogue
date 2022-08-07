@@ -68,6 +68,10 @@ Other PCB sizes are possible. Contact me for more info.
 
 both, open and closed licenses can be protected with Patenting.  
 
+**Delivery Time**
+
+Delivery time varies accoridng to the size and complexity of the PCB. Varies according to which country is going to be delivered in the planet. For reference consider delivery times on Fedex website.  Contact me for more info.
+
 **Non disclousure agreements**
 
 Non disclousure agreements (NDA) are also available as an option. Contact me for more info.
