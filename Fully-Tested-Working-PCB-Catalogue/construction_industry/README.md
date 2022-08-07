@@ -46,7 +46,7 @@ Access fee varies according to the number of downloads made. Also, amount values
 
 Is quite simple, to gain access send a message on WhatsApp/Telegram or by emaail (mtpsilva@gmail.com) with a access request with the following info:
 
-- usage type (commercial/non-comemrcial);
+- usage type (commercial/non-commercial);
 - the name of the private PCB you want access to;
 - type of transfer: commercial invoice (paypal, stripe, bank transfer) or donation;
 
