@@ -33,34 +33,34 @@ The table below is for custom PCB orders according to buyer specifications that 
 |    2500            |    20 pcs          |  4               |             Y                        | Open               |     $400    |
 |    2500            |    20 pcs          |  4               |             Y                        | Closed             |     $600    |
 |    2500            |    20 pcs          |  4               |             N                        | Open               |     $500    |
-|    2500            |    20 pcs          |  4               |             N                        | Closed             |   $5,000    |
+|    2500            |    20 pcs          |  4               |             N                        | Closed             |   $4,000    |
 |**                  |                    |                  |                                      |                    |             |
 |    2500            |    40 pcs          |  2               |             Y                        | Open               |     $600    |
 |    2500            |    40 pcs          |  2               |             Y                        | Closed             |     $800    |
 |    2500            |    40 pcs          |  2               |             N                        | Open               |     $700    |
-|    2500            |    40 pcs          |  2               |             N                        | Closed             |             |
+|    2500            |    40 pcs          |  2               |             N                        | Closed             |   $4,000    |
 |    2500            |    40 pcs          |  4               |             Y                        | Open               |     $700    |
 |    2500            |    40 pcs          |  4               |             Y                        | Closed             |     $900    |
 |    2500            |    40 pcs          |  4               |             N                        | Open               |     $800    |
-|    2500            |    40 pcs          |  4               |             N                        | Closed             |             |
+|    2500            |    40 pcs          |  4               |             N                        | Closed             |   $5,000    |
 |**                  |                    |                  |                                      |                    |             |
 |    2500            |    60 pcs          |  2               |             Y                        | Open               |     $900    |
 |    2500            |    60 pcs          |  2               |             Y                        | Closed             |   $1,100    |
 |    2500            |    60 pcs          |  2               |             N                        | Open               |   $1,000    |
-|    2500            |    60 pcs          |  2               |             N                        | Closed             |             |
+|    2500            |    60 pcs          |  2               |             N                        | Closed             |   $5,000    |
 |    2500            |    60 pcs          |  4               |             Y                        | Open               |   $1,000    |
 |    2500            |    60 pcs          |  4               |             Y                        | Closed             |   $1,200    |
 |    2500            |    60 pcs          |  4               |             N                        | Open               |   $1,100    |
-|    2500            |    60 pcs          |  4               |             N                        | Closed             |             |
+|    2500            |    60 pcs          |  4               |             N                        | Closed             |   $6,000    |
 |**                  |                    |                  |                                      |                    |             |
 |    2500            |    80 pcs          |  2               |             Y                        | Open               |   $1,200    |
 |    2500            |    80 pcs          |  2               |             Y                        | Closed             |   $1,400    |
 |    2500            |    80 pcs          |  2               |             N                        | Open               |   $1,300    |
-|    2500            |    80 pcs          |  2               |             N                        | Closed             |             |
+|    2500            |    80 pcs          |  2               |             N                        | Closed             |   $7,000    |
 |    2500            |    80 pcs          |  4               |             Y                        | Open               |   $1,300    |
 |    2500            |    80 pcs          |  4               |             Y                        | Closed             |   $1,500    |
 |    2500            |    80 pcs          |  4               |             N                        | Open               |   $1,400    |
-|    2500            |    80 pcs          |  4               |             N                        | Closed             |             |
+|    2500            |    80 pcs          |  4               |             N                        | Closed             |   $8,000    |
 
 **(1) PCB size**
 
