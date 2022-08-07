@@ -12,7 +12,9 @@
 <br />
 This is the list of fully tested and working PCB catalogue for paid subscriptions, sponsors and patreons.
 
-Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is a one time fee of 50 USD. Is included:
+Is quite simple, simply click on any of sponsor buttons at the top or at the bottom. The minimum amount to access the private repositories with PCB design files is shown on each individual Private PCB repository. 
+
+**What is included:**
 - access to the private repository
 - download KiCad projct files
 - open issue tickets
