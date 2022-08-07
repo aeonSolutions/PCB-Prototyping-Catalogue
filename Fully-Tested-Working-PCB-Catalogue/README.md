@@ -10,9 +10,8 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/Fully-Tested-Working-PCB-Catalogue.svg)
 
 <br />
-This is the list of fully tested and working PCB catalogue for paid subscriptions, sponsors and patreons.
-
-Is quite simple, simply click on any of sponsor buttons at the top or at the bottom. The minimum amount to access the private repositories with PCB design files is shown on each individual Private PCB repository.
+This is the list of fully tested and working PCB catalogue for paid subscriptions, sponsors and patreons. 
+Advantages include ready made, fully working PCB designs and schemtic files ready to direct order for fabrication and ready to customize for specific needs and use cases. 
 
 **What is included:**
 - access to the private repository
@@ -20,8 +19,7 @@ Is quite simple, simply click on any of sponsor buttons at the top or at the bot
 - open issue tickets
 - access to future PCB revision, updates & notifications. 
 
-
-To gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository.  Dont forget to include the PCB Design you want access to.
+Is quite simple, to gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository. Don't forget to include the PCB Design you want access to.
 
 If you have done so, and still cannot access , send me an email at mtpsilva@gmail.com or alternatively send me a message on whatsApp or Telegram.
 
