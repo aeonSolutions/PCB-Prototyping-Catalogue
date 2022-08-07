@@ -173,6 +173,8 @@ ________________________________________________________________________________
 
 There are more PCB designs with circuit schematis ready to download available to all who donate or sponsor my work. Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is 50 USD/month. Alternativly the reader can opt to be [patreon](http://www.patreon.com/ldad). 
 
+![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
+
 ______________________________________________________________________________________________________________________________
 ## Need a custom PCB for your DIY or Maker projects ?
 Get a Free PCB for yourself!
@@ -198,9 +200,6 @@ Logos and markings are also delivered according to the buyer specifications.
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/certified%20logos.png)
 
 All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE certification watermark on its products and services. Check this page to [learn](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB) more and how to [buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
-
-![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
-
 
 <br />
 <br />
