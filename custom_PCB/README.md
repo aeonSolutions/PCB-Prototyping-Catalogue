@@ -18,19 +18,15 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 **Custom PCB**
 
-| PCB size     | max. n. components | n. copper layers | inc. ready made circuit designs | Price (USD) |
-|--------------|--------------------|------------------|---------------------------------|-------------|
-| <= 50x50 mm  | <= 20 pcs          |  2               |             Y                   |             |
-| <= 50x50 mm  | <= 20 pcs          |  4               |             Y                   |             |
-|       **     |                    |                  |                                 |             |
-| <= 50x50 mm  | <= 40 pcs          |  2               |             Y                   |             |
-| <= 50x50 mm  | <= 40 pcs          |  4               |             Y                   |             |
-|      **      |                    |                  |                                 |             |
-| <= 50x50 mm  | <= 60 pcs          |  2               |             Y                   |             |
-| <= 50x50 mm  | <= 60 pc           |  4               |             Y                   |             |
-|     **       |                    |                  |                                 |             |
-| <= 50x50 mm  | <= 80 pcs          |  2               |             Y                   |             |
-| <= 50x50 mm  | <= 80 pcs          |  4               |             Y                   |             |
+| PCB size (mm2)    | max. n. components | n. copper layers | allow ready made sub-circuit designs | Price (USD) |
+|-------------------|--------------------|------------------|--------------------------------------|-------------|
+| <= 2500           | <= 20 pcs          |  2               |             Y                        |             |
+| <= 2500           | <= 20 pcs          |  2               |             N                        |             |
+| <= 2500           | <= 20 pcs          |  4               |             Y                        |             |
+| <= 2500           | <= 20 pcs          |  4               |             N                        |             |
+|       **          |                    |                  |                                      |             |
+
+
 
 
 
