@@ -18,13 +18,13 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 **Custom PCB**
 
-| PCB size (mm2)    | max. n. components | n. copper layers | allow ready made sub-circuit designs | Price (USD) |
-|-------------------|--------------------|------------------|--------------------------------------|-------------|
-| <= 2500           | <= 20 pcs          |  2               |             Y                        |             |
-| <= 2500           | <= 20 pcs          |  2               |             N                        |             |
-| <= 2500           | <= 20 pcs          |  4               |             Y                        |             |
-| <= 2500           | <= 20 pcs          |  4               |             N                        |             |
-|       **          |                    |                  |                                      |             |
+| max PCB size (mm2) | max. n. components | n. copper layers | allow ready made sub-circuit designs | Price (USD) |
+|--------------------|--------------------|------------------|--------------------------------------|-------------|
+|    2500            | <= 20 pcs          |  2               |             Y                        |             |
+|    2500            | <= 20 pcs          |  2               |             N                        |             |
+|    2500            | <= 20 pcs          |  4               |             Y                        |             |
+|    2500            | <= 20 pcs          |  4               |             N                        |             |
+|       **           |                    |                  |                                      |             |
 
 
 
