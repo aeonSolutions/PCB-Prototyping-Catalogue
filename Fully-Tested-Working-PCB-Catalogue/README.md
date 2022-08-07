@@ -36,6 +36,13 @@ Is not allowed selling nor reselling of the PCB.  All other restritions apply as
  
 For both option above, is not allowed changing of branding in the PCB. All other restritions apply as stated in Creative Commons Share Alike licenses. See Creativecommons.com for more info.
 
+**Buy/Own Exclusive commercial use**
+- Excluive commercial Licensing
+contact me for more info. 
+
+- Buy the PCB rights and own the PCB design and schemarics
+contact me for more info
+
 ______________________________________________________________________________________________________________________________
 
 ## List of available PCB Designs as KiCad Project files
