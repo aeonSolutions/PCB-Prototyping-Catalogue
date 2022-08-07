@@ -118,22 +118,6 @@ To make any of the available PCBs here running as intented is needed to download
 <br />
 <br />
 <br />
-
-______________________________________________________________________________________________________________________________
-## Need a custom PCB for your DIY or Maker projects ?
-Get a Free PCB for yourself!
-Send me your device, hardware or equipment and i will design a custom PCB for it. Free of charge. What i accept:
-
-- Home appliances
-- Office appliances
-- Industrial and commercial tools, equipment, machinery and appliances.
-
-I will design your custom PCB for your DIY or Maker projects. Free of charge. Contact-me on WhatsApp, Telegram or WeChat to know how. Or email me at mtpsilva@gmail.com for more info.  Links above.
-
-<br />
-<br />
-<br />
-
 ______________________________________________________________________________________________________________________________
 # List of available PCB Designs as KiCad Project files
 
@@ -185,7 +169,24 @@ ________________________________________________________________________________
 <br />
 
 ______________________________________________________________________________________________________________________________
-### Buy a custom PCB
+## Need a custom PCB for your DIY or Maker projects ?
+Get a Free PCB for yourself!
+Send me your device, hardware or equipment and i will design a custom PCB for it. Free of charge. What i accept:
+
+- Home appliances
+- Office appliances
+- Industrial and commercial tools, equipment, machinery and appliances.
+
+I will design your custom PCB for your DIY or Maker projects. Free of charge. Contact-me on WhatsApp, Telegram or WeChat to know how. Or email me at mtpsilva@gmail.com for more info.  Links above.
+
+<br />
+<br />
+<br />
+## Ready made PCB 
+
+There are more PCBs available to all who donate or sponsor my work. Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is 50 USD/month. Alternativly the reader can opt to be [patreon](http://www.patreon.com/ldad). 
+
+### Buy a custom made PCB
 Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the byer specifiations.
 
 Buyer will get a more porfessional PCB without usage of any fast deployment PCB modules available elsewhere on the internet, and instead, with all components built into the PCB.  
