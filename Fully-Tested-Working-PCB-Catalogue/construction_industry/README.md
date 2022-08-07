@@ -36,6 +36,9 @@ Access fee varies according to the number of downloads made. Also, amount values
 **What is included**
 - access to the private repository
 - unlimited download of the KiCad project files
+  - fully annotated circuit schematics
+  - ready PCB design
+  - BOM components directly available on KiCad 
 - open issue tickets
 - future PCB minor revisions (major revision increments not included) 
 - Custom firmware (only to commercial users) acording to user specifications:
