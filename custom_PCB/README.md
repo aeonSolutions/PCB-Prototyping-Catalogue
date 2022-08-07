@@ -17,6 +17,8 @@ All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE cert
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
 
+PCB components include all sizes and dimensions. Nowadays the most requested and used is SMD sizes, QFN and BGA component sizes. Contact me for more info.
+
 ### Pricing
 Below are the options for a buyer to choose from when considering owning or buying a PCB. For each option a buyer can order an already designed / made PCB or order a new PCB accroding to custom specifications and needs.
 
@@ -33,7 +35,7 @@ The table below is for custom PCB orders according to buyer specifications. on t
 |    2500            |    20 pcs          |  4               |             N                        | Open               |     $500    |
 |    2500            |    20 pcs          |  4               |             N                        | Closed             |   $5,000    |
 |**                  |                    |                  |                                      |                    |             |
-|    2500            |    40 pcs          |  2               |             Y                        | Open               |             |
+|    2500            |    40 pcs          |  2               |             Y                        | Open               |     $600    |
 |    2500            |    40 pcs          |  2               |             Y                        | Closed             |             |
 |    2500            |    40 pcs          |  2               |             N                        | Open               |             |
 |    2500            |    40 pcs          |  2               |             N                        | Closed             |             |
@@ -42,7 +44,7 @@ The table below is for custom PCB orders according to buyer specifications. on t
 |    2500            |    40 pcs          |  4               |             N                        | Open               |             |
 |    2500            |    40 pcs          |  4               |             N                        | Closed             |             |
 |**                  |                    |                  |                                      |                    |             |
-|    2500            |    60 pcs          |  2               |             Y                        | Open               |             |
+|    2500            |    60 pcs          |  2               |             Y                        | Open               |     $900    |
 |    2500            |    60 pcs          |  2               |             Y                        | Closed             |             |
 |    2500            |    60 pcs          |  2               |             N                        | Open               |             |
 |    2500            |    60 pcs          |  2               |             N                        | Closed             |             |
@@ -51,7 +53,7 @@ The table below is for custom PCB orders according to buyer specifications. on t
 |    2500            |    60 pcs          |  4               |             N                        | Open               |             |
 |    2500            |    60 pcs          |  4               |             N                        | Closed             |             |
 |**                  |                    |                  |                                      |                    |             |
-|    2500            |    80 pcs          |  2               |             Y                        | Open               |             |
+|    2500            |    80 pcs          |  2               |             Y                        | Open               |   $1,200    |
 |    2500            |    80 pcs          |  2               |             Y                        | Closed             |             |
 |    2500            |    80 pcs          |  2               |             N                        | Open               |             |
 |    2500            |    80 pcs          |  2               |             N                        | Closed             |             |
