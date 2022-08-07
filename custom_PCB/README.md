@@ -16,6 +16,8 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 **Custom PCB**
 
+The table below if for custom PCB orders according to buyer specifications. on the price is included 50 pcs of the ordered PCB delivered at the door. 
+
 | max PCB size (mm2) (1) | max. n. components | n. copper layers | allow ready made sub-circuit designs | Hardware Licensing (2)| Price (USD) |
 |--------------------|--------------------|------------------|--------------------------------------|--------------------|-------------|
 |    2500            |    20 pcs          |  2               |             Y                        | Open               |             |
