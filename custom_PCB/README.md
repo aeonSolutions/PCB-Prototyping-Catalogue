@@ -64,7 +64,7 @@ The table below is for custom PCB orders according to buyer specifications that 
 
 **(1) PCB size**
 
-Other PCB sizes are possible. Contact me for more info.
+Other PCB sizes are possible. Assuming similar complexity, to estimate a price for other PCB sizes the buyer can **multiply by x2 everytime the size doubles**. Contact me for more info.
 
 <br />
 <br />
