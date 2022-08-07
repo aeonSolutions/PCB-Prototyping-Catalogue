@@ -32,10 +32,12 @@ ________________________________________________________________________________
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg)](https://www.tindie.com/stores/aeonlabs/)
 
 access fees are divided into:
-- commercial uses. Is allowed selling and reselling of the PCB. All other restritions apply as stated in Creative Commons Share Alike license.
-- non-commercial uses Is not allowed selling nor reselling of the PCB.  All other restritions apply as stated in Creative Commons Share Alike non-comemrical license
+- commercial uses
+Is allowed selling and reselling of the PCB. All other restritions apply as stated in Creative Commons Share Alike license.
+- non-commercial uses
+Is not allowed selling nor reselling of the PCB.  All other restritions apply as stated in Creative Commons Share Alike non-comemrical license
  
-Is not allowed changing of branding in the PCB. All other restritions apply as stated in Creative Commons Share Alike licenses. See Creativecommons.com for more info.
+For both option above, is not allowed changing of branding in the PCB. All other restritions apply as stated in Creative Commons Share Alike licenses. See Creativecommons.com for more info.
 
 
 ## Construction & Home
