@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 
 ## Construction & Home
-- [Smart Universal Junction Box 80x32mm](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue/construction_industry)
+- [Smart Universal Junction Box 80x32mm](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue/construction_industry) [Commercial uses (sell/resell): 3,000 USD   non commercial uses (selling not allowed): 250 USD]
 
 
 ## Smart Data Acquisition Devies (Smart DAQ)
