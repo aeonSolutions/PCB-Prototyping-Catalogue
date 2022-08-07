@@ -78,6 +78,16 @@ Delivery time varies accoridng to the size and complexity of the PCB. Varies acc
 <br />
 <br />
 
+**other PCB options available**
+
+Other PCB otptions available are:
+- PCB thinckness from 0.4mm to 3.0mm
+- PCB type: FR4
+- PCB finished color: White, Black, Green, Yellow, Red, Blue
+- Gold platted
+
+contact me for more info.
+
 **Non disclousure agreements**
 
 Non disclousure agreements (NDA) are also available as an option. Contact me for more info.
@@ -95,17 +105,12 @@ PCB errors will be corrected at not aditional cost delivered at the door. All or
 
 #### Buy a PCB  
 
-|  |  |
-|-------------|------|
 
 
 <br />
 <br />
 <br />
 #### Buy an assembled PCB
-
-|  |  |
-|-------------|------|
 
 
 <br />
