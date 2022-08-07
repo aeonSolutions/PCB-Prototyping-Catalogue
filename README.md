@@ -158,9 +158,11 @@ ________________________________________________________________________________
 <br />
 
 ______________________________________________________________________________________________________________________________
-## Ready made PCB 
+## Fully tested and Ready to use PCB 
 
-There are more PCB designs with circuit schematics ready to download available to all who donate or sponsor my work. Fully tested and working.
+This public PCB catalogue features PCB desings that are not fully tested or require minor changes to the PCB or shcematics. Suited to all DIY and Makers in electronics, however a regular user may find him/her self in need to read components datasheets before any usage of the PCB is possible. 
+
+Alternativly, if time (or datasheets) are not your thing, there are more PCB designs with circuit schematics. Fully tested and working, ready to download, available to all who donate or sponsor my work.
 
 Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is 50 USD/month. Alternativly the reader can opt to be a [patreon](http://www.patreon.com/ldad). Contact me for more info.
 
