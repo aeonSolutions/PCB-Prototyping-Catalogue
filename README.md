@@ -171,7 +171,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 ## Ready made PCB 
 
-There are more PCB designs with circuit schematis ready to download available to all who donate or sponsor my work. Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is 50 USD/month. Alternativly the reader can opt to be [patreon](http://www.patreon.com/ldad). 
+There are more PCB designs with circuit schematis ready to download available to all who donate or sponsor my work. Fully tested and working.
+
+Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is 50 USD/month. Alternativly the reader can opt to be [patreon](http://www.patreon.com/ldad). 
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
 
