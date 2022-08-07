@@ -27,14 +27,32 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 |    2500            |    20 pcs          |  4               |             N                        | Open               |             |
 |    2500            |    20 pcs          |  4               |             N                        | Closed             |             |
 |**                  |                    |                  |                                      |                    |             |
-|    2500            |    20 pcs          |  2               |             Y                        | Open               |             |
-|    2500            |    20 pcs          |  2               |             Y                        | Closed             |             |
-|    2500            |    20 pcs          |  2               |             N                        | Open               |             |
-|    2500            |    20 pcs          |  2               |             N                        | Closed             |             |
-|    2500            |    20 pcs          |  4               |             Y                        | Open               |             |
-|    2500            |    20 pcs          |  4               |             Y                        | Closed             |             |
-|    2500            |    20 pcs          |  4               |             N                        | Open               |             |
-|    2500            |    20 pcs          |  4               |             N                        | Closed             |             |
+|    2500            |    40 pcs          |  2               |             Y                        | Open               |             |
+|    2500            |    40 pcs          |  2               |             Y                        | Closed             |             |
+|    2500            |    40 pcs          |  2               |             N                        | Open               |             |
+|    2500            |    40 pcs          |  2               |             N                        | Closed             |             |
+|    2500            |    40 pcs          |  4               |             Y                        | Open               |             |
+|    2500            |    40 pcs          |  4               |             Y                        | Closed             |             |
+|    2500            |    40 pcs          |  4               |             N                        | Open               |             |
+|    2500            |    40 pcs          |  4               |             N                        | Closed             |             |
+|**                  |                    |                  |                                      |                    |             |
+|    2500            |    60 pcs          |  2               |             Y                        | Open               |             |
+|    2500            |    60 pcs          |  2               |             Y                        | Closed             |             |
+|    2500            |    60 pcs          |  2               |             N                        | Open               |             |
+|    2500            |    60 pcs          |  2               |             N                        | Closed             |             |
+|    2500            |    60 pcs          |  4               |             Y                        | Open               |             |
+|    2500            |    60 pcs          |  4               |             Y                        | Closed             |             |
+|    2500            |    60 pcs          |  4               |             N                        | Open               |             |
+|    2500            |    60 pcs          |  4               |             N                        | Closed             |             |
+|**                  |                    |                  |                                      |                    |             |
+|    2500            |    80 pcs          |  2               |             Y                        | Open               |             |
+|    2500            |    80 pcs          |  2               |             Y                        | Closed             |             |
+|    2500            |    80 pcs          |  2               |             N                        | Open               |             |
+|    2500            |    80 pcs          |  2               |             N                        | Closed             |             |
+|    2500            |    80 pcs          |  4               |             Y                        | Open               |             |
+|    2500            |    80 pcs          |  4               |             Y                        | Closed             |             |
+|    2500            |    80 pcs          |  4               |             N                        | Open               |             |
+|    2500            |    80 pcs          |  4               |             N                        | Closed             |             |
 
 **Hardware Licensing**
 
