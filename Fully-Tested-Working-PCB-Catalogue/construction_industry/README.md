@@ -185,8 +185,6 @@ In return I will give a free PCB design in KiCad to all patreon supporters. To l
 The price starts at 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 
-**Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Link below.**
-
 <br />
 <br />
 <br />
