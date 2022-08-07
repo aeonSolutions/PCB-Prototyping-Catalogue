@@ -10,10 +10,10 @@ Hardware specifications are as follows:
   -	125 12bit DAQ channels;
 
 -	Authentication & Security:
-  -	o	SOIC-8 ATSHA204A SHA-256 high-security hardware authentication IC for secure and unique communication between devices;
+  -	SOIC-8 ATSHA204A SHA-256 high-security hardware authentication IC for secure and unique communication between devices;
 
 -	2 wire CANBUS:
-	- Controller Area Network (CAN) V2.0B implementation using TSSOP-20 MCP2515;
+  - Controller Area Network (CAN) V2.0B implementation using TSSOP-20 MCP2515;
   - ISO 11898 SOT-96-1 TJA1050 High speed transceiver;
 
 -	Power management:
