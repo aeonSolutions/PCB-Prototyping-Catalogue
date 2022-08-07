@@ -25,8 +25,8 @@ Access fee varies according to the number of downloads made. Before making any t
 |   >50                      |    500 USD  |
 
 
-- non-commercial usage: 150 USD
-- 
+- non-commercial usage
+
 | n. of non commercial users |   Feee      |
 |----------------------------|-------------|
 |   <10                      |    150 USD  |
