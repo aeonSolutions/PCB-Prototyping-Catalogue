@@ -156,8 +156,6 @@ ________________________________________________________________________________
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md)
 
 <br />
-<br />
-<br />
 
 ______________________________________________________________________________________________________________________________
 ## Ready made PCB 
