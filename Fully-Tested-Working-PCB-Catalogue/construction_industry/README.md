@@ -54,7 +54,7 @@ Access fee varies according to the number of downloads made. Also, amount values
 
 You will receive a reply with the current access fee. Expect delays outside my current time zone. CET Brussels Time. 
 
-Next you can opt to be invoiced (paypal, stripe, bank transfer) or alternativly trnasfer as a donation. Your choice.
+Next you can opt to be invoiced (paypal, stripe, bank transfer) or alternativly trnasfer as a donation. Your choice. Don't forhget to include in the transfer that you are doing a donation in the tranfer description text. Very important, or else i will have to issue a commercial invoice to you.   
 
 <br />
 
