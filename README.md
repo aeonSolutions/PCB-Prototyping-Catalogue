@@ -14,6 +14,7 @@
 This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of 
 
 **24 PCB designs publicly available**
+
 **1 PCB design privatly available** (ondemand users)
 
 for Smart Devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
