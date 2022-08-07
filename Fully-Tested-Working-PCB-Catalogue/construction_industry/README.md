@@ -1,6 +1,9 @@
 # PCBs specially designed for the construction industry
 
 ## Smart Universal Junction Box PCB (dimensions: 79x31mm)
+Access fee 
+- Commercial usage: 3,000 USD
+- non-commercial usage: 250 USD
 
 Hardware specifications are as follows:
 
@@ -30,4 +33,40 @@ Onboard sensors
   - DFN-8 SHT3.x; temperature sensor with precision of 1.5C; 
   - DFN-8 SHT3.x humidity sensor;
   - LGA-14 LSM6DS3 a 6-axis accelerometer and gyroscope;
+
+
+**What is included:**
+- access to the private repository
+- unlimited download of KiCad project files
+- open issue tickets
+- access to future PCB revision, updates & notifications. 
+
+Is quite simple, to gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository. Don't forget to include the name of the PCB Design you want access to.
+
+If you have done so, and still cannot access , send me an email at mtpsilva@gmail.com or alternatively send me a message on whatsApp or Telegram.
+
+<br />
+<br />
+
+**How access fees work**
+
+Access fees are divided into the following two categories:
+
+- commercial uses
+
+Is allowed selling and reselling of the PCB. All other restritions apply as stated in Creative Commons Share Alike license.
+
+- non-commercial uses
+
+Is not allowed selling nor reselling of the PCB.  All other restritions apply as stated in Creative Commons Share Alike non-commercial license
+ 
+For both option above, is not allowed changing of branding in the PCB. All other restritions apply as stated in Creative Commons Share Alike licenses. See [Creativecommons.org](https://creativecommons.org) for more info.
+
+<br />
+<br />
+
+**Buy/Own Exclusive commercial use**
+- Exclusive commercial Licensing (contact me for more info). 
+
+- Buy the PCB rights and own the PCB design and schemarics (contact me for more info).
 
