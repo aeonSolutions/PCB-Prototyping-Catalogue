@@ -108,7 +108,7 @@ PCB errors will be corrected at not aditional cost delivered at the door. All or
 
 **Buy an assembled PCB, tested and ready to use**
 
-An aditional price on assembled PCB vmust be added to values above and aries according to quantity and number of components. Check PCBWay , ALLPCB or any other to get a good reference of assembled PCB costs. Contact me for more info.
+An aditional price on assembled PCB must be added to prices above and varies according to quantity and number of components. Check PCBWay , ALLPCB or any other to get a good reference of assembled PCB costs. Contact me for more info.
 
 <br />
 <br />
