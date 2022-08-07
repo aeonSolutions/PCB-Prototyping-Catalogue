@@ -185,7 +185,7 @@ ________________________________________________________________________________
 <br />
 
 ______________________________________________________________________________________________________________________________
-### Own a copy of this work
+### Buy a custom PCB
 Is possible to own or licence any of the PCB designs publicly available here. Owners will get a more porfessional PCB without usage of any fast deployment PCB modules available elsewhere on the internet, and instead, with all components built into the PCB.  Logos and markings are also delivered according to the buyer specifications.
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/certified%20logos.png)
@@ -195,7 +195,7 @@ if you like to own one, contact me for more details at mtpsilva@gmail.com
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
 
-Check this page to [learn]() more and how to [buy]().
+Check this page to [learn](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB) more and how to [buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
 
 <br />
 <br />
