@@ -180,8 +180,6 @@ Send me your device, hardware or equipment and i will design a custom PCB for it
 I will design your custom PCB for your DIY or Maker projects. Free of charge. Contact-me on WhatsApp, Telegram or WeChat to know how. Or email me at mtpsilva@gmail.com for more info.  Links above.
 
 <br />
-<br />
-<br />
 
 ### Buy a custom made PCB
 Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the buyer specifiations.
