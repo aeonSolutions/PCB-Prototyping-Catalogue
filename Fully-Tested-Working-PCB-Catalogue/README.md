@@ -55,8 +55,6 @@ ________________________________________________________________________________
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/tree/main/PCB-Shields/README.md)
 
 <br />
-
-<br />
 <br />
 
 ______________________________________________________________________________________________________________________________
