@@ -42,6 +42,8 @@ Access fee varies according to the number of downloads made. Also, amount values
   - firmware support on Whatsapp and Telegram for the major revision hardware , i.e., all minor revisions included
   - support on WhatsApp and Telegram how to do firmware download to the PCB
   
+**How to request access**
+
 Is quite simple, to gain access send a message on WhatsApp/Telegram or by emaail (mtpsilva@gmail.com) with a access request with the following info:
 
 - usage type (commercial/non-comemrcial);
