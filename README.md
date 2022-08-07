@@ -169,6 +169,11 @@ ________________________________________________________________________________
 <br />
 
 ______________________________________________________________________________________________________________________________
+## Ready made PCB 
+
+There are more PCB designs with circuit schematis ready to download available to all who donate or sponsor my work. Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is 50 USD/month. Alternativly the reader can opt to be [patreon](http://www.patreon.com/ldad). 
+
+______________________________________________________________________________________________________________________________
 ## Need a custom PCB for your DIY or Maker projects ?
 Get a Free PCB for yourself!
 Send me your device, hardware or equipment and i will design a custom PCB for it. Free of charge. What i accept:
@@ -182,9 +187,6 @@ I will design your custom PCB for your DIY or Maker projects. Free of charge. Co
 <br />
 <br />
 <br />
-## Ready made PCB 
-
-There are more PCBs available to all who donate or sponsor my work. Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is 50 USD/month. Alternativly the reader can opt to be [patreon](http://www.patreon.com/ldad). 
 
 ### Buy a custom made PCB
 Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the byer specifiations.
