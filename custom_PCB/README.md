@@ -14,8 +14,6 @@ All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE cert
 ### Pricing
 There are 3 option for a buyer to shoose from when considering owning or buying a PCB. For each option a buyer can order an already designed / made PCB or order a new PCB accroding to custom specifications and needs.
 
-#### Buy a PCB design 
-
 **Custom PCB**
 
 | max PCB size (mm2) | max. n. components | n. copper layers | allow ready made sub-circuit designs | Hardware Licensing | Price (USD) |
@@ -28,7 +26,15 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 |    2500            |    20 pcs          |  4               |             Y                        | Closed             |             |
 |    2500            |    20 pcs          |  4               |             N                        | Open               |             |
 |    2500            |    20 pcs          |  4               |             N                        | Closed             |             |
-
+|**                  |                    |                  |                                      |                    |             |
+|    2500            |    20 pcs          |  2               |             Y                        | Open               |             |
+|    2500            |    20 pcs          |  2               |             Y                        | Closed             |             |
+|    2500            |    20 pcs          |  2               |             N                        | Open               |             |
+|    2500            |    20 pcs          |  2               |             N                        | Closed             |             |
+|    2500            |    20 pcs          |  4               |             Y                        | Open               |             |
+|    2500            |    20 pcs          |  4               |             Y                        | Closed             |             |
+|    2500            |    20 pcs          |  4               |             N                        | Open               |             |
+|    2500            |    20 pcs          |  4               |             N                        | Closed             |             |
 
 **Hardware Licensing**
 
@@ -36,7 +42,7 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 - closed hardware licencing: uses traditional copyright licensing, this means your custom PCB design cannot be fabricated by someone else.
 
-both, open and closed licenses can be protected with Patenting.  Non disclousure agreements are also available as an option. Contact me for more info.
+both, open and closed licenses can be protected with Patenting.  Non disclousure agreements (NDA) are also available as an option. Contact me for more info.
 
 <br />
 <br />
