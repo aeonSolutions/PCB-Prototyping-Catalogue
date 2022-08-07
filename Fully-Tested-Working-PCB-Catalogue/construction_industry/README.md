@@ -11,8 +11,29 @@ The perfect #PCB for managing construction site works since early construction s
 Simple and compatible with existing tools and technologies such as #HomeAssistant and #Zigbee. Can't get better than this !!!
 
 **Access fee** 
-- Commercial usage: 3,000 USD
+Access fee varies according to the number of downloads made. Before making any tranfer contact me on WhatsApp , Telegram or by email (mtpsilva@gmail.com) so i can give you the current user count that has already access.
+- Commercial usage:
+
+| n. of commercial users     |   Feee      |
+|----------------------------|-------------|
+|   <10                      |  3,000 USD  |
+|   <20                      |  2,500 USD  |
+|   <30                      |  2,000 USD  |
+|   <40                      |  1,500 USD  |
+|   <50                      |  1,000 USD  |
+|   >50                      |    500 USD  |
+
 - non-commercial usage: 150 USD
+| n. of non commercial users |   Feee      |
+|----------------------------|-------------|
+|   <10                      |    150 USD  |
+|   <20                      |    130 USD  |
+|   <30                      |    110 USD  |
+|   <40                      |     90 USD  |
+|   <50                      |     70 USD  |
+|   >50                      |     50 USD  |
+
+
 
 **What is included:**
 - access to the private repository
