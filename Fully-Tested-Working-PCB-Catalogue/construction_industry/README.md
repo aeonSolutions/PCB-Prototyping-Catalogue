@@ -30,7 +30,10 @@ Access fee varies according to the number of downloads made. Also, amount values
 - unlimited download of the KiCad project files
 - open issue tickets
 - future PCB minor revisions (major revision increments not included) 
-
+- Custom firmware (only to commercial users) acording to user specifications:
+  - support on Whatsapp and Telegram for the major revision hardware , i.e., all minor revisions included
+  - support on WhatsApp and Telegram how to do firmware download to the PCB
+  
 Is quite simple, to gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository. Don't forget to include the name of the PCB Design you want access to.
 
 If you have done so, and still cannot access , send me an email at mtpsilva@gmail.com or alternatively send me a message on whatsApp or Telegram.
