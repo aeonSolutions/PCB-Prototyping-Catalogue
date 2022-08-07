@@ -85,7 +85,7 @@ Non disclousure agreements (NDA) are also available as an option. Contact me for
 <br />
 <br />
 
-**Support and PCB errors and PCB changes**
+**Support, PCB errors and PCB changes**
 
 PCB errors will be corrected at not aditional cost delivered at the door. All ordered PCBs include basic one on one whatsApp or Telegram support. An aditional fee will be charged for dedicated video meeting support. Contact me for more info.
 
