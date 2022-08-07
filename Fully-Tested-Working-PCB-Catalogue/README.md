@@ -19,7 +19,7 @@ Advantages include ready made, fully working PCB designs and schemtic files read
 - open issue tickets
 - access to future PCB revision, updates & notifications. 
 
-Is quite simple, to gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository. Don't forget to include the PCB Design you want access to.
+Is quite simple, to gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository. Don't forget to include the name of the PCB Design you want access to.
 
 If you have done so, and still cannot access , send me an email at mtpsilva@gmail.com or alternatively send me a message on whatsApp or Telegram.
 
