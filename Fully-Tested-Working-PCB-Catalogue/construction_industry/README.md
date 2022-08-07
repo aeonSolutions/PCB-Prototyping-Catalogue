@@ -12,6 +12,7 @@ Simple and compatible with existing tools and technologies such as #HomeAssistan
 
 **Access fee** 
 Access fee varies according to the number of downloads made. Before making any tranfer contact me on WhatsApp , Telegram or by email (mtpsilva@gmail.com) so i can give you the current user count that has already access.
+
 - Commercial usage:
 
 | n. of commercial users     |   Feee      |
@@ -23,7 +24,9 @@ Access fee varies according to the number of downloads made. Before making any t
 |   <50                      |  1,000 USD  |
 |   >50                      |    500 USD  |
 
+
 - non-commercial usage: 150 USD
+- 
 | n. of non commercial users |   Feee      |
 |----------------------------|-------------|
 |   <10                      |    150 USD  |
