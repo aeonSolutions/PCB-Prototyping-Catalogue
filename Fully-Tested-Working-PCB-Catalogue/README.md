@@ -12,7 +12,7 @@
 <br />
 This is the list of fully tested and working PCB catalogue for paid subscriptions, sponsors and patreons.
 
-To gain access click on any of the sponsorship buttons available on this page (top menu, right lateral menu or bottom) and tranfer the minimum amount listed required for a specific private PCB repository.
+To gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and tranfer the minimum amount listed required for a specific private PCB repository.
 
 If you have done so, and still cannot access , send me an email at mtpsilva@gmail.com or alternatively send me a message on whatsApp or Telegram.
 
@@ -54,3 +54,28 @@ ________________________________________________________________________________
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/tree/main/PCB-Shields/README.md)
 
 <br />
+
+<br />
+<br />
+
+### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
+Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
+
+<br />
+<br />
+
+### Make a donation on Paypal
+Make a donation on paypal and get a TAX refund*.
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+
+
+### Support all these open hardware projects and become a patreon  
+Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
+In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+
+
