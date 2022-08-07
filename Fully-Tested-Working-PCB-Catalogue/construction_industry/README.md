@@ -5,7 +5,6 @@
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l6jgfsvslkc3kvpbehdl" alt="trackgit-views" />
 </a>
-![](https://views.whatilearened.today/views/github/aeonSolutions/Fully-Tested-Working-PCB-Catalogue.svg)
 
 # PCBs specially designed for the construction industry
 
