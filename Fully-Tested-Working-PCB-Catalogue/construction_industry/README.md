@@ -23,7 +23,7 @@ Simple and compatible with existing tools and technologies such as #HomeAssistan
 Access fee varies according to the number of downloads made. Also, amount values listed is not included legal taxes. Before making any tranfer contact me on WhatsApp , Telegram or by email (mtpsilva@gmail.com) so i can give you the current user count that has already access, and also legal taxes needed to be invoiced. Alternatively donations are also accepted.
 
 
-| n. of commercial usage users     |   Fee       |   *  | n. of non commercial usage users |   Fee       |
+| n. of commercial usage users     |   one time access Fee       |   *  | n. of non commercial usage users |   one time access Fee       |
 |----------------------------|-------------|------|----------------------------|-------------|
 |   <10                      |  3,000 USD  |   *  |   <10                      |    150 USD  |
 |   <20                      |  2,500 USD  |   *  |   <20                      |    130 USD  |
