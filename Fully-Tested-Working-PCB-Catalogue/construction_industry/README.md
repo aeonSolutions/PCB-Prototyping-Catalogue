@@ -4,6 +4,8 @@
 Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 125 sensors. This PCB is powered by a 85-220V AC line. And has backup Lipo battery power.
 If wireless is not possible this PCB is able to connect to a Home #CanBus network for data transmission (and receive) up to 1Mbit/s. (see full spec list below)
 
+![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
+
 The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
 
 Simple and compatible with existing tools and technologies such as #HomeAssistant and #Zigbee. Can't get better than this !!!
