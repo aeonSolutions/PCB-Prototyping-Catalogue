@@ -18,28 +18,17 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 **Custom PCB**
 
-| max PCB size (mm2) | max. n. components | n. copper layers | allow ready made sub-circuit designs | Price (USD) |
-|--------------------|--------------------|------------------|--------------------------------------|-------------|
-|    2500            |    20 pcs          |  2               |             Y                        |             |
-|    2500            |    20 pcs          |  2               |             N                        |             |
-|    2500            |    20 pcs          |  4               |             Y                        |             |
-|    2500            |    20 pcs          |  4               |             N                        |             |
-|       **           |                    |                  |                                      |             |
-|    2500            |    40 pcs          |  2               |             Y                        |             |
-|    2500            |    40 pcs          |  2               |             N                        |             |
-|    2500            |    40 pcs          |  4               |             Y                        |             |
-|    2500            |    40 pcs          |  4               |             N                        |             |
-|       **           |                    |                  |                                      |             |
-|    2500            |    60 pcs          |  2               |             Y                        |             |
-|    2500            |    60 pcs          |  2               |             N                        |             |
-|    2500            |    60 pcs          |  4               |             Y                        |             |
-|    2500            |    60 pcs          |  4               |             N                        |             |
-|       **           |                    |                  |                                      |             |
-|    2500            |    80 pcs          |  2               |             Y                        |             |
-|    2500            |    80 pcs          |  2               |             N                        |             |
-|    2500            |    80 pcs          |  4               |             Y                        |             |
-|    2500            |    80 pcs          |  4               |             N                        |             |
-|       **           |                    |                  |                                      |             |
+| max PCB size (mm2) | max. n. components | n. copper layers | allow ready made sub-circuit designs | Hardware Licensing | Price (USD) |
+|--------------------|--------------------|------------------|--------------------------------------|--------------------|             |
+|    2500            |    20 pcs          |  2               |             Y                        | Open               |             |
+|    2500            |    20 pcs          |  2               |             Y                        | Closed             |             |
+|    2500            |    20 pcs          |  2               |             N                        | Open               |             |
+|    2500            |    20 pcs          |  2               |             N                        | Closed             |             |
+|    2500            |    20 pcs          |  4               |             Y                        | Open               |             |
+|    2500            |    20 pcs          |  4               |             Y                        | Closed             |             |
+|    2500            |    20 pcs          |  4               |             N                        | Open               |             |
+|    2500            |    20 pcs          |  4               |             N                        | Closed             |             |
+
 
 
 <br />
