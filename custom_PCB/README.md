@@ -19,7 +19,7 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 | s | s |
 |-------------|------|
 | s | s |
-|-------------|------|
+|- Custom --|- Existing PCB -|
 
 
 <br />
