@@ -33,24 +33,19 @@ ________________________________________________________________________________
 
 
 ## Construction & Home
-- [Construction Industry](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/tree/main/Construction%20Industry/README.md)
-- [Home Automation](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/tree/main/Construction%20Industry/README.md)
-- [Home Assistant](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/tree/main/Construction%20Industry/README.md)
-- [ESP32 Home](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/tree/main/Construction%20Industry/README.md)
-- [Home CANBUS](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/tree/main/Construction%20Industry/README.md)
+- [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue/construction_industry)
+
 
 ## Smart Data Acquisition Devies (Smart DAQ)
-- [Scientific Research & Laboratory](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/blob/main/Smart%20DAQ/README.md)
-- [Construction Industry](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/blob/main/Smart%20DAQ/README.md)
+- [Scientific Research & Laboratory]() 
+
  
 ## Commercial Businesses
- - [Office Smart Devices](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/blob/main/Commercial%20Business/README.md)
- - [E-Ink / E-paper Displays for product labelling](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
- - [RFID smart tags & contacless cards](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/blob/main/Commercial%20Business/README.md)
+ - [E-Ink / E-paper Displays for product labelling]() (In the make...Stay tuned.)
+ - [Wireless RFID NFC Reader & Writer for Tags and smartcards]() (In the make...Stay tuned.)
 
 ## Smart LCD Touch Displays
- - [Warehouse](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
- - [Factory Work Management](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
+ - [7" Nextion HDI LCD Touch ]() (In the make...Stay tuned.)
  
 ## Vehicle Automation
  - Open CANBUS (In the make...Stay tuned.)
@@ -59,9 +54,9 @@ ________________________________________________________________________________
  - Conversational Robot Vacuum Cleaner (in the make. Stay tuned.)
  
 ## DIY & Makers
-- [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/blob/main/DIY-Maker/README.md) 
-- [120x70mm Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/blob/main/DIY-Maker/README.md)
-- [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/Fully-Tested-Working-PCB-Catalogue/tree/main/PCB-Shields/README.md)
+- [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+- [Enhanced 120x70mm Hot Solder Reflow Plate with 3.2" Nextion LCD Touch]() (in the make. Stay tuned)
+- [PCB Modules in KiCad ready to deploy]()
 
 <br />
 
