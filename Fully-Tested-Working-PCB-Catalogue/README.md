@@ -12,7 +12,7 @@
 <br />
 This is the list of fully tested and working PCB catalogue for paid subscriptions, sponsors and patreons.
 
-Is quite simple, simply click on any of sponsor buttons at the top or at the bottom. The minimum amount to access the private repositories with PCB design files is shown on each individual Private PCB repository. 
+Is quite simple, simply click on any of sponsor buttons at the top or at the bottom. The minimum amount to access the private repositories with PCB design files is shown on each individual Private PCB repository. Dont forget to include the PCB Design you want access to.
 
 **What is included:**
 - access to the private repository
