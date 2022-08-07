@@ -55,6 +55,7 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 |    2500            |    80 pcs          |  4               |             N                        | Closed             |             |
 
 **(1) PCB size**
+
 Other PCB sizes are possible. Contact me for more info.
 
 **(2) Hardware Licensing**
