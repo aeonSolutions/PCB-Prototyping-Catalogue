@@ -5,7 +5,6 @@
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 
-![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue/Fully-Tested-Working-PCB-Catalogue?style=for-the-badge)
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l6j7izh680tr9wq00ghl" alt="trackgit-views" />
 </a>
