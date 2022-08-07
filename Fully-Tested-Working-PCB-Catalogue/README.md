@@ -19,7 +19,7 @@ Is quite simple, simply click on any of sponsor buttons at the top, left side ba
 - PCB revision updates & notifications. 
 
 
-To gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and tranfer a one time fee listed for a specific private PCB repository.
+To gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository.
 
 If you have done so, and still cannot access , send me an email at mtpsilva@gmail.com or alternatively send me a message on whatsApp or Telegram.
 
