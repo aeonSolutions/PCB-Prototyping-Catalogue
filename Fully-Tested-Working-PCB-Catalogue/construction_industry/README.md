@@ -9,7 +9,7 @@
 # PCBs specially designed for the construction industry
 
 ## Smart Universal Junction Box PCB (dimensions: 79x31mm)
-Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 125 sensors. This PCB is powered by a 85-220V AC line. And has backup Lipo battery power.
+This is a Fully tested and working PCB. Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 125 sensors. This PCB is powered by a 85-220V AC line. And has backup Lipo battery power.
 If wireless is not possible this PCB is able to connect to a Home #CanBus network for data transmission (and receive) up to 1Mbit/s. (see full spec list below)
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
