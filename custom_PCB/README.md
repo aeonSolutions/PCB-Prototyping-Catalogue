@@ -18,19 +18,19 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 **Custom PCB**
 
-| PCB size     | max. number of components | number of copper layers |
-|--------------|---------------------------|-------------------------|
-| <= 50x50 mm  | <= 20 pcs                 |  2                      |
-| <= 50x50 mm  | <= 20 pcs                 |  4                      |
-|              |                           |                         |
-| <= 50x50 mm  | <= 40 pcs                 |  2                      |
-| <= 50x50 mm  | <= 40 pcs                 |  4                      |
-|              |                           |                         |
-| <= 50x50 mm  | <= 60 pcs                 |  2                      |
-| <= 50x50 mm  | <= 60 pcs                 |  4                      |
-|              |                           |                         |
-| <= 50x50 mm  | <= 80 pcs                 |  2                      |
-| <= 50x50 mm  | <= 80 pcs                 |  4                      |
+| PCB size     | max. number of components | number of copper layers | include ready made circuit designs | Price (USD) |
+|--------------|---------------------------|-------------------------|------------------------------------|-------------|
+| <= 50x50 mm  | <= 20 pcs                 |  2                      |                Y                   |             |
+| <= 50x50 mm  | <= 20 pcs                 |  4                      |                Y                   |             |
+|              |                           |                         |                Y                   |             |
+| <= 50x50 mm  | <= 40 pcs                 |  2                      |                Y                   |             |
+| <= 50x50 mm  | <= 40 pcs                 |  4                      |                Y                   |             |
+|              |                           |                         |                Y                   |             |
+| <= 50x50 mm  | <= 60 pcs                 |  2                      |                Y                   |             |
+| <= 50x50 mm  | <= 60 pcs                 |  4                      |                Y                   |             |
+|              |                           |                         |                Y                   |             |
+| <= 50x50 mm  | <= 80 pcs                 |  2                      |                Y                   |             |
+| <= 50x50 mm  | <= 80 pcs                 |  4                      |                Y                   |             |
 
 
 
