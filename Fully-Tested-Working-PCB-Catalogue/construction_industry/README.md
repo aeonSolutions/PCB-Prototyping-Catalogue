@@ -18,7 +18,7 @@ Simple and compatible with existing tools and technologies such as #HomeAssistan
 - access to the private repository
 - unlimited download of the KiCad project files
 - open issue tickets
-- access to future PCB revision, updates & notifications. 
+- access to future PCB minor revision notifications. (major revision increments not included) 
 
 Is quite simple, to gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository. Don't forget to include the name of the PCB Design you want access to.
 
