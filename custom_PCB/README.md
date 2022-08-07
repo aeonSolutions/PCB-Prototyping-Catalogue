@@ -54,7 +54,10 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 |    2500            |    80 pcs          |  4               |             N                        | Open               |             |
 |    2500            |    80 pcs          |  4               |             N                        | Closed             |             |
 
-**Hardware Licensing**
+**(1) PCB size**
+Other PCB sizes are possible. Contact me for more info.
+
+**(2) Hardware Licensing**
 
 - open hardware licencing: uses creative commons share alike , this means your custom PCB design can be fabricated by someone else.
 
