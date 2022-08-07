@@ -38,7 +38,7 @@ Is allowed selling and reselling of the PCB. All other restritions apply as stat
 
 - non-commercial uses
 
-Is not allowed selling nor reselling of the PCB.  All other restritions apply as stated in Creative Commons Share Alike non-comemrical license
+Is not allowed selling nor reselling of the PCB.  All other restritions apply as stated in Creative Commons Share Alike non-commercial license
  
 For both option above, is not allowed changing of branding in the PCB. All other restritions apply as stated in Creative Commons Share Alike licenses. See [Creativecommons.com](https://creativecommons.org) for more info.
 
