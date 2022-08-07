@@ -10,3 +10,11 @@ Logos and markings are also delivered according to the buyer specifications.
 All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE certification watermark on its products and services. 
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
+
+### Pricing
+
+#### Buy a PCB design 
+
+#### Buy a PCB  
+
+#### Buy an assembled PCB
