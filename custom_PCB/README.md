@@ -20,7 +20,7 @@ All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE cert
 ### Pricing
 Below are the options for a buyer to choose from when considering owning or buying a PCB. For each option a buyer can order an already designed / made PCB or order a new PCB accroding to custom specifications and needs.
 
-The table below is for custom PCB orders according to buyer specifications. on the price listed is included 50 pcs of the PCB ordered (not assembled) delivered at the door. 
+The table below is for custom PCB orders according to buyer specifications. on the price listed is included 50 pcs (not assembled) delivered at the door. 
 
 | max PCB size (mm2) (1) | max. n. components | n. copper layers | allow/has any ready made sub-circuit designs (2) | Hardware Licensing (3)| Price starts at (USD)(4) |
 |--------------------|--------------------|------------------|--------------------------------------|--------------------|-------------|
