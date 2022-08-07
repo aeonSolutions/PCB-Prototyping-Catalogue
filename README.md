@@ -186,7 +186,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________
 ### Own a copy of this work
-Is possible to request ownership or licencing of any of the PCB designs publicly available here. Owners will get a more porfessional PCB without usage of any fast deployment PCB modules available elsewhere on the internet and instead with specific components built into the PCB. See snapshot below for an example and preview of one recenlty deployed. 
+Is possible to own or licence any of the PCB designs publicly available here. Owners will get a more porfessional PCB without usage of any fast deployment PCB modules available elsewhere on the internet, and instead, with all components built into the PCB.  Logos and markings are also delivered according to the buyer specifications.
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/certified%20logos.png)
 
@@ -194,6 +194,8 @@ All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE cert
 if you like to own one, contact me for more details at mtpsilva@gmail.com
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
+
+Check this page to [learn]() more and how to [buy]().
 
 <br />
 <br />
