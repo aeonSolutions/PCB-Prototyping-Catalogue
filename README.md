@@ -184,7 +184,7 @@ I will design your custom PCB for your DIY or Maker projects. Free of charge. Co
 <br />
 
 ### Buy a custom made PCB
-Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the byer specifiations.
+Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the buyer specifiations.
 
 Buyer will get a more porfessional PCB without usage of any fast deployment PCB modules available elsewhere on the internet, and instead, with all components built into the PCB.  
 
