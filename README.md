@@ -13,15 +13,21 @@
 # PCB Prototyping Catalogue
 This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of 
 
-**24 PCB designs available**
+**24 PCB designs publicly available**
+**1 PCB designs privatly available** to ondemand users
 
 for Smart Devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
 
 **The most recent PCB designs added:** 
 
+Publicly available
+
 - Revision 1.4 of the USB to UART/USB  Firmware Downloader /Burner (now UART/USB is an selection option )
 
+Prvately available
+
+- Smart Universal Junction Box PCB (dimensions: 79x31mm)
 
 
 In here one will find the folowing kind of solutions:
