@@ -80,7 +80,7 @@ Delivery time varies accoridng to the size and complexity of the PCB. Varies acc
 
 **other PCB options available**
 
-Other PCB otptions available are:
+Other PCB otptions available at no aditional cost are:
 - PCB thinckness from 0.4mm to 3.0mm
 - PCB type: FR4
 - PCB finished color: White, Black, Green, Yellow, Red, Blue
