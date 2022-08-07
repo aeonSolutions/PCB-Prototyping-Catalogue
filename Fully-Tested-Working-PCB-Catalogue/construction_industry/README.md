@@ -44,7 +44,7 @@ Access fee varies according to the number of downloads made. Also, amount values
   
 **How to request access**
 
-Is quite simple, to gain access send a message on WhatsApp/Telegram or by emaail (mtpsilva@gmail.com) with a access request with the following info:
+Is quite simple, to gain access send a message on WhatsApp/Telegram [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0) [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)  or by email (mtpsilva@gmail.com) with a access request with the following info:
 
 - usage type (commercial/non-commercial);
 - the name of the private PCB you want access to;
@@ -52,7 +52,6 @@ Is quite simple, to gain access send a message on WhatsApp/Telegram or by emaail
 
 You will receive a reply with the current access fee. Expect delays outside my current time zone. CET Brussels Time. Next you can opt to be invoiced (paypal, stripe, bank transfer) or alternativly trnasfer as a donation.
 
-<br />
 <br />
 
 _________________________________________________________________
