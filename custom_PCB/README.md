@@ -4,7 +4,7 @@
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l6j3nh4iyum7zj4nngl6" alt="trackgit-views" />
 </a>
 
-### Buy a custom PCB
+### Order a custom PCB
 Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the byer specifiations.
 
 Buyer will get a more porfessional PCB without usage of any fast deployment PCB modules available elsewhere on the internet, and instead, with all components built into the PCB.  
