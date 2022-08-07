@@ -160,15 +160,6 @@ ________________________________________________________________________________
 <br />
 
 ______________________________________________________________________________________________________________________________
-### PCB Fabrication
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png)](https://www.allpcb.com/?Mb_InviteId=79483)
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg)](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
-
-<br />
-<br />
-<br />
-
-______________________________________________________________________________________________________________________________
 ## Ready made PCB 
 
 There are more PCB designs with circuit schematics ready to download available to all who donate or sponsor my work. Fully tested and working.
@@ -202,6 +193,15 @@ Logos and markings are also delivered according to the buyer specifications.
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/certified%20logos.png)
 
 All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE certification watermark on its products and services. Check this page to [learn](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB) more and how to [buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
+
+<br />
+<br />
+<br />
+
+______________________________________________________________________________________________________________________________
+### PCB Fabrication
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png)](https://www.allpcb.com/?Mb_InviteId=79483)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg)](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
 
 <br />
 <br />
