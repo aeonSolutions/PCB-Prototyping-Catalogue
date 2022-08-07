@@ -32,13 +32,9 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 **Hardware Licensing**
 
-- open hardware licencing:
+- open hardware licencing: uses creative commons share alike , this means your custom PCB design can be fabricated by someone else.
 
-uses creative commons share alike , this means your custom PCB design can be fabricated by someone else.
-
-- closed hardware licencing:
-
-uses traditional copyright licensing, this means your custom PCB design cannot be fabricated by someone else.
+- closed hardware licencing: uses traditional copyright licensing, this means your custom PCB design cannot be fabricated by someone else.
 
 both, open and closed licenses can be protected with Patenting. 
 
