@@ -81,7 +81,7 @@ both, open and closed licenses can be protected with Patenting.
 <br />
 <br />
 
-**(4) Price **
+**(4) Price**
 
 Price values are quoted in USD. All legal taxes must be added to presented prices and acording to country of delivery. Contact me for more info.
 <br />
