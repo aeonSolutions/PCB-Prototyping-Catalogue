@@ -122,7 +122,7 @@ For both option above, is not allowed changing of branding in the PCB. All other
 
 ______________________________________________________________________________________________________________________________
 
-### [Go back to main Public Access Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
+### [Go back to main Private Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue)
 ______________________________________________________________________________________________________________________________
 
 <br />
