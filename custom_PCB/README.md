@@ -27,11 +27,11 @@ The table below is for custom PCB orders according to buyer specifications. on t
 |    2500            |    20 pcs          |  2               |             Y                        | Open               |     $300    |
 |    2500            |    20 pcs          |  2               |             Y                        | Closed             |     $500    |
 |    2500            |    20 pcs          |  2               |             N                        | Open               |     $400    |
-|    2500            |    20 pcs          |  2               |             N                        | Closed             |    $3000    |
-|    2500            |    20 pcs          |  4               |             Y                        | Open               |             |
-|    2500            |    20 pcs          |  4               |             Y                        | Closed             |             |
-|    2500            |    20 pcs          |  4               |             N                        | Open               |             |
-|    2500            |    20 pcs          |  4               |             N                        | Closed             |             |
+|    2500            |    20 pcs          |  2               |             N                        | Closed             |   $3,000    |
+|    2500            |    20 pcs          |  4               |             Y                        | Open               |     $400    |
+|    2500            |    20 pcs          |  4               |             Y                        | Closed             |     $600    |
+|    2500            |    20 pcs          |  4               |             N                        | Open               |     $500    |
+|    2500            |    20 pcs          |  4               |             N                        | Closed             |   $5,000    |
 |**                  |                    |                  |                                      |                    |             |
 |    2500            |    40 pcs          |  2               |             Y                        | Open               |             |
 |    2500            |    40 pcs          |  2               |             Y                        | Closed             |             |
