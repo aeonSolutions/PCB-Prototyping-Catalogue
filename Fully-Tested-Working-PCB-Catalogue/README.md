@@ -16,9 +16,9 @@ Is quite simple, simply click on any of sponsor buttons at the top or at the bot
 
 **What is included:**
 - access to the private repository
-- download KiCad projct files
+- unlimited download of KiCad project files
 - open issue tickets
-- PCB revision updates & notifications. 
+- access to future PCB revision, updates & notifications. 
 
 
 To gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository.  Dont forget to include the PCB Design you want access to.
