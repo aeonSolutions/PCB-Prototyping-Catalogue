@@ -70,7 +70,7 @@ both, open and closed licenses can be protected with Patenting.
 
 **Delivery Time**
 
-Delivery time varies accoridng to the size and complexity of the PCB. Varies according to which country is going to be delivered in the planet. For reference consider delivery times on Fedex website.  Contact me for more info.
+Delivery time varies accoridng to the size and complexity of the PCB. Varies according to which country is going to be delivered. For reference consider delivery times on Fedex website.  Contact me for more info.
 
 **Non disclousure agreements**
 
