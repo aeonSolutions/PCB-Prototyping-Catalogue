@@ -46,7 +46,7 @@ For both option above, is not allowed changing of branding in the PCB. All other
 <br />
 
 **Buy/Own Exclusive commercial use**
-- Excluive commercial Licensing
+- Exclusive commercial Licensing
 contact me for more info. 
 
 - Buy the PCB rights and own the PCB design and schemarics
