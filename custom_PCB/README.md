@@ -22,7 +22,7 @@ PCB components include all sizes and dimensions. Nowadays the most requested and
 ### Pricing
 Below are the options for a buyer to choose from when considering owning or buying a PCB. For each option a buyer can order an already designed / made PCB or order a new PCB accroding to custom specifications and needs.
 
-The table below is for custom PCB orders according to buyer specifications. on the price listed is included 50 pcs (not assembled) delivered at the door. 
+The table below is for custom PCB orders according to buyer specifications that use conventional SMD components and MCUs ( ESP32, Atmel, ST, etc). On the price listed is included 50 pcs (not assembled) delivered at the door. Contact me for other options and PCB sizes.
 
 | max PCB size (mm2) (1) | max. n. components | n. copper layers | allow/has any ready made sub-circuit designs (2) | Hardware Licensing (3)| Price starts at (USD)(4) |
 |--------------------|--------------------|------------------|--------------------------------------|--------------------|-------------|
