@@ -1,7 +1,14 @@
 # PCBs specially designed for the construction industry
 
 ## Smart Universal Junction Box PCB (dimensions: 79x31mm)
-Access fee 
+Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 125 sensors. This PCB is powered by a 85-220V AC line. And has backup Lipo battery power.
+If wireless is not possible this PCB is able to connect to a Home #CanBus network for data transmission (and receive) up to 1Mbit/s.
+
+The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
+
+Simple and compatible with existing tools and technologies such as #HomeAssistant and #Zigbee. Can't get better than this !!!
+
+**Access fee** 
 - Commercial usage: 3,000 USD
 - non-commercial usage: 250 USD
 
@@ -17,6 +24,7 @@ If you have done so, and still cannot access , send me an email at mtpsilva@gmai
 
 <br />
 <br />
+
 _________________________________________________________________
 
 Hardware specifications are as follows:
