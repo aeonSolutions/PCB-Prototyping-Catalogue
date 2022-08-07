@@ -18,15 +18,15 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 **Custom PCB**
 
-| PCB size | max. number of components | number of copper layers |
-| 50x50 mm | 20 pcs |  2 |
-| 50x50 mm | 20 pcs |  2 |
-| 50x50 mm | 20 pcs |  2 |
-| 50x50 mm | 20 pcs |  2 |
-| 100x100mm | s |
-| 150x150mm | s |
-| 200x200mm | s |
-|-------------|------|
+| PCB size  | max. number of components | number of copper layers |
+| 50x50 mm  | 20 pcs                    |  2                      |
+| 50x50 mm  | 20 pcs                    |  2                      |
+| 50x50 mm  | 20 pcs                    |  2                      |
+| 50x50 mm  | 20 pcs                    |  2                      |
+| 100x100mm | s                         |                         |
+| 150x150mm | s                         |                         |
+| 200x200mm | s                         |                         |
+|-----------|---------------------------|-------------------------|
 
 <br />
 <br />
