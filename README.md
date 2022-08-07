@@ -169,6 +169,8 @@ Is quite simple, simply click on any of sponsor buttons at the top, left side ba
 - download KiCad projct files
 - open issue tickets
 - PCB revision updates & notifications. 
+
+Available private PCBs are listed above, mixed with public acessible PCBs. Or instaed, access all private PCBs available [here](). 
  
 Alternativly the reader can opt to be a [patreon](http://www.patreon.com/ldad). Contact me for more info.
 
