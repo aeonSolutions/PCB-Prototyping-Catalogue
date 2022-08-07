@@ -12,7 +12,8 @@ Simple and compatible with existing tools and technologies such as #HomeAssistan
 
 **Access fee** 
 
-Access fee varies according to the number of downloads made. Also, amount values listed is not included legal taxes. Before making any tranfer contact me on WhatsApp , Telegram or by email (mtpsilva@gmail.com) so i can give you the current user count that has already access.
+Access fee varies according to the number of downloads made. Also, amount values listed is not included legal taxes. Before making any tranfer contact me on WhatsApp , Telegram or by email (mtpsilva@gmail.com) so i can give you the current user count that has already access, and also legal taxes needed to be invoiced. Alternatively donations are also accepted.
+
 
 - Commercial usage:
 
