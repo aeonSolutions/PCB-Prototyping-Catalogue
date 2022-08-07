@@ -55,7 +55,7 @@ ________________________________________________________________________________
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg)](https://www.tindie.com/stores/aeonlabs/)
 
 ## Construction & Home
-- [Smart Universal Junction Box 80x32mm](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue/construction_industry) [usage type: Commercial 3,000 USD   non-commercial  250 USD]
+- [Smart Universal Junction Box 80x32mm](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue/construction_industry) [usage type: Commercial 3,000 USD   non-commercial  150 USD]
 
 
 ## Smart Data Acquisition Devies (Smart DAQ)
