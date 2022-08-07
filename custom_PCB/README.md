@@ -18,9 +18,9 @@ There are 3 option for a buyer to choose from when considering owning or buying 
 
 The table below is for custom PCB orders according to buyer specifications. on the price is included 50 pcs of the ordered PCB (not assembled) delivered at the door. 
 
-| max PCB size (mm2) (1) | max. n. components | n. copper layers | allow/has any ready made sub-circuit designs (2) | Hardware Licensing (3)| Price starts at (USD) |
+| max PCB size (mm2) (1) | max. n. components | n. copper layers | allow/has any ready made sub-circuit designs (2) | Hardware Licensing (3)| Price starts at (USD)(4) |
 |--------------------|--------------------|------------------|--------------------------------------|--------------------|-------------|
-|    2500            |    20 pcs          |  2               |             Y                        | Open               |             |
+|    2500            |    20 pcs          |  2               |             Y                        | Open               |     $300    |
 |    2500            |    20 pcs          |  2               |             Y                        | Closed             |             |
 |    2500            |    20 pcs          |  2               |             N                        | Open               |             |
 |    2500            |    20 pcs          |  2               |             N                        | Closed             |             |
@@ -78,6 +78,12 @@ Usage of open hardware, ready made, sub-circuit designs has the advantage of alr
 
 both, open and closed licenses can be protected with Patenting.  
 
+<br />
+<br />
+
+**(4) Price **
+
+Price values are quoted in USD. All legal taxes must be added to presented prices and acording to country of delivery. Contact me for more info.
 <br />
 <br />
 
