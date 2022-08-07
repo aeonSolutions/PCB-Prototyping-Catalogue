@@ -15,8 +15,27 @@ All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE cert
 There are 3 option for a buyer to shoose from when considering owning or buying a PCB. For each option a buyer can order an already designed / made PCB or order a new PCB accroding to custom specifications and needs.
 
 #### Buy a PCB design 
+|  |  |
+|-------------|------|
 
+
+<br />
+<br />
+<br />
 
 #### Buy a PCB  
+|  |  |
+|-------------|------|
 
+
+<br />
+<br />
+<br />
 #### Buy an assembled PCB
+|  |  |
+|-------------|------|
+
+
+<br />
+<br />
+<br />
