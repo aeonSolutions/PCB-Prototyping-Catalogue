@@ -12,7 +12,7 @@ Simple and compatible with existing tools and technologies such as #HomeAssistan
 
 **Access fee** 
 - Commercial usage: 3,000 USD
-- non-commercial usage: 250 USD
+- non-commercial usage: 150 USD
 
 **What is included:**
 - access to the private repository
@@ -29,7 +29,7 @@ If you have done so, and still cannot access , send me an email at mtpsilva@gmai
 
 _________________________________________________________________
 
-Hardware specifications are as follows:
+**Hardware specifications** 
 
 - QFN-56 Xtensa LX7 Processor with 2 cores running at 240Mhz -	512Kb RAM (PSRAM max 1 Gb);
 -	16Mb SOIC 8 NOR SPI Flash Memory (max 1Gb);	
