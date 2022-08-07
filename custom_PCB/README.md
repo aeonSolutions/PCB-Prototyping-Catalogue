@@ -25,9 +25,9 @@ The table below is for custom PCB orders according to buyer specifications. on t
 | max PCB size (mm2) (1) | max. n. components | n. copper layers | allow/has any ready made sub-circuit designs (2) | Hardware Licensing (3)| Price starts at (USD)(4) |
 |--------------------|--------------------|------------------|--------------------------------------|--------------------|-------------|
 |    2500            |    20 pcs          |  2               |             Y                        | Open               |     $300    |
-|    2500            |    20 pcs          |  2               |             Y                        | Closed             |             |
-|    2500            |    20 pcs          |  2               |             N                        | Open               |             |
-|    2500            |    20 pcs          |  2               |             N                        | Closed             |             |
+|    2500            |    20 pcs          |  2               |             Y                        | Closed             |     $500    |
+|    2500            |    20 pcs          |  2               |             N                        | Open               |     $400    |
+|    2500            |    20 pcs          |  2               |             N                        | Closed             |    $3000    |
 |    2500            |    20 pcs          |  4               |             Y                        | Open               |             |
 |    2500            |    20 pcs          |  4               |             Y                        | Closed             |             |
 |    2500            |    20 pcs          |  4               |             N                        | Open               |             |
