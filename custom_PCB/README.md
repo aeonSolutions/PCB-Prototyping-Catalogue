@@ -1,3 +1,8 @@
+[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
+ [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l5m5z1845s10s47cuyl5" alt="trackgit-views" />
+</a>  ![](https://views.whatilearened.today/views/github/aeonSolutions/PCB_Prototyping_Catalogue.svg?style=for-the-badge&logo=appveyor) 
+
 ### Buy a custom PCB
 Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the byer specifiations.
 
