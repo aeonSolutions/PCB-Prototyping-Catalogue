@@ -10,8 +10,7 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/Fully-Tested-Working-PCB-Catalogue.svg)
 
 <br />
-
-This is the list of fully tested and working PCB catalogue for paid subscription, sponsors and patreons.
+This is the list of fully tested and working PCB catalogue for paid subscriptions, sponsors and patreons.
 
 To gain access click on any of the sponsorship buttons available on this page (top menu, right lateral menu or bottom) and tranfer the minimum amount listed required to gain access to a specific private repository.
 
