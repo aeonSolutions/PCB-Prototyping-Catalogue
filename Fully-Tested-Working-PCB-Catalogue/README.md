@@ -25,12 +25,6 @@ To gain access click on any of the sponsorship buttons available on this page (t
 
 If you have done so, and still cannot access , send me an email at mtpsilva@gmail.com or alternatively send me a message on whatsApp or Telegram.
 
-______________________________________________________________________________________________________________________________
-
-## List of available PCB Designs as KiCad Project files
-
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg)](https://www.tindie.com/stores/aeonlabs/)
-
 access fees are divided into:
 - commercial uses
 Is allowed selling and reselling of the PCB. All other restritions apply as stated in Creative Commons Share Alike license.
@@ -39,6 +33,11 @@ Is not allowed selling nor reselling of the PCB.  All other restritions apply as
  
 For both option above, is not allowed changing of branding in the PCB. All other restritions apply as stated in Creative Commons Share Alike licenses. See Creativecommons.com for more info.
 
+______________________________________________________________________________________________________________________________
+
+## List of available PCB Designs as KiCad Project files
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg)](https://www.tindie.com/stores/aeonlabs/)
 
 ## Construction & Home
 - [Smart Universal Junction Box 80x32mm](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue/construction_industry) [usage type: Commercial 3,000 USD   non-commercial  250 USD]
