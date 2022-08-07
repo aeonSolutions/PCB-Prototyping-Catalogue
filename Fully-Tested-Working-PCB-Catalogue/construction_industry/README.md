@@ -42,7 +42,7 @@ Access fee varies according to the number of downloads made. Also, amount values
   - firmware support on Whatsapp and Telegram for the major revision hardware , i.e., all minor revisions included
   - support on WhatsApp and Telegram how to do firmware download to the PCB
   
-Is quite simple, to gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository. Don't forget to include the name of the PCB Design you want access to.
+Is quite simple, to gain access send a message on WhatsApp/Telegram with a request for the number of users and usage type (commercial/non-comemrcial). Next click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository. Don't forget to include the name of the PCB Design you want access to.
 
 If you have done so, and still cannot access , send me an email at mtpsilva@gmail.com or alternatively send me a message on whatsApp or Telegram.
 
