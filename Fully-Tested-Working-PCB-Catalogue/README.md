@@ -1,5 +1,6 @@
 ## Fully Tested Working PCB Catalogue
-
+This is the list of fully tested and working PCB catalogue for paid subscription, sponsors and patreons.
+To gain access click on any of the sponsorhip buttons available on this page (top menu, right side lateral menu or bottom) and tranfer the minimum amount required to gain access to a specific private repository. If you have done so, and still cannot access , send me an email at mtpsilva@gmail.com or alternatively send me a message on whatsApp or Telegram.
 
 ______________________________________________________________________________________________________________________________
 # List of available PCB Designs as KiCad Project files
