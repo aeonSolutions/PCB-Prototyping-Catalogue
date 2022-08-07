@@ -158,17 +158,18 @@ ________________________________________________________________________________
 <br />
 
 ______________________________________________________________________________________________________________________________
-## Fully tested and Ready to use PCB 
+## Fully tested and Ready to use PCBs 
 
 This public PCB catalogue features PCB desings that are not fully tested or require minor changes to the PCB or shcematics. Suited to all DIY and Makers in electronics, however a regular user may find him/her self in need to read components datasheets before any usage of the PCB is possible. 
 
-Alternativly, if time (or datasheets) are not your thing, there are more PCB designs with circuit schematics. Fully tested and working, ready to download, available to all who donate or sponsor my work.
+If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my work.
 
 Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is 50 USD/month. Alternativly the reader can opt to be a [patreon](http://www.patreon.com/ldad). Contact me for more info.
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
 
-______________________________________________________________________________________________________________________________
+<br />
+
 ## Need a custom PCB for your DIY or Maker projects ?
 Get a Free PCB for yourself!
 Send me your device, hardware or equipment and i will design a custom PCB for it. Free of charge. What i accept:
