@@ -22,7 +22,7 @@ PCB components include all sizes and dimensions. Nowadays the most requested and
 ### Pricing
 Below are the options for a buyer to choose from when considering owning or buying a PCB. For each option a buyer can order an already designed / made PCB or order a new PCB accroding to custom specifications and needs.
 
-The table below is for custom PCB orders according to buyer specifications that use conventional SMD components and MCUs ( ESP32, Atmel, ST, etc). On the price listed is included 50 pcs (not assembled) delivered at the door. Contact me for other options and PCB sizes.
+The table below is for custom PCB orders according to buyer specifications that use conventional SMD components and MCUs ( ESP32, Atmel, ST, etc). On the price listed is included 50 pcs (not assembled) delivered at the door. Contact me for other arquitecutes (for instance raspberry pi similar architectures), complexity, options and PCB sizes.
 
 | max PCB size (mm2) (1) | max. n. components | n. copper layers | allow/has any ready made sub-circuit designs (2) | Hardware Licensing (3)| Price starts at (USD)(4) |
 |--------------------|--------------------|------------------|--------------------------------------|--------------------|-------------|
@@ -38,29 +38,29 @@ The table below is for custom PCB orders according to buyer specifications that 
 |    2500            |    40 pcs          |  2               |             Y                        | Open               |     $600    |
 |    2500            |    40 pcs          |  2               |             Y                        | Closed             |     $800    |
 |    2500            |    40 pcs          |  2               |             N                        | Open               |     $700    |
-|    2500            |    40 pcs          |  2               |             N                        | Closed             |   $4,000    |
+|    2500            |    40 pcs          |  2               |             N                        | Closed             |   $3,600    |
 |    2500            |    40 pcs          |  4               |             Y                        | Open               |     $700    |
 |    2500            |    40 pcs          |  4               |             Y                        | Closed             |     $900    |
 |    2500            |    40 pcs          |  4               |             N                        | Open               |     $800    |
-|    2500            |    40 pcs          |  4               |             N                        | Closed             |   $5,000    |
+|    2500            |    40 pcs          |  4               |             N                        | Closed             |   $4,600    |
 |**                  |                    |                  |                                      |                    |             |
 |    2500            |    60 pcs          |  2               |             Y                        | Open               |     $900    |
 |    2500            |    60 pcs          |  2               |             Y                        | Closed             |   $1,100    |
 |    2500            |    60 pcs          |  2               |             N                        | Open               |   $1,000    |
-|    2500            |    60 pcs          |  2               |             N                        | Closed             |   $5,000    |
+|    2500            |    60 pcs          |  2               |             N                        | Closed             |   $3,900    |
 |    2500            |    60 pcs          |  4               |             Y                        | Open               |   $1,000    |
 |    2500            |    60 pcs          |  4               |             Y                        | Closed             |   $1,200    |
 |    2500            |    60 pcs          |  4               |             N                        | Open               |   $1,100    |
-|    2500            |    60 pcs          |  4               |             N                        | Closed             |   $6,000    |
+|    2500            |    60 pcs          |  4               |             N                        | Closed             |   $4,900    |
 |**                  |                    |                  |                                      |                    |             |
 |    2500            |    80 pcs          |  2               |             Y                        | Open               |   $1,200    |
 |    2500            |    80 pcs          |  2               |             Y                        | Closed             |   $1,400    |
 |    2500            |    80 pcs          |  2               |             N                        | Open               |   $1,300    |
-|    2500            |    80 pcs          |  2               |             N                        | Closed             |   $7,000    |
+|    2500            |    80 pcs          |  2               |             N                        | Closed             |   $4,000    |
 |    2500            |    80 pcs          |  4               |             Y                        | Open               |   $1,300    |
 |    2500            |    80 pcs          |  4               |             Y                        | Closed             |   $1,500    |
 |    2500            |    80 pcs          |  4               |             N                        | Open               |   $1,400    |
-|    2500            |    80 pcs          |  4               |             N                        | Closed             |   $8,000    |
+|    2500            |    80 pcs          |  4               |             N                        | Closed             |   $5,000    |
 
 **(1) PCB size**
 
