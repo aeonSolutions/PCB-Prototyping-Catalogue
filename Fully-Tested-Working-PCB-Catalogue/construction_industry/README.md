@@ -2,8 +2,9 @@
 
 ## Smart Universal Junction Box PCB (dimensions: 79x31mm)
 
-Hardware specifications are as follows
-QFN-56 Xtensa LX7 Processor with 2 cores running at 240Mhz
+Hardware specifications are as follows:
+
+- QFN-56 Xtensa LX7 Processor with 2 cores running at 240Mhz
   -	512Kb RAM (PSRAM max 1 Gb);
   -	16Mb SOIC 8 NOR SPI Flash Memory (max 1Gb);
   -	2.4GHz ISM wireless connectivity;
