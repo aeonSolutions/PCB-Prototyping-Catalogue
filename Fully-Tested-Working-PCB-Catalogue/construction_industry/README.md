@@ -11,7 +11,7 @@ The perfect #PCB for managing construction site works since early construction s
 Simple and compatible with existing tools and technologies such as #HomeAssistant and #Zigbee. Can't get better than this !!!
 
 **Access fee** 
-Access fee varies according to the number of downloads made. Before making any tranfer contact me on WhatsApp , Telegram or by email (mtpsilva@gmail.com) so i can give you the current user count that has already access.
+Access fee varies according to the number of downloads made. Also, to values listed is not included legal taxes. Before making any tranfer contact me on WhatsApp , Telegram or by email (mtpsilva@gmail.com) so i can give you the current user count that has already access.
 
 - Commercial usage:
 
