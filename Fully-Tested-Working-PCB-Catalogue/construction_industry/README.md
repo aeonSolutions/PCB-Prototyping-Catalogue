@@ -5,6 +5,8 @@ Access fee
 - Commercial usage: 3,000 USD
 - non-commercial usage: 250 USD
 
+_________________________________________________________________
+
 Hardware specifications are as follows:
 
 - QFN-56 Xtensa LX7 Processor with 2 cores running at 240Mhz -	512Kb RAM (PSRAM max 1 Gb);
