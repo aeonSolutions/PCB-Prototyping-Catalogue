@@ -22,7 +22,7 @@ Access fee varies according to the number of downloads made. Before making any t
 |   <30                      |  2,000 USD  |
 |   <40                      |  1,500 USD  |
 |   <50                      |  1,000 USD  |
-|   >50                      |    500 USD  |
+|   >50                      |    250 USD  |
 
 
 - non-commercial usage
@@ -34,7 +34,7 @@ Access fee varies according to the number of downloads made. Before making any t
 |   <30                      |    110 USD  |
 |   <40                      |     90 USD  |
 |   <50                      |     70 USD  |
-|   >50                      |     50 USD  |
+|   >50                      |     20 USD  |
 
 
 
