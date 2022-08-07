@@ -179,7 +179,7 @@ Alternativly the reader can opt to be a [patreon](http://www.patreon.com/ldad). 
 
 <br />
 
-## Need a custom PCB for your DIY or Maker projects ?
+## Get a free custom PCB for your DIY or Maker projects
 Get a Free PCB for yourself!
 Send me your device, hardware or equipment and i will design a custom PCB for it. Free of charge. What i accept:
 
