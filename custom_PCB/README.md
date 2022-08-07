@@ -64,7 +64,11 @@ Other PCB sizes are possible. Contact me for more info.
 
 - closed hardware licencing: uses traditional copyright licensing, this means your custom PCB design cannot be fabricated by someone else.
 
-both, open and closed licenses can be protected with Patenting.  Non disclousure agreements (NDA) are also available as an option. Contact me for more info.
+both, open and closed licenses can be protected with Patenting.  
+
+**Non disclousure agreements**
+
+Non disclousure agreements (NDA) are also available as an option. Contact me for more info.
 
 <br />
 <br />
