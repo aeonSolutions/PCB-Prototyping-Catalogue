@@ -72,6 +72,10 @@ both, open and closed licenses can be protected with Patenting.
 
 Non disclousure agreements (NDA) are also available as an option. Contact me for more info.
 
+**Support and PCB changes**
+
+All ordered PCBs include basic one on one whatsApp or Telegram support. An aditional fee will be charged for dedicated video meeting support. Contact me for more details 
+
 <br />
 <br />
 <br />
