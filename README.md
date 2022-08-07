@@ -164,7 +164,13 @@ This public PCB catalogue features PCB desings that are not fully tested or requ
 
 If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my work.
 
-Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is a one time fee of 50 USD. This incluedes access to the private repository , download KiCad projct files, open issue tickets, and revision update notifications. Alternativly the reader can opt to be a [patreon](http://www.patreon.com/ldad). Contact me for more info.
+Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is a one time fee of 50 USD. Is included:
+- access to the private repository
+- download KiCad projct files
+- open issue tickets
+- PCB revision updates & notifications. 
+ 
+Alternativly the reader can opt to be a [patreon](http://www.patreon.com/ldad). Contact me for more info.
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
 
