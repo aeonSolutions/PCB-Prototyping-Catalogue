@@ -33,7 +33,7 @@ Access fee varies according to the number of downloads made. Also, amount values
 |   >50                      |    250 USD  |   *  |   >50                      |     20 USD  |
 
 
-**What is included:**
+**What is included**
 - access to the private repository
 - unlimited download of the KiCad project files
 - open issue tickets
