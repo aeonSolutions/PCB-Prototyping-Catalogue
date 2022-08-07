@@ -36,7 +36,7 @@ There are 3 option for a buyer to shoose from when considering owning or buying 
 
 - closed hardware licencing: uses traditional copyright licensing, this means your custom PCB design cannot be fabricated by someone else.
 
-both, open and closed licenses can be protected with Patenting. 
+both, open and closed licenses can be protected with Patenting.  Non disclousure agreements are also available as an option. Contact me for more info.
 
 <br />
 <br />
