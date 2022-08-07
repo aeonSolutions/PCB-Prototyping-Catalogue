@@ -31,9 +31,15 @@ ________________________________________________________________________________
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg)](https://www.tindie.com/stores/aeonlabs/)
 
+access fees are divided into:
+- commercial uses. Is allowed selling and reselling of the PCB. All other restritions apply as stated in Creative Commons Share Alike license.
+- non-commercial uses Is not allowed selling nor reselling of the PCB.  All other restritions apply as stated in Creative Commons Share Alike non-comemrical license
+ 
+Is not allowed changing of branding in the PCB. All other restritions apply as stated in Creative Commons Share Alike licenses. See Creativecommons.com for more info.
+
 
 ## Construction & Home
-- [Smart Universal Junction Box 80x32mm](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue/construction_industry) [usage type: Commercial 3,000 USD   non commercial  250 USD]
+- [Smart Universal Junction Box 80x32mm](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue/construction_industry) [usage type: Commercial 3,000 USD   non-commercial  250 USD]
 
 
 ## Smart Data Acquisition Devies (Smart DAQ)
