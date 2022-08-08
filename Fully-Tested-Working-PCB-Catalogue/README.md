@@ -51,6 +51,9 @@ For both option above, is not allowed changing of branding in the PCB. All other
 <br />
 
 **Buy/Own Exclusive commercial use**
+
+One can buy and own all rights to any of my PCB designs. Change branding and letetring. Etc....
+
 - Exclusive commercial Licensing (contact me for more info). 
 
 - Buy the PCB rights and own the PCB design and schemarics (contact me for more info).
