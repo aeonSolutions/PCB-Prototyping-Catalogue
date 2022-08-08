@@ -32,7 +32,7 @@ Privately available
 
 </br>
 
-In here one will find the folowing kind of solutions:
+In here one will find the following kind of solutions:
 
 *Wired Connectivity*
 - CANBUS ([MCP2515](https://s.click.aliexpress.com/e/_DncRgN5), [TJA1050](https://s.click.aliexpress.com/e/_DF0Cqyb))
@@ -59,7 +59,7 @@ In here one will find the folowing kind of solutions:
 - GSM LTE 4G ([SIM7000E](https://s.click.aliexpress.com/e/_DB7kwwR))
 - WIFI 2.4Ghz , 5.0Ghz
 - Bluetooth 4.2, 5.x BLE beacon
-- 2.4Ghz RF Transmitters/ Recievers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN) )
+- 2.4Ghz RF Transmitters/ Receivers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN) )
 
 *Power Management*
 - Charge Pumps ([HX4002B](https://s.click.aliexpress.com/e/_DehuJvZ))
