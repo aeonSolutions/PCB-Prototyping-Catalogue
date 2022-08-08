@@ -178,13 +178,21 @@ This public PCB catalogue features PCB desings that are not fully tested or requ
 
 If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my work.
 
-Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is a one time fee of 50 USD. Is included:
-- access to the private repository
-- download KiCad projct files
-- open issue tickets
-- PCB revision updates & notifications. 
+Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is a one time fee of 20 USD. 
 
-Available private PCBs are listed above, mixed with public acessible PCBs. Or instaed, access all private PCBs available [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). 
+**What is included**
+- access to the private repository
+- unlimited download of the KiCad project files
+  - fully annotated circuit schematics
+  - ready PCB design
+  - BOM components directly available on KiCad 
+- open issue tickets
+- future PCB minor revisions (major revision increments not included) 
+- Custom firmware (only to commercial users) acording to user specifications:
+  - firmware support on Whatsapp and Telegram for the major revision hardware , i.e., all minor revisions included
+  - support on WhatsApp and Telegram how to do firmware download to the PCB
+
+Available private PCBs are listed above, mixed with public acessible PCBs. Or instead, access all private PCBs available [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). 
  
 Alternativly the reader can opt to be a [patreon](http://www.patreon.com/ldad). Contact me for more info.
 
@@ -205,11 +213,11 @@ I will design your custom PCB for your DIY or Maker projects. Free of charge. Co
 <br />
 
 ## Order a custom made PCB delivered at your door
-Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the buyer specifiations.
+Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the buyer specifications.
 
 Buyer will get a more porfessional PCB without usage of any fast deployment PCB modules available elsewhere on the internet, and instead, with all components built into the PCB.  
 
-Logos and markings are also delivered according to the buyer specifications. All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE certification watermark on its products and services. 
+Logos and markings are also delivered according to the buyer specifications. All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE certification watermark on his products and services. 
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/certified%20logos.png)
 
