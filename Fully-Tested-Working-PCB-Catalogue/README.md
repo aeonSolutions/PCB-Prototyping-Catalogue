@@ -11,7 +11,8 @@
 
 <br />
 This is the list of fully tested and working PCB catalogue for paid subscriptions, sponsors and patreons. 
-Advantages include ready made, fully working PCB designs and schemtic files ready to direct order for fabrication and ready to customize for specific needs and use cases. 
+Advantages include ready made, fully working PCB designs and schematic files ready to direct order for fabrication and ready to customize for specific needs and use cases. 
+
 
 **What is included**
 - access to the private repository
@@ -53,6 +54,22 @@ For both option above, is not allowed changing of branding in the PCB. All other
 - Exclusive commercial Licensing (contact me for more info). 
 
 - Buy the PCB rights and own the PCB design and schemarics (contact me for more info).
+
+**How to request access**
+
+ [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0) [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)  
+ 
+ Is quite simple, to gain access send a message on WhatsApp/Telegram or by email (mtpsilva@gmail.com) for a private access request with the following info:
+
+- usage type (commercial/non-commercial);
+- the name of the private PCB you want access to;
+- type of transfer: commercial invoice (paypal, stripe, bank transfer) or donation;
+
+You will receive a reply with the current access fee. Expect delays outside my current time zone. CET Brussels Time. 
+
+Next you can opt to be invoiced (paypal, stripe, bank transfer) or alternativly transfer as a donation. Your choice. Don't forget to include in the transfer description text that you are tranfering as a donation. Very important, or else i will have to issue a commercial invoice to you.   
+
+<br />
 
 ______________________________________________________________________________________________________________________________
 
