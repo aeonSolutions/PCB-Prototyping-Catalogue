@@ -1,19 +1,7 @@
 # Smart PCB devices for the Construction Industry
 
 
-## 7- [AeonLabs Home Automation Smart Coffee Machine Addon](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)
-This repo contains the KiCad files for the AeonLabs Home Automation Smart Coffee MAchine Addon. This PCB adds WiFi and BLE capabilities to any home or office coffee machine. Is able to :
-- control water temperature
-- order a cup of coffee (with possibility control of quantity of coffee in the cup)
--  grind coffee beans. 
-  
-To all those looking for a LCD touch solutions, this PCB features a connection to NEXTION LCD panels so one car order a cup of coffee using the LCD Touch. This PCB can be powered using 220V AC or regular 5V DC. Control of the coffee machine can be made using a 220V relays.
 
-![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/pcb_front.jpg)
-
-#### Philips Senseo Coffee Machine 
-Don't forget to checkout some cool photos of assembly on a Philips Senseo Coffee Machine [here](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/tree/main/Philips%20Senseo)
-![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/Philips%20Senseo/20220604_134341.jpg)
 
 
 ## 17 - [AeonLabs LDAD for Legrand Plexo Junction box](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo)
