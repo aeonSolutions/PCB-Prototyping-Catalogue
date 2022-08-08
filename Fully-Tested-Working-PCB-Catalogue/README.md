@@ -13,11 +13,17 @@
 This is the list of fully tested and working PCB catalogue for paid subscriptions, sponsors and patreons. 
 Advantages include ready made, fully working PCB designs and schemtic files ready to direct order for fabrication and ready to customize for specific needs and use cases. 
 
-**What is included:**
+**What is included**
 - access to the private repository
 - unlimited download of the KiCad project files
+  - fully annotated circuit schematics
+  - ready PCB design
+  - BOM components directly available on KiCad 
 - open issue tickets
-- future PCB minor revision (major revision increments not included) 
+- future PCB minor revisions (major revision increments not included) 
+- Custom firmware (only to commercial users) acording to user specifications:
+  - firmware support on Whatsapp and Telegram for the major revision hardware , i.e., all minor revisions included
+  - support on WhatsApp and Telegram how to do firmware download to the PCB
 
 Is quite simple, to gain access click on any of the sponsorship buttons available on this page (top menu, or bottom of the page) and transfer a one time fee listed for a specific private PCB repository. Don't forget to include the name of the PCB Design you want access to.
 
