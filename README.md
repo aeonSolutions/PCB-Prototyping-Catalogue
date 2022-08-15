@@ -15,7 +15,7 @@ This is the catalogue for all PCB prototyped and publicly available here on Aeon
 
 **24 PCB designs publicly available**
 
-**1 PCB design privatly available** (ondemand users)
+**1 PCB design privatly available** (subscription users)
 
 for Smart Devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
