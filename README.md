@@ -22,9 +22,10 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 
 **The most recent PCB designs added:** 
 
-Publicly available
+Is now publicly available
 
-- Revision 2.5 of the Smart Coffee Machine Add-on is now available
+- Revision 2.5 of the Smart Coffee Machine Add-on
+- Revision 2.0 of the Hot Solder Reflow Plate
 
 Privately available
 
