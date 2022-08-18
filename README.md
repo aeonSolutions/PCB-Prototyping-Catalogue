@@ -24,7 +24,7 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 
 Publicly available
 
-- Revision 1.4 of the USB to UART/USB  Firmware Downloader /Burner (now UART/USB is an selection option )
+- Revision 2.5 of the Smart Coffee Machine Add-on is now available
 
 Privately available
 
