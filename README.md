@@ -27,9 +27,14 @@ Is now publicly available
 - Revision 2.5 of the Smart Coffee Machine Add-on
 - Revision 2.0 of the Hot Solder Reflow Plate
 
-Privately available
+Privately available (subscription / donation users)
 
 - Smart Universal Junction Box PCB (dimensions: 79x31mm)
+
+** PCB status updates ***
+- AC to DC 5V 1A converter is now fully tested and working
+- DC to DC steip up converter is now fully tested and working
+- DC to DC step down converter is now fully tested and working
 
 </br>
 
