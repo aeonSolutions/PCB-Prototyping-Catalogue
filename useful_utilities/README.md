@@ -6,6 +6,10 @@ One can find here usefull utilities to use when designs on prototyping pcb elect
 
 This is an excel spreadsheet with all values of SMD resitors typically sold on AliExpress. This spreadsheet allows one to determine pair of revisyances to use for a given resistance divider (R1/R2)
 
+
+<br />
+<br />
+
 ______________________________________________________________________________________________________________________________
 ### License
 2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
