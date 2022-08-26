@@ -3,6 +3,7 @@
 One can find here usefull utilities to use when designs on prototyping pcb electronics. For instance a simple excel spreadsheet with resistance devider finder compatible with all sold on aliexpress.click on each individual file above to download .
 
 - resist divider calculator.xlsx
+
 This is an excel spreadsheet with all values of SMD resitors typically sold on AliExpress. This spreadsheet allows one to determine pair of revisyances to use for a given resistance divider (R1/R2)
 
 ______________________________________________________________________________________________________________________________
