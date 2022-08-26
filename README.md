@@ -92,6 +92,16 @@ In here one will find the following kind of solutions:
 <br />
 <br />
 
+## Usefull Utilities 
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/whatsAppTelegram.png) | One can find here usefull utilities to use when designs on prototyping pcb electronics. For instance a simple excel spreadsheet with resistance devider finder compatible with all sold on aliexpress. |
+|-------------|------|
+
+
+<br />
+<br />
+<br />
+
+
 ## Youtube Channel
 | ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/youtube.png) | Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is .... |
 |-------------|------|
