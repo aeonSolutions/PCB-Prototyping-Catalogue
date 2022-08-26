@@ -10,6 +10,25 @@ This is an excel spreadsheet with all values of SMD resitors typically sold on A
 <br />
 <br />
 
+
+## Q&A WhatsApp/Telegram Groups
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/whatsAppTelegram.png) | Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week. [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0) [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) |
+|-------------|------|
+
+
+<br />
+<br />
+<br />
+
+## Youtube Channel
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/youtube.png) | Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is .... |
+|-------------|------|
+
+
+<br />
+<br />
+<br />
+
 ______________________________________________________________________________________________________________________________
 ### License
 2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
