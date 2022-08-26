@@ -93,7 +93,7 @@ In here one will find the following kind of solutions:
 <br />
 
 ## Usefull Utilities 
-| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/whatsAppTelegram.png) | One can find here usefull utilities to use when designs on prototyping pcb electronics. For instance a simple excel spreadsheet with resistance devider finder compatible with all sold on [aliexpress](https://www.aliexpress.com/item/1005002792418456.html?spm=a2g0o.cart.0.0.22e538dayDM1YR&mp=1). |
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/excel_utils.png) | One can find here usefull utilities to use when designs on prototyping pcb electronics. For instance a simple excel spreadsheet with resistance devider finder compatible with all sold on [aliexpress](https://www.aliexpress.com/item/1005002792418456.html?spm=a2g0o.cart.0.0.22e538dayDM1YR&mp=1). |
 |-------------|------|
 
 
