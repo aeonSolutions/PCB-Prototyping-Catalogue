@@ -29,7 +29,9 @@ Is now publicly available
 
 Privately available (subscription / donation users)
 
-- Smart Universal Junction Box PCB (dimensions: 79x31mm)
+- Smart Universal Junction Box PRO (dimensions: 79x31mm)
+- Smart Coffee Machine add-on PRO
+- 12bit smart wireless DAQ PRO
 
 **PCB status updates**
 - AC to DC 5V 1A converter is now fully tested and working
