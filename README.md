@@ -40,7 +40,7 @@ Privately available (subscription / donation users)
 
 </br>
 
-In here one will find the following kind of solutions:
+**In here one will find the following kind of solutions**
 
 *Wired Connectivity*
 - CANBUS ([MCP2515](https://s.click.aliexpress.com/e/_DncRgN5), [TJA1050](https://s.click.aliexpress.com/e/_DF0Cqyb))
