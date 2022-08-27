@@ -159,7 +159,7 @@ To make any of the available PCBs here running as intented is needed to download
 <br />
 
 
-# List of publicly available PCB Designs as KiCad Project files
+# List of publicly available PCB Designs as KiCad Project files for DIY and Makers
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg)](https://www.tindie.com/stores/aeonlabs/)
 
