@@ -140,9 +140,8 @@ The DIY revision is a PCB for Do It Yourself Makers and also for electronics hob
 
 <br />
 <br />
-<br />
 
-### Assembly the Hot Solder Reflow Plate
+### Assembly of the Hot Solder Reflow Plate
 
 [![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
 
