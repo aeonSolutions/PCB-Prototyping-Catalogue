@@ -125,15 +125,17 @@ In here one will find the following kind of solutions:
 <br />
 <br />
 
-## Fully assembled PCB
-| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie. |
+## DIY vs PRO revision of PCBs
+
+The PRO revision is a fully assembled PCB ready to install and use. Is fully tested and functional. No need of soldering components. This revision is suitable to individual consumers fans of open hardware and open source, but don't have the minimum skills to assemble one for him/herself. The PRO revision is also suitable to enterprises and business owners in particular those doing IT consulting, Enterprise Digital Transgormation and even Technology Advisory.
+
+The DIY revision is a PCB for Do It Yourself users and also for electronics hobbyhobbyists and professionals. The DIY revision is a PCB that may use any pre fabricated pcb modules sold on the internet. For instance Adafruit. For instance sparkfun's modules and many more. This revision most likely has some kind of pcb bug that needs attention and correction before ordering fabrication on ALLPCB or PCBWay. This means it requires some degree of knowledge in electronics and components.
+
+| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie. |
 |-------------|------|
 
 
-The price starts at 30eur plus postage fees.
-(I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
-
-**Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Link below.**
+**Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Links below.**
 
 <br />
 <br />
