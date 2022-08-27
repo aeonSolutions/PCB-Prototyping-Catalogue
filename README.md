@@ -99,15 +99,14 @@ The DIY revision is a PCB for Do It Yourself Makers and also for electronics hob
 
 <br />
 <br />
+ Below there's a list of available Kicad Projects with PCB designs and components. Enjoy!
+<br />
+<br />
 
 **Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Links below.**
 
 <br />
-<br />
-<br />
  
- Below there's a list of available Kicad Projects with PCB designs and components. Enjoy!
-
 | [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/likeShareComment.jpg)   ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/twitter_small.png)](https://twitter.com/AeonlabsS)  | *Don't forget to **LIKE** , **SHARE** and **subscribe** the free chat groups* and if you downloaded one of AeonLabs's PCBs consider sponsor  any open hardware project with a donation or a cup of coffee. Links on the top, right side pane and below. |
 |-------------|------|
 
