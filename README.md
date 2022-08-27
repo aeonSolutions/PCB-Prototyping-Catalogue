@@ -103,7 +103,7 @@ The DIY revision is a PCB for Do It Yourself Makers and also for electronics hob
 <br />
 <br />
 
-**Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Links below.**
+**Be supportive of my dedication and work towards open hardware and buy me a cup of coffee. Links below.**
 
 <br />
  
