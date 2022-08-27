@@ -53,6 +53,10 @@ Privately available (subscription / donation users)
 *Storage*
 - Smart Edge Storage (eMMC, [Flash SPi](https://s.click.aliexpress.com/e/_DmQfH3l), [NAND Flash](https://s.click.aliexpress.com/e/_DB2PLgn))
 
+*Memory*
+- PSRAM: [LY68L6400S](https://s.click.aliexpress.com/e/_DeuatJ9)
+- DDRx RAM
+- 
 *Robotics* 
 - Step Motor Drivers ([MX08E](https://s.click.aliexpress.com/e/_DFN2CG7))
 
