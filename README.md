@@ -158,7 +158,6 @@ To make any of the available PCBs here running as intented is needed to download
 <br />
 <br />
 
-______________________________________________________________________________________________________________________
 
 # List of publicly available PCB Designs as KiCad Project files
 
