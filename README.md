@@ -83,13 +83,33 @@ Privately available (subscription / donation users)
 - ...
  
  
+ ## DIY vs PRO revision of a PCB 
+
+The PRO revision is a fully assembled PCB ready to install and use. Is fully tested and functional. No need of soldering components. This revision is suitable to individual consumers fans of open hardware and open source, but don't have the minimum skills to assemble one for him/herself. The PRO revision is suitable to enterprises and business owners in particular those doing IT consulting, Enterprise Digital Transformation and even Technology Advisory. There are two options to get a PRO smart PCB device:
+- Subscribe to the repository with the specific PCB you want (one time subscription fee to sponsor my open hardware work dedication and fairness of work). Download the Gerber files and order fabrication & components assembly on your favorite PCB factory.
+- Order one , fully assembled and ready to use directly on AeonLabs Tidie.com store. Link below.
+
+The DIY revision is a PCB for Do It Yourself Makers and also for electronics hobbyists and professionals. The DIY revision is a PCB that may use any pre fabricated pcb modules sold on the internet. For instance [Adafruit](https://www.adafruit.com/category/17). For instance [sparkfun's](https://www.sparkfun.com) modules and many more. This revision most likely has some kind of pcb bug that needs attention and correction before ordering fabrication on ALLPCB or PCBWay. This means it requires some degree of knowledge in electronics and components. Make sure to check the development status in the corresponding PCB repository. To get a DIY revision of a PCB simply navigate the publicly available repositories liested on this catalogue.
+
+<br />
+<br />
+
+| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie. |
+|-------------|------|
+
+<br />
+<br />
+
+**Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Links below.**
+
+<br />
+<br />
+<br />
+ 
  Below there's a list of available Kicad Projects with PCB designs and components. Enjoy!
 
 | [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/likeShareComment.jpg)   ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/twitter_small.png)](https://twitter.com/AeonlabsS)  | *Don't forget to **LIKE** , **SHARE** and **subscribe** the free chat groups* and if you downloaded one of AeonLabs's PCBs consider sponsor  any open hardware project with a donation or a cup of coffee. Links on the top, right side pane and below. |
 |-------------|------|
-
-
-
 
 
 <br />
@@ -126,29 +146,6 @@ Privately available (subscription / donation users)
 ### Assembly the Hot Solder Reflow Plate
 
 [![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
-
-<br />
-<br />
-<br />
-
-## DIY vs PRO revision of a PCB 
-
-The PRO revision is a fully assembled PCB ready to install and use. Is fully tested and functional. No need of soldering components. This revision is suitable to individual consumers fans of open hardware and open source, but don't have the minimum skills to assemble one for him/herself. The PRO revision is suitable to enterprises and business owners in particular those doing IT consulting, Enterprise Digital Transformation and even Technology Advisory. There are two options to get a PRO smart PCB device:
-- Subscribe to the repository with the specific PCB you want (one time subscription fee to sponsor my open hardware work dedication and fairness of work). Download the Gerber files and order fabrication & components assembly on your favorite PCB factory.
-- Order one , fully assembled and ready to use directly on AeonLabs Tidie.com store. Link below.
-
-The DIY revision is a PCB for Do It Yourself Makers and also for electronics hobbyists and professionals. The DIY revision is a PCB that may use any pre fabricated pcb modules sold on the internet. For instance [Adafruit](https://www.adafruit.com/category/17). For instance [sparkfun's](https://www.sparkfun.com) modules and many more. This revision most likely has some kind of pcb bug that needs attention and correction before ordering fabrication on ALLPCB or PCBWay. This means it requires some degree of knowledge in electronics and components. Make sure to check the development status in the corresponding PCB repository.
-
-<br />
-<br />
-
-| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie. |
-|-------------|------|
-
-<br />
-<br />
-
-**Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Links below.**
 
 <br />
 <br />
