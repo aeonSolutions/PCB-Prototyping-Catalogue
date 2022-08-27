@@ -213,13 +213,11 @@ ___________________________________________________________
 <br />
 
 ______________________________________________________________________________________________________________________________
-## Fully tested and Ready to use PCBs 
+## Fully tested and Ready to use PCBs (PRO PCB revision)
 
 This public PCB catalogue features PCB desings that are not fully tested or require minor changes to the PCB or shcematics. Suited to all DIY and Makers in electronics, however a regular user may find him/her self in need to read components datasheets before any usage of the PCB is possible. 
 
 If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my work.
-
-Is quite simple, simply click on any of sponsor buttons at the top, left side bar or at the bottom. The minimum amount to access the private repositories with PCB design files is a one time fee of 20 USD. 
 
 **What is included**
 - access to the private repository
@@ -235,7 +233,7 @@ Is quite simple, simply click on any of sponsor buttons at the top, left side ba
 
 Available private PCBs are listed above, mixed with public acessible PCBs. Or instead, access all private PCBs available [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). 
  
-Alternativly the reader can opt to be a [patreon](http://www.patreon.com/ldad). Contact me for more info.
+Alternativly one can opt to be a [patreon](http://www.patreon.com/ldad).
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
 
