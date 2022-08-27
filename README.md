@@ -139,9 +139,14 @@ The PRO revision is a fully assembled PCB ready to install and use. Is fully tes
 
 The DIY revision is a PCB for Do It Yourself Makers and also for electronics hobbyists and professionals. The DIY revision is a PCB that may use any pre fabricated pcb modules sold on the internet. For instance [Adafruit](https://www.adafruit.com/category/17). For instance [sparkfun's](https://www.sparkfun.com) modules and many more. This revision most likely has some kind of pcb bug that needs attention and correction before ordering fabrication on ALLPCB or PCBWay. This means it requires some degree of knowledge in electronics and components. Make sure to check the development status in the corresponding PCB repository.
 
+<br />
+<br />
+
 | [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie. |
 |-------------|------|
 
+<br />
+<br />
 
 **Be supportive of my dedication and work towards technology education and buy me a cup of coffee. Links below.**
 
