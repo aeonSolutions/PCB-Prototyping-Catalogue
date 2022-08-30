@@ -31,7 +31,8 @@ Privately available (subscription / donation users)
 
 - Smart Universal Junction Box PRO (79x31mm)
 - Smart Coffee Machine add-on PRO (46x46mm)
-- ATOM:  a 12bit smart wireless DAQ PRO (43x25mm)
+- ATOM:  12bit smart wireless DAQ PRO (43x25mm)
+- ATOM:  24bit smart wireless ADC DAQ PRO (43x25mm)
 
 **PCB status updates**
 - AC to DC 5V 1A converter is now fully tested and working
