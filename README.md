@@ -13,7 +13,7 @@
 # PCB Prototyping Catalogue
 This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of 
 
-**24 PCB designs publicly available**
+**28 PCB designs publicly available**
 
 **3 PCB designs privatly available** (subscription users)
 
