@@ -96,7 +96,7 @@ The DIY revision is a PCB for Do It Yourself Makers and also for electronics hob
 
 **All PCBs available are ready for**
 
-![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Zigbee_logo.png) ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png)
+![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Zigbee_logo.png) ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png) ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Logo_of_Matter_connectivity_standard.png)
 
 
 <br />
