@@ -277,8 +277,8 @@ Check this page to [learn](https://github.com/aeonSolutions/PCB-Prototyping-Cata
 ______________________________________________________________________________________________________________________________
 
 ### PCB Conceptualization and Design
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/saturnPCBdesignLogo.png)
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/kicad_logo_small.png)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/saturnPCBdesignLogo.png)](https://saturnpcb.com)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/kicad_logo_small.png)](https://www.kicad.org)
 <br />
 <br />
 <br />
