@@ -20,19 +20,21 @@ This is the catalogue for all PCB prototyped and publicly available here on Aeon
 for smart devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
 
+___________________________________________________________________________________________________________
 **The most recent PCB designs** 
 (October update)
 
-Publicly available
+- Publicly available
 
-Privately available (subscription / donation users)
+- Privately available (subscription / donation users)
 
-- Home automation: Innotech smart PCB Health & Weight Scale (direct replacement)
-- Home automation: Smart PCB for indoor plant monitoring
+  - Home automation: Innotech smart PCB Health & Weight Scale (direct replacement)
+  - Home automation: Smart PCB for indoor plant monitoring
 
-**PCB status updates**
-- USB to UART TTL pcb design does not work in USB mode. 
+- PCB status updates
+  - USB to UART TTL pcb design does not work in USB mode. 
 
+___________________________________________________________________________________________________________
 </br>
 
 **In here one will find the following kind of solutions**
