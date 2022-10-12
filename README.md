@@ -15,29 +15,24 @@ This is the catalogue for all PCB prototyped and publicly available here on Aeon
 
 **28 PCB designs publicly available**
 
-**4 PCB designs privatly available** (subscription users)
+**6 PCB designs privatly available** (subscription users)
 
 for smart devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
 
 **The most recent PCB designs added during last week:** 
 
-Is now publicly available
+**October updates**
 
-- Revision 2.5 of the DIY Smart Coffee Machine Add-on
-- Revision 2.0 of the DIY Hot Solder Reflow Plate
+Publicly available
 
 Privately available (subscription / donation users)
 
-- Smart Universal Junction Box PRO (79x31mm)
-- Smart Coffee Machine add-on PRO (46x46mm)
-- ATOM:  12bit smart wireless DAQ PRO (43x25mm)
-- ATOM:  24bit smart wireless ADC DAQ PRO (43x25mm)
+- Home automation: Innotech smart PCB Health & Weight Scale (direct replacement)
+- Home automation: Smart PCB for indoor plant monitoring
 
 **PCB status updates**
-- AC to DC 5V 1A converter is now fully tested and working
-- DC to DC steip up converter is now fully tested and working
-- DC to DC step down converter is now fully tested and working
+- USB to UART TTL pcb design does not work in USB mode. 
 
 </br>
 
