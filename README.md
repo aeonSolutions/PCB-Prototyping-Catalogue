@@ -45,7 +45,24 @@ ________________________________________________________________________________
 - USB (M-USB, USB-C)
 
 *Sensors & Sensing*
--  DAQ sensing ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL), [VL6180X](https://s.click.aliexpress.com/e/_DmCp9R5), [ACS712](https://s.click.aliexpress.com/e/_DlvK05l), [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir),  [LSM6DS3](https://s.click.aliexpress.com/e/_DCIluBv), [HX711](https://s.click.aliexpress.com/e/_DBXNAv5), [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv) , [DS1820](https://s.click.aliexpress.com/e/_DFNPD27)  )
+- Heakth and Wellbeing
+  - [AD8232](https://www.aliexpress.com/item/33017023916.html?gatewayAdapt=4itemAdapt) for Measuremrnts of Bio compatible Electromagentic fields (Heart rate, ECG, wireless attack detection for Home security)
+
+-  Temperature and Humidity
+  - ( [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL)
+  - [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv)
+  - [DS1820](https://s.click.aliexpress.com/e/_DFNPD27)  )
+-  Laser Distance
+  - [VL6180X](https://s.click.aliexpress.com/e/_DmCp9R5)
+-  Hall effect current detection
+  - [ACS712](https://s.click.aliexpress.com/e/_DlvK05l)
+-  Luminosity
+  - [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir)
+-  Accelerometer & Gyroscope
+  - [LSM6DS3](https://s.click.aliexpress.com/e/_DCIluBv)
+-  24bit ADC
+  - [HX711](https://s.click.aliexpress.com/e/_DBXNAv5)
+
 
 *Storage* (Smart Edge Storage)
 - eMMC
