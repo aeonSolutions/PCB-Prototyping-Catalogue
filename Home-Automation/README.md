@@ -1,5 +1,12 @@
 
-## [InnoTech Weight Scale by AeonLabs](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale) (soon! Stay tuned)
+## [AeonLabs Smart PCB for Home Wellbeing Assessment](https://github.com/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment) (soon! Stay tuned)
+
+Smart PCB for Home wellbeing assessment (Ligth exposure, temp. humid., Bio compatible EMF detection on glass
+
+<br>
+<br>
+
+## [InnoTech Weight Scale by AeonLabs](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale)
 
 ![](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/innotechWieghtScaleAd.jpg)
 
