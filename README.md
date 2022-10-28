@@ -13,9 +13,9 @@
 # PCB Prototype Catalogue
 This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of 
 
-**28 PCB designs publicly available**
+**29 PCB designs publicly available**
 
-**7 PCB designs privatly available** (subscription users)
+**6 PCB designs privatly available** (subscription users)
 
 for smart devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
@@ -27,10 +27,10 @@ ________________________________________________________________________________
 - Publicly available
 
   - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
-
+  - Home automation: Innotech smart PCB Health & Weight Scale (direct replacement)
+  
 - Privately available (subscription / donation users)
 
-  - Home automation: Innotech smart PCB Health & Weight Scale (direct replacement)
   - Home automation: Smart PCB for indoor plant monitoring
   - Home automation: Smart PCB for Home wellbeing assessment (Ligth exposure, temp. humid., Bio compatible EMF detection on glass windows)
 
