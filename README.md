@@ -45,7 +45,7 @@ ________________________________________________________________________________
 - Heakth and Wellbeing
   - [AD8232](https://www.aliexpress.com/item/33017023916.html?gatewayAdapt=4itemAdapt) for Measuremrnts of Bio compatible Electromagentic fields (Heart rate, ECG, wireless attack detection for Home security)
 - Temperature and Humidity
-  - SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL)
+  - [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL)
   - [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv)
   - [DS1820](https://s.click.aliexpress.com/e/_DFNPD27)  )
 - Laser Distance
