@@ -38,7 +38,14 @@ ________________________________________________________________________________
 
 *MCUs*
 - Tensilica LX6 Dual core 240 Mhz
-- Tensilica LX7 Dual Core 240 Mhz
+  - [ESP32 S2](https://s.click.aliexpress.com/e/_DmJXVSR)
+- [Tensilica LX7 Dual Core 240 Mhz](https://s.click.aliexpress.com/e/_DBhc3ER)
+  - ESP32-S3
+  - ESP32-S3R2
+  - ESP32-S3R8V
+  - ESP32-S3R8
+  - ESP32-S3FN8
+  - ESP32-S3FH4R2
 
 *Storage* (Smart Edge Storage)
 - eMMC
