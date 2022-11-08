@@ -58,6 +58,7 @@ ________________________________________________________________________________
   - [LSM6DS3](https://s.click.aliexpress.com/e/_DCIluBv)
 - 24bit ADC
   - [HX711](https://s.click.aliexpress.com/e/_DBXNAv5)
+  - [ADS1252](https://s.click.aliexpress.com/e/_DCARMm7)
 
 
 *Storage* (Smart Edge Storage)
@@ -73,6 +74,10 @@ ________________________________________________________________________________
 - Step Motor Drivers ([MX08E](https://s.click.aliexpress.com/e/_DFN2CG7))
 
 *Displays*
+- [HMI](https://www.aliexpress.com/item/1005003950708884.html?spm=a2g0o.cart.0.0.47ef38danrkSQs&mp=1)
+  - ILI9486 FT6236
+  - R61529 FT5436
+  - [ST7789 1.47"](https://s.click.aliexpress.com/e/_DcIqGFz); [ST7789 1.69"](https://s.click.aliexpress.com/e/_DBmR5IJ)
 - LCD / [OLED Display](https://s.click.aliexpress.com/e/_DFrRpPd) Electronics MIPI/DSI
 - [E-Ink](https://s.click.aliexpress.com/e/_DCYDTGB) , E-paper Display Electronics
 
