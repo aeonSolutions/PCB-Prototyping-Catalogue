@@ -85,7 +85,8 @@ ________________________________________________________________________________
   - [ILI9486 FT6236 3.5" 320x480 w/ Touch](https://www.aliexpress.com/item/1005003950708884.html?spm=a2g0o.cart.0.0.47ef38danrkSQs&mp=1)
   - [R61529 FT5436 3.5" 320x480 w/ Touch](https://www.aliexpress.com/item/1005003950708884.html?spm=a2g0o.cart.0.0.47ef38danrkSQs&mp=1)
   - [ST7789 1.47" 172x320](https://s.click.aliexpress.com/e/_DcIqGFz); [ST7789 1.69" 240x280](https://s.click.aliexpress.com/e/_DBmR5IJ)
-- LCD / [OLED Display](https://s.click.aliexpress.com/e/_DFrRpPd) Electronics MIPI/DSI
+- MIPI 1 Lane
+  - [1.39" OLED 400x400](https://s.click.aliexpress.com/e/_DFrRpPd)
 - [E-Ink](https://s.click.aliexpress.com/e/_DCYDTGB) , E-paper Display Electronics
 
 *Authentication*
