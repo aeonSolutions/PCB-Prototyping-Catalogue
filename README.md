@@ -90,6 +90,7 @@ ________________________________________________________________________________
 - MIPI 1 Lane
   - [1.39" OLED 400x400](https://s.click.aliexpress.com/e/_DFrRpPd)
 - E-Ink SPI
+  - [1.54" 152x152](https://s.click.aliexpress.com/e/_DksslqR)
   - [2.13" 212x104 Tri color](https://s.click.aliexpress.com/e/_DCYDTGB)
   - [2.9" 296x128 Tri color](https://www.aliexpress.com/item/1005004084856855.html?spm=a2g0o.order_list.0.0.6cc41802UEa7q0)
 
