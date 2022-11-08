@@ -76,6 +76,8 @@ ________________________________________________________________________________
 - 24bit ADC
   - [HX711](https://s.click.aliexpress.com/e/_DBXNAv5)
   - [ADS1252](https://s.click.aliexpress.com/e/_DCARMm7)
+  - ADS1263
+  - ADS1262
 
 *Robotics* 
 - Step Motor Drivers ([MX08E](https://s.click.aliexpress.com/e/_DFN2CG7))
@@ -140,6 +142,7 @@ ________________________________________________________________________________
   
 - Battery Management Systems (BMS)
   - [TP4056](https://www.aliexpress.com/item/1005003116984249.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)
+  - SY6982EQDC
  
  
  ## DIY vs PRO revision of a PCB 
