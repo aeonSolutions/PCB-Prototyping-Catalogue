@@ -48,7 +48,7 @@ ________________________________________________________________________________
   - [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL)
   - [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv)
   - [DS1820](https://s.click.aliexpress.com/e/_DFNPD27)
-- Laser Distance
+- Laser T.O.F.
   - [VL6180X](https://s.click.aliexpress.com/e/_DmCp9R5)
 - Hall effect current detection
   - [ACS712](https://s.click.aliexpress.com/e/_DlvK05l)
