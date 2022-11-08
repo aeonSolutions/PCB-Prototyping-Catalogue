@@ -103,9 +103,24 @@ ________________________________________________________________________________
 *Power Management*
 - Charge Pumps ([HX4002B](https://s.click.aliexpress.com/e/_DehuJvZ))
 - Boost Converters ([MT3608](https://s.click.aliexpress.com/e/_Dmlecr1))
-- [AC DC converters](https://s.click.aliexpress.com/e/_DC0rbdt)
+- AC DC converters
+  - [8W 18W 25W 36W 50W Transformer](https://s.click.aliexpress.com/e/_DC0rbdt)
+  - [HLK PMxx](https://s.click.aliexpress.com/e/_Dk7IX43)
+  - HLK-PM12 (12V 3W)
+  - HLK-PM03 (3.3V 3W)
+  - HLK-PM24(24V 3W)
+  - HLK-2M03(3.3V 2W)
+  - HLK-PM01 (5V 3W)
+  - HLK-2M05(5V 2W)
+  - HLK-2M09(9V 2W)
+  - HLK-2M12(12V 2W)
+  - HLK-5M03(3.3V 5W)
+  - HLK-5M05(5V 5W)
+  - HLK-5M09(9V 5W)
+  - HLK-5M012(12V 5W)
+  - HLK-5M24(24V 5W)
 - Battery Management Systems (BMS)
-- ...
+  - [TP4056]()
  
  
  ## DIY vs PRO revision of a PCB 
