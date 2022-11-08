@@ -101,7 +101,10 @@ ________________________________________________________________________________
 - GSM LTE 4G ([SIM7000E](https://s.click.aliexpress.com/e/_DB7kwwR))
 - WIFI 2.4Ghz , 5.0Ghz
 - Bluetooth 4.2, 5.x BLE beacon
-- 2.4Ghz RF Transmitters/ Receivers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN)
+- 2.4Ghz RF Transmitters/ Receivers
+  - [XL927](https://s.click.aliexpress.com/e/_DdxbOCT)
+  - [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN)
+  - SI24R1
 
 *Power Management*
 - Linear regulators
