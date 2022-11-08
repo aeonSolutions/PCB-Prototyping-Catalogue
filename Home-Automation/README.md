@@ -12,8 +12,14 @@ This is a PCB is being designed for a direct replacement of the one that is inst
 
 ![](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/innotechWieghtScaleAd.jpg)
 
+<br>
+<br>
+
 ## [Robot Vaccuum Cleaner by AeonLabs](https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner) (soon! Stay tuned)
 ![](https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner/blob/main/robotVacuumCleanerAd.png)
+
+<br>
+<br>
 
 ## [AeonLabs Home Automation Smart Coffee Machine Addon](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)
 This repo contains the KiCad files for the AeonLabs Home Automation Smart Coffee MAchine Addon. This PCB adds WiFi and BLE capabilities to any home or office coffee machine. Is able to :
@@ -25,17 +31,25 @@ To all those looking for a LCD touch solutions, this PCB features a connection t
 
 ![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/pcb_front.jpg)
 
+<br>
+<br>
+
 #### Philips Senseo Coffee Machine 
 Don't forget to checkout some cool photos of assembly on a Philips Senseo Coffee Machine [here](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/tree/main/Philips%20Senseo)
 ![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/Philips%20Senseo/20220604_134341.jpg)
 
-#### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
+<br>
+<br>
 
 ### [DIYPERKS DIY "Building a quality USB-C microphone"](https://github.com/aeonSolutions/DIYPERKS_microphone_project)
 This is the Gerber & KiCad files for the Youtuber DIY PERKS video "Building a quality USB-C microphone" You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=1s
 
 
 ![](https://github.com/aeonSolutions/DIYPERKS_microphone_project/blob/main/image_2021-11-08_111413.png)
+
+<br>
+<br>
+
 
 ________________________________________________________________________________________________________________
 ## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
