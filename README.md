@@ -47,7 +47,7 @@ ________________________________________________________________________________
 - Temperature and Humidity
   - [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL)
   - [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv)
-  - [DS1820](https://s.click.aliexpress.com/e/_DFNPD27)  )
+  - [DS1820](https://s.click.aliexpress.com/e/_DFNPD27)
 - Laser Distance
   - [VL6180X](https://s.click.aliexpress.com/e/_DmCp9R5)
 - Hall effect current detection
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 *Storage* (Smart Edge Storage)
 - eMMC
 - [Flash SPi](https://s.click.aliexpress.com/e/_DmQfH3l): WinBond 
-- [NAND Flash](https://s.click.aliexpress.com/e/_DB2PLgn)) SanDisk, ...
+- [NAND Flash](https://s.click.aliexpress.com/e/_DB2PLgn) SanDisk, ...
 
 *Memory*
 - PSRAM: [LY68L6400S](https://s.click.aliexpress.com/e/_DeuatJ9)
