@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 *Wired Connectivity*
 - CANBUS ([MCP2515](https://s.click.aliexpress.com/e/_DncRgN5), [TJA1050](https://s.click.aliexpress.com/e/_DF0Cqyb))
-- [Ethernet 10/10 0Mbit](https://s.click.aliexpress.com/e/_DlZVeoT)
+- [Ethernet 10/100 Mbit](https://s.click.aliexpress.com/e/_DlZVeoT)
 - USB (M-USB, USB-C)
 
 *Sensors & Sensing*
