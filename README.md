@@ -42,7 +42,8 @@ ________________________________________________________________________________
 
 *Storage* (Smart Edge Storage)
 - eMMC
-- [Flash SPi](https://s.click.aliexpress.com/e/_DmQfH3l): WinBond 
+- Flash SPI
+  - [W25Q16; W25Q32; W25Q64; W25Q80; W25Q128](https://s.click.aliexpress.com/e/_DmQfH3l); [W25Q128JVEIQ](https://www.aliexpress.com/item/1005002899650939.html?spm=a2g0o.order_list.0.0.f4ee18021SYJLk); [W25N01GVZEIG](https://s.click.aliexpress.com/e/_DkMG8yn)
 - [NAND Flash](https://s.click.aliexpress.com/e/_DB2PLgn) SanDisk, ...
 
 *Memory*
