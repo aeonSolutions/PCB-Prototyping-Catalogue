@@ -40,6 +40,15 @@ ________________________________________________________________________________
 - Tensilica LX6 Dual core 240 Mhz
 - Tensilica LX7 Dual Core 240 Mhz
 
+*Storage* (Smart Edge Storage)
+- eMMC
+- [Flash SPi](https://s.click.aliexpress.com/e/_DmQfH3l): WinBond 
+- [NAND Flash](https://s.click.aliexpress.com/e/_DB2PLgn) SanDisk, ...
+
+*Memory*
+- PSRAM: [LY68L6400S](https://s.click.aliexpress.com/e/_DeuatJ9)
+- DDRx RAM
+
 *Wired Connectivity*
 - CANBUS ([MCP2515](https://s.click.aliexpress.com/e/_DncRgN5), [TJA1050](https://s.click.aliexpress.com/e/_DF0Cqyb))
 - [Ethernet 10/100 Mbit](https://s.click.aliexpress.com/e/_DlZVeoT)
@@ -63,16 +72,6 @@ ________________________________________________________________________________
 - 24bit ADC
   - [HX711](https://s.click.aliexpress.com/e/_DBXNAv5)
   - [ADS1252](https://s.click.aliexpress.com/e/_DCARMm7)
-
-
-*Storage* (Smart Edge Storage)
-- eMMC
-- [Flash SPi](https://s.click.aliexpress.com/e/_DmQfH3l): WinBond 
-- [NAND Flash](https://s.click.aliexpress.com/e/_DB2PLgn) SanDisk, ...
-
-*Memory*
-- PSRAM: [LY68L6400S](https://s.click.aliexpress.com/e/_DeuatJ9)
-- DDRx RAM
 
 *Robotics* 
 - Step Motor Drivers ([MX08E](https://s.click.aliexpress.com/e/_DFN2CG7))
