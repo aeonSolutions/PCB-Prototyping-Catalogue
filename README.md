@@ -36,6 +36,10 @@ ________________________________________________________________________________
 
 **In here one will find the following kind of solutions**
 
+*MCUs*
+- Tensilica LX6 Dual core 240 Mhz
+- Tensilica LX7 Dual Core 240 Mhz
+
 *Wired Connectivity*
 - CANBUS ([MCP2515](https://s.click.aliexpress.com/e/_DncRgN5), [TJA1050](https://s.click.aliexpress.com/e/_DF0Cqyb))
 - [Ethernet 10/100 Mbit](https://s.click.aliexpress.com/e/_DlZVeoT)
