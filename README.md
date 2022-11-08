@@ -49,7 +49,8 @@ ________________________________________________________________________________
   - SDCard
 
 *Memory*
-- PSRAM: [LY68L6400S](https://s.click.aliexpress.com/e/_DeuatJ9)
+- PSRAM
+  - [LY68L6400S](https://s.click.aliexpress.com/e/_DeuatJ9)
 - DDRx RAM
 
 *Wired Connectivity*
