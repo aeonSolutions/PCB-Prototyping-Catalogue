@@ -87,7 +87,9 @@ ________________________________________________________________________________
   - [ST7789 1.47" 172x320](https://s.click.aliexpress.com/e/_DcIqGFz); [ST7789 1.69" 240x280](https://s.click.aliexpress.com/e/_DBmR5IJ)
 - MIPI 1 Lane
   - [1.39" OLED 400x400](https://s.click.aliexpress.com/e/_DFrRpPd)
-- [E-Ink](https://s.click.aliexpress.com/e/_DCYDTGB) , E-paper Display Electronics
+- E-Ink SPI
+  - [2.13" 212x104 Tri color](https://s.click.aliexpress.com/e/_DCYDTGB)
+  - [2.9" 296x128 Tri color](https://www.aliexpress.com/item/1005004084856855.html?spm=a2g0o.order_list.0.0.6cc41802UEa7q0)
 
 *Authentication*
 - RFID [NFC](https://s.click.aliexpress.com/e/_DEkHPRl), RFID UHF
@@ -96,7 +98,7 @@ ________________________________________________________________________________
 - GSM LTE 4G ([SIM7000E](https://s.click.aliexpress.com/e/_DB7kwwR))
 - WIFI 2.4Ghz , 5.0Ghz
 - Bluetooth 4.2, 5.x BLE beacon
-- 2.4Ghz RF Transmitters/ Receivers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN) )
+- 2.4Ghz RF Transmitters/ Receivers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN)
 
 *Power Management*
 - Charge Pumps ([HX4002B](https://s.click.aliexpress.com/e/_DehuJvZ))
