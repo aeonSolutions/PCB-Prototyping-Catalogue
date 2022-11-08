@@ -101,12 +101,25 @@ ________________________________________________________________________________
 - 2.4Ghz RF Transmitters/ Receivers ([XL927](https://s.click.aliexpress.com/e/_DdxbOCT), [Nordic NRF2901](https://s.click.aliexpress.com/e/_DCSsPLN)
 
 *Power Management*
+- Linear regulators
+  - [AMS1117](https://s.click.aliexpress.com/e/_DeDp6cP)
+  - AMS1117-1.2V
+  - AMS1117-1.5V
+  - AMS1117-1.8V
+  - AMS1117-2.5V
+  - AMS1117-3.3V
+  - AMS1117-5.0V
+  - AMS1117-ADJ
+  - [ZLDO1117G50TA](https://www.aliexpress.com/item/32680980271.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)
+  
 - Charge Pumps
   - [HX4002B](https://s.click.aliexpress.com/e/_DehuJvZ)
 
 - Boost Converters
-  - [MT3608](https://s.click.aliexpress.com/e/_Dmlecr1)
-  - [AUR9718 AUR9719](https://www.aliexpress.com/item/32905713669.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)
+  - [Step up 24V 2A MT3608](https://s.click.aliexpress.com/e/_Dmlecr1)
+
+- Buck Converter (DC/DC)
+  - [5V 1A 2.5A step down AUR9718 AUR9719](https://www.aliexpress.com/item/32905713669.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)
   
 - AC DC converters
   - [8W 18W 25W 36W 50W Transformer](https://s.click.aliexpress.com/e/_DC0rbdt)
