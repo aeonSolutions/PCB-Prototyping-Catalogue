@@ -8,6 +8,8 @@ Smart PCB for Home wellbeing assessment (Ligth exposure, temp. humid., Bio compa
 
 ## [InnoTech Weight Scale by AeonLabs](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale)
 
+This is a PCB is being designed for a direct replacement of the one that is installed on all InnoTech Weight Scales. Features a color LCD and you can connect to your home automation wihout the need of third party cloud storage. This way your health data never leaves your home*.
+
 ![](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/innotechWieghtScaleAd.jpg)
 
 ## [Robot Vaccuum Cleaner by AeonLabs](https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner) (soon! Stay tuned)
