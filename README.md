@@ -158,10 +158,12 @@ ________________________________________________________________________________
  
  ## DIY vs PRO revision of a PCB 
 
+**PRO**
 The PRO revision is a fully assembled PCB ready to install and use. Is fully tested and functional. No need of soldering components. This revision is suitable to individual consumers fans of open hardware and open source, but don't have the minimum skills to assemble one for him/herself. The PRO revision is suitable to enterprises and business owners in particular those doing IT consulting, Enterprise Digital Transformation and even Technology Advisory. There are two options to get a PRO smart PCB device:
 - Subscribe to the repository with the specific PCB you want (one time subscription fee to sponsor my open hardware work dedication and fairness of work). Download the Gerber files and order fabrication & components assembly on your favorite PCB factory.
 - Order one , fully assembled and ready to use directly on AeonLabs Tidie.com store. Link below.
 
+**DIY**
 The DIY revision is a PCB for Do It Yourself Makers and also for electronics hobbyists and professionals. The DIY revision is a PCB that may use any pre fabricated pcb modules sold on the internet. For instance [Adafruit](https://www.adafruit.com/category/17). For instance [sparkfun's](https://www.sparkfun.com) modules and many more. This revision most likely has some kind of pcb bug that needs attention and correction before ordering fabrication on ALLPCB or PCBWay. This means it requires some degree of knowledge in electronics and components. Make sure to check the development status in the corresponding PCB repository. To get a DIY revision of a PCB simply navigate the publicly available repositories liested on this catalogue.
 
 <br />
