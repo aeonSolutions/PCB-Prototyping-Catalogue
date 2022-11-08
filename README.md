@@ -75,9 +75,9 @@ ________________________________________________________________________________
 
 *Displays*
 - [HMI](https://www.aliexpress.com/item/1005003950708884.html?spm=a2g0o.cart.0.0.47ef38danrkSQs&mp=1)
-  - ILI9486 FT6236
-  - R61529 FT5436
-  - [ST7789 1.47"](https://s.click.aliexpress.com/e/_DcIqGFz); [ST7789 1.69"](https://s.click.aliexpress.com/e/_DBmR5IJ)
+  - [ILI9486 FT6236 3.5" 320x480](https://www.aliexpress.com/item/1005003950708884.html?spm=a2g0o.cart.0.0.47ef38danrkSQs&mp=1)
+  - [R61529 FT5436 3.5" 320x480](https://www.aliexpress.com/item/1005003950708884.html?spm=a2g0o.cart.0.0.47ef38danrkSQs&mp=1)
+  - [ST7789 1.47" 172x320](https://s.click.aliexpress.com/e/_DcIqGFz); [ST7789 1.69" 240x280](https://s.click.aliexpress.com/e/_DBmR5IJ)
 - LCD / [OLED Display](https://s.click.aliexpress.com/e/_DFrRpPd) Electronics MIPI/DSI
 - [E-Ink](https://s.click.aliexpress.com/e/_DCYDTGB) , E-paper Display Electronics
 
