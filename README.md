@@ -11,7 +11,7 @@
 <br />
 
 # PCB Prototype Catalogue
-This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of **35** for smart devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
+This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of **35** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
 
 ___________________________________________________________________________________________________________
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 - **6 PCB designs privatly available** (subscription users)
 
   - Home automation: Smart PCB for indoor plant monitoring
-  - Home automation: Smart PCB for Home wellbeing assessment (Ligth exposure, temp. humid., Bio compatible EMF detection on glass windows)
+  - Home automation: Smart PCB for Home wellbeing assessment (Ligtht exposure, temp. humid., Bio compatible EMF detection on glass windows)
 
 - PCB status updates
   - USB to UART TTL pcb design does not work in USB mode. 
