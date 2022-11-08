@@ -29,6 +29,12 @@ Don't forget to checkout some cool photos of assembly on a Philips Senseo Coffee
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
+### [DIYPERKS DIY "Building a quality USB-C microphone"](https://github.com/aeonSolutions/DIYPERKS_microphone_project)
+This is the Gerber & KiCad files for the Youtuber DIY PERKS video "Building a quality USB-C microphone" You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc&t=1s
+
+
+![]((https://github.com/aeonSolutions/DIYPERKS_microphone_project/blob/main/image_2021-11-08_111413.png)
+
 ________________________________________________________________________________________________________________
 ## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
 ________________________________________________________________________________________________________________
