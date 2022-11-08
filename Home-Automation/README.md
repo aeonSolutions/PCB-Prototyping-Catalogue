@@ -32,10 +32,10 @@ To all those looking for a LCD touch solutions, this PCB features a connection t
 ![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/pcb_front.jpg)
 <br>
 <br>
+
 #### Philips Senseo Coffee Machine
 Don't forget to checkout some cool photos of assembly on a Philips Senseo Coffee Machine [here](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/tree/main/Philips%20Senseo)
 ![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/Philips%20Senseo/20220604_134341.jpg)
-
 <br>
 <br>
 
