@@ -46,6 +46,8 @@ ________________________________________________________________________________
   - ESP32-S3R8
   - ESP32-S3FN8
   - ESP32-S3FH4R2
+- Atmel 
+  - AT5 SAM D21
 
 *Storage* (Smart Edge Storage)
 - eMMC
