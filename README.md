@@ -49,6 +49,9 @@ ________________________________________________________________________________
 - Atmel 
   - AT5 SAM D21
 
+*UWB Modules*
+  - HS6621 
+
 *Storage* (Smart Edge Storage)
 - eMMC
 - Flash SPI
