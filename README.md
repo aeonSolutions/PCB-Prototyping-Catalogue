@@ -52,6 +52,9 @@ ________________________________________________________________________________
 *UWB Modules*
   - HS6621 
 
+*upcoming*
+- b06zk 8918b
+
 *Storage* (Smart Edge Storage)
 - eMMC
 - Flash SPI
