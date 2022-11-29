@@ -1,7 +1,7 @@
 # Smart PCB devices for the Construction Industry
 
 
-## [Monitor Fresh Reinforced concrete Hardening (maturity)](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Harding-Strength--maturity-)
+## [Monitor Fresh Reinforced concrete Hardening (maturity)](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
 This repo contains intructions on how to assemble a smart PCB able to monitor Fresh Reinforced concrete Harding to determine concrete maturity and estimate its streght. The smart PCB is a 12bit smart DAQ. 
 
 Proposed assembly solution utilizes a LiPo 2000mAh battery and is able to monitory, in regular intraday intervals, and send data to a nearby edge server using WiFi or Bluetooth BLE for more than one month without requiring a recharge. Other smart device setup solutions are possible. For instance the one with a LiPo battery is suitable for embbeding the smart device inside the concrete element itself one wants to do monitoring. Is also possible to embbed the sensor probe into the fresh concrete while the smart DAQ encolsure is placed at the surface of the concrete element. Depending on power availablity the smart DAQ has a built in micro USB plug able to connect to any USB smartphone or tablet charger.
