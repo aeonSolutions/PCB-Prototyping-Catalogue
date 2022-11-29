@@ -19,7 +19,7 @@ ________________________________________________________________________________
 (November update)
 
 - **29 PCB designs publicly available**
-  - Construction section: Monitor Fresh Reinforced Concrete Harding/Strength (maturity)
+  - Construction section: Monitor Fresh Reinforced Concrete Hardening/Strength (maturity)
   - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
   - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
   
