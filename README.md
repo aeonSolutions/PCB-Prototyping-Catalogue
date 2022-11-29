@@ -16,7 +16,7 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 
 ___________________________________________________________________________________________________________
 **The most recent PCB designs** 
-(October update)
+(November update)
 
 - **29 PCB designs publicly available**
   - Construction section: Monitor Fresh Reinforced Concrete Harding/Strength (maturity)
