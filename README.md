@@ -19,14 +19,14 @@ ________________________________________________________________________________
 (October update)
 
 - **29 PCB designs publicly available**
-
+  - Construction section: AeonLabs Monitor Fresh Reinforced Concrete Harding/Strength (maturity)
   - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
-  - Home automation: Innotech smart PCB Health & Weight Scale (direct replacement)
+  - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
   
 - **6 PCB designs privatly available** (subscription users)
 
-  - Home automation: Smart PCB for indoor plant monitoring
-  - Home automation: Smart PCB for Home wellbeing assessment (Ligtht exposure, temp. humid., Bio compatible EMF detection on glass windows)
+  - Home automation section: Smart PCB for indoor plant monitoring
+  - Home automation section: Smart PCB for Home wellbeing assessment (Ligtht exposure, temp. humid., Bio compatible EMF detection on glass windows)
 
 - PCB status updates
   - USB to UART TTL pcb design does not work in USB mode. 
