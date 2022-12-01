@@ -11,14 +11,14 @@
 <br />
 
 # PCB Prototype Catalogue
-This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of **35** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
+This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of **36** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
 
 ___________________________________________________________________________________________________________
 **The most recent PCB designs** 
 (November update)
 
-- **29 PCB designs publicly available**
+- **30 PCB designs publicly available**
   - Construction section: Monitor Fresh Reinforced Concrete Hardening/Strength (maturity)
   - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
   - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________
 </br>
 
-**In here one will find the following kind of solutions**
+**In here one will find the following kind of components**
 
 *MCUs*
 - Tensilica LX6 Dual core 240 Mhz
@@ -74,7 +74,7 @@ ________________________________________________________________________________
 - USB (M-USB, USB-C)
 
 *Sensors & Sensing*
-- Heakth and Wellbeing
+- Health and Wellbeing
   - [AD8232](https://www.aliexpress.com/item/33017023916.html?gatewayAdapt=4itemAdapt) for Measuremrnts of Bio compatible Electromagentic fields (Heart rate, ECG, wireless attack detection for Home security)
 - Temperature and Humidity
   - [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL)
@@ -145,19 +145,19 @@ ________________________________________________________________________________
 - AC DC converters
   - [8W 18W 25W 36W 50W Transformer](https://s.click.aliexpress.com/e/_DC0rbdt)
   - [HLK PMxx](https://s.click.aliexpress.com/e/_Dk7IX43)
-  - HLK-PM12 (12V 3W)
-  - HLK-PM03 (3.3V 3W)
-  - HLK-PM24(24V 3W)
-  - HLK-2M03(3.3V 2W)
-  - HLK-PM01 (5V 3W)
-  - HLK-2M05(5V 2W)
-  - HLK-2M09(9V 2W)
-  - HLK-2M12(12V 2W)
-  - HLK-5M03(3.3V 5W)
-  - HLK-5M05(5V 5W)
-  - HLK-5M09(9V 5W)
-  - HLK-5M012(12V 5W)
-  - HLK-5M24(24V 5W)
+    - HLK-PM12 (12V 3W)
+    - HLK-PM03 (3.3V 3W)
+    - HLK-PM24(24V 3W)
+    - HLK-2M03(3.3V 2W)
+    - HLK-PM01 (5V 3W)
+    - HLK-2M05(5V 2W)
+    - HLK-2M09(9V 2W)
+    - HLK-2M12(12V 2W)
+    - HLK-5M03(3.3V 5W)
+    - HLK-5M05(5V 5W)
+    - HLK-5M09(9V 5W)
+    - HLK-5M012(12V 5W)
+    - HLK-5M24(24V 5W)
   
 - Battery Management Systems (BMS)
   - [TP4056](https://www.aliexpress.com/item/1005003116984249.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)
@@ -190,7 +190,7 @@ The DIY revision is a PCB for Do It Yourself Makers and also for electronics hob
 
 <br />
 <br />
- Below there's a list of available Kicad Projects with PCB designs and components. Enjoy!
+# Below there's a list of available Kicad Projects with PCB designs and components. Enjoy!
 <br />
 <br />
 
