@@ -14,8 +14,13 @@
 This is the catalogue for all PCB prototyped and publicly available here on AeonLab's Github. There are now a total of **36** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, fabrication or order on [Tindie](https://www.tindie.com/products/aeonlabs/).
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
 ___________________________________________________________________________________________________________
-### Current projects i've been working on...
 
+### Current projects i've been working on the past 4 weeks...
+  - Construction section: Monitor Fresh Reinforced Concrete Hardening/Strength (maturity)
+  - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
+  - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
+  - Hone automation: December revision of the Smart Coffee Machine Add-on
+  - 
 ___________________________________________________________________________________________________________
 **The most recent PCB designs** 
 (November update)
