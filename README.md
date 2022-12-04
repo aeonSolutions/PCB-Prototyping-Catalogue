@@ -24,7 +24,7 @@ ________________________________________________________________________________
   -  Industrial / Commercial: Nextion 7" LCD Touch HMI smart device add-on
   -  Home Automation: Indoor Plant Smart Device
 ___________________________________________________________________________________________________________
-**The most recent PCB designs** 
+### The most recent PCB designs 
 (November update)
 
 - **30 PCB designs publicly available**
