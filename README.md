@@ -15,6 +15,8 @@ This is the catalogue for all PCB prototyped and publicly available here on Aeon
 In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to ESP32.  
 ___________________________________________________________________________________________________________
 
+<br>
+
 ### Current projects i've been working on the past 4 weeks...
   - Construction section: Monitor Fresh Reinforced Concrete Hardening/Strength (maturity)
   - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
@@ -24,6 +26,9 @@ ________________________________________________________________________________
   -  Industrial / Commercial: Nextion 7" LCD Touch HMI smart device add-on
   -  Home Automation: Indoor Plant Smart Device
 ___________________________________________________________________________________________________________
+
+<br>
+
 ### The most recent PCB designs 
 (November update)
 
@@ -41,6 +46,7 @@ ________________________________________________________________________________
   - USB to UART TTL pcb design does not work in USB mode. 
 
 ___________________________________________________________________________________________________________
+
 </br>
 
 ### In here one will find the following kind of components
@@ -172,6 +178,7 @@ ________________________________________________________________________________
   - [TP4056](https://www.aliexpress.com/item/1005003116984249.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)
   - SY6982EQDC
  
+ <br>
  
  ## DIY vs PRO revision of a PCB 
 
