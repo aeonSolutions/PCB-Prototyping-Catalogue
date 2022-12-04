@@ -20,7 +20,8 @@ ________________________________________________________________________________
   - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
   - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
   - Hone automation: December revision of the Smart Coffee Machine Add-on
-  - 
+  - Construction section: OEM Junction Box smart device for live biulding monitoring
+  -  
 ___________________________________________________________________________________________________________
 **The most recent PCB designs** 
 (November update)
