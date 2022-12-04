@@ -22,7 +22,7 @@ ________________________________________________________________________________
   - Hone automation: December revision of the Smart Coffee Machine Add-on
   - Construction section: OEM Junction Box smart device for live biulding monitoring
   -  Industrial / Commercial: Nextion 7" LCD Touch HMI smart device add-on
-  -  
+  -  Home Automation: Indoor Plant Smart Device
 ___________________________________________________________________________________________________________
 **The most recent PCB designs** 
 (November update)
