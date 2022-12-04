@@ -43,7 +43,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________
 </br>
 
-**In here one will find the following kind of components**
+### In here one will find the following kind of components
 
 *MCUs*
 - Tensilica LX6 Dual core 240 Mhz
