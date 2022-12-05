@@ -18,13 +18,13 @@ ________________________________________________________________________________
 <br>
 
 ### Current projects i've been working on the past 4 weeks...
-  - Construction section: Monitor Fresh Reinforced Concrete Hardening/Strength (maturity)
+  - Construction section: December revision of the Monitor Fresh Reinforced Concrete Hardening/Strength (maturity)
   - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
   - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
   - Hone automation: December revision of the Smart Coffee Machine Add-on
-  - Construction section: OEM Junction Box smart device for live biulding monitoring
-  -  Industrial / Commercial: Nextion 7" LCD Touch HMI smart device add-on
-  -  Home Automation: Indoor Plant Smart Device
+  - Construction section: December revision of the OEM Junction Box smart device for live biulding monitoring
+  -  Industrial / Commercial: December revision of the Nextion 7" LCD Touch HMI smart device add-on
+  -  Home Automation: December revision of the Indoor Plant Smart Device
 ___________________________________________________________________________________________________________
 
 <br>
