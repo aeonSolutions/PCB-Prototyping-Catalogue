@@ -143,13 +143,13 @@ ________________________________________________________________________________
 *Power Management*
 - Linear regulators
   - [AMS1117](https://s.click.aliexpress.com/e/_DeDp6cP)
-  - AMS1117-1.2V
-  - AMS1117-1.5V
-  - AMS1117-1.8V
-  - AMS1117-2.5V
-  - AMS1117-3.3V
-  - AMS1117-5.0V
-  - AMS1117-ADJ
+    - AMS1117-1.2V
+    - AMS1117-1.5V
+    - AMS1117-1.8V
+    - AMS1117-2.5V
+    - AMS1117-3.3V
+    - AMS1117-5.0V
+    - AMS1117-ADJ
   - [ZLDO1117G50TA](https://www.aliexpress.com/item/32680980271.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)
   
 - Charge Pumps
