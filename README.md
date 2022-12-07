@@ -160,7 +160,7 @@ ________________________________________________________________________________
 
 - High Frequency Buck Converter (DC/DC)
   - [5V 1A 2.5A step down AUR9718 AUR9719](https://www.aliexpress.com/item/32905713669.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)
-  - [ST1S09](https://s.click.aliexpress.com/e/_DeT7V51)
+  - [5V step down ST1S09](https://s.click.aliexpress.com/e/_DeT7V51)
   
 - AC DC converters
   - [8W 18W 25W 36W 50W Transformer](https://s.click.aliexpress.com/e/_DC0rbdt)
