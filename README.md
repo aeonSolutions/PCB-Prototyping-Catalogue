@@ -110,7 +110,9 @@ ________________________________________________________________________________
   - ADS1262
 
 *Robotics* 
-- Step Motor Drivers ([MX08E](https://s.click.aliexpress.com/e/_DFN2CG7))
+- Bidirectional Motor Driver
+  - [MX08E](https://s.click.aliexpress.com/e/_DFN2CG7)
+  - [LB1930MC](https://s.click.aliexpress.com/e/_DmuwGhd)
 
 *Displays*
 - [HMI](https://www.aliexpress.com/item/1005003950708884.html?spm=a2g0o.cart.0.0.47ef38danrkSQs&mp=1)
