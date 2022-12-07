@@ -175,8 +175,9 @@ ________________________________________________________________________________
     - HLK-5M24(24V 5W)
   
 - Battery Management Systems (BMS)
-  - [TP4056](https://www.aliexpress.com/item/1005003116984249.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)
-  - SY6982EQDC
+  - [TP4056](https://www.aliexpress.com/item/1005003116984249.html?spm=a2g0o.order_list.0.0.31f31802DgakWj)\
+  - [CN3065](https://s.click.aliexpress.com/e/_DEQw3j9)
+  - [SY6982EQDC](https://s.click.aliexpress.com/e/_DD3JH8f)
  
  <br>
  
