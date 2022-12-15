@@ -1,6 +1,6 @@
 # Smart Data Acquisition Devices
 
-## [Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD](https://github.com/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint)
+## [Open Science: 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD](https://github.com/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint)
 
 This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
  
@@ -8,7 +8,7 @@ This is the repository for the 12bit Smart DAQ Device with unique data fingerpri
 
 =====================================================================================
 
-## [Open Science Research 12bit Smart DAQ Device with unique data fingerprint](https://github.com/aeonSolutions/openScienceResearch-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-)
+## [Open Science: 12bit Smart DAQ Device with unique data fingerprint](https://github.com/aeonSolutions/openScienceResearch-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-)
 
 This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
  
