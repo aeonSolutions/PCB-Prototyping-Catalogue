@@ -1,7 +1,22 @@
 # Smart Data Acquisition Devices
 
+## [Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD](https://github.com/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint)
 
-## 3- [AeonLabs LDAD NANO MAX Smart DAQ](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-MAX-Smart-DAQ)
+This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
+ 
+![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/LDAD%20fron.png)
+
+=====================================================================================
+
+## [Open Science Research 12bit Smart DAQ Device with unique data fingerprint](https://github.com/aeonSolutions/openScienceResearch-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-)
+
+This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
+ 
+![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/LDAD%20fron.png)
+
+=====================================================================================
+
+## [AeonLabs LDAD NANO MAX Smart DAQ](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-MAX-Smart-DAQ)
 This repo contains the KiCad files for the AeonLabs LDAD NANO MAX Smart DAQ and more than 20 sensors compatible with I2C protocol communication. 
  
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-MAX-Smart-DAQ/blob/main/designs/pcb.jpg)
