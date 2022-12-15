@@ -33,9 +33,13 @@ ________________________________________________________________________________
 (November update)
 
 - **31 PCB designs publicly available**
-  - Construction section: Monitor Fresh Reinforced Concrete Hardening/Strength (maturity)
-  - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
   - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
+  - Construction section: Monitor Fresh Reinforced Concrete Hardening/Strength (maturity)
+  
+  - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
+  - Open Science: 12bit Smart DAQ Device with unique data fingerprint
+  - Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
+
   
 - **6 PCB designs privatly available** (subscription users)
 
