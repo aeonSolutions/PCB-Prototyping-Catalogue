@@ -44,7 +44,7 @@ ________________________________________________________________________________
 - **6 PCB designs privatly available** (subscription users)
 
   - Home automation section: Smart PCB for indoor plant monitoring
-  - Home automation section: Smart PCB for Home wellbeing assessment (Ligtht exposure, temp. humid., Bio compatible EMF detection on glass windows)
+
 
 - PCB status updates
   - USB to UART TTL pcb design does not work in USB mode. 
