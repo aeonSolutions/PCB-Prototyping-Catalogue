@@ -30,7 +30,7 @@ ________________________________________________________________________________
 <br>
 
 ### The most recent PCB designs 
-(November update)
+(December update)
 
 - **31 PCB designs publicly available**
   - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
