@@ -95,6 +95,8 @@ ________________________________________________________________________________
 *Sensors & Sensing*
 - Health and Wellbeing
   - [AD8232](https://www.aliexpress.com/item/33017023916.html?gatewayAdapt=4itemAdapt) for Measuremrnts of Bio compatible Electromagentic fields (Heart rate, ECG, wireless attack detection for Home security)
+  - Heart rate sensor HRS3300 [datasheet](http://www.tianyihexin.com/pic/file/20170627/20170627154877337733.pdf)
+  
 - Temperature and Humidity
   - [SHT3x](https://s.click.aliexpress.com/e/_DkC7RQL)
   - [MAX6675](https://s.click.aliexpress.com/e/_Dkq3tpv)
@@ -109,6 +111,7 @@ ________________________________________________________________________________
   - [TEMT6000](https://s.click.aliexpress.com/e/_Dk5Ecir)
 - Accelerometer & Gyroscope
   - [LSM6DS3](https://s.click.aliexpress.com/e/_DCIluBv)
+  - [SC7A20](https://s.click.aliexpress.com/e/_DmCywsR)
 - 24bit ADC
   - [HX711](https://s.click.aliexpress.com/e/_DBXNAv5)
   - [ADS1252](https://s.click.aliexpress.com/e/_DCARMm7)
