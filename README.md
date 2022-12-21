@@ -56,6 +56,7 @@ ________________________________________________________________________________
 
   - Home automation section: Smart PCB for indoor plant monitoring
 
+<br>
 
 - **PCB status updates**
   - USB to UART TTL pcb design does not work in USB mode. 
