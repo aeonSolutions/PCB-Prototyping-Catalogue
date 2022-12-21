@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <br>
 
 ### Current projects i've been working on the past 4 weeks...
-  - Construction section: December revision of the Monitor Fresh Reinforced Concrete Hardening/Strength (maturity)
+  - Construction section: December revision of the Monitor Fresh Reinforced Concrete Hardening/Strength (maturity) is now [ready to use it at any construction site](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
   - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
   - Home automation section: December revision of the Innotech smart PCB Health & Weight Scale (direct replacement)
   - Hone automation: December revision of the Smart Coffee Machine Add-on
