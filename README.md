@@ -80,7 +80,9 @@ ________________________________________________________________________________
 
 <br />
 <br />
+
 # Below there's a list of available Kicad Projects with PCB designs and components. Enjoy!
+
 <br />
 <br />
 
