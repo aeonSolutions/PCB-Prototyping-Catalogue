@@ -57,8 +57,6 @@ ________________________________________________________________________________
   
 - **6 PCB designs privatly available** (subscription users)
 
-  - Home automation section: Smart PCB for indoor plant monitoring
-
 <br>
 
 - **PCB status updates**
