@@ -32,7 +32,6 @@ ________________________________________________________________________________
 
 - Home Automation: December revision of the Indoor Plant Smart Device
 - Home automation section: December revision of the Innotech smart PCB Health & Weight Scale (direct replacement)
-- Hone automation: December revision of the Smart Coffee Machine Add-on
 
 <br>
 
@@ -46,6 +45,7 @@ ________________________________________________________________________________
 (December update)
 
 - **31 PCB designs publicly available**
+  - Hone automation: December revision of the Smart Coffee Machine Add-on **has now a status of fully working**
   - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
   - Construction section: Monitor Fresh Reinforced Concrete Hardening/Strength (maturity) is now [ready to use it at any construction site](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
 
