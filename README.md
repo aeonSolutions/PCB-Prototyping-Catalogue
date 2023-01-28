@@ -21,37 +21,26 @@ ________________________________________________________________________________
 <br>
 
 ### Current projects i've been working on the past 4 weeks...
-- Construction section: December revision of the Monitor Fresh Reinforced Concrete Hardening/Strength (maturity) 
-- Construction section: December revision of the OEM Junction Box smart device for live biulding monitoring
+- Construction section: January revision of the Monitor Fresh Reinforced Concrete Hardening/Strength (maturity) 
+- Construction section: January revision of the OEM Junction Box smart device for live biulding monitoring
 
 <br>
 
-- Industrial / Commercial: December revision of the Nextion 7" LCD Touch HMI smart device add-on
-
-<br>
-
-- Home Automation: December revision of the Indoor Plant Smart Device
-- Home automation section: December revision of the Innotech smart PCB Health & Weight Scale (direct replacement)
-
-<br>
-
-- Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint
+- Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint ID
 
 ___________________________________________________________________________________________________________
 
 <br>
 
 ### The most recent PCB designs 
-(December update)
+(January update)
 
 - **31 PCB designs publicly available**
-  - Hone automation: December revision of the Smart Coffee Machine Add-on **has now a status of fully working**
-  - Home automation section: Innotech smart PCB Health & Weight Scale (direct replacement)
-  - Construction section: Monitor Fresh Reinforced Concrete Hardening/Strength (maturity) is now [ready to use it at any construction site](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
+  - Hone automation: January revision of the Smart Coffee Machine Add-on **has now a status of fully working**
+  - Construction section: January revision of of the smart Fresh Reinforced Concrete Hardening/Strength (maturity) is now [ready to use it at any construction site](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
 
-  - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
-  - Open Science: 12bit Smart DAQ Device with unique data fingerprint
-  - Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
+  - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint ID](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
+  - Open Science Research 16bit Smart DAQ Device with unique data fingerprint ID and a 1.69" TFT LCD
 
 <br>
   
