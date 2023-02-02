@@ -16,7 +16,7 @@ In my PCB projects i give preference to [EspressIF ESP32 microchip](https://s.cl
 
 Don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 
-you can fill in your [mail here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned!
+You can fill in your [mail here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned!
 ___________________________________________________________________________________________________________
 
 <br>
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 - Home Automation: February revision of the OEM Smart Indoor Wall Socket
   - for wall power outlets (direct fit inisde the outlet juction box)
   - for indoor light switch (direct fit inisde the outlet juction box)
-  - with touch LCD TFT Display for a direct replacment of the mechanical light switch   
+  - with touch LCD TFT Display for a direct replacement of the mechanical light switch   
 - Home Automation: February revison of the indoor home wellbeing and plant monitoring smart device 
 
 <br>
