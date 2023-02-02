@@ -27,7 +27,9 @@ ________________________________________________________________________________
 
 <br>
 
-- Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint ID
+- Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint ID. Two PCBs are being fabricated:
+  - the 1.69" LCD TFT PCB
+  - the 1.54" E-Ink Display PCB
 
 ___________________________________________________________________________________________________________
 
