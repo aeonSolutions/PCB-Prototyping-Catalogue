@@ -22,8 +22,11 @@ ________________________________________________________________________________
 <br>
 
 ### Current projects i've been working on the past 4 weeks...
-- Construction section: January revision of the Monitor Fresh Reinforced Concrete Hardening/Strength (maturity) 
-- Construction section: January revision of the OEM Junction Box smart device for live biulding monitoring
+- Home Automation: February revision of the OEM Smart Indoor Wall Socket
+  - for wall power outlets (direct fit inisde the outlet juction box)
+  - for indoor light switch (direct fit inisde the outlet juction box)
+  - with touch LCD TFT Display for a direct replacment of the mechanical light switch   
+- Home Automation: February revison of the indoor home wellbeing and plant monitoring smart device 
 
 <br>
 
