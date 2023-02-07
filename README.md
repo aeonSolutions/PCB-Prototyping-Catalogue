@@ -258,9 +258,13 @@ ________________________________________________________________________________
 
 
 ### PCB Fabrication
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png)](https://www.allpcb.com/?Mb_InviteId=79483)
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg)](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/eurocircuits.png)](https://be.eurocircuits.com)
+
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png" alt="Girl in a jacket" height="60">](https://www.allpcb.com/?Mb_InviteId=79483)
+
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg" alt="Girl in a jacket" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
+
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/eurocircuits.png" alt="Girl in a jacket" height="60">](https://be.eurocircuits.com)
+
 <br />
 <br />
 
