@@ -125,7 +125,7 @@ ________________________________________________________________________________
 
 ### Assembly of the Hot Solder Reflow Plate
 
-[![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
+[<img src="[https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png)" alt="" height="360">](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
 
 <br />
 <br />
@@ -133,7 +133,7 @@ ________________________________________________________________________________
 ## Firmware Download / Burner
 To make any of the available PCBs here running as intented is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
 
-![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="360">]()
 
 <br />
 <br />
@@ -141,7 +141,8 @@ To make any of the available PCBs here running as intented is needed to download
 
 # Available PCB Designs as KiCad Project files for DIY and Makers
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg)](https://www.tindie.com/stores/aeonlabs/)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/)
+
 
 This public PCB catalogue features PCB desings that are not fully tested or require minor changes to the PCB or shcematics. Suited to all DIY and Makers in electronics, however a regular user may find him/her self in need to read components datasheets before any usage of the PCB is possible.
 
@@ -216,7 +217,7 @@ Available private PCBs are listed above, mixed with public acessible PCBs. Or in
  
 Alternativly one can opt to be a [patreon](http://www.patreon.com/ldad).
 
-![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png" alt="Girl in a jacket" height="60">]()
 
 <br />
 
@@ -239,9 +240,11 @@ Buyer will get a more porfessional PCB without usage of any fast deployment PCB 
 
 Logos and markings are also delivered according to the buyer specifications. All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE certification watermark on his products and services. 
 
-![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/certified%20logos.png)
+
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/certified%20logos.png" alt="" height="60">]()
 
 Check this page to [learn](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB) more and how to [buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
+
 
 <br />
 <br />
@@ -250,11 +253,7 @@ ________________________________________________________________________________
 
 ### PCB Conceptualization and Design
 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/saturnPCBdesignLogo.png" alt="Girl in a jacket" height="60">](https://saturnpcb.com)
-
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/kicad_logo_small.png" alt="Girl in a jacket" height="60">](https://www.kicad.org)
-
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/AppCAD.jpg" alt="Girl in a jacket" height="60">](https://www.broadcom.com/appcad)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/saturnPCBdesignLogo.png" alt="" height="60">](https://saturnpcb.com) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/kicad_logo_small.png" alt="" height="60">](https://www.kicad.org) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/AppCAD.jpg" alt="" height="60">](https://www.broadcom.com/appcad)
 
 <br />
 <br />
@@ -262,11 +261,7 @@ ________________________________________________________________________________
 
 ### PCB Fabrication
 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png" alt="Girl in a jacket" height="60">](https://www.allpcb.com/?Mb_InviteId=79483)
-
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg" alt="Girl in a jacket" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
-
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/eurocircuits.png" alt="Girl in a jacket" height="60">](https://be.eurocircuits.com)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png" alt="" height="60">](https://www.allpcb.com/?Mb_InviteId=79483) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg" alt="" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/eurocircuits.png" alt="" height="60">](https://be.eurocircuits.com)
 
 <br />
 <br />
