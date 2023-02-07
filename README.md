@@ -70,9 +70,9 @@ ________________________________________________________________________________
 </br>
 
 **All PCBs available are ready for**
-
+<p align="center">
 [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Zigbee_logo.png" alt="" height="60">]() [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png" alt="" height="60">]()  [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Logo_of_Matter_connectivity_standard.png" alt="" height="60">]() 
-
+</p>
 
 <br />
 
@@ -134,7 +134,9 @@ ________________________________________________________________________________
 ## Firmware Download / Burner
 To make any of the available PCBs here running as intented is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="360">]()
+<p align="center">
+ [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="360">]()
+</p>
 
 <br />
 <br />
@@ -218,7 +220,9 @@ Available private PCBs are listed above, mixed with public acessible PCBs. Or in
  
 Alternativly one can opt to be a [patreon](http://www.patreon.com/ldad).
 
+<p align="center">
 [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png" alt="" height="360">]()
+</p>
 
 <br />
 
