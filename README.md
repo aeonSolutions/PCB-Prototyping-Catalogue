@@ -77,7 +77,7 @@ ________________________________________________________________________________
 <br />
 
 
-| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/)) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie. |
+| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie. |
 |-------------|------|
 
 <br />
@@ -126,7 +126,7 @@ ________________________________________________________________________________
 
 ### Assembly of the Hot Solder Reflow Plate
 
-[<img src="[https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png)" alt="" height="360">](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
+[<img src="https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png" alt="" height="360">](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
 
 <br />
 <br />
