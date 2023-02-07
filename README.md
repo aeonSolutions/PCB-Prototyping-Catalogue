@@ -22,6 +22,8 @@ Don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping
 
 <br>
 
+___________________________________________________________________________________________________________
+
 **Get a Notification on every PCB update**
 
 You can fill in your [mail here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned!
