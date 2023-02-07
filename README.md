@@ -217,7 +217,7 @@ Available private PCBs are listed above, mixed with public acessible PCBs. Or in
  
 Alternativly one can opt to be a [patreon](http://www.patreon.com/ldad).
 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png" alt="Girl in a jacket" height="60">]()
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png" alt="" height="360">]()
 
 <br />
 
