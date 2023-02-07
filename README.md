@@ -135,7 +135,9 @@ ________________________________________________________________________________
 To make any of the available PCBs here running as intented is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
 
 <p align="center">
+ 
  [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="360">]()
+
 </p>
 
 <br />
@@ -221,7 +223,9 @@ Available private PCBs are listed above, mixed with public acessible PCBs. Or in
 Alternativly one can opt to be a [patreon](http://www.patreon.com/ldad).
 
 <p align="center">
+ 
 [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png" alt="" height="360">]()
+
 </p>
 
 <br />
@@ -246,7 +250,9 @@ Buyer will get a more porfessional PCB without usage of any fast deployment PCB 
 Logos and markings are also delivered according to the buyer specifications. All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE certification watermark on his products and services. 
 
 <p align="center">
+ 
 [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/certified%20logos.png" alt="" height="60">]()
+
 </p>
 
 Check this page to [learn](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB) more and how to [buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
@@ -259,7 +265,9 @@ ________________________________________________________________________________
 
 ### PCB Conceptualization and Design
 <p align="center">
+ 
 [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/saturnPCBdesignLogo.png" alt="" height="60">](https://saturnpcb.com) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/kicad_logo_small.png" alt="" height="60">](https://www.kicad.org) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/AppCAD.jpg" alt="" height="60">](https://www.broadcom.com/appcad)
+
 </p>
 
 <br />
