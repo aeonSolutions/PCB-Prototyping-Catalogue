@@ -88,7 +88,7 @@ ________________________________________________________________________________
 <br />
 <br />
 
-**Be supportive of my dedication and work towards open hardware and buy me a cup of coffee. Links below.**
+**Be supportive of my dedication and work towards open hardware and buy me a cup of coffee. Links below. Above and on the side**
 
 <br />
  
