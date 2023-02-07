@@ -285,17 +285,6 @@ ________________________________________________________________________________
 <br />
 <br />
 
-______________________________________________________________________________________________________________________________
-### License
-2023 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-______________________________________________________________________________________________________________________________
-
-<br />
-<br />
-
 ## Author
 
 You can get in touch with me on my LinkedIn Profile:
@@ -327,4 +316,15 @@ Liked any of my PCB KiCad Designs? Help and Support my open work to all by becom
 In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+
+<br />
+<br />
+
+______________________________________________________________________________________________________________________________
+### License
+2023 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+______________________________________________________________________________________________________________________________
 
