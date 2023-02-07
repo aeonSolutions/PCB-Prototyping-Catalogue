@@ -105,14 +105,12 @@ ________________________________________________________________________________
 
 <br />
 <br />
-<br />
 
 ## Usefull Utilities 
 | [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/excel_utils.png)](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/useful_utilities) | One can find here usefull utilities to use when designing and prototyping pcb electronics. For instance a simple excel spreadsheet with resistance divider finder compatible with all sold on [aliexpress](https://www.aliexpress.com/item/1005002792418456.html?spm=a2g0o.cart.0.0.22e538dayDM1YR&mp=1). Click on the Excel logo to the left to get them! |
 |-------------|------|
 
 
-<br />
 <br />
 <br />
 
@@ -131,14 +129,12 @@ ________________________________________________________________________________
 
 <br />
 <br />
-<br />
 
 ## Firmware Download / Burner
 To make any of the available PCBs here running as intented is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png)
 
-<br />
 <br />
 <br />
 
@@ -249,7 +245,6 @@ Check this page to [learn](https://github.com/aeonSolutions/PCB-Prototyping-Cata
 
 <br />
 <br />
-<br />
 
 ______________________________________________________________________________________________________________________________
 
@@ -260,14 +255,12 @@ ________________________________________________________________________________
 
 <br />
 <br />
-<br />
 
 
 ### PCB Fabrication
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png)](https://www.allpcb.com/?Mb_InviteId=79483)
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg)](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/eurocircuits.png)](https://be.eurocircuits.com)
-<br />
 <br />
 <br />
 
