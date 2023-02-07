@@ -44,7 +44,6 @@ ________________________________________________________________________________
   - the 1.69" LCD TFT PCB
   - the 1.54" E-Ink Display PCB
 
-___________________________________________________________________________________________________________
 
 <br>
 
@@ -67,11 +66,10 @@ ________________________________________________________________________________
 - **PCB status updates**
   - USB to UART TTL pcb design does not work in USB mode. 
 
-___________________________________________________________________________________________________________
 
 </br>
 
-**All PCBs available are ready for**
+### All PCBs available are ready for
 <p align="center">
  <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Zigbee_logo.png" alt="" height="60"> <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png" alt="" height="60"> <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Logo_of_Matter_connectivity_standard.png" alt="" height="60">
 </p>
