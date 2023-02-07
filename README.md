@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 **All PCBs available are ready for**
 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Zigbee_logo.png" alt="" height="60">]() [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png" alt="" height="60">]() [<img src="[https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Logo_of_Matter_connectivity_standard.png)" alt="" height="60">]()
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Zigbee_logo.png" alt="" height="60">]() [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png" alt="" height="60">]()  [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Logo_of_Matter_connectivity_standard.png" alt="" height="60">]() 
 
 
 <br />
