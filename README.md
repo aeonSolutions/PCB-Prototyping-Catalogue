@@ -318,13 +318,13 @@ Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and thi
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
 
 <br />
-<br />
 
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
 
+<br>
 
 ### Support all these open hardware projects and become a patreon  
 Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
