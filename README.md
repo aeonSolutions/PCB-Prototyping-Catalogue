@@ -282,6 +282,18 @@ ________________________________________________________________________________
 <br />
 <br />
 
+## Author
+
+You can get in touch with me on my LinkedIn Profile:
+
+#### Miguel Tomas
+
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/migueltomas/)
+
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
+
+<br>
+
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
 Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
