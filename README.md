@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 **All PCBs available are ready for**
 <p align="center">
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Zigbee_logo.png" alt="" height="60">]() [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png" alt="" height="60">]()  [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Logo_of_Matter_connectivity_standard.png" alt="" height="60">]() 
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Zigbee_logo.png" alt="" height="60"> <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png" alt="" height="60"> <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Logo_of_Matter_connectivity_standard.png" alt="" height="60">
 </p>
 
 <br />
@@ -126,7 +126,11 @@ ________________________________________________________________________________
 
 ### Assembly of the Hot Solder Reflow Plate
 
-[<img src="https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png" alt="" height="360">](https://www.youtube.com/watch?v=1Q-IPH6u9Qg)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1Q-IPH6u9Qg">
+    <img src="https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png" alt="" height="360">
+  </a>
+</p>
 
 <br />
 <br />
@@ -135,9 +139,7 @@ ________________________________________________________________________________
 To make any of the available PCBs here running as intented is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
 
 <p align="center">
- 
- [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="360">]()
-
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="360">
 </p>
 
 <br />
