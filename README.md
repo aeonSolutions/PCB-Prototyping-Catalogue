@@ -273,7 +273,7 @@ Alternativly one can opt to be a [patreon](http://www.patreon.com/ldad).
 
 <p align="center">
   <a href="">
-    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png" alt="" height="360">
+    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/ownApcb.png" alt="" height="200">
   </a>
 </p>
 
