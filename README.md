@@ -37,7 +37,7 @@ Don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping
   - for indoor light switch (direct fit inisde the outlet juction box)
   - with touch LCD TFT Display for a direct replacement of the mechanical light switch   
 - Home Automation: February revison of the indoor home wellbeing and plant monitoring smart device 
-
+- (NEW !!!) Home Automation: March revison for the indoor home wireless electromagnetic wave safety smart device 
 <br>
 
 - Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint ID. Two PCBs are being fabricated:
@@ -306,7 +306,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
 
