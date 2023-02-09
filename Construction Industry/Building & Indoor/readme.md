@@ -20,10 +20,8 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb.jpg" height="150">
 </p>
 
-- [AeonLabs LDAD for Universal 60x60mm Junction box](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box)
-Smart Home Light Switch for home automation. Made to fit any universal junction box. Feature Network On/OFF switch. Up to 2 sensors. Connectivity Home CANBus; WiFi, Bluetooth, BLE. This PCB is powered with any 220V AC line.  This LDAD for universal juntion box, has already built in CANBUS Network connectivity compatible with ISO 11898-2 for data transmission (and receive) up to 1Mbit/s. Ready to deploy using [Home Assistant](https://www.home-assistant.io/) tools! 
-
-The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
+- [Smart Switch for Universal 60x60mm Junction box](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box)
+Smart Home Light Switch for home automation. Made to fit any universal junction box. Feature Network On/OFF switch. Up to 2 sensors. Connectivity Home CANBus; WiFi, Bluetooth, BLE. This PCB is powered with any 220V AC line.  This LDAD for universal juntion box, has already built in CANBUS Network connectivity compatible with ISO 11898-2 for data transmission (and receive) up to 1Mbit/s. Ready to deploy using [Home Assistant](https://www.home-assistant.io/) tools!  The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/blob/main/designs/pcb.jpg" height="150">
