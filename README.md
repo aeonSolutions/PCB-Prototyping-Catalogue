@@ -194,7 +194,6 @@ __________________________________________________________________________
 
 ## Smart Data Acquisition Devies (Smart DAQ)
 - [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
-- [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
  
 _______________________________________________________
 
