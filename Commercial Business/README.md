@@ -7,10 +7,11 @@ Features a RGB LED and a Buzzer and is designed to be mounted on existing commer
 This PCB is best suited for home automation or commercial uses for #attendances #management at a factories or offices.
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_enclosure.jpg" height="150"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-For-I2C-Sensors/blob/main/designs/pcb_enclosure.jpg" height="350"> 
+    <img src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_front.png" height="350"> 
 </p>
 
-![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_front.png)
+<br>
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
