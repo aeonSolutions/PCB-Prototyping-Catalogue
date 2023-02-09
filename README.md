@@ -155,6 +155,8 @@ This public PCB catalogue features PCB desings that are not fully tested or requ
 
 If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my open hardware work. Click [here for fully tested PCB designs and circuit chematics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
 
+__________________________________________________________________________
+
 ## [Construction](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)
 - [Building & Indoor](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20%26%20Indoor)
 - [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity)
@@ -164,6 +166,8 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 - [Smart Home Appliances](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Appliances/readme.md)
 - [Smart Home AC / Dc Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/readme.md)
 - [Smart Wireless Wave Safety](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
+
+__________________________________________________________________________
 
 ## Commercial Businesses
  - [Office Smart Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
@@ -177,6 +181,7 @@ __________________________________________________________________________
 - [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
  
 ________________________________________________
+
 ## Smart LCD Touch Displays
  - [Warehouse](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
  - [Factory Work Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
@@ -185,6 +190,8 @@ _______________________________________________________
 
 ## Vehicle Automation
  - Open CANBUS (In the make...Stay tuned.)
+
+__________________________________________________________________________
 
 ## Robotics & Industrial Automation
  - Conversational Robot Vacuum Cleaner (in the make. Stay tuned.)
