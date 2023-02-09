@@ -1,108 +1,44 @@
 # Smart PCB devices for the Construction Industry
 
+### Available PCB Designs as KiCad Project files for DIY and Makers
 
-## [Monitor Fresh Reinforced concrete Hardening (maturity)](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
-This repo contains intructions on how to assemble a smart PCB able to monitor Fresh Reinforced concrete Hardening to determine concrete maturity and estimate its streght. The smart PCB is a 12bit smart DAQ. 
-
-Proposed assembly solution utilizes a LiPo 2000mAh battery and is able to monitory, in regular intraday intervals, and send data to a nearby edge server using WiFi or Bluetooth BLE for more than one month without requiring a recharge. Other smart device setup solutions are possible. For instance the one with a LiPo battery is suitable for embbeding the smart device inside the concrete element itself one wants to do monitoring. Is also possible to embbed the sensor probe into the fresh concrete while the smart DAQ encolsure is placed at the surface of the concrete element. Depending on power availablity the smart DAQ has a built in micro USB plug able to connect to any USB smartphone or tablet charger.
-
-![](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity/blob/main/designs/pcb_front.png)
-
-<br>
-<br>
-
-##  [AeonLabs LDAD for Legrand Plexo Junction box](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo)
- #LDAD PCB for a direct fit on [Legrand Plexo](https://www.legrand.com/ecatalogue/RESIDENTIAL-BUILDINGS-AND-HOTEL-EQUIPMENT/weatherproof-wiring-accessories-and-other-installation-equipment:5/weatherproof-wiring-accessories-and-boxes:1/plexo-boxes-ip-55-ik-07-with-direct-entry-membrane-glands-650-c:12/square-boxes:2/65-x-) Junction Box with 65x65x40xmm.
-
-Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 10 sensors. This PCB is powered with any 220V AC line. If wireless is not possible this PCB is able to connect to a Home #CanBus network for data transmission (and receive) up to 1Mbit/s.
-
-The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
-
-Simple and compatible with existing tools and technologies. Can't get better than this !!! 
-
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb.jpg)
-
-<br>
-<br>
-
-## [AeonLabs LDAD for Universal 60x60mm Junction box](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box)
-Smart Home Light Switch for home automation. Made to fit any universal junction box. Feature Network On/OFF switch. Up to 2 sensors. Connectivity Home CANBus; WiFi, Bluetooth, BLE. This PCB is powered with any 220V AC line.  This LDAD for universal juntion box, has already built in CANBUS Network connectivity compatible with ISO 11898-2 for data transmission (and receive) up to 1Mbit/s. Ready to deploy using [Home Assistant](https://www.home-assistant.io/) tools! 
-
-The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
-
-![](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/blob/main/designs/pcb.jpg)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/)
 
 
+This public PCB catalogue features PCB desings that are not fully tested or require minor changes to the PCB or shcematics. Suited to all DIY and Makers in electronics, however a regular user may find him/her self in need to read components datasheets before any usage of the PCB is possible.
 
-*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
+If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my open hardware work. Click [here for fully tested PCB designs and circuit chematics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
 
-<br>
-<br>
 
-## Liked it ? Get a Free PCB for yourself
-Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
+## [Construction Industry]()
+- [Building & Indoor](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20%26%20Indoor)
+- [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity)
+- [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site)
 
-<br>
-<br>
 
-## Q&A WhatsApp Group
-If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
-[A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+## What one additionally needs
+- [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+<br />
+<br />
 
-<br>
-<br>
+## Author
 
-## Fully assembled PCB
-Alternatively, and if you do not want to build a PCB by yourself and like to buy one, you can do it here:
+You can get in touch with me on my LinkedIn Profile:
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
+#### Miguel Tomas
 
-The price will be around 30eur plus postage fees.
-(I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/migueltomas/)
 
-This PCB is a #direct fit #replacement of the one found on the internet at sale. For example here: https://s.click.aliexpress.com/e/_9wRPxz
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
 
-#### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
-
-________________________________________________________________________________________________________________
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
-________________________________________________________________________________________________________________
-
-<br>
-<br>
-
-### License
-2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-<br>
-<br>
-
-### Own a copy of this work
-if you like to own a copy of this work, you can buy it as a NFT or Ethereum. contact me for more details at mtpsilva@gmail.com
-
-=====================================================================================
-
-<br>
-<br>
-
-### PCB Fabrication
-
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png)](https://www.allpcb.com/?Mb_InviteId=79483)
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg)](https://www.pcbway.com/setinvite.aspx?inviteid=572526)
-______________________________________________________________________________________________________________________________
-
-<br>
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
 
-<br>
-<br>
+<br />
 
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
@@ -110,12 +46,19 @@ Make a donation on paypal and get a TAX refund*.
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
 
 <br>
-<br>
 
 ### Support all these open hardware projects and become a patreon  
-I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
+Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
+In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
 
+<br />
+<br />
 
+______________________________________________________________________________________________________________________________
+### License
+2023 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
