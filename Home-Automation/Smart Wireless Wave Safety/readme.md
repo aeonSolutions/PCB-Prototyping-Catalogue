@@ -26,10 +26,10 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 
-- [Indoor Smart Plant Watering with UV, IR and RGB Light Jammer]()
-- [Indoor Smart Plant Watering with UV, IR, RGB Light active monitoring and Jammer (UIRGB)]()
-- [Indoor Smart Plant Watering with UIRGB & Sonic / Sound activie monitoring (S) ]()
-- [Indoor Smart Plant Watering with UIRGB , S and active monitoring of Indoor Electromagnetic Fields (EMF) ]()
+- [Indoor Smart Plant Watering with UV, IR and RGB Light Jammer]()(soon! Stay tuned)
+- [Indoor Smart Plant Watering with UV, IR, RGB Light active monitoring and Jammer (UIRGB)]()(soon! Stay tuned)
+- [Indoor Smart Plant Watering with UIRGB & Sonic / Sound activie monitoring (S) ]()(soon! Stay tuned)
+- [Indoor Smart Plant Watering with UIRGB , S and active monitoring of Indoor Electromagnetic Fields (EMF) ]()(soon! Stay tuned)
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
