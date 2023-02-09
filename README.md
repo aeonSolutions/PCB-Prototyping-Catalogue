@@ -172,10 +172,23 @@ __________________________________________________________________________
 - [Smart Wireless Micro Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
 __________________________________________________________________________
 
-## Commercial Businesses
+## Micro & Small Enterprise Businesses
  - [Office Smart Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
  - [E-Ink / E-paper Displays for product labelling](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
  - [RFID smart tags & contacless cards](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
+
+__________________________________________________________________________
+
+## Office
+ - [Office Smart Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
+ - [E-Ink / E-paper Displays for product labelling](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
+ - [RFID smart tags & contacless cards](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md)
+ 
+ __________________________________________________________________________
+
+## Industrial Enterprise Businesses
+ - [Warehouse](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
+ - [Factory Work Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
 
 __________________________________________________________________________
 
@@ -183,12 +196,6 @@ __________________________________________________________________________
 - [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
 - [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
  
-________________________________________________
-
-## Smart LCD Touch Displays
- - [Warehouse](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
- - [Factory Work Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md)
-
 _______________________________________________________
 
 ## Vehicle Automation
