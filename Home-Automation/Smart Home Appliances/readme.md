@@ -21,9 +21,10 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 - [Garden](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
 
 - All areas
+- 
 [Robot Vaccuum Cleaner by AeonLabs](https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner) (soon! Stay tuned)
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner/blob/main/robotVacuumCleanerAd.png" height="100">
+<img src="https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner/blob/main/robotVacuumCleanerAd.png" height="150">
 </p>
 
 
