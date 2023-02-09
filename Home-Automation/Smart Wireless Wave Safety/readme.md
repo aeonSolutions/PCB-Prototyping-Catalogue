@@ -25,7 +25,7 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
-- [Indoor Smart Plant Watering]()
+
 - [Indoor Smart Plant Watering with UV, IR and RGB Light Jammer]()
 - [Indoor Smart Plant Watering with UV, IR, RGB Light active monitoring and Jammer (UIRGB)]()
 - [Indoor Smart Plant Watering with UIRGB & Sonic / Sound activie monitoring (S) ]()
