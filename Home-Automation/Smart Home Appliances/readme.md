@@ -22,8 +22,8 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 - All outdoor Areas
 - All Indoor Areas
   - [Indoor Smart Plant Watering]()
-
-[Robot Vaccuum Cleaner by AeonLabs](https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner) (soon! Stay tuned)
+  
+  - [Robot Vaccuum Cleaner by AeonLabs](https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner) (soon! Stay tuned)
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner/blob/main/robotVacuumCleanerAd.png" height="150">
 </p>
