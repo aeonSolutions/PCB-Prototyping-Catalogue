@@ -22,7 +22,7 @@ This repo contains the KiCad files for the AeonLabs Home Automation Smart Coffee
 To all those looking for a LCD touch solutions, this PCB features a connection to NEXTION LCD panels so one car order a cup of coffee using the LCD Touch. This PCB can be powered using 220V AC or regular 5V DC. Control of the coffee machine can be made using a 220V relays.
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/pcb_front.jpg" height="150">
+<img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/pcb_front.png" height="150">
 </p>
 
 ## What one additionally needs
