@@ -23,7 +23,7 @@
 - [Smart Wireless Electromagnetic Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
 - [Smart Wireless Sonic/Sound Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
 - [Smart Wireless Micro Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
-- 
+
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 <br />
