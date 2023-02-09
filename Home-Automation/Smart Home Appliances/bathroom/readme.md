@@ -14,6 +14,14 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 - [Smart Wireless Wave Safety](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Wireless%20Wave%20Safety)
 
 
+- [InnoTech Weight Scale by AeonLabs](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale)
+
+This is a PCB is being designed for a direct replacement of the one that is installed on all InnoTech Weight Scales. Features a color LCD and you can connect to your home automation wihout the need of third party cloud storage. This way your health data never leaves your home*.
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/innotechWieghtScaleAd.jpg" height="100">
+</p>
+
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
