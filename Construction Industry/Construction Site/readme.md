@@ -12,13 +12,8 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 - [Smart Wireless Wave Safety](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Wireless%20Wave%20Safety)
-- [Smart Fresh Concrete Strength Monitoring"]()
+- [Smart Fresh Concrete Strength Monitoring]()
 
-This is the Gerber & KiCad files for YouTube video "Building a quality USB-C microphone" by DIY PERKS. You can view the DIY build here : https://www.youtube.com/watch?v=LoQu3XXIayc
-
-<p align="center">
-<img src="https://github.com/aeonSolutions/DIYPERKS_microphone_project/blob/main/image_2021-11-08_111413.png" height="100">
-</p>
 
 
 ## What one additionally needs
