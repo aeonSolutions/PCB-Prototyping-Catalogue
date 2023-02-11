@@ -62,7 +62,7 @@ In my PCB projects i give preference to [EspressIF ESP32 line of microchips](htt
 <br>
 
 - **PCB status updates**
-  - USB to UART TTL pcb design does not work in USB mode. 
+  - USB to UART TTL pcb design does not work in direct USB mode. Only USB to UART. 
 
 
 </br>
