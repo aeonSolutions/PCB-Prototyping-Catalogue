@@ -23,7 +23,8 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 - All Indoor Areas
   - [Indoor Smart Plant Watering](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
   
-  This Smart Indoor plant monitoring and watering is designed to be inserted into any indoor plant vase. Is able to measure and calculate the moisture content in the vase , and when detects low water contents , activates the water pump. Is able to connect to a local home server to upload indoor temperature, humidity and air quality measurements data. This way, the owner , can have a history record database, whithout the need of expensive cloud subscritions. 
+This Smart Indoor plant monitoring and watering is designed to be inserted into any indoor plant vase. Is able to measure and calculate the moisture content in the vase, and when detects low water contents, activates the water pump. Is able to connect to a local home server to upload indoor temperature, humidity, and air quality measurement data. This way, the owner, can have a history record database, without the need for expensive cloud subscriptions.  Additionally, it features a 6 LED system composed of an ultraviolet LED, an Infrared LED and an RGB LED, when combined with multiple devices like this one in the same room is able to perform some basic light aggression protection from an unknown light source outside during the night & day. 
+
   - [Robot Vaccuum Cleaner by AeonLabs](https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner) (soon! Stay tuned)
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner/blob/main/robotVacuumCleanerAd.png" height="150">
