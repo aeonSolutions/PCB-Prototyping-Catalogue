@@ -34,7 +34,7 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
   
   - [Smart Indoor Environement GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification)
   
-  This Smart Indoor Env. GSM Cell Tower Monitor is built to do active monitoring of GSM Cell Towers nearby to look for any kind of hidden GSM/4G device repeater. Known to be used for stealing one's GSM communications data using some kind of Man-in-the-middle attack.
+  This Smart Indoor Env. GSM Cell Tower Monitor is built to do active monitoring of GSM Cell Towers nearby to look for any kind of hidden GSM/4G device repeater. Known to be used for stealing one's GSM communications data using some kind of Man-in-the-middle attack. This smart device is able to do GSM/4G radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID), which makes collected data more trustworthy of its origins.
   
   - [Smart Indoor Environement EM RF Energy Monitor & GSM 4G Cell Tower Identification]()   (soon...stay tuned!)
 
