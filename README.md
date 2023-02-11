@@ -61,7 +61,7 @@ In my PCB projects i give preference to [EspressIF ESP32 line of microchips](htt
 
 <br>
 
-**PCB status updates**
+### PCB status updates
 
 Current available PCB for the firmware downloader and updater device does not work in direct USB mode. Only USB to UART is working. 
 
