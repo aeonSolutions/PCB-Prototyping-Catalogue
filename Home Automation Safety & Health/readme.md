@@ -34,7 +34,9 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
   
   - [Smart Indoor Environement GSM 4G Cell Tower Identification]() (soon...stay tuned!)
   - [Smart Indoor Environement EM RF Energy Monitor & GSM 4G Cell Tower Identification]()   (soon...stay tuned!)
-  
+
+<br>
+
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 <br />
