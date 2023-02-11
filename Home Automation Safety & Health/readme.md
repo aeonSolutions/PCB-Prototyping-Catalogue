@@ -26,7 +26,10 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
   - [Smart Wireless with spectrometer microwave active Monitoring and analysis](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
 
 - Near Electronic Devices 
-  - [Smart Indoor Environement EM RF Energy Monitor]() 
+  - [Smart Indoor Environement EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
+  
+  This Smart Indoor Environment EM RF Energy Monitor does not solve the electromagnetic health concern one may have indoors. However, is a step forward in correctly identifying such electromagnetic disturbances nearby, for instance, when observing recurrently a mid-air energy spike, with the most common visual effect, a really small bright light flash. This smart device is able to do electromagnetic (EM) radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID),  which makes collected data more trustworthy of its origins.
+  
   - [Smart Indoor Environement GSM 4G Cell Tower Identification]()
   - [Smart Indoor Environement EM RF Energy Monitor & GSM 4G Cell Tower Identification]()  
   
