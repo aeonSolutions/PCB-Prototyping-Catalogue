@@ -32,9 +32,9 @@ In my PCB projects i give preference to [EspressIF ESP32 line of microchips](htt
 
 ### Current projects i've been working on the past 4 weeks...
 - Home Automation: February revision of the OEM Smart Indoor Wall Socket
-  - for wall power outlets (direct fit inisde the outlet juction box)
-  - for indoor light switch (direct fit inisde the outlet juction box)
-  - with touch LCD TFT Display for a direct replacement of the mechanical light switch   
+  - for  OEM wall power outlets (a direct fit to the outlet juction box)
+  - for OEM indoor light switches (a direct fit to the outlet juction box)
+    - with touch LCD TFT Display option for a direct replacement of the mechanical light switch   
 - Home Automation: February revison of the indoor home wellbeing and plant monitoring smart device 
 - (NEW !!!) Home Automation: March revison for the indoor home wireless electromagnetic wave safety smart device 
 <br>
@@ -42,7 +42,6 @@ In my PCB projects i give preference to [EspressIF ESP32 line of microchips](htt
 - Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint ID. Two PCBs are being fabricated:
   - the 1.69" LCD TFT PCB
   - the 1.54" E-Ink Display PCB
-
 
 <br>
 
