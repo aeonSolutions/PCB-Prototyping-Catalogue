@@ -17,9 +17,14 @@
 
 ## [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health)
 - Indoor Plants
+  - [Indoor Smart Plant Watering with builtin micro wave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
+  
+This Smart Indoor plant monitoring and watering is designed to be inserted into any indoor plant vase. Is able to measure and calculate the moisture content in the vase, and when detects low water contents, activates the water pump. Is able to connect to a local home server to upload indoor temperature, humidity, and air quality measurement data. This way, the owner, can have a history record database, without the need for expensive cloud subscriptions.  Additionally, it features a 6 LED system composed of an ultraviolet LED, an Infrared LED and an RGB LED, when combined with multiple devices like this one in the same room is able to perform some basic light aggression protection from an unknown light source outside during the night & day. 
+
   - [Smart Wireless Electromagnetic Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
   - [Smart Wireless Sonic/Sound Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
-  - [Smart Wireless Micro Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
+  - [Smart Wireless with spectrometer microwave active Monitoring and analysis](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md)
+
 - Near Electronic Devices 
   - [Smart Indoor Environement EM RF Energy Monitor]() 
   - [Smart Indoor Environement GSM 4G Cell Tower Identification]()
