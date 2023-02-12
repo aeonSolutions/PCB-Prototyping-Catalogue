@@ -11,8 +11,6 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
-- [Smart Wireless Wave Safety](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Wireless%20Wave%20Safety)
-
 
 - [InnoTech Weight Scale by AeonLabs](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale)
 
