@@ -158,7 +158,7 @@ __________________________________________________________________________
 
 ## [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry) (5)
 - [Building & Indoor](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20%26%20Indoor) (4)
-- [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity)
+- [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity) (2)
 - [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site) (1)
 
 <br>
