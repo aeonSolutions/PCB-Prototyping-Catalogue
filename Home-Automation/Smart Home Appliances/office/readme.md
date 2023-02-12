@@ -15,6 +15,7 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 This Addon Enables any vintage coffee machine to be connected to the internet (or only to a personal network). Can connect with any Computer, Mobile App, or Home Assistant (home automaton).
 
+,br>
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
