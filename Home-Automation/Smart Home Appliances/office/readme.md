@@ -11,8 +11,9 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
-- [Smart Wireless Wave Safety](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Wireless%20Wave%20Safety)
+- [Smart Coffee Machine Add-on](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)
 
+This Addon Enables any vintage coffee machine to be connected to the internet (or only to a personal network). Can connect with any Computer, Mobile App, or Home Assistant (home automaton).
 
 
 ## What one additionally needs
