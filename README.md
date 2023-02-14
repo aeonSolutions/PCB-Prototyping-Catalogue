@@ -213,7 +213,7 @@ ___________________________________________________________
 <br />
 
 ### Other DIY Projects and Makers
-- [Lora-based environmental monitor](https://github.com/Strooom/MuMo-V2-Node-PCB)
+- [Lora-based environmental monitor](https://github.com/Strooom/MuMo-V2-Node-PCB) by [Strooom](https://github.com/Strooom)
 ______________________________________________________________________________________________________________________________
 
 <br>
