@@ -82,7 +82,7 @@ Current available PCB design for the firmware downloader and updater device does
 <br />
 <br />
 
-# Below there's a list of available Kicad Projects with PCB designs and components. Enjoy!
+# Below there's a list of available Kicad Projects with PCB designs and circuit schematics. Enjoy!
 
 <br />
 <br />
