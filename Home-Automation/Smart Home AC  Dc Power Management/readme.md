@@ -17,6 +17,7 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+- [Android Home App](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Android-HomeApp)
 
 <br />
 <br />
