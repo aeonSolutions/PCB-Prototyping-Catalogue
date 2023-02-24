@@ -11,7 +11,8 @@
 [![GitHub Forks](https://img.shields.io/github/forks/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/aeonSolutions/PCB-Prototyping-Catalogue/fork)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
-<iframe src="https://github.com/sponsors/aeonSolutions/card" title="Sponsor aeonSolutions" height="225" width="600" style="border: 0;"></iframe>
+
+<img src="https://github.com/sponsors/aeonSolutions/button" title="Sponsor aeonSolutions" height="32" width="114">
 <br />
 
 # PCB Prototype Catalogue
