@@ -1,4 +1,4 @@
-# Smart Home AC/Dc Power Management
+# Smart Home AC Power Management
 
 ### Available PCB Designs as KiCad Project files for DIY and Makers
 
