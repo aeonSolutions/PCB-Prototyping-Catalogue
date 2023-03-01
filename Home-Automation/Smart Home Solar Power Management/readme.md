@@ -28,6 +28,15 @@ This is a simple PCB for a direct fit on commercially available blue solar cell 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/Designs/pcb_front.png" height="200">
 </p>
+
+- [Solar Cell Tiles Power Monitor for Indoor Windows](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Solar-Cell-offgrid-Power-Monitor-for-Indoor-Window-Tiles/blob/main/README.md)
+
+This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V)  with dimensions 124x124mm. This Smart Device is intended to connect with the [Single Solar Cell with one 18650 Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/README.md) and also the [Single Solar Cell with two 18650 as Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/README.md) to do active solar cell tile and battery management up to 8 solar tiles conencted together intended for indoor usage.
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Solar-Cell-offgrid-Power-Monitor-for-Indoor-Window-Tiles/blob/main/Designs/pcb_front.png" height="200">
+</p>
+
 <br>
 
 ## Compatibility
