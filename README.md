@@ -69,12 +69,27 @@ Current available PCB design for the firmware downloader and updater device does
 
 </br>
 
-### All PCBs available are ready for
+### Compatibility
+
 <p align="center">
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Zigbee_logo.png" alt="" height="60"> <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Assistant.png" alt="" height="60"> <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Logo_of_Matter_connectivity_standard.png" alt="" height="60">
+ <a href"https://www.apple.com/shop/accessories/all/homekit">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_apple_home.png" height="50">
+ </a>
+<a href="https://home.google.com"> 
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_google_home.png" height="50">
+ </a>
+<a href="https://www.home-assistant.io">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_home_assistanr.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_matter.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_zigbee.jpg" height="50">
+ </a>
 </p>
 
-<br />
+<br>
 
 
 | [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie ready to install and use. |
