@@ -18,9 +18,7 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 This is a simple PCB for a direct fit on commercially available blue solar cell tiles with dimensions 124x124mm. This PCB features one 18650 Battery management system intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office.
 
 <p align="center">
-<a href="https://s.click.aliexpress.com/e/_DCnJW0V">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/pcb_front.png" height="350">
-</a>
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/Designs/pcb_front.png" height="350">
 </p>
 
 - [Single Solar Cell with two 18650 as Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/README.md)
