@@ -9,6 +9,29 @@ This public PCB catalogue features PCB desings that are not fully tested or requ
 
 If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my open hardware work. Click [here for fully tested PCB designs and circuit chematics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
 
+<br>
+
+## Compatibility
+
+<p align="center">
+ <a href"https://www.apple.com/shop/accessories/all/homekit">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_apple_home.png" height="50">
+ </a>
+<a href="https://home.google.com"> 
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_google_home.png" height="50">
+ </a>
+<a href="https://www.home-assistant.io">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_home_assistanr.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_matter.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_zigbee.jpg" height="50">
+ </a>
+</p>
+
+<br>
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 - [Office](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances/office) (1)
