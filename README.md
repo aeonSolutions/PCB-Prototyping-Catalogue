@@ -49,7 +49,7 @@
 ### The most recent PCB designs 
 (January update)
 
-- **33 PCB designs publicly available**
+- **36 PCB designs publicly available**
   - Hone automation: January revision of the Smart Coffee Machine Add-on **has now a status of fully working**
   - Construction section: January revision of of the smart Fresh Reinforced Concrete Hardening/Strength (maturity) is now [ready to use it at any construction site](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
 
