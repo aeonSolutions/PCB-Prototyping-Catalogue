@@ -32,12 +32,19 @@
 <br>
 
 ### Current projects i've been working on the past 4 weeks...
+
 - Home Automation: February revision of the OEM Smart Indoor Wall Socket
   - for  OEM wall power outlets (a direct fit to the outlet juction box)
   - for OEM indoor light switches (a direct fit to the outlet juction box)
-    - with touch LCD TFT Display option for a direct replacement of the mechanical light switch   
-- Home Automation: February revison of the indoor home wellbeing and plant monitoring smart device 
-- (NEW !!!) Home Automation: March revison for the indoor home wireless electromagnetic wave safety smart device 
+  - with touch LCD TFT Display option for a direct replacement of the mechanical light switch   
+
+- (NEW !!!) Home Automation: March revison for the indoor home wireless electromagnetic wave safety smart device
+- (NEW !!!) Home Well-being & Safety: 
+  - Indoor Smart Plant Watering with UV, IR and RGB Light Jammer(soon! Stay tuned)
+  - Indoor Smart Plant Watering with UV, IR, RGB Light active monitoring and Jammer (UIRGB)(soon! Stay tuned)
+  - Indoor Smart Plant Watering with UIRGB & Sonic / Sound activie monitoring (S) (soon! Stay tuned)
+  - Indoor Smart Plant Watering with UIRGB , S and active monitoring of Indoor Electromagnetic Fields (EMF) (soon! Stay tuned)
+
 <br>
 
 - Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint ID. Two PCBs are being fabricated:
