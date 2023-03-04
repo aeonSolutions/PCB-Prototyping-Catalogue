@@ -60,8 +60,7 @@
   - Hone automation: January revision of the Smart Coffee Machine Add-on **has now a status of fully working**
   - Construction section: January revision of of the smart Fresh Reinforced Concrete Hardening/Strength (maturity) is now [ready to use it at any construction site](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
 
-  - [Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint ID](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo)
-  - Open Science Research 16bit Smart DAQ Device with unique data fingerprint ID and a 1.69" TFT LCD
+  - [Open Science Research 16bit Smart DAQ Device with unique data fingerprint ID and a 1.69" TFT LCD](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo) **has now a status of  fully working**
 
 <br>
   
