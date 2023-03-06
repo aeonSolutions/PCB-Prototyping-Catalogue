@@ -106,7 +106,13 @@ Current available PCB design for the firmware downloader and updater device does
 <br />
 <br />
 
-# Below there's a list of available Kicad Projects with PCB designs and circuit schematics. Enjoy!
+### Join the Beta Program
+JOin the beta program to test and debug to provide feedback, ideas, modifications, suggestions, improvements. And in return, write your own article blog or post on social media about it. See participation conditions on the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Beta-Participation-Agreement).  
+
+<br />
+<br />
+
+## Below there's a list of available Kicad Projects with PCB designs and circuit schematics. Enjoy!
 
 <br />
 <br />
