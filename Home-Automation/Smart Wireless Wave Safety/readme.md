@@ -35,7 +35,7 @@ The smart safety & health solutions available below, are for the kind of wireles
 
 **When insalling any of the solutions provided below, take action and be counscient the agression/ agressor may change to other types and kinds of "wireless devices" these smart devices below are unable to detect**.  
 
-**Always use the smart devices below conencted to a public data reposity wiht LIVE data streams. While at the same time, notice authorities and provide the web address link where the public data repository can be found**. 
+**Always use the smart devices below connected to a public data reposity wiht LIVE data streams. While at the same time, notice authorities and provide the web address link where the public data repository can be found**. Data repositories based on Harvards's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
 
 **Be advised**
 
