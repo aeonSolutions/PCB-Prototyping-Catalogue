@@ -43,7 +43,7 @@ The smart safety & health solutions available below, are for the kind of wireles
 Known open data repositories partial compatible with thsese smart devices:
 -  www.dataverse.org [partial compatible]
 -  www.figshare.com [partial compatible]
--  Dryad [not compatible; no API]
+-  www.datadryad.org [not compatible; no API]
 
 <br>
 
