@@ -14,6 +14,27 @@
 
 # Home Automation Safety & Health
 
+<br>
+
+### Safety usage of the smart devices provided below
+
+The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more. (except those with "5G" technologies)
+
+**Are not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
+
+**When installing any of the solutions provided below, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" these smart devices below are unable to detect**.  
+
+**Always use the smart devices below connected to a public data repository with LIVE data streams. While at the same time, notice authorities and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
+
+**Be advised**
+
+
+Known open data repositories partially compatible with these smart devices:
+- www.dataverse.org [partial compatible] (open firmware provided here uses a dataverse repository API)
+- www.figshare.com [partial compatible]
+- www.datadryad.org [not compatible; no API]
+
+<br>
 
 ## [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health)
 - **Indoor Plants**
