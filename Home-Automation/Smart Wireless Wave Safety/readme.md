@@ -31,11 +31,11 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 The smart safety & health solutions available below, are for the kind of wireless agression that behave like ripples in a pond. For instance Wireless electromagentic radios, including tose found on smartphones, tablets, wifi routers at home, and many more. (except those with "5G" technologies)
 
-**Are not able to detect wireless[1] targeted to a person's body and individual. For instance using some kind of beam forming device or technologies**. 
+**Are not able to detect wireless[1] targeted to a person's body and individual. For instance using some kind of beam forming device or technologies**. For example, Laser and laser like kind of devices and kind of tecnologies. 
 
-When insalling any of the solutions provided below, take action and be counscient the agression/ agressor may change to other types and kinds of "wireless devices" these smart devices below are unable to detect.  For example, Laser and laser like kind of devices and kind of tecnologies. 
+**When insalling any of the solutions provided below, take action and be counscient the agression/ agressor may change to other types and kinds of "wireless devices" these smart devices below are unable to detect**.  
 
-Always use the smart devices below conencted to a public data reposity wiht LIVE data streams. While at the same time, notice authorities and provide the web address link where the public data repository can be found. 
+**Always use the smart devices below conencted to a public data reposity wiht LIVE data streams. While at the same time, notice authorities and provide the web address link where the public data repository can be found**. 
 
 **Be advised**
 
