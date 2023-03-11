@@ -39,6 +39,12 @@ The smart safety & health solutions available below, are for the kind of wireles
 
 **Be advised**
 
+
+Known open data repositories partial compatible with thsese smart devices:
+-  www.dataverse.org [partial compqtible]
+-  www.figshare.com [partial compatible]
+-  Dryad [not compatible; no API]
+
 <br>
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
