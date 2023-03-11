@@ -31,7 +31,7 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 The smart safety & health solutions available below, are for the kind of wireless agression that behave like ripples in a pond. 
 
-**Are not able to detect wireless* targeted to a person's body and individual. For instance using a beam forming device or technology**. 
+**Are not able to detect wireless[1] targeted to a person's body and individual. For instance using some kind of beam forming device or technologies**. 
 
 When insalling any of the solutions provided below, take action and be counscient the agression/ agressor may change to other types and kinds of "wireless devices" the smart devices below are unable to detect. 
 
