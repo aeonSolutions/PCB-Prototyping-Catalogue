@@ -29,7 +29,7 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 ### Safety usage of the smart devices provied below
 
-The smart safety & health solutions available below, are for the kind of wireless agression that behave like ripples in a pond. For instance Wireless electromagentic radios, including tose found on smartphones, tablets, wifi routers at home, and many more. 
+The smart safety & health solutions available below, are for the kind of wireless agression that behave like ripples in a pond. For instance Wireless electromagentic radios, including tose found on smartphones, tablets, wifi routers at home, and many more. (except those with "5G" technologies)
 
 **Are not able to detect wireless[1] targeted to a person's body and individual. For instance using some kind of beam forming device or technologies**. 
 
