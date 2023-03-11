@@ -33,7 +33,7 @@ The smart safety & health solutions available below, are for the kind of wireles
 
 **Are not able to detect wireless[1] targeted to a person's body and individual. For instance using some kind of beam forming device or technologies**. 
 
-When insalling any of the solutions provided below, take action and be counscient the agression/ agressor may change to other types and kinds of "wireless devices" the smart devices below are unable to detect. 
+When insalling any of the solutions provided below, take action and be counscient the agression/ agressor may change to other types and kinds of "wireless devices" these smart devices below are unable to detect. 
 
 Always use the smart devices below conencted to a public data reposity wiht LIVE data streams. While at the same time, notice authorities and provide the web address link where the public data repository can be found. 
 
