@@ -23,6 +23,19 @@ This public PCB catalogue features PCB desings that are not fully tested or requ
 
 If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my open hardware work. Click [here for fully tested PCB designs and circuit chematics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
 
+### Safety usage of the smart devices provied below
+
+The smart safety & health solutions available below, are for the kind of wireless agression that behave like ripples in a pond. 
+
+**Are not able to detect targeted wireless beam forming kind of agressions**. 
+
+When insalling any of the solutions provided below, take action and be counscient the agression/ agressor may change to other types and kinds of "wireless devices" the smart devices below are unable to detect. 
+
+Always use the smart devices below conencted to a public data reposity wiht LIVE data streams. While at the same time, notice authorities and provide the web address link where the public data repository can be found. 
+
+**Be advised**
+
+<br>
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 
