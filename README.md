@@ -54,7 +54,7 @@
 <br>
 
 ### The most recent PCB designs 
-(January update)
+(February update)
 
 - **36 PCB designs publicly available**
   - Hone automation: January revision of the Smart Coffee Machine Add-on **has now a status of fully working**
