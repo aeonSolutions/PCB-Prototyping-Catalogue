@@ -15,7 +15,7 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 - [Single Monocrystalline Blue Solar Tile TDB125 Series or Parallel Connectivity 125x125mm](https://github.com/aeonSolutions/AeonLabs-FOR-A-SINGLE-Monocrystalline-Blue-Solar-Tile-TDB125-Series-or-Parallel-Connectivity-125x125)
 
-This is a simple PCB for a direct fit on commercially available [black solar cell tiles](https://s.click.aliexpress.com/e/_DCSwB9L) with dimensions 124x124mm. This PCB is intended to give support and stregth to the fragile solar tile while allowing in series or parallel connectivty with orther solar tiles. Is designed within mind installation on the top or downside of transparent glass windows at a home or office. 
+This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DmBVj69) with dimensions 124x124mm. This PCB is intended to give support and stregth to the fragile solar tile while allowing in series or parallel connectivty with orther solar tiles. Is designed within mind installation on the top or downside of transparent glass windows at a home or office. 
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-FOR-A-SINGLE-Monocrystalline-Blue-Solar-Tile-TDB125-Series-or-Parallel-Connectivity-125x125/blob/main/Designs/pcb_front.png" height="200">
