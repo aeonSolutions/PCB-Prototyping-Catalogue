@@ -1,4 +1,4 @@
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) [Smart LCD Touch Displays](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20LCD%20Touch%20Displays)
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart LCD Touch Displays](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20LCD%20Touch%20Displays)
 
 # Smart LCD Touch Displays
 
