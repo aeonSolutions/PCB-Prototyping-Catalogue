@@ -1,3 +1,8 @@
+[Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
+[Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [
+Building Smart Network Connectivity
+](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity)
+
 # Smart Technologies for Building Smart Network Connectivity
 
 ### Available PCB Designs as KiCad Project files for DIY and Makers
@@ -11,6 +16,16 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 
 ## [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity)
+
+
+
+- [Smart Device for Structural Self-Sensing Carbon Fiber Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/)
+
+This repo contains the PCB Gerber files for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring. 
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="150">
+</p>
 
 
 - [AeonLabs LDAD Essentials Temperature](https://github.com/aeonSolutions/AeonLabs-LDAD-Essentials-Temperature)
