@@ -12,7 +12,15 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 - [Smart Wireless Wave Safety](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Wireless%20Wave%20Safety)
+- [Smart Device for Structural Self-Sensing Carbon Fiber Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/)
+
 - [Smart Fresh Concrete Strength Monitoring](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
+
+This repo contains intructions on how to assemble a smart PCB able to monitor Fresh Reinforced concrete Hardening to determine concrete maturity and estimate its streght. The smart PCB is a 12bit smart DAQ. 
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity/blob/main/designs/smart%20concrete%20maturity%20inside%20transparent%20enclosure.jpeg" height="150">
+</p>
 
 This repo contains intructions on how to assemble a smart PCB able to monitor Fresh Reinforced concrete Hardening to determine concrete maturity and estimate its streght. The smart PCB is a 12bit smart DAQ. 
 
