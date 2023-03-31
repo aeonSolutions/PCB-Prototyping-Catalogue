@@ -55,16 +55,11 @@
 
 <br>
 
-### The most recent PCB designs 
+### The most recent updates 
  (March update)
-
-- **36 PCB designs publicly available**
 
   - Construction section: Firmware version 1.0.4 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
 
-<br>
-  
-- **6 PCB designs privatly available** (subscription users)
 
 <br>
 
