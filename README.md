@@ -60,7 +60,7 @@
 
 - **36 PCB designs publicly available**
 
-  - Construction section: Firmware version 1.0.4 is now available on the releases setion of the Smart Reinforced Curing Device Active Monitor with Over the Air Updates
+  - Construction section: Firmware version 1.0.4 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
 
 <br>
   
