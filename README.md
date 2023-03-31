@@ -56,16 +56,12 @@
 <br>
 
 ### The most recent PCB designs 
-(February update)
+ (March update)
 
 - **36 PCB designs publicly available**
-  - Hone automation: January revision of the Smart Coffee Machine Add-on **has now a status of fully working**
-  - Construction section: January revision of of the smart Fresh Reinforced Concrete Hardening/Strength (maturity) is now [ready to use it at any construction site](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
 
-  - [Open Science Research 16bit Smart DAQ Device with unique data fingerprint ID and a 1.69" TFT LCD](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo) **has now a status of  fully working**
+  - Construction section: Firmware version 1.0.4 is now available on the releases setion of the Smart Reinforced Curing Device Active Monitor with Over the Air Updates
 
- - Indoor Smart Plant Watering with UV, IR and RGB Light Jammer **has now a status of  fully working**
- - February revision of the OEM Smart Indoor Wall Socket for OEM indoor light switches (a direct fit to the outlet juction box) **has now a status of  partial working** (no power consumtion sensor)
 <br>
   
 - **6 PCB designs privatly available** (subscription users)
