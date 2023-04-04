@@ -59,6 +59,8 @@
  (March update)
 
   - Construction section: Firmware version 1.0.4 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
+  - [Single Solar Cell with one 18650 Battery Storage is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage)
+  - [Single Solar Cell with two 18650 as Battery Storage is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/)
 
 
 <br>
