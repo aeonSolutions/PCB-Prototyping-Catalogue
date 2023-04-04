@@ -31,7 +31,7 @@ This is a simple PCB for a direct fit on commercially available [blue solar cell
 This is a simple PCB for a direct fit on commercially available [black solar cell tiles](https://s.click.aliexpress.com/e/_DCSwB9L)  with dimensions 124x124mm. This PCB features one 18650 Battery management system intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office.
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/pcb_front.png" height="200">
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/single_battery_solar_tile_pcb_back.jpg" height="200">
 </p>
 
 - [Single Solar Cell with two 18650 as Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/README.md)
