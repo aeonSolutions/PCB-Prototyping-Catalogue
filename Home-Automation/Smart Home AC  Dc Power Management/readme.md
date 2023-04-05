@@ -16,7 +16,9 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 
 - [110-220V AC Smart Power Outlet](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/README.md)
-- 
+
+<br>
+
 - [110-220V AC Smart Power Switch](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/README.md)
 
 <p align="center">
