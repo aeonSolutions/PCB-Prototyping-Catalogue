@@ -61,8 +61,9 @@
   - Construction section: Firmware version 1.0.4 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
   - [Single Solar Cell with one 18650 Battery Storage is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage)
   - [Single Solar Cell with two 18650 as Battery Storage is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/)
-  - [110-220V AC Smart Power Outlet is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
-  - [110-220V AC Smart Power Switch is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
+  - Home automation section: [110-220V AC Smart Power Outlet is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
+  - Home automation section: [110-220V AC Smart Power Switch is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
+  - Home automation section: Firmware version 1.0.0 is now available in the releases section of the [110-220V AC Smart Power Switch for Over-the-Air Updates
 
 
 
