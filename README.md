@@ -35,23 +35,7 @@
 
 ### Current projects i've been working on the past 4 weeks...
 
-- Home Automation: February revision of the OEM Smart Indoor Wall Socket
-  - for  OEM wall power outlets (a direct fit to the outlet juction box)
-  - for OEM indoor light switches (a direct fit to the outlet juction box)
-  - with touch LCD TFT Display option for a direct replacement of the mechanical light switch   
-
-- (NEW !!!) Home Automation: March revison for the indoor home wireless electromagnetic wave safety smart device
-- (NEW !!!) Home Well-being & Safety: 
-  - Indoor Smart Plant Watering with UV, IR and RGB Light Jammer(soon! Stay tuned)
-  - Indoor Smart Plant Watering with UV, IR, RGB Light active monitoring and Jammer (UIRGB)(soon! Stay tuned)
-  - Indoor Smart Plant Watering with UIRGB & Sonic / Sound activie monitoring (S) (soon! Stay tuned)
-  - Indoor Smart Plant Watering with UIRGB , S and active monitoring of Indoor Electromagnetic Fields (EMF) (soon! Stay tuned)
-
-<br>
-
-- Proof of Concept of a Smart DAQ Device able to Upload Live Experimental Sensor Data to a Data Repository with a Unique Data Fingerprint ID. Two PCBs are being fabricated:
-  - the 1.69" LCD TFT PCB
-  - the 1.54" E-Ink Display PCB
+- [firmware prototyping]
 
 <br>
 
@@ -59,8 +43,10 @@
  (March update)
 
   - Construction section: Firmware version 1.0.4 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
+  
   - Smart Home Solar Power Management section: [Single Solar Cell with one 18650 Battery Storage is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage)
   - Smart Home Solar Power Management section: [Single Solar Cell with two 18650 as Battery Storage is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/)
+  
   - Home automation section: [110-220V AC Smart Power Outlet is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
   - Home automation section: [110-220V AC Smart Power Switch is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
   - Home automation section: Firmware version 1.0.0 is now available in the releases section of the [110-220V AC Smart Power Switch for Over-the-Air Updates
