@@ -17,7 +17,7 @@
 
 # PCB Prototype Catalogue
 ░ ░[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about conceptualization, design, and prototyping of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). <br> 
-░ ░This repository is the main catalogue for all PCB prototyped and publicly available here on GitHub. There are now a total of **43** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
+░ ░This repository is the main catalogue for all PCB prototyped and publicly available here on GitHub. There are now a total of **44** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
 ░ ░In my PCB projects i give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to EspressIF.  While the reader browses this catalogue, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 
 <br>
@@ -39,6 +39,9 @@
 
 ### The most recent updates 
  (March update)
+ 
+ **DIY & Maker**
+  - ESP32-S3 MCU Tester QFN-58
 
   **Construction section:**
   
@@ -226,9 +229,10 @@ __________________________________________________________________________
 
 ___________________________________________________________
 
-## For DIY & Makers (8)
+## For DIY & Makers (9)
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (1)
 - [120x70mm Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (1)
+- [ESP32-S3 MCU Tester QFN-58](https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/README.md) (1)
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md) (7)
 
 <br />
