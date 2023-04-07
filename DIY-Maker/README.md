@@ -8,6 +8,19 @@ This repo contains the KiCad files for the micro-USB to UART TTL PCB or USB to U
    <img src="https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/assembled.jpg" height="350"> 
 </p>
 
+<br>
+
+[ESP32-S3 MCU Tester QFN-58](https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/README.md)
+
+This is the PCB for testing QFN-58 ESP32 S3 MCUs. 
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/Designs/pcb_back.png" height=150>
+<img src="https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/Designs/pcb_front.png" height=150>  
+</p>
+
+<br>
+
 - [Solder Reflow Plate PCB](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB)
 
 Improved Kicad PCB schematics for a DIY Solder Reflow Plate from the original pcb schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
