@@ -1,5 +1,7 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart LCD Touch Displays](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20LCD%20Touch%20Displays)
 
+<br>
+
 # Smart LCD Touch Displays
 
 ## 1- [AeonLabs Nextion 7" LCD Touch PCB Addon](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-)
