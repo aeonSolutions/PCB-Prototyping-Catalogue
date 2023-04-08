@@ -1,5 +1,7 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)
 
+<br>
+
 # Smart Data Acquisition Devices
 
 ## [Open Science: 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD](https://github.com/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint)
