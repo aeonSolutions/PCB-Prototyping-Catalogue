@@ -1,3 +1,8 @@
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Smart Home Appliances](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances)  >>  [Garden](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances/Garden) 
+
+<br>
+
+
 # Smart Home Appliances for the Garden
 
 ### Available PCB Designs as KiCad Project files for DIY and Makers
