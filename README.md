@@ -215,6 +215,7 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ## Smart Data Acquisition Devies (Smart DAQ) (4)
+- [Open Scientific Research](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository)
 - [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (4)
  
 _______________________________________________________
