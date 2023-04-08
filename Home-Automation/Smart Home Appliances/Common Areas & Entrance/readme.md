@@ -1,3 +1,8 @@
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Smart Home Appliances](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances)  >>  [Common areas & Entrance](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances/Common%20Areas%20%26%20Entrance) 
+
+<br>
+
+
 # Smart Home Appliances for the Common Areas & Entrance
 
 ### Available PCB Designs as KiCad Project files for DIY and Makers
