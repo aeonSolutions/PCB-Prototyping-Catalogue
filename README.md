@@ -215,7 +215,7 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ## Smart Data Acquisition Devies (Smart DAQ) (4)
-- [Open Scientific Research](https://github.com/aeonSolutions/Open-Scientific-Research)
+- [Open Scientific Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research) (2)
 - [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (4)
  
 _______________________________________________________
