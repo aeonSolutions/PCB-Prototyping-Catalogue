@@ -20,7 +20,7 @@
 
 
 ## Smart Home Management Devices 
- - [Wall Mount 4" LCD TFT Display]()
+ - [Wall Mount 4" LCD TFT Display](https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display)
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 
