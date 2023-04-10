@@ -34,6 +34,7 @@
 ### Current projects i've been working on the past 4 weeks...
 
 - [firmware prototyping]
+- Wall Mount 4" LCD TFT Display for Smart Home Management
 
 <br>
 
