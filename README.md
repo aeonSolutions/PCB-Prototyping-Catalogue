@@ -235,7 +235,7 @@ ___________________________________________________________
 ## For DIY & Makers (9)
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (1)
 - [120x70mm Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (1)
-- [ESP32-S3 MCU Tester QFN-58](https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/README.md) (1)
+- [ESP32-S3 MCU Tester QFN-56](https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/README.md) (1)
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md) (7)
 
 <br />
