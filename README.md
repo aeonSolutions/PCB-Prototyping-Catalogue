@@ -57,7 +57,7 @@
   
   - [110-220V AC Smart Power Outlet is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
   - [110-220V AC Smart Power Switch is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
-  - Firmware version 1.0.0 is now available in the releases section of the [110-220V AC Smart Power Switch for Over-the-Air Updates
+  - Firmware version 1.0.0 is now available in the releases section of the 110-220V AC Smart Power Switch for Over-the-Air Updates
 
 
 
