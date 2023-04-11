@@ -42,7 +42,7 @@
  (March update)
  
  **DIY & Maker**
-  - ESP32-S3 MCU Tester QFN-58
+  - ESP32-S3 MCU Tester QFN-56
 
   **Construction section:**
   
