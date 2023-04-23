@@ -56,11 +56,13 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 <br />
 <br />
 
-________________________________________________________________________________________________________________
+## Other DIY / Maker similar Open projects
 
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
+- [SmaHoo 110-220V AC Smart Outlet](https://github.com/slaesh/smahoo-hw)
 
-________________________________________________________________________________________________________________
+<p align="center">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/smahoo.jpeg" width=200>
+</p>
 
 <br>
 
