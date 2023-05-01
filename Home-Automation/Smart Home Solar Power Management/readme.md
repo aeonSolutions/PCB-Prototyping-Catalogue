@@ -23,7 +23,7 @@ In regards to the solar panels , these can be assembled in a lego style kind of 
 
 <br>
 
-### current status of development
+### Current Status of Development
 
 The current status od development of this project has now the follwing preliminary conclusions:
 
