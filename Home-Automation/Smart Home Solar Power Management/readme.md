@@ -38,6 +38,11 @@ Initially i was aiming at an aditional 10 euro a month savings on the utilities 
   - Smart devices such as smartphones, tablets or any other smart appliance
   - OLED TV screens, and laptop computers
 
+more so, if is installed a home occupancy management system to monitor occupants habits:
+- to provide an optimized electicity usage schedule to each of the occupants
+- to detect empty an room/ compartment
+- to regulate light intensity during eveings and at night before going to bed.  Syncronizing with the human biological clock cycles.   
+
 <br>
 
 ### Available PCB Designs as KiCad Project files for DIY and Makers
