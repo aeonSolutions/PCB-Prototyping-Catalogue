@@ -5,6 +5,26 @@
 
 # Smart Home Solar Power Management
 
+## The problem
+
+Nowadays, installing solar pjotovoltaic panels on big city buildings is limited to the roof area of the building. This means little power genration capabilities for enrgy savings when considering each individual appartment.
+
+
+<br>
+
+### The idea
+
+The idea of this "Smart Home Solar Power Management" Project is to develop simple components and accessories that enable easy, "for dummies" kind of instaltion of solar photovoltaic cells. For that to happen is required instalation of one or two aditional electrical wiring in the appartment's electrical wiring . Staring with a 5V DC wiring suitable for most small home appliances such as vacumm cleaners, smartphones, tablets , and any other smart device or thecholoy. And another with 12V DC suited for computers , gaming consoles and OLED TV displays. 
+
+Energy staorage methodology follows a decentalized architecute of instalation, where each individual room or compartment has its own "independent" battery storage up to 40.000mAh.  All conencted to any Smart Home device i make available here on my Github.  
+  
+
+<br>
+
+### current status of development
+
+
+<br>
 
 ### Available PCB Designs as KiCad Project files for DIY and Makers
 
