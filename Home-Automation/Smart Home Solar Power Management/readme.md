@@ -7,22 +7,36 @@
 
 ## The problem
 
-Nowadays, installing solar pjotovoltaic panels on big city buildings is limited to the roof area of the building. This means little power genration capabilities for enrgy savings when considering each individual appartment.
+Nowadays, installing solar photovoltaic panels on big city buildings is limited to the roof area of the building. This means little power generation capabilities for energy savings when considering each individual apartment.
 
 
 <br>
 
 ### The idea
 
-The idea of this "Smart Home Solar Power Management" Project is to develop simple components and accessories that enable easy, "for dummies" kind of instaltion of solar photovoltaic cells. For that to happen is required instalation of one or two aditional electrical wiring in the appartment's electrical wiring . Staring with a 5V DC wiring suitable for most small home appliances such as vacumm cleaners, smartphones, tablets , and any other smart device or thecholoy. And another with 12V DC suited for computers , gaming consoles and OLED TV displays. 
+The idea of this "Smart Home Solar Power Management" Project is to develop simple components and accessories that enable easy, "for dummies" kind of installation of solar photovoltaic cells. For that to happen is required installation of one or two additional electrical wiring in the apartment's electrical wiring . Staring with a 5V DC wiring suitable for most small home appliances such as vacuum cleaners, smartphones, tablets , and any other smart device or technology. And another with 12V DC suited for computers , gaming consoles and OLED TV displays. 
 
-Energy staorage methodology follows a decentalized architecute of instalation, where each individual room or compartment has its own "independent" battery storage up to 40.000mAh.  All conencted to any Smart Home device i make available here on my Github.  
+Energy storage methodology follows a decentralized architecture of installation, where each individual room or compartment has its own "independent" battery storage up to 40.000mAh.  All connected to any Smart Home device i make available here on my GitHub.  
+
+In regards to the solar panels , these can be assembled in a lego style kind of way. Due to the reduced photovoltaic solar cells, can be assmbled into any shapre or area. For instance glass door windows and doors. For instance in a terrasse or a terrasse exterior wall regardelsss of floor area shape.  
   
 
 <br>
 
 ### current status of development
 
+The current status od development of this project has now the follwing preliminary conclusions:
+
+- A dressing room with an area of 20-25 m2 and with a glass window where the sun shines onlu in early morning can be powered 
+  - by a single photovoltaic 6V DC solar cell for micro LED illumibation usages of up to 5 to 10min a day and at night. 
+- A bathroom with an area of 20-25 m2 , indoors no glass widnows , with glossy tile walls , micro LED illumination produces the best light
+
+Initially i was aiming at an aditional 10 euro a month savings on the utilities bill , however, recent prototypes show that is possible to repurpose any appartment on any big city to become indepentent of the main power grid for the follwing home appliances :
+
+  - indoor ilumination
+  - small home appliances such as a battery powered vacuum cleaner , manual operated or a robot
+  - Smart devices such as smartphones, tablets or any other smart appliance
+  - OLED TV screens, and laptop computers
 
 <br>
 
