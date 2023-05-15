@@ -1,3 +1,8 @@
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>  [Solar Power for Smart Homes](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management)  >>  Solar Cells for Home Automation
+
+<br>
+
+
 ## [Solar Cells for Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 
 - [Single Monocrystalline Blue Solar Tile TDB125 Series or Parallel Connectivity 125x125mm](https://github.com/aeonSolutions/AeonLabs-FOR-A-SINGLE-Monocrystalline-Blue-Solar-Tile-TDB125-Series-or-Parallel-Connectivity-125x125)
