@@ -92,6 +92,15 @@ This is a simple PCB for a direct fit on commercially available [blue solar cell
 
 <br>
 
+- [78x39mm solar cell](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main)
+
+
+- [Distributed Power Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/)
+
+
+
+<br>
+
 ## Compatibility
 
 <p align="center">
