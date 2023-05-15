@@ -44,9 +44,6 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
 ### The most recent updates 
  (April update)
  
- **DIY & Maker**
-  - ESP32-S3 MCU Tester QFN-56
-
   **Construction section:**
   
   - Firmware version 1.0.16 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
