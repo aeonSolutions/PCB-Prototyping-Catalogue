@@ -50,7 +50,7 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
   
   **Smart Home Solar Power Management section**
   
-- 78x39mm Solar Cell
+- Started the 78x39mm Solar Cell prototyping project
   
 
 <br>
