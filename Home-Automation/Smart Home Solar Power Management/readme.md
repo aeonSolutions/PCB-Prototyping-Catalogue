@@ -57,52 +57,11 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
 
-- [Single Monocrystalline Blue Solar Tile TDB125 Series or Parallel Connectivity 125x125mm](https://github.com/aeonSolutions/AeonLabs-FOR-A-SINGLE-Monocrystalline-Blue-Solar-Tile-TDB125-Series-or-Parallel-Connectivity-125x125)
-
-This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DmBVj69) with dimensions 124x124mm. This PCB is intended to give support and stregth to the fragile solar tile while allowing in series or parallel connectivty with orther solar tiles. Is designed within mind installation on the top or downside of transparent glass windows at a home or office. 
-
-<p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-FOR-A-SINGLE-Monocrystalline-Blue-Solar-Tile-TDB125-Series-or-Parallel-Connectivity-125x125/blob/main/Designs/pcb_front.png" height="200">
-</p>
 
 
-- [Single Solar Cell with one 18650 Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/README.md)
-
-This is a simple PCB for a direct fit on commercially available [black solar cell tiles](https://s.click.aliexpress.com/e/_DCSwB9L)  with dimensions 124x124mm. This PCB features one 18650 Battery management system intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office.
-
-<p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/single_battery_solar_tile_pcb_back.jpg" height="200">
-</p>
-
-- [Single Solar Cell with two 18650 as Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/README.md)
-
-This is a simple PCB for a direct fit on commercially available  [black solar cell tiles](https://s.click.aliexpress.com/e/_DCSwB9L)  with dimensions 124x124mm. This PCB features two 18650 Battery management system intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office.
-
-<p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/Designs/double_battery_solar_tile_pcb_back.jpg" height="200">
-</p>
-
-- [Solar Cell Tiles Power Monitor for Indoor Windows](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Solar-Cell-offgrid-Power-Monitor-for-Indoor-Window-Tiles/blob/main/README.md)
-
-This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V)  and [black solar cell tiles](https://s.click.aliexpress.com/e/_DCSwB9L). This Smart Device is intended to connect with the [Single Solar Cell with one 18650 Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/README.md) and also the [Single Solar Cell with two 18650 as Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/README.md) to do active solar cell tile and battery management up to 8 solar tiles conencted together (indoor usage).
-
-<p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Solar-Cell-offgrid-Power-Monitor-for-Indoor-Window-Tiles/blob/main/Designs/pcb_front.png" height="200">
-</p>
-
-<br>
-
-- [78x39mm solar cell](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main)
-
-This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DlwnoeN)  with dimensions 78x39mm. This Smart Device is intended to be connected to the [distributed Indoors power storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) and installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For insatnce [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
-
-<p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_front.jpg" height="350">
- <img src= "https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_back.jpg" height="350">
-</p>
-
-
-- [Distributed Power Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/)
+- [Solar Cells for Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/solar%20Cells/readme.md)
+- 
+- [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/)
 
 
 
