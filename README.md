@@ -20,7 +20,7 @@
 ░ ░[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about conceptualization, design, and prototyping of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). 
 
 
-░ ░This repository is the main catalogue for all PCB prototyped and publicly available here on GitHub. There are now a total of **45** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
+░ ░This repository is the main catalogue for all PCB prototyped and publicly available here on GitHub. There are now a total of **46** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
 ░ ░In my PCB projects i give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to EspressIF.  While the reader browses this catalogue, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 
 Make sure to also check my Open Source Software Catalogue [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
@@ -37,7 +37,7 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
 ### Current projects i've been working on the past 4 weeks...
 
 - [firmware prototyping]
-- Wall Mount 4" LCD TFT Display for Smart Home Management
+- Indoor Solar Power
 
 <br>
 
@@ -49,20 +49,12 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
 
   **Construction section:**
   
-  - Firmware version 1.0.4 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
+  - Firmware version 1.0.16 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
   
   **Smart Home Solar Power Management section**
   
-  - [Single Solar Cell with one 18650 Battery Storage is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage)
-  - [Single Solar Cell with two 18650 as Battery Storage is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/)
+- 78x39mm Solar Cell
   
-  **Home automation section:**
-  
-  - [110-220V AC Smart Power Outlet is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
-  - [110-220V AC Smart Power Switch is now fully tested and working](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet)
-  - Firmware version 1.0.0 is now available in the releases section of the 110-220V AC Smart Power Switch for Over-the-Air Updates
-
-
 
 <br>
 
