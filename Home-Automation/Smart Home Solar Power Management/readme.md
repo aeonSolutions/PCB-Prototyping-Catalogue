@@ -35,27 +35,6 @@ In regards to the solar panels , these can be assembled in a lego style kind of 
   
 <br>
 
-### Current Status of Development
-
-The current status of development of this project has now the following preliminary conclusions:
-
-- A dressing room with an area of 20-25 m2 and with a glass window where the sun shines only in early morning can be powered 
-  - by a single photovoltaic 6V DC solar cell for micro LED illumination usages of up to 5 to 10min a day and at night. 
-- A bathroom with an area of 20-25 m2 , indoors no glass windows , with glossy tile walls , micro LED illumination produces the best light
-
-Initially i was aiming at an additional 10 euro a month savings on the utilities bill , however, recent prototypes show that is possible to repurpose any apartment on any big city to become independent of the main power grid for the following home appliances :
-
-  - indoor illumination
-  - small home appliances such as a battery powered vacuum cleaner , manual operated or a robot
-  - Smart devices such as smartphones, tablets or any other smart appliance
-  - OLED TV screens, and laptop computers
-
-Additional energy savings can be achieved, if installed with a "home occupancy management system" to monitor occupants habits:
-- to provide an optimized electricity usage schedule to each of the occupants
-- to detect empty an room/ compartment
-- to regulate light intensity during evenings and at night before going to bed.  Synchronizing with the human biological clock cycles.   
-
-<br>
 
 
 ## Solar Home Automation
