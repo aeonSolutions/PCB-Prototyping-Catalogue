@@ -50,8 +50,9 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
   
   **Smart Home Solar Power Management section**
   
-- Started the project "78x39mm Solar Cell Lego like Instalation"
-- -Started the project "Selectable USB DC Power Outlet"
+- Started the Project: "78x39mm Solar Cell Lego like Instalation"
+- Started the Project: "Selectable USB DC Power Outlet"
+-  Started the Project: "Smart Battery Management"
   
 
 <br>
