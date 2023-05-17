@@ -60,7 +60,7 @@ Additional energy savings can be achieved, if installed with a "home occupancy m
 
 ## Solar Home Automation
 
-- [Solar Cells for Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/solar%20Cells/readme.md)
+- [Solar Cells for Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/solar%20Cells/readme.md) (4)
 
 
 - [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (2)
