@@ -50,7 +50,8 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
   
   **Smart Home Solar Power Management section**
   
-- Started the 78x39mm Solar Cell prototyping project
+- Started the project "78x39mm Solar Cell Lego like Instalation"
+- -Started the project "Selectable USB DC Power Outlet"
   
 
 <br>
