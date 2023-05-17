@@ -44,6 +44,8 @@ In regards to the solar panels , these can be assembled in a lego style kind of 
 
 - [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (2)
 
+- [Distribuited* indoor lighting]() 
+
 
 <br>
 
