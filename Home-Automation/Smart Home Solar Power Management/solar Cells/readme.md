@@ -52,7 +52,7 @@ This is a simple PCB for a direct fit on commercially available [blue solar cell
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_front.jpg" height="350">
- <img src= "https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_back.jpg" height="350">
+ <img src= "https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_back.png" height="350">
 </p>
 
 <br>
