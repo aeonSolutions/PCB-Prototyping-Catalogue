@@ -26,7 +26,7 @@ Nowadays, installing solar photovoltaic panels on big city buildings is limited 
 
 **The idea**
 
-The idea of this "Smart Home Solar Power Management" Project is to develop simple components and accessories that enable easy, "for dummies" kind of installation of solar photovoltaic cells. For that to happen required installation of one or two additional electrical wiring in the apartment electrical wiring. Staring with a 5V DC wiring is suitable for most small home appliances such as vacuum cleaners, smartphones, tablets, and any other smart device or technology. And another with 12V DC suited for computers, gaming consoles, and OLED TV displays.
+The idea of this "Smart Home Solar Power Management" Project is to develop simple components and accessories that enable easy, "for dummies" kind of installation of solar photovoltaic cells. For that to happen required installation of additional  wiring in the apartment electrical network. Staring with a 5V DC wire, suitable for most small home appliances such as vacuum cleaners, smartphones, tablets, and any other smart device or technology. And another with 12V DC suited for computers, gaming consoles, and OLED TV displays.
 
 Energy storage methodology follows a decentralized architecture of installation, where each individual room or compartment has its own "independent" battery storage up to 40.000mAh. All connected to any Smart Home device I make available here on my GitHub.
 
