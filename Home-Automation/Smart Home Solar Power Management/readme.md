@@ -19,6 +19,7 @@
 # Solar Power for Smart Homes
 
 **The problem**
+
 Nowadays, installing solar photovoltaic panels on big city buildings is limited to the roof area of the building. This means little power generation capabilities for energy savings when considering each individual apartment.
 
 <br>
