@@ -210,7 +210,12 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
  - [E-Ink / E-paper Displays for product labelling](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md) (6)
  - [RFID smart tags & contacless cards](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (1)
 
-__________________________________________________________________________
+<br>
+<br>
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digitaltransformation-1920x883.jpg" height="300">
+</p>
 
 ## Office (7)
  - [Office Smart Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (1)
