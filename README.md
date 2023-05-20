@@ -54,9 +54,8 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
 - Started the Project: "Selectable USB DC Power Outlet"
 -  Started the Project: "Smart Battery Management"
   
-
-<br>
-</br>
+<br />
+<br />
 
 ### Compatibility
 
@@ -79,17 +78,6 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
 </p>
 
 <br>
-
-### Assembly of the Hot Solder Reflow Plate
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=1Q-IPH6u9Qg">
-    <img src="https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png" alt="" height="360">
-  </a>
-</p>
-
-<br />
-<br />
 
 # Available Open Hardware PCB Designs 
 
@@ -273,7 +261,16 @@ Robotics and industrial automation have revolutionized the way we manufacture an
 
 DIY innovation refers to the practice of creating and developing solutions or inventions through do-it-yourself (DIY) methods. It involves individuals taking a hands-on approach to problem-solving and using their creativity and resourcefulness to design and build unique products or systems. DIY innovation encourages experimentation, collaboration, and the utilization of readily available tools, materials, and technologies. It empowers individuals to explore their ideas, overcome challenges, and bring their visions to life without relying on traditional institutions or established processes. DIY innovation fosters a culture of self-sufficiency, innovation, and personal growth, while also promoting affordability and accessibility in the development of new ideas and solutions.
 
-- [120x70mm Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (1)
+####  [120x70mm Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (1)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1Q-IPH6u9Qg">
+    <img src="https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png" alt="" height="360">
+  </a>
+</p>
+
+<br>
+
 - [ESP32-S3 MCU Tester QFN-56](https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/README.md) (1)
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md) (7)
 
@@ -283,7 +280,7 @@ DIY innovation refers to the practice of creating and developing solutions or in
  <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="250">
 </p>
 
-#### Firmware Download / Burner
+#### [Firmware Download / Burner](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) (1)
 To make any of the available PCBs here run as intended is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
 
 <br />
