@@ -18,8 +18,9 @@
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
 
-<br />
-
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_makers.jpg" height="300">
+</p>
 # DIY & Makers PCBs essentials
 
 - [AeonLabs MCU Burner USB to UART/USB](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL)
