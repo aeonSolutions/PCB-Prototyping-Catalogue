@@ -91,17 +91,6 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
 <br />
 <br />
 
-## Firmware Download / Burner
-To make any of the available PCBs here run as intended is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
-
-<p align="center">
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="250">
-</p>
-
-<br />
-<br />
-
-
 # Available Open Hardware PCB Designs 
 
 This public PCB catalogue features PCB desings that are not fully tested or require minor changes to the PCB or shcematics. Suited to all DIY and Makers in electronics, however a regular user may find him/her self in need to read components datasheets before any usage of the PCB is possible. If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my open hardware work. Click [here for fully tested PCB designs and circuit chematics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB)
@@ -284,12 +273,22 @@ Robotics and industrial automation have revolutionized the way we manufacture an
 
 DIY innovation refers to the practice of creating and developing solutions or inventions through do-it-yourself (DIY) methods. It involves individuals taking a hands-on approach to problem-solving and using their creativity and resourcefulness to design and build unique products or systems. DIY innovation encourages experimentation, collaboration, and the utilization of readily available tools, materials, and technologies. It empowers individuals to explore their ideas, overcome challenges, and bring their visions to life without relying on traditional institutions or established processes. DIY innovation fosters a culture of self-sufficiency, innovation, and personal growth, while also promoting affordability and accessibility in the development of new ideas and solutions.
 
-- [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (1)
 - [120x70mm Hot Solder Reflow Plate with 3.2" Nextion LCD Touch](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (1)
 - [ESP32-S3 MCU Tester QFN-56](https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/README.md) (1)
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md) (7)
 
 <br />
+
+#### Firmware Download / Burner
+To make any of the available PCBs here run as intended is needed to download into it a binary program. Anyone can use the PCB available on this repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to fabricate a USB to UART MCU program downloader. Compatible with Arduino Studio, VS Code and Visual Studio programming IDEs (among many others)
+
+<p align="center">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="250">
+</p>
+
+<br />
+<br />
+
 <br>
 <br>
 
