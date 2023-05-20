@@ -17,7 +17,9 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
-
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" height="300">
+</p>
 
 ## Smart Home Management Devices 
  - [Wall Mount 4" LCD TFT Display](https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display)
