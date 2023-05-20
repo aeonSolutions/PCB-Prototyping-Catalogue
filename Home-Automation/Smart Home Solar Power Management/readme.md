@@ -13,8 +13,9 @@
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale.svg)
 
-<br />
-
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/smart_solar_cell.jpg" height="300">
+</p>
 
 # Solar Power for Smart Homes
 
