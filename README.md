@@ -198,7 +198,14 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 - [Smart Home Solar Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/readme.md) (7)
 - [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) (7)
 
-__________________________________________________________________________
+<br>
+<br>
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/tea-shop-owner-1600x900.jpeg" height="300">
+</p>
+
+
 
 ## Micro & Small Enterprise Businesses (7)
  - [Office Smart Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (1)
