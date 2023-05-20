@@ -161,7 +161,12 @@ Digital transformation has revolutionized home automation by integrating advance
 </p>
 
 ## Smart Solar Solutions (7)
-- [Smart Home Solar Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/readme.md) (7)
+
+Smart solar cell solutions integrate advanced technologies to enhance the efficiency, reliability, and functionality of solar cells. These solutions utilize intelligent features like embedded sensors, Internet of Things (IoT) connectivity, and data analytics to optimize energy production, monitor performance, and enable remote management. By leveraging real-time data and predictive algorithms, smart solar cell solutions can maximize the output of solar panels, adapt to changing weather conditions, and identify maintenance needs proactively. Furthermore, these solutions facilitate seamless integration with smart grids, allowing for effective energy management and grid stability. Smart solar cell solutions play a vital role in driving the widespread adoption of renewable energy by improving overall system performance, reducing operational costs, and providing valuable insights for sustainable energy management.
+
+- [Solar Cells for Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/solar%20Cells/readme.md) (4)
+- [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (3)
+- [Distribuited* indoor lighting](https://github.com/aeonSolutions/Aeonlabs-HomeAutomation-Distributed_indoor_lighting) 
 
 <br>
 <br>
