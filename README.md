@@ -56,12 +56,6 @@ Make sure to also check my Open Source Software Catalogue [here](https://github.
   
 
 <br>
-
-### PCB status updates
-
-Current available PCB design for the firmware downloader and updater device does not work in direct USB mode. Only USB to UART is working. 
-
-
 </br>
 
 ### Compatibility
