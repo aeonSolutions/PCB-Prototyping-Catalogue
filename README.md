@@ -128,6 +128,10 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 </p>
 
 ## [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry) (5)
+
+
+Digital transformation in the construction industry is revolutionizing the way projects are planned, executed, and managed. Through the adoption of advanced technologies such as Building Information Modeling (BIM), drones, robotics, and Internet of Things (IoT) devices, construction companies are streamlining processes, improving efficiency, and enhancing collaboration. BIM allows for the creation of detailed digital models that encompass the entire project lifecycle, facilitating better design coordination, clash detection, and cost estimation. Drones are utilized for aerial surveys, site inspections, and progress monitoring, enabling safer and more accurate data collection. Robotics automate repetitive tasks, increasing productivity and reducing manual labor requirements. IoT devices provide real-time monitoring of construction sites, improving safety, and enabling proactive maintenance. Overall, digital transformation is reshaping the construction industry, driving innovation, and delivering projects more efficiently and effectively.
+
 - [Building & Indoor](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20%26%20Indoor) (4)
 - [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity) (2)
 - [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site) (1)
