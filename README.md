@@ -15,7 +15,7 @@
 
 <br />
 
-# PCB Prototype Catalogue
+# Open Hardware Electronics Prototyping Catalogue
 
 ░ ░[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about conceptualization, design, and prototyping of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). 
 
