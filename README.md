@@ -23,7 +23,7 @@
 ░ ░This repository is the main catalogue for all PCB prototyped and publicly available here on GitHub. There are now a total of **49** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
 ░ ░In my PCB projects i give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However designs are not limited to EspressIF.  While the reader browses this catalogue, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 
-Make sure to also check my Open Source Software Catalogue [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
+Make sure to also check my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
 
 <br>
 
