@@ -1,7 +1,3 @@
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health)
-
-<br>
-
 # Home Automation Safety & Health
 
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
@@ -17,6 +13,12 @@
 [![GitHub Forks](https://img.shields.io/github/forks/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/aeonSolutions/PCB-Prototyping-Catalogue/fork)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" height="300">
+</p>
+
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health)
 
 <br>
 
