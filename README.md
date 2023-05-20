@@ -111,7 +111,7 @@ To make any of the available PCBs here run as intended is needed to download int
 <br />
 
 
-# Available PCB Designs as KiCad Project files for DIY and Makers
+# Available Open Hardware PCB Designs 
 
 [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/)
 
