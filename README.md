@@ -157,6 +157,16 @@ Digital transformation has revolutionized home automation by integrating advance
 <br>
 
 <p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/smart_solar_cell.jpg" height="300">
+</p>
+
+## Smart Solar Solutions (7)
+- [Smart Home Solar Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/readme.md) (7)
+
+<br>
+<br>
+
+<p align="center">
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Consumer_1600x900.jpg" height="300">
 </p>
 
