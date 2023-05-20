@@ -176,6 +176,9 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/construction_industry.jpg" height="300">
 </p>
 
+<br>
+<br>
+
 ## [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry) (5)
 - [Building & Indoor](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20%26%20Indoor) (4)
 - [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity) (2)
@@ -185,6 +188,9 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 <p align="center">
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" height="300">
 </p>
+
+<br>
+<br>
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (22)
 - [Smart Home Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (1)
