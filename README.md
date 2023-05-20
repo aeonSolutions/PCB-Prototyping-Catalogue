@@ -100,46 +100,7 @@ Join the beta program to test and debug to provide feedback, ideas, modification
 <br />
 <br />
 
-## Below there's a list of available Kicad Projects with PCB designs and circuit schematics. Enjoy!
 
-<br />
-<br />
-
-**Be supportive of my dedication and work towards open hardware and buy me a cup of coffee. Links below. Above and on the side**
-
-<br />
- 
-| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/likeShareComment.jpg)   ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/twitter_small.png)](https://twitter.com/AeonlabsS)  | *Don't forget to **LIKE** , **SHARE** and **subscribe** the free chat groups* and if you downloaded one of AeonLabs's PCBs consider sponsor  any open hardware project with a donation or a cup of coffee. Links on the top, right side pane and below. |
-|-------------|------|
-
-
-<br />
-<br />
-
-## Q&A WhatsApp/Telegram Groups
-| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/whatsAppTelegram.png) | Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week. [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0) [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) |
-|-------------|------|
-
-
-<br />
-<br />
-
-## Usefull Utilities 
-| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/excel_utils.png)](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/useful_utilities) | One can find here usefull utilities to use when designing and prototyping pcb electronics. For instance a simple excel spreadsheet with resistance divider finder compatible with all sold on [aliexpress](https://www.aliexpress.com/item/1005002792418456.html?spm=a2g0o.cart.0.0.22e538dayDM1YR&mp=1). Click on the Excel logo to the left to get them! |
-|-------------|------|
-
-
-<br />
-<br />
-
-
-## Youtube Channel
-| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/youtube.png) | Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is .... |
-|-------------|------|
-
-
-<br />
-<br />
 
 ### Assembly of the Hot Solder Reflow Plate
 
