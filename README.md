@@ -203,6 +203,13 @@ Digital transformation has revolutionized small businesses by providing them wit
  - [RFID smart tags & contacless cards](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (1)
 
 <br>
+
+**By business Type**
+
+- [coffee shops](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)
+- [Restaurants](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon) 
+
+<br>
 <br>
 
 <p align="center">
