@@ -233,23 +233,44 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
  - [Warehouse](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md) (6)
  - [Factory Work Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md) (6)
 
-__________________________________________________________________________
+<br>
+<br>
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/costofquality_servicelabs_lowres.jpg" height="300">
+</p>
+
 
 ## Smart Data Acquisition Devies (Smart DAQ) (4)
 - [Open Scientific Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research) (2)
 - [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (4)
  
-_______________________________________________________
+<br>
+<br>
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Autonomous-car.jpg" height="300">
+</p>
 
 ## Vehicle Automation
  - Open CANBUS (In the make...Stay tuned.)
 
-__________________________________________________________________________
+<br>
+<br>
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digital-transformation.jpg" height="300">
+</p>
 
 ## Robotics & Industrial Automation (1)
  - [Conversational Robot Vacuum Cleaner](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances) (1)
 
-___________________________________________________________
+<br>
+<br>
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_makers.jpg" height="300">
+</p>
 
 ## For DIY & Makers (9)
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (1)
@@ -258,6 +279,12 @@ ___________________________________________________________
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md) (7)
 
 <br />
+<br>
+<br>
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Photo%2BDec%2B11%2C%2B1%2B39%2B43%2BAM.jpg" height="300">
+</p>
 
 ### Other DIY Projects and Makers
 - [Lora-based environmental monitor](https://github.com/Strooom/MuMo-V2-Node-PCB) by [Strooom](https://github.com/Strooom)
