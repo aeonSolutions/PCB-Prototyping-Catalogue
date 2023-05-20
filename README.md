@@ -262,44 +262,16 @@ DIY innovation refers to the practice of creating and developing solutions or in
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Photo%2BDec%2B11%2C%2B1%2B39%2B43%2BAM.jpg" height="300">
 </p>
 
+<br>
+<br>
+
 ### Other DIY Projects and Makers
 
 - [Lora-based environmental monitor](https://github.com/Strooom/MuMo-V2-Node-PCB) by [Strooom](https://github.com/Strooom)
-______________________________________________________________________________________________________________________________
+
 
 <br>
 <br>
-
-## Get a free custom PCB for your DIY or Maker projects
-Get a Free PCB for yourself!
-Send me your device, hardware or equipment and i will design a custom PCB for it. Free of charge. What i accept:
-
-- Home appliances
-- Office appliances
-- Industrial and commercial tools, equipment, machinery and appliances.
-
-I will design your custom PCB for your DIY or Maker projects. Free of charge. Contact-me on WhatsApp, Telegram or WeChat to know how. Or email me at mtpsilva@gmail.com for more info.  Links above.
-
-<br />
-
-## Order a custom made PCB delivered at your door
-Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the buyer specifications.
-
-Buyer will get a more porfessional PCB without usage of any fast deployment PCB modules available elsewhere on the internet, and instead, with all components built into the PCB.  
-
-Logos and markings are also delivered according to the buyer specifications. All PCBs are CE ready, meaning the buyer can certify the PCB and use the CE certification watermark on his products and services. 
-
-<p align="center">
- 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/certified%20logos.png" alt="" height="60">]()
-
-</p>
-
-Check this page to [learn](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB) more and how to [order](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
-
-<br>
-
-______________________________________________________________________________________________________________________________
 
 ### PCB Conceptualization and Design
 <p align="center">
