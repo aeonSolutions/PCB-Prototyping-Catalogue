@@ -14,36 +14,43 @@ This repo contains the KiCad files for the  AeonLabs WIFI BLE RFID NFC Desk Cont
 Features a RGB LED and a Buzzer and is designed to be mounted on existing commercial RFID NFC reader enclosures such as the one found here https://s.click.aliexpress.com/e/_9wRPxz. This PCB is best suited for home automation or commercial uses for #attendances #management at a factories or offices.
 
 <p align="center">
-    <img src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_front.png" height="350"> 
+    <img src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/pcb_front.png" height="200"> 
 </p>
 
 <br>
 
-*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
+- [Smart Coffee Machine Addon](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)
 
-## Liked it ? Get a Free PCB for yourself
-Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
-
-## Q&A WhatsApp Group
-If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
-[A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
-
-## Fully assembled PCB
-Alternatively, and if you do not want to build a PCB by yourself and like to buy one, you can do it here:
+This repo contains the KiCad files for the AeonLabs Home Automation Smart Coffee MAchine Addon. This PCB adds WiFi and BLE capabilities to any home or office coffee machine. Is able to control the water boiler temperature; remotely order a cup of coffee (with the possibility to control of the quantity of coffee in the cup); grind coffee beans. 
+Don't forget to check out some cool photos of assembly on a Philips Senseo Coffee Machine [here](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/tree/main/Philips%20Senseo)  
 <p align="center">
-   <a href="https://www.tindie.com/stores/aeonlabs/"> <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png" height="150"> </a>
+<img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/pcb_front.png" height="150">
+  <img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/Philips%20Senseo/20220604_134341.jpg" height="200">
 </p>
 
-The price will be around 30eur plus postage fees.
-(I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
+<br>
 
-This PCB is a #direct fit #replacement of the one found on the internet at sale. For example here: https://s.click.aliexpress.com/e/_9wRPxz
+## Compatibility
 
-#### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
+<p align="center">
+ <a href"https://www.apple.com/shop/accessories/all/homekit">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_apple_home.png" height="50">
+ </a>
+<a href="https://home.google.com"> 
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_google_home.png" height="50">
+ </a>
+<a href="https://www.home-assistant.io">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_home_assistanr.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_matter.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_zigbee.jpg" height="50">
+ </a>
+</p>
 
-________________________________________________________________________________________________________________
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
-________________________________________________________________________________________________________________
+<br>
 
 
 ## What one additionally needs
@@ -66,7 +73,13 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
 The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
+<p align+"left">
+<a href="https://www.buymeacoffee.com/migueltomas">
+   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" />
+ </a>
+<br>
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/bmc_qr.png" height="130">
+</p>
 
 <br />
 
