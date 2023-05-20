@@ -202,10 +202,8 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/tea-shop-owner-1600x900.jpeg" height="300">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Consumer_1600x900.jpg" height="300">
 </p>
-
-
 
 ## Micro & Small Enterprise Businesses (7)
  - [Office Smart Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (1)
