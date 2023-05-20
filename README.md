@@ -157,6 +157,24 @@ Digital transformation has revolutionized home automation by integrating advance
 <br>
 
 <p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" height="300">
+</p>
+
+## Mental Health Wellness Solutions
+
+Mental health refers to a person's emotional, psychological, and social well-being. It is an essential aspect of overall health and impacts how individuals think, feel, and behave. While there is ongoing research on the potential effects of electromagnetic radiation (EMR) on human health, current scientific evidence does not establish a direct link between EMR and mental health disorders. The primary concern regarding EMR revolves around its potential impact on physical health, such as increased risk of cancer or other physiological effects. However, maintaining a balanced lifestyle, including managing screen time and taking regular breaks from electronic devices, is advisable for overall well-being, including mental health.
+
+  - [Indoor Smart Plant Watering with builtin micro wave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
+  - [Smart Wireless Electromagnetic Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
+  - [Smart Wireless Sonic/Sound Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
+  - [Smart Wireless with spectrometer microwave active Monitoring and analysis](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
+  - [Smart Indoor Environement EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
+  - [Smart Indoor Environement GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification)
+
+<br>
+<br>
+
+<p align="center">
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/smart_solar_cell.jpg" height="300">
 </p>
 
