@@ -7,7 +7,9 @@ One can find here usefull utilities to use when designing and prototyping pcb el
 
 These are excel spreadsheet with all values of SMD resitors typically sold on AliExpress. This spreadsheet allows one to determine pair of resistances to use for a given resistance divider (R1/R2)
 
-if you like my work, and use it, pelase consider supporting it. Links at the top, bottom and right side pane. Thank you.
+No one likes to work "for free". If you like my work, and use it, please consider supporting it. Links at the top, bottom and right side pane.
+
+Thank you.
 
 <br />
 <br />
