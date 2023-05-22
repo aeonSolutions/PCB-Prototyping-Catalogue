@@ -49,6 +49,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
  (April update)
  
  - There's a new excel spreadsheet on the Utilities section for easy calc. of R1 & R2 on the MP8765 IC
+ 
   **Construction section:**
   
   - Firmware version 1.0.16 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
