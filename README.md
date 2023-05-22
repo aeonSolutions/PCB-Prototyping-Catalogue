@@ -48,7 +48,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
 ### The most recent updates 
  (April update)
  
- - There's a new excel spreadsheet on the Utilities section for easy calc. of R1 & R2 on the [MP8765](https://s.click.aliexpress.com/e/_DnLu9VT) IC
+ - There's a new excel spreadsheet on the Utilities section for easy calc. of R1 & R2 on the Step Down DC DC [MP8765](https://s.click.aliexpress.com/e/_DnLu9VT) IC
  
   **Construction section:**
   
