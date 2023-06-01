@@ -222,12 +222,12 @@ Digital transformation has revolutionized industrial enterprises by integrating 
 </p>
 
 
-## Smart Data Acquisition Devies (Smart DAQ) (4)
+## Laboratory Automation (4)
 
 Smart data acquisition devices are cutting-edge technologies that enable the efficient and accurate collection of data. These devices incorporate advanced sensors, connectivity options, and intelligent processing capabilities, allowing them to gather and transmit real-time data from various sources. They are designed to be compact, portable, and user-friendly, making them suitable for a wide range of applications across industries. Smart data acquisition devices play a crucial role in streamlining data acquisition processes, enhancing data quality, and enabling quick decision-making. With their ability to capture and analyze data in real-time, these devices empower organizations to optimize their operations, improve productivity, and drive innovation in the digital age.
 
 - [Open Scientific Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research) (2)
-- [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (4)
+- [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Laboratory%20Automation/readme.md) (4)
  
 <br>
 <br>
