@@ -24,13 +24,13 @@
 
 ### Data Acquisition with resistivimeter
 - [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (5)
-- [24-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (5)
+- [24-bit Smart Data Acquisition Devices]() (2) (soon . stay tuned.)
 
 <br>
 
-### Wieght Scales
-- [24-bit Smart Weight Scales]() (1)
-- [24-bit Smart Hydrostatic Weight Scales]() (1)
+### Weight Scales
+- [24-bit Smart Weight Scales]() (1) (soon . stay tuned.)
+- [24-bit Smart Hydrostatic Weight Scales]() (1) (soon . stay tuned.)
 
 
 <br>
