@@ -22,6 +22,12 @@
 
 ## Laboratory Automation
 
+The Smart DAQ devices available here have the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository. For instance hosted remotely on a [Dataverse](http://www.dataverse.org).
+
+These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices and are able to connect with each other using swarm intelligence. The main purpose is to increase data integrity and trustworthiness among DAQ devices connected and on all experimental data collected during an experiment or research project.
+
+<br>
+
 ### Data Acquisition with resistivimeter
 - [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (5)
 - [24-bit Smart Data Acquisition Devices]() (2) (soon . stay tuned.)
