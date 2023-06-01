@@ -13,7 +13,7 @@
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
 <p align="center">
-   <img src="hhttps://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/costofquality_servicelabs_lowres.jpg" height="300">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/costofquality_servicelabs_lowres.jpg" height="300">
 </p>
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Laboratory%20Automation)
@@ -22,9 +22,13 @@
 
 ## Laboratory Automation
 
+### Data Acquisition with resistivimeter
 - [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (5)
 - [24-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (5)
-- 
+
+<br>
+
+### Wieght Scales
 - [24-bit Smart Weight Scales]() (1)
 - [24-bit Smart Hydrostatic Weight Scales]() (1)
 
