@@ -22,10 +22,9 @@
 <br>
 
 ## Smart technologies for Vehicle Roads and Driving Safety  
-- [Building & Indoor](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20%26%20Indoor) (4)
-- [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity)
-- [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site) (1)
-- [Roads & safety]()
+- [Self-sensing asphalt]() (soon . stay tuned.)
+- [Smart Trffic Barrier]() (soon . stay tuned.)
+
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
