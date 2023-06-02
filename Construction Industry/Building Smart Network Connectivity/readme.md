@@ -17,9 +17,7 @@
 </p>
 
 [Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
-[Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [
-Building Smart Network Connectivity
-](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity)
+[Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  Smart Technologies for Building Smart Network Connectivity
 
 # Smart Technologies for Building Smart Network Connectivity
 
