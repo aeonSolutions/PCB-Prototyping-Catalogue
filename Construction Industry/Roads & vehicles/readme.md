@@ -24,6 +24,9 @@
 ## Smart technologies for Vehicle Roads and Driving Safety  
 
 
+<br>
+<br>
+
 <p align="center">
    <img src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/raw/main/Design/12bitSmartDAQ2023january_4.jpeg" height="300">
 </p>
@@ -44,6 +47,7 @@ This paper presents an innovative bituminous asphalt composition mixed with carb
 
 Retrofitting of flexible road beacons suing smart ultra low paowered smart electronics with the aim of actively detecting accidents. For example an accident happening. For example for active monitoring of dangerous driving and prevention of a possible accident that may happen later along that route. This smart electronic device prototype is easy to install into existing beacons connected to the internet via "narrow band" NB-IoT. Powered, from a flexible photovoltaic cell glued around the road beacon
 
+<br>
 <br>
 
 ## What one additionally needs
