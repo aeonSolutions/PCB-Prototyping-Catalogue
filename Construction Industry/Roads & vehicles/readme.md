@@ -25,11 +25,13 @@
 
 
 <p align="center">
-   <img src="" height="300">
+   <img src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/raw/main/Design/12bitSmartDAQ2023january_4.jpeg" height="300">
 </p>
 
-### [Self-sensing asphalt]() (soon . stay tuned.)
+### [Self-sensing asphalt](https://github.com/aeonSolutions/Open-Scientific-Research) (soon . stay tuned.)
 
+This paper presents an innovative bituminous asphalt composition mixed with carbon fibers and studies the self-sensing ability of this kind of composition. This innovative bituminous asphalt is able to transmit measured data using a Passive DAQ device with the necessary hardware characteristics to handle data measurements collection from an autonomous moving vehicle traveling at 300km/h on a tarmac highway.  Tarmac road condition measurements are made using modified RFID UHF technologies capable of doing electrical resistance measurements on the proposed self-sensing bituminous asphalt and sending it using UHF ISM band to an autonomous vehicle upon request.   
+(…)
 
 <br>
 
