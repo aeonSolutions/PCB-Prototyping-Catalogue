@@ -112,7 +112,7 @@ Digital transformation in the construction industry is revolutionizing the way p
 - [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity) (2)
 - [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site) (1)
 - [Smart technologies for Vehicle Roads and Driving Safety  ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Construction%20Industry/Roads%20&%20vehicles/readme.md) (2)
-- 
+
 <br>
 <br>
 
