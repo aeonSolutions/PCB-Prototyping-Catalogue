@@ -23,7 +23,7 @@
 
 ## Smart technologies for Vehicle Roads and Driving Safety  
 - [Self-sensing asphalt]() (soon . stay tuned.)
-- [Smart Trffic Barrier]() (soon . stay tuned.)
+- [Smart Traffic Barrier]() (soon . stay tuned.)
 
 
 ## What one additionally needs
