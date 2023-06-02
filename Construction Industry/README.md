@@ -28,6 +28,8 @@
 - [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site) (1)
 - [Smart technologies for Vehicle Roads and Driving Safety  ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Construction%20Industry/Roads%20&%20vehicles/readme.md) (2)
 
+<br>
+
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 <br />
