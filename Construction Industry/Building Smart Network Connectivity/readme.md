@@ -54,16 +54,9 @@ This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/searc
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+
 <br />
 <br />
-
-________________________________________________________________________________________________________________
-
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
-
-________________________________________________________________________________________________________________
-
-<br>
 
 ## Author
 
