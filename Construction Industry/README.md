@@ -37,7 +37,7 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 - [Building & Indoor](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20%26%20Indoor) (4)
 - [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity)
 - [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site) (1)
-- [Roads & safety]()
+- [Smart technologies for Vehicle Roads and Driving Safety  ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Construction%20Industry/Roads%20&%20vehicles/readme.md)
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
