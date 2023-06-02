@@ -15,6 +15,7 @@
 <p align="center">
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/construction_industry.jpg" height="300">
 </p>
+
 [Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
 [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [
 Building Smart Network Connectivity
