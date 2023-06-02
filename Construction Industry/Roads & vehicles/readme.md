@@ -22,9 +22,26 @@
 <br>
 
 ## Smart technologies for Vehicle Roads and Driving Safety  
-- [Self-sensing asphalt]() (soon . stay tuned.)
-- [Smart Traffic Barrier]() (soon . stay tuned.)
 
+
+<p align="center">
+   <img src="" height="300">
+</p>
+
+### [Self-sensing asphalt]() (soon . stay tuned.)
+
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Construction%20Industry/Roads%20%26%20vehicles/media/image_2023-06-02_160852076.png" height="300">
+</p>
+
+### [Smart Traffic Beacon Barrier]() (soon . stay tuned.)
+
+Retrofitting of flexible road beacons suing smart ultra low paowered smart electronics with the aim of actively detecting accidents. For example an accident happening. For example for active monitoring of dangerous driving and prevention of a possible accident that may happen later along that route. This smart electronic device prototype is easy to install into existing beacons connected to the internet via "narrow band" NB-IoT. Powered, from a flexible photovoltaic cell glued around the road beacon
+
+<br>
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
