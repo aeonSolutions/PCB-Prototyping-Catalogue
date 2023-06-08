@@ -50,9 +50,9 @@ No one likes to work "for free". If you like my work, and use it, please conside
  
  - There's a new excel spreadsheet on the Utilities section for easy calc. of R1 & R2 on the Step Down DC DC [MP8765](https://s.click.aliexpress.com/e/_DnLu9VT) IC
  
-  **Construction section:**
+  **OEM Firmware development:**
   
-  - Firmware version 1.0.16 is now available in the releases section of the Smart Reinforced Curing Device for Over-the-Air Updates
+  There are now 4 smart devices with alpha versions of firmware. 
   
   **Smart Home Solar Power Management section**
   
