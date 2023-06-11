@@ -20,15 +20,18 @@
 
 <br>
 
-## Smart Home Management Devices 
+## Smart Home Management 
  - [Wall Mount 4" LCD TFT Display](https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display)
 
-## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
-
+## Home Automation
 - [Smart Home Appliances](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Appliances/readme.md) (5)
+- [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) (7)
+
+## Power
+- [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (3)
 - [Smart Home AC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/readme.md) (2)
 - [Smart Home Solar Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/readme.md) (6)
-- [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) (7)
+
 
 <br>
 
