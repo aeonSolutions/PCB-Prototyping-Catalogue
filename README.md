@@ -229,7 +229,7 @@ Digital transformation has revolutionized industrial enterprises by integrating 
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/costofquality_servicelabs_lowres.jpg" height="300">
+   <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" height="300">
 </p>
 
 
