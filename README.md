@@ -149,14 +149,14 @@ Digital transformation has revolutionized home automation by integrating advance
 
 ## Mental Health Wellness Solutions (7)
 
-Mental health refers to a person's emotional, psychological, and social well-being. It is an essential aspect of overall health and impacts how individuals think, feel, and behave. While there is ongoing research on the potential effects of electromagnetic radiation (EMR) on human health, current scientific evidence does not establish a direct link between EMR and mental health disorders. The primary concern regarding EMR revolves around its potential impact on physical health, such as increased risk of cancer or other physiological effects. However, maintaining a balanced lifestyle, including managing screen time and taking regular breaks from electronic devices, is advisable for overall well-being, including mental health.
+Mental health refers to a person's emotional, psychological, and social well-being. It is an essential aspect of overall health and impacts how individuals think, feel, and behave. While there is ongoing research on the potential effects of electromagnetic radiation (EMR) on human health, current scientific evidence does not establish a direct link between EMR and mental health disorders. The primary concern regarding EMR revolves around its potential impacts on physical health, such as the increased risk of cancer or other physiological effects. However, maintaining a balanced lifestyle, including managing screen time and taking regular breaks from electronic devices, is advisable for overall well-being, including mental health.
 
-  - [Indoor Smart Plant Watering with builtin micro wave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
+  - [Indoor Smart Plant Watering with builtin microwave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
   - [Smart Wireless Electromagnetic Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
   - [Smart Wireless Sonic/Sound Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
   - [Smart Wireless with spectrometer microwave active Monitoring and analysis](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
-  - [Smart Indoor Environement EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
-  - [Smart Indoor Environement GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification)
+  - [Smart Indoor Environment EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
+  - [Smart Indoor Environment GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification)
   - View more [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) ...
 
 <br>
@@ -208,8 +208,8 @@ Digital transformation has revolutionized small businesses by providing them wit
 Digital transformation in the office refers to the process of integrating advanced technologies and digital tools to optimize productivity, streamline operations, and enhance collaboration. It involves the adoption of cloud-based platforms, automation, data analytics, and other digital solutions to replace traditional manual processes. This transformation empowers employees to work more efficiently, enables remote and flexible work arrangements, improves communication and information sharing, and drives innovation. By embracing digital transformation, organizations can stay competitive, adapt to evolving market demands, and leverage data-driven insights to make informed decisions, ultimately leading to improved overall performance and growth.
 
  - [Office Smart Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (1)
- - [E-Ink / E-paper Displays for product labelling](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md) (6)
- - [RFID smart tags & contacless cards](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (1)
+ - [E-Ink / E-paper Displays for product labeling](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md) (6)
+ - [RFID smart tags & contactless cards](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (1)
  
 <br>
 <br>
@@ -251,7 +251,7 @@ Smart data acquisition devices are cutting-edge technologies that enable the eff
 
 Autonomous vehicles, also known as self-driving cars, are revolutionizing the transportation industry. These vehicles utilize advanced technologies such as artificial intelligence, sensors, and cameras to navigate and operate without human intervention. By eliminating the need for a human driver, autonomous vehicles offer numerous benefits. They enhance road safety by minimizing human error, increase efficiency by optimizing routes and reducing traffic congestion, and provide mobility options for those who cannot drive, such as the elderly or disabled. Additionally, autonomous vehicles have the potential to reduce fuel consumption and emissions, contributing to a more sustainable and environmentally friendly future. While there are still challenges to overcome, such as regulatory frameworks and public acceptance, autonomous vehicles hold great promise for transforming our transportation systems and improving the way we move from one place to another.
 
- - Open CANBUS (In the make...Stay tuned.)
+ - [Vehicle Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Vehicle%20Automation/readme.md)
 
 <br>
 <br>
