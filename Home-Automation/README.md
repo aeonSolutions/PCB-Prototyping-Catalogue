@@ -72,12 +72,6 @@ Home automation has transformed the way we interact with our living spaces, than
 |-------------|------|
 
 <br>
-________________________________________________________________________________________________________________
-
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
-
-________________________________________________________________________________________________________________
-
 <br>
 
 ## Author
