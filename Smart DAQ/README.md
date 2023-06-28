@@ -22,12 +22,22 @@
 
 # 12-bit Smart Data Acquisition Devices
 
+## [02-2023 revision of the 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS](https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS)
+
+This is the repository for revision "02-2023" of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
+
+<p align="center">
+    <img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/designs/image_2023-06-28_124820880.png" width="250px">
+</p>
+
+<br>
+
 ## [Open Science: 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD](https://github.com/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint)
 
 This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
  
 <p align="center">
-   <img src="https://github.com/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint/blob/main/Designs/smart_daq_front.png" height="350"> 
+   <img src="https://github.com/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint/blob/main/Designs/smart_daq_front.png" height="250"> 
 </p>
  
 
@@ -38,7 +48,7 @@ This is the repository for the 12bit Smart DAQ Device with unique data fingerpri
 This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
  
 <p align="center">
-   <img src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/LDAD%20fron.png" height="350"> 
+   <img src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/LDAD%20fron.png" height="250"> 
 </p>
 
 =====================================================================================
@@ -47,7 +57,7 @@ This is the repository for the 12bit Smart DAQ Device with unique data fingerpri
 This repo contains the KiCad files for the AeonLabs LDAD NANO MAX Smart DAQ and more than 20 sensors compatible with I2C protocol communication. 
  
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-MAX-Smart-DAQ/blob/main/designs/pcb.jpg" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-MAX-Smart-DAQ/blob/main/designs/pcb.jpg" height="250"> 
 </p>
 
 =====================================================================================
@@ -57,7 +67,7 @@ This repo contains the KiCad files for the AeonLabs LDAD NANO MAX Smart DAQ and 
 This repo contains the KiCad files for the   AeonLabs LDAD LVDT MAX Smart DAQ and more than 20 sensors compatible with I2C protocol communication. 
  
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ/blob/main/designs/pcb.jpg" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ/blob/main/designs/pcb.jpg" height="250"> 
 </p>
 
 =====================================================================================
@@ -67,7 +77,7 @@ This repo contains the KiCad files for the   AeonLabs LDAD LVDT MAX Smart DAQ an
 This repo contains the KiCad files for the About AeonLabs LDAD NANO for LVDT precision measurements and more than 20 other sensors compatible with I2C protocol communication. 
  
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ/blob/main/designs/pcb.jpg" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ/blob/main/designs/pcb.jpg" height="250"> 
 </p>
 
 =====================================================================================
@@ -77,7 +87,7 @@ This repo contains the KiCad files for the About AeonLabs LDAD NANO for LVDT pre
 This repo contains the KiCad files for the  AeonLabs  LDAD NANO for strain sensing / weight measurements and more than 20 other sensors compatible with I2C protocol communication. 
  
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-HX-Smart-DAQ/blob/main/designs/pcb.jpg" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-HX-Smart-DAQ/blob/main/designs/pcb.jpg" height="250"> 
 </p>
 
 =====================================================================================
@@ -87,7 +97,7 @@ This repo contains the KiCad files for the LDAD ATOM features 1 I2C (or 1 digita
 It can connect 1 digital sensor and up to 8 I2C sensors.
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors/blob/main/designs/pcb_front.png" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors/blob/main/designs/pcb_front.png" height="250"> 
 </p>
 
 =====================================================================================
