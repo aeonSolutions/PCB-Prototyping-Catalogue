@@ -20,7 +20,14 @@
 
 ## Home Automation
 
-Home automation has transformed the way we interact with our living spaces, thanks to the integration of AI-enabled smart devices. With home automation, mundane tasks can be seamlessly managed, creating a more convenient and efficient lifestyle. AI-powered smart devices, such as voice assistants, thermostats, lighting systems, and security cameras, provide homeowners with unprecedented control over their environment. Through voice commands or mobile apps, one can effortlessly adjust the temperature, lighting ambiance, or even lock/unlock doors from anywhere. These devices utilize AI algorithms to learn user preferences, adapting to individual needs and optimizing energy consumption. AI-enabled security systems are capable of identifying and distinguishing between authorized and unauthorized individuals, enhancing home safety. Furthermore, the interconnectedness of smart devices allows for intelligent automation, where actions are triggered based on specific events or schedules. Home automation with AI has not only elevated comfort and convenience but also promotes energy efficiency, safety, and a truly personalized living experience.
+Home automation has transformed the way we interact with our living spaces, thanks to the integration of AI-enabled smart devices. With home automation, mundane tasks can be seamlessly managed, creating a more convenient and efficient lifestyle. AI-powered smart devices, such as voice assistants, thermostats, lighting systems, and security cameras, provide homeowners with unprecedented control over their environment. Through voice commands or mobile apps, one can effortlessly adjust the temperature, and lighting ambiance, or even lock/unlock doors from anywhere. These devices utilize AI algorithms to learn user preferences, adapt to individual needs, and optimize energy consumption. AI-enabled security systems are capable of identifying and distinguishing between authorized and unauthorized individuals, enhancing home safety. Furthermore, the interconnectedness of smart devices allows for intelligent automation, where actions are triggered based on specific events or schedules. Home automation with AI has not only elevated comfort and convenience but also promotes energy efficiency, safety, and a truly personalized living experience.
+
+<br>
+
+**Hire me on Fiverr**
+
+If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
+
 
 <br>
 
