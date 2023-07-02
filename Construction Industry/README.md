@@ -30,6 +30,13 @@
 
 <br>
 
+**Hire me on Fiverr**
+
+If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
+
+
+<br>
+
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 <br />
