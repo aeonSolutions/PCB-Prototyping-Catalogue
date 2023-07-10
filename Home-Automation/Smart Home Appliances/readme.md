@@ -46,11 +46,9 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 - [Bedroom](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances/Bedroom)
 - [Common Areas & Entrance](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances/Common%20Areas%20%26%20Entrance)
 - [Garden](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances/Garden)
-- All outdoor Areas
-  - [OpenMower - The DIY Smart Mowing Robot](https://github.com/ClemensElflein/OpenMower)  by Clemens Elflein
 - All Indoor Areas (1)
   - [Indoor Smart Plant Watering](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
-  
+
 This Smart Indoor plant monitoring and watering is designed to be inserted into any indoor plant vase. Is able to measure and calculate the moisture content in the vase, and when detects low water contents, activates the water pump. Is able to connect to a local home server to upload indoor temperature, humidity, and air quality measurement data. This way, the owner, can have a history record database, without the need for expensive cloud subscriptions.  Additionally, it features a 6 LED system composed of an ultraviolet LED, an Infrared LED and an RGB LED, when combined with multiple devices like this one in the same room is able to perform some basic light aggression protection from an unknown light source outside during the night & day. 
 
   - [Robot Vacuum Cleaner by AeonLabs](https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner) (soon! Stay tuned)
@@ -58,6 +56,11 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 <img src="https://github.com/aeonSolutions/AeonLabs-Robot-Vaccuum-Cleaner/blob/main/robotVacuumCleanerAd.png" height="150">
 </p>
 
+## Garden Automation
+- [Wireless Battery Powered Rainmeter](https://github.com/aeonSolutions/aeonlabs-HomeAutomation-Outdoors-Wireless-Battery-powered-Rainmeter)
+- [OpenMower - The DIY Smart Mowing Robot](https://github.com/ClemensElflein/OpenMower)  by Clemens Elflein
+
+<br>
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
