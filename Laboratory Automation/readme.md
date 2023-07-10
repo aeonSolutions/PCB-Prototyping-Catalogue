@@ -45,6 +45,10 @@ If you like my work here and are looking to design and deploy your own smart dev
 - [24-bit Smart Weight Scales]() (1) (soon . stay tuned.)
 - [24-bit Smart Hydrostatic Weight Scales]() (1) (soon . stay tuned.)
 
+<br>
+
+### Weather Station
+- [Wireless Battery & Solar Powered Rain meter](https://github.com/aeonSolutions/aeonlabs-HomeAutomation-Outdoors-Wireless-Battery-powered-Rainmeter)
 
 <br>
 
