@@ -54,19 +54,16 @@ No one likes to work "for free". If you like my work, and use it, please conside
 <br>
 
 ### The most recent updates 
- (May update)
- 
- - There's a new excel spreadsheet on the Utilities section for easy calc. of R1 & R2 on the Step Down DC DC [MP8765](https://s.click.aliexpress.com/e/_DnLu9VT) IC
- 
+ (July update)
+  
   **OEM Firmware development:**
   
   There are now 4 smart devices with alpha versions of firmware. 
   
   **Smart Home Solar Power Management section**
   
-- Started the Project: "78x39mm Solar Cell Lego like Instalation"
-- Started the Project: "Selectable USB DC Power Outlet"
--  Started the Project: "Smart Battery Management"
+- Started the Project: "Wireless Battery Powered Rainmeter"
+
   
 <br />
 <br />
