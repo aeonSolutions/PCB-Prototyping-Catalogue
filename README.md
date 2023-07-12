@@ -47,8 +47,8 @@ No one likes to work "for free". If you like my work, and use it, please conside
 
 ### Current projects i've been working on the past 4 weeks...
 
-- [firmware prototyping]
-- Indoor Solar Power
+- [firmware prototyping] (1st milestone completed)
+- ~~Indoor Solar Power~~ (2nd milestone completed). Next step a "Power wall". See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come. 
 - PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" Applications
 
 <br>
