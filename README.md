@@ -49,6 +49,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
 
 - [firmware prototyping]
 - Indoor Solar Power
+- PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" Applications
 
 <br>
 
