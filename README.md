@@ -60,7 +60,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
   
   There are now 4 smart devices with alpha versions of firmware. 
   
-  **Smart Home Solar Power Management section**
+  **Smart Home Automation section**
   
 - Started the Project: "Wireless Battery Powered Rainmeter"
 
