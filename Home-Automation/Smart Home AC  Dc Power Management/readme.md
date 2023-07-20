@@ -15,7 +15,7 @@
 
 <br>
 
-- [110-220V AC Smart Power Switch with easy AC plug connectors](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/README.md)
+- [110-220V AC Smart Power Switch with easy AC plug connectors](https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/tree/main)
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch.jpeg" width=250>
