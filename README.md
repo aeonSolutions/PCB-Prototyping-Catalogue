@@ -135,13 +135,13 @@ Digital transformation in the construction industry is revolutionizing the way p
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" height="300">
 </p>
 
-## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (24)
+## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (25)
 
 Digital transformation has revolutionized home automation by integrating advanced technologies and connectivity into our living spaces. Through the seamless integration of smart devices, sensors, and networks, homes have become smarter and more efficient than ever before. With digital transformation, homeowners can control and monitor various aspects of their homes remotely, such as lighting, security systems, temperature, and even appliances, through mobile applications and voice commands. This transformative shift has not only enhanced convenience and comfort but has also improved energy efficiency, safety, and overall quality of life. The ability to automate and personalize our living environments has reshaped the way we interact with our homes, making them more intelligent, responsive, and adaptable to our individual needs and preferences.
 
 - [Smart Home Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (1)
 - [Smart Home Appliances](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Appliances/readme.md) (7)
-- [Smart Home AC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/readme.md) (2)
+- [Smart Home AC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/readme.md) (3)
 - [Smart Home Solar Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/readme.md) (7)
 - [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) (7)
 
