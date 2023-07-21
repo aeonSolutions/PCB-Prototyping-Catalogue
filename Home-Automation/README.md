@@ -24,13 +24,6 @@ Home automation has transformed the way we interact with our living spaces, than
 
 <br>
 
-**Hire me on Fiverr**
-
-If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
-
-
-<br>
-
 ## Smart Home Management 
  - [Wall Mount 4" LCD TFT Display](https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display)
 
@@ -46,6 +39,18 @@ If you like my work here and are looking to design and deploy your own smart dev
 - [Smart Home AC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/readme.md) (3)
 - [Smart Home Solar Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/readme.md) (4)
 
+
+<br>
+
+## Download the PCB design files in KiCad
+
+Subscription users have available to download the original hardware pcb design files as a KiCad project complete with circuit schemetics and component list (BOM). To enable download you need to subscribe to a montlhy plan [here](https://github.com/sponsors/aeonSolutions). thank you.
+
+<br>
+
+**Hire me on Fiverr**
+
+If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
 
 <br>
 
