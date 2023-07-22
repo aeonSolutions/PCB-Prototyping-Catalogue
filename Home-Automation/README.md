@@ -34,6 +34,10 @@ Home automation has transformed the way we interact with our living spaces, than
 ## Garden Automation
 - [Wireless Battery Powered Rainmeter](https://github.com/aeonSolutions/aeonlabs-HomeAutomation-Outdoors-Wireless-Battery-powered-Rainmeter)
 
+**Made by other Makers**
+
+- [Smart Wind Turbine](https://github.com/DDeGonge/SmartWindTurbine) by DDeGonge
+
 ## Power
 - [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (3)
 - [Smart Home AC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/readme.md) (3)
