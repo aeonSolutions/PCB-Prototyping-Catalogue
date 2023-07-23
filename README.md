@@ -65,11 +65,17 @@ No one likes to work "for free". If you like my work, and use it, please conside
 <br />
 <br />
 
-### View my hardware projects on Instructables.com
+### View my hardware projects on ...
 <p align="center">
    <a href="https://www.instructables.com/member/mtpsilva/instructables/">
       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/instructables_logo.png" height="100">
    </a>
+
+   <a href="https://www.hackster.io/mtpsilva">
+      <img src=" https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackster_io.png" height="100">
+   </a>
+
+ 
  </p>
  
 <br>
