@@ -82,7 +82,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
 
 <br>
 
-## Download the PCB design files in KiCad
+### Download the PCB design files in KiCad
 
 Subscription users have available to download the original hardware pcb design files as a KiCad project complete with circuit schemetics and component list (BOM). To enable download you need to subscribe to a montlhy plan [here](https://github.com/sponsors/aeonSolutions). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB)
 
@@ -118,7 +118,7 @@ If you like my work here and are looking to design and deploy your own smart dev
 
 <br>
 
-# Available Open Hardware PCB Designs 
+### Available Open Hardware PCB Designs 
 
 <p align="center"> 
 <a href="https://www.tindie.com/stores/aeonlabs/">
