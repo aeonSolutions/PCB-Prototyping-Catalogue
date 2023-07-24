@@ -46,7 +46,7 @@ This is a simple PCB for a direct fit on commercially available  [black solar ce
 
 - [78x39mm solar cell](https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/tree/main)
 
-This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DlwnoeN)  with dimensions 78x39mm. This Smart Device is intended to be connected to the [distributed Indoors power storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) and installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For insatnce [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
+This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DlwnoeN)  with dimensions 78x39mm. This support hardware PCB is intended to be connected to the [distributed Indoors power storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) and installed at the top or at the bottom side of any transparent glass window at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For insatnce [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_front.jpg" height="350">
