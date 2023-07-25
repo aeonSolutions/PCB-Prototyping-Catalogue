@@ -74,8 +74,11 @@ No one likes to work "for free". If you like my work, and use it, please conside
    <a href="https://www.hackster.io/mtpsilva">
       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackster_io.png" height="100">
    </a>
+    <a href="https://medium.com/@mtpsilva">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/medium.jpg" height="100">
+   </a>
  </p>
- 
+
 <br>
 <br>
 
