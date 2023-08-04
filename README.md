@@ -60,7 +60,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
   **Smart Home Automation section**
   
 - Started the Project: "Wireless Battery Powered Rainmeter"
-
+- The 78x39mm Solar Cell support PCB design project is completed. Have a look at the final PCB design. **Zero breaks when assembling it with the fragile solar cell**
   
 <br />
 <br />
