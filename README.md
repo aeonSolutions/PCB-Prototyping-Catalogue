@@ -296,6 +296,19 @@ Robotics and industrial automation have revolutionized the way we manufacture an
 <br>
 
 <p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digital-transformation.jpg" height="300">
+</p>
+
+## Medical and Health (0)
+
+Medical smart devices for health monitoring represent a paradigm shift in the realm of healthcare, harnessing advanced sensor technologies and data analytics to provide real-time and personalized insights into an individual's physiological parameters. These cutting-edge devices, often wearable in nature, seamlessly integrate with the individual's daily life, capturing intricate biometric data such as heart rate variability, electrodermal activity, and oxygen saturation levels. Leveraging wireless connectivity and cloud-based platforms, these devices facilitate continuous monitoring and analysis, enabling early detection of anomalies and trends that may indicate the onset of various medical conditions. The amalgamation of machine learning algorithms and intricate sensor data empowers healthcare professionals with the ability to decipher complex physiological interactions and guide informed clinical interventions. As these devices evolve, they hold immense potential to revolutionize preventive and precision medicine, ushering in an era of proactive health management and personalized therapeutic strategies.
+
+- soon . Stay tuned !
+
+<br>
+<br>
+
+<p align="center">
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_makers.jpg" height="300">
 </p>
 
