@@ -296,7 +296,7 @@ Robotics and industrial automation have revolutionized the way we manufacture an
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digital-transformation.jpg" height="300">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/medical_smart_devices.jpg" height="300">
 </p>
 
 ## Medical and Health (0)
