@@ -52,7 +52,7 @@ Known open data repositories partially compatible with these smart devices:
 - [Indoor Smart Plant Watering with UV, IR and RGB Light Jammer]()(soon! Stay tuned)
 - [Indoor Smart Plant Watering with UV, IR, RGB Light active monitoring and Jammer (UIRGB)]()(soon! Stay tuned)
 - [Indoor Smart Plant Watering with UIRGB & Sonic / Sound activie monitoring (S) ]()(soon! Stay tuned)
-- [Indoor Smart Plant Watering with UIRGB , S and active monitoring of Indoor Electromagnetic Fields (EMF) ]()(soon! Stay tuned)
+- [Indoor Smart Plant Watering with UIRGB , S and active monitoring of Indoor Electromagnetic Fields (EMF) ](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields)
 
 <br>
 
