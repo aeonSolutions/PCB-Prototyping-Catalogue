@@ -58,7 +58,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
   There are now 4 smart devices with alpha versions of firmware. 
   
   **Smart Home Automation section**
-  
+- Started the project "Smart EMF Shield Curtain for Windows and Balconies"  
 - Started the Project: "Wireless Battery Powered Rainmeter"
 - The 78x39mm Solar Cell support PCB design project is completed. Have a look at the final PCB design. **Zero breaks when assembling it with the fragile solar cell**
   
