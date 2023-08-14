@@ -64,6 +64,9 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
   
   - [Smart Indoor Environement EM RF Energy Monitor & GSM 4G Cell Tower Identification]()   (soon...stay tuned!)
 
+
+  - [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
+    
 <br>
 
 ## Compatibility
