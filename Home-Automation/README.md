@@ -37,6 +37,7 @@ Home automation has transformed the way we interact with our living spaces, than
 **Made by other Makers**
 
 - [Smart Wind Turbine](https://github.com/DDeGonge/SmartWindTurbine) by DDeGonge
+- [HomeNode](https://github.com/zrwaite/HomeNode) by Zac Waite , [Steven Gong](https://www.youtube.com/@stevengongg) et al.
 
 ## Power
 - [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (3)
