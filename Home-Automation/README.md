@@ -27,6 +27,10 @@ Home automation has transformed the way we interact with our living spaces, than
 ## Smart Home Management 
  - [Wall Mount 4" LCD TFT Display](https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display)
 
+**Made by other Makers**
+
+ - [HomeNode](https://github.com/zrwaite/HomeNode) by Zac Waite , [Steven Gong](https://www.youtube.com/@stevengongg) et al.
+ 
 ## Home Automation
 - [Smart Home Appliances](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Appliances/readme.md) (5)
 - [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) (8)
@@ -37,7 +41,7 @@ Home automation has transformed the way we interact with our living spaces, than
 **Made by other Makers**
 
 - [Smart Wind Turbine](https://github.com/DDeGonge/SmartWindTurbine) by DDeGonge
-- [HomeNode](https://github.com/zrwaite/HomeNode) by Zac Waite , [Steven Gong](https://www.youtube.com/@stevengongg) et al.
+
 
 ## Power
 - [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (3)
