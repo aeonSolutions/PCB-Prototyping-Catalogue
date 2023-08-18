@@ -24,6 +24,10 @@
 
 # DIY & Makers PCBs essentials
 
+- [Upgradable ESP32 MCU](https://github.com/aeonSolutions/AeonLabs-Upgradable-MCU-ESP32)
+
+  <br>
+
 - [AeonLabs MCU Burner USB to UART/USB](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL)
 
 This repo contains the KiCad files for the micro-USB to UART TTL PCB or USB to USB firmware downloader. This PCB can do firmware download on any AeonLabs PCB designs or any other PCB running at 3.0V or 5.0V. Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset and automatic boot. It can fit an enclosure with dimensions of 35x35x4 mm
