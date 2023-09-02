@@ -44,6 +44,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
 
 ### Current projects i've been working on the past 4 weeks...
 
+- smart device for smoke and fire monitoring and detection 
 - [firmware prototyping] (1st milestone completed)
 - ~~Indoor Solar Power~~ (2nd milestone completed). Next step a "Power wall". See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come. 
 - PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" IoE solutions. (Robotics, autonomous vehicles, live data acquisition) 
@@ -51,7 +52,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
 <br>
 
 ### The most recent updates 
- (July update)
+ (september update)
   
   **OEM Firmware development:**
   
@@ -61,6 +62,7 @@ No one likes to work "for free". If you like my work, and use it, please conside
 - Started the project "Smart EMF Shield Curtain for Windows and Balconies"  
 - Started the Project: "Wireless Battery Powered Rainmeter"
 - The 78x39mm Solar Cell support PCB design project is completed. Have a look at the final PCB design. **Zero breaks when assembling it with the fragile solar cell**
+- Started the project: "45,000mA Power Wall using 18650 Lithium Polymer Batteries"
   
 <br />
 <br />
