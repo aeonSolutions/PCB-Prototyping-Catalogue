@@ -33,18 +33,16 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
 
 
-<br>
-
 ### Data Acquisition with a resistivity meter
-- [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (8)
-- [16-bit Smart Data Acquisition Device]()
-- [24-bit Smart Data Acquisition Devices]() (2) (soon . stay tuned.)
+- [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) (8)
+- [16-bit Smart Data Acquisition Device](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/16-bit)
+- [24-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit) (2) (soon . stay tuned.)
 
 <br>
 
 ### Weight Scales
-- [24-bit Smart Weight Scales]() (1) (soon . stay tuned.)
-- [24-bit Smart Hydrostatic Weight Scales]() (1) (soon . stay tuned.)
+- [24-bit Smart Weight Scales](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit) (1) (soon . stay tuned.)
+- [24-bit Smart Hydrostatic Weight Scales](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit) (1) (soon . stay tuned.)
 
 <br>
 
