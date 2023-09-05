@@ -37,6 +37,7 @@ If you like my work here and are looking to design and deploy your own smart dev
 
 ### Data Acquisition with a resistivity meter
 - [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md) (8)
+- [16-bit Smart Data Acquisition Device]()
 - [24-bit Smart Data Acquisition Devices]() (2) (soon . stay tuned.)
 
 <br>
