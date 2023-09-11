@@ -38,7 +38,8 @@ Make sure to also check my **Open Source Software Catalogue** [here](https://git
 
 **Suport**
 
-No one likes to work "for free". If you like my work, and use it, please consider supporting it. Links at the top, bottom and right side pane. Thank you.
+AeonLabs invests time and resources providing this open source hoardware electronics, please support AeonLabs and open-source hardware by purchasing products from AeonLabs!
+Links at the top, bottom and right side pane. Thank you.
 
 <br>
 
