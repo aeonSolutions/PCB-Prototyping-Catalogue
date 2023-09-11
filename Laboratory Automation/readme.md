@@ -33,7 +33,7 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
 
 
-### Data Acquisition with a resistivity meter
+### [Data Acquisition with a resistivity meter](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
 - [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) (10)
 - [16-bit Smart Data Acquisition Device](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/16-bit/readme.md) (1)
 - [24-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (2) (soon . stay tuned.)
