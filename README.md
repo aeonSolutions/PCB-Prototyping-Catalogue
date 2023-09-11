@@ -260,7 +260,7 @@ Digital transformation has revolutionized industrial enterprises by integrating 
 </p>
 
 
-## Laboratory Automation (12)
+## Laboratory Automation (11)
 
 Smart data acquisition devices are cutting-edge technologies that enable the efficient and accurate collection of data. These devices incorporate advanced sensors, connectivity options, and intelligent processing capabilities, allowing them to gather and transmit real-time data from various sources. They are designed to be compact, portable, and user-friendly, making them suitable for a wide range of applications across industries. Smart data acquisition devices play a crucial role in streamlining data acquisition processes, enhancing data quality, and enabling quick decision-making. With their ability to capture and analyze data in real-time, these devices empower organizations to optimize their operations, improve productivity, and drive innovation in the digital age.
 
