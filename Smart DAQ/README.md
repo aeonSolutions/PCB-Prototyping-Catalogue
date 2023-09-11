@@ -20,36 +20,12 @@
 
 <br>
 
-## Laboratory Automation
+## Smart Data Acquisition
 
-The Smart DAQ devices available here have the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally, connect and synchronize data measurements collected with a data repository. For instance, hosted remotely on a [Dataverse](http://www.dataverse.org).
-
-These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices and are able to connect with each other using swarm intelligence. The main purpose is to increase data integrity and trustworthiness among DAQ devices connected and on all experimental data collected during an experiment or research project.
-
-<br>
-
-**Hire me on Fiverr**
-
-If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
-
-
-<br>
-
-### Data Acquisition with a resistivity meter
-- [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit/readme.md) (8)
-- [16-bit Smart Data Acquisition Device](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/16-bit/readme.md)  (1)
+### [Data Acquisition with a resistivity meter](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
+- [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) (10)
+- [16-bit Smart Data Acquisition Device](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/16-bit/readme.md) (1)
 - [24-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (2) (soon . stay tuned.)
-
-<br>
-
-### Weight Scales
-- [24-bit Smart Weight Scales](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (1) (soon . stay tuned.)
-- [24-bit Smart Hydrostatic Weight Scales](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (1) (soon . stay tuned.)
-
-<br>
-
-### Weather Station
-- [Wireless Battery & Solar Powered Rain meter](https://github.com/aeonSolutions/aeonlabs-HomeAutomation-Outdoors-Wireless-Battery-powered-Rainmeter)
 
 <br>
 
