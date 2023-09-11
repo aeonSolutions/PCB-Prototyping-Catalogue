@@ -16,7 +16,7 @@
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/costofquality_servicelabs_lowres.jpg" height="300">
 </p>
 
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Laboratory%20Automation)
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Laboratory%20Automation)  >> Samrt DAQ
 
 <br>
 
