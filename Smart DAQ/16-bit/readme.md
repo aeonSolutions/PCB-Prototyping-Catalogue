@@ -22,7 +22,7 @@
 
 # 16-bit Smart Data Acquisition Devices
 
-## [10-2023 revision of the 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS]()
+## [revision "10-2023" of the 16bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS]()
 
 This is the repository for revision "10-2023" of the 16-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
 
