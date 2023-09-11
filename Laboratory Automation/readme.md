@@ -30,7 +30,10 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 
 **Hire me on Fiverr**
 
-If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
+If you like my work here and are looking to design and deploy your own smart device you can hire me on:
+
+- [Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25
+- [Guru](https://www.guru.com/freelancers/miguel-tomas)
 
 
 ### [Data Acquisition with a resistivity meter](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
