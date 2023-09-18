@@ -6,4 +6,5 @@
 
   <p align="center">
       <img height="150" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/KiCad_Footprints/media/Accumold_28800X_ADPD188BI.png">
+      <img height="150" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/KiCad_Footprints/media/smoke-chamber%20ADPD188BI.jpg">
   </p>
