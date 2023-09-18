@@ -55,10 +55,11 @@ Links at the top, bottom and right side pane. Thank you.
 
 ### The most recent updates 
  (september update)
-  
-  **OEM Firmware development:**
-  
-  There are now 4 smart devices with alpha versions of firmware. 
+
+  **KiCad Footprints**
+
+ Added a sector for custom KiCad footprints i use on my hardware electronics. See the DiY/ Maker section below for more information. 
+
   
   **Smart Home Automation section**
 - Started the project "Smart EMF Shield Curtain for Windows and Balconies"  
@@ -334,6 +335,15 @@ DIY innovation refers to the practice of creating and developing solutions or in
 
 - [ESP32-S3 MCU Tester QFN-56](https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/README.md) (1)
 - [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md) (7)
+
+<br>
+
+**KiCad Footprints and Symbols**
+
+KiCad footptints i use on my hardware electronics:
+
+- [KiCad Footprints](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/KiCad_Footprints)
+
 
 <br />
 
