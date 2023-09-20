@@ -73,19 +73,19 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 
 <p align="center">
  <a href"https://www.apple.com/shop/accessories/all/homekit">
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_apple_home.png" height="50">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_apple_home.png" height="50">
  </a>
 <a href="https://home.google.com"> 
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_google_home.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_google_home.png" height="50">
  </a>
 <a href="https://www.home-assistant.io">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_home_assistanr.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_home_assistanr.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_matter.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_matter.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_zigbee.jpg" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_zigbee.jpg" height="50">
  </a>
 </p>
 
@@ -100,15 +100,8 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 
 **Get a Notification on every PCB update**
 
-| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
+| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
 |-------------|------|
-
-<br>
-________________________________________________________________________________________________________________
-
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
-
-________________________________________________________________________________________________________________
 
 <br>
 
@@ -134,7 +127,7 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
 <br>
 
@@ -142,7 +135,7 @@ Make a donation on paypal and get a TAX refund*.
 Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
 In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
 <br />
 <br />
