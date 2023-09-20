@@ -45,6 +45,7 @@ Links at the top, bottom and right side pane. Thank you.
 
 ### Current projects i've been working on the past 4 weeks...
 
+- Smart EMF Shield Curtain for Windows and Balconies
 - Smart Power over USB-A Scheduler
 - 16-bit Smart data Acquisiton SDAD
 - smart device for smoke and fire monitoring and detection 
