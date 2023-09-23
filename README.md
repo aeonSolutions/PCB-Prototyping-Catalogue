@@ -23,7 +23,7 @@ buy on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https:/
 [AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). 
 
 
-This repository is the main catalog for all PCB prototypes and publicly available here on GitHub. There are now a total of **56** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
+This repository is the main catalog for all PCB prototypes and publicly available here on GitHub. There are now a total of **57** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
 
 In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 
@@ -163,7 +163,7 @@ Digital transformation in the construction industry is revolutionizing the way p
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" height="300">
 </p>
 
-## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (27)
+## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (31)
 
 Digital transformation has revolutionized home automation by integrating advanced technologies and connectivity into our living spaces. Through the seamless integration of smart devices, sensors, and networks, homes have become smarter and more efficient than ever before. With digital transformation, homeowners can control and monitor various aspects of their homes remotely, such as lighting, security systems, temperature, and even appliances, through mobile applications and voice commands. This transformative shift has not only enhanced convenience and comfort but has also improved energy efficiency, safety, and overall quality of life. The ability to automate and personalize our living environments has reshaped the way we interact with our homes, making them more intelligent, responsive, and adaptable to our individual needs and preferences.
 
@@ -172,6 +172,7 @@ Digital transformation has revolutionized home automation by integrating advance
 - [Smart Home AC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/readme.md) (3)
 - [Smart Home Solar Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/readme.md) (7)
 - [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) (8)
+- [Distributed Power Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage)  (7)
 
 <br>
 <br>
