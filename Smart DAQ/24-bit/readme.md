@@ -23,7 +23,7 @@
 ## Smart 24-bit Hydrostatic Weight Scales
 
 
- - [Acrylic base 24-bit Hydrostatic Weight Scale]()
+ - [Acrylic base 24-bit Hydrostatic Weight Scale](https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/tree/main)
    
  
 <br>
