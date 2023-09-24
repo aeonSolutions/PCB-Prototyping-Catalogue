@@ -34,7 +34,7 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
 - Ability to upload individual experimental data records to a data repository in real-time / LIVE;
 - Ability to connect to other SDADs on other experiments and link experimental data in a Blockchain-like manner with the purpose of increasing experimental data authenticity and trustworthiness on a scientific project or research campaign. For instance, link experimental data measurements from two or more ongoing experiments on the same project;
 
-To learn more about these technologies, visit the S.D.A.D. open science project repository "[Real time validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository)".
+To learn more about these technologies, visit the S.D.A.D. open science project repository "[Real time validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki)".
 
 <br>
 
