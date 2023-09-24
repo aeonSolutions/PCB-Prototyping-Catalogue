@@ -27,11 +27,12 @@ The Smart DAQ devices available here have the minimum hardware characteristics t
 These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices and are able to connect with each other using swarm intelligence. The main purpose is to increase data integrity and trustworthiness among DAQ devices connected and on all experimental data collected during an experiment or research project.
 
 **Summary of advantages of these Smart Data Acquisition Devices (S.D.A.D.)**
-- Ability to collect sensor measurments in real-time / LIVE and generate a unique fingerprint identification (UFPID) from and for a sensor data record.
-- Ability to connect with other SDADs on the same experiment using SWARM technology to increase experimental data authenticity and trustworthiness
-- Ability to exchange data with a data repository in real-time / LIVE , for instance www.dataverse.org, autonomously and without any human intervention with the purpose to increase experimental data authenticity and trustworthiness
-- Ability to upload individual experimental data records to a data repository in real-time / LIVE
-- Ability to connect to other SDADs on other experiments and link experimental data in a blockchain-like manner with the purpose to increase experimental data authenticity and trustworthiness on a scientific project or research campaign
+- Ability to collect sensor measurments in real-time / LIVE and generate a unique fingerprint identification (UFPID) from and for a sensor data record;
+- Ability to store sensor measurment records on a dataset (Excel CSV file, SQLite Database) uisng blockchain technologies;
+- Ability to connect with other SDADs on the same experiment using SWARM technology to increase experimental data authenticity and trustworthiness;
+- Ability to exchange data with a data repository in real-time / LIVE , for instance www.dataverse.org, autonomously and without any human intervention with the purpose to increase experimental data authenticity and trustworthiness;
+- Ability to upload individual experimental data records to a data repository in real-time / LIVE;
+- Ability to connect to other SDADs on other experiments and link experimental data in a blockchain-like manner with the purpose to increase experimental data authenticity and trustworthiness on a scientific project or research campaign. For instance, link experimental data measurments from two or more ongoing experiments on the same project;
 
 To learn more about these technologies, visit the S.D.A.D. open science project repository "[Real time validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository)".
 
