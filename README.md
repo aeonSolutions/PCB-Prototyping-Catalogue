@@ -23,7 +23,7 @@ buy on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https:/
 [AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). 
 
 
-This repository is the main catalog for all PCB prototypes and publicly available here on GitHub. There are now a total of **57** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
+This repository is the main catalog for all PCB prototypes and publicly available here on GitHub. There are now a total of **58** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
 
 In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 
@@ -49,6 +49,7 @@ Links at the top, bottom and right side pane. Thank you.
 - Smart EMF Shield Curtain for Windows and Balconies
 - Smart Power over USB-A Scheduler
 - 16-bit Smart data Acquisiton SDAD
+- 24-bit Smart data Acquisiton SDAD for Hydrostatic Weight Measurments up to 20Kg 
 - smart device for smoke and fire monitoring and detection 
 - [firmware prototyping] (1st milestone completed)
 - PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" IoE solutions. (Robotics, autonomous vehicles, live data acquisition) 
@@ -268,12 +269,12 @@ Digital transformation has revolutionized industrial enterprises by integrating 
 </p>
 
 
-## Laboratory Automation (11)
+## Laboratory Automation (12)
 
 Smart data acquisition devices are cutting-edge technologies that enable the efficient and accurate collection of data. These devices incorporate advanced sensors, connectivity options, and intelligent processing capabilities, allowing them to gather and transmit real-time data from various sources. They are designed to be compact, portable, and user-friendly, making them suitable for a wide range of applications across industries. Smart data acquisition devices play a crucial role in streamlining data acquisition processes, enhancing data quality, and enabling quick decision-making. With their ability to capture and analyze data in real-time, these devices empower organizations to optimize their operations, improve productivity, and drive innovation in the digital age.
 
 - [Open Scientific Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research) (2)
-- [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Laboratory%20Automation/readme.md) (9)
+- [Scientific Research & Laboratory](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Laboratory%20Automation/readme.md) (12)
  
 <br>
 <br>
