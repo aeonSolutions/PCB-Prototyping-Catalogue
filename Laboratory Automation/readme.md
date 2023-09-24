@@ -26,14 +26,16 @@ The Smart DAQ devices available here have the minimum hardware characteristics t
 
 These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices and are able to connect with each other using swarm intelligence. The main purpose is to increase data integrity and trustworthiness among DAQ devices connected and on all experimental data collected during an experiment or research project.
 
+**Summary of advantages of these Smart Data Acquisition Devices (S.D.A.D.)**
+- Ability to collect sensor measurments in real-time / LIVE and generate a unique fingerprint identification (UFPID) from and for a sensor data record.
+- Ability to connect with other SDADs on the same experiment using SWARM technology to increase experimental data authenticity and trustworthiness
+- Ability to exchange data with a data repository in real-time / LIVE , for instance www.dataverse.org, autonomously and without any human intervention with the purpose to increase experimental data authenticity and trustworthiness
+- Ability to upload individual experimental data records to a data repository in real-time / LIVE
+- Ability to connect to other SDADs on other experiments and link experimental data in a blockchain-like manner with the purpose to increase experimental data authenticity and trustworthiness on a scientific project or research campaign
+
+To learn more about these technologies, visit the S.D.A.D. open science project repository "[Real time validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository)".
+
 <br>
-
-**Hire me on Fiverr**
-
-If you like my work here and are looking to design and deploy your own smart device you can hire me on:
-
-- [Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25
-- [Guru](https://www.guru.com/freelancers/miguel-tomas)
 
 
 ### [Data Acquisition with a resistivity meter](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
@@ -58,19 +60,19 @@ If you like my work here and are looking to design and deploy your own smart dev
 
 <p align="center">
  <a href"https://www.apple.com/shop/accessories/all/homekit">
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_apple_home.png" height="50">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_apple_home.png" height="50">
  </a>
 <a href="https://home.google.com"> 
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_google_home.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_google_home.png" height="50">
  </a>
 <a href="https://www.home-assistant.io">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_home_assistanr.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_home_assistanr.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_matter.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_matter.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_zigbee.jpg" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_zigbee.jpg" height="50">
  </a>
 </p>
 
@@ -101,6 +103,14 @@ You can get in touch with me on my LinkedIn Profile:
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
 
+
+**Hire me on Fiverr**
+
+If you like my work here and are looking to design and deploy your own smart device you can hire me on:
+
+- [Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25
+- [Guru](https://www.guru.com/freelancers/miguel-tomas)
+  
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
@@ -113,7 +123,7 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
 <br>
 
@@ -121,7 +131,7 @@ Make a donation on paypal and get a TAX refund*.
 Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
 In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
 <br />
 <br />
