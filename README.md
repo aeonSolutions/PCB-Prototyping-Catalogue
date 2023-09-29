@@ -52,7 +52,7 @@ Links at the top, bottom and right side pane. Thank you.
 - 24-bit Smart data Acquisiton SDAD for Hydrostatic Weight Measurments up to 20Kg 
 - smart device for smoke and fire monitoring and detection 
 - [firmware prototyping] (1st milestone completed)
-- PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" IoE solutions. (Robotics, autonomous vehicles, live data acquisition) 
+- PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" IoE solutions. (Robotics, autonomous vehicles, live data acquisition). See here [the Jetson Nano Project](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano).
 
 <br>
 
