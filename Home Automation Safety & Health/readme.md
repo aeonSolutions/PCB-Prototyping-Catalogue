@@ -70,6 +70,8 @@ Staysafe.
 <br>
 
 ## Home Automation Safety & Health
+(list of open hardware devices i prototyped to this date)
+
 - **Indoor Plants**
   - [Indoor Smart Plant Watering with builtin micro wave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
   
