@@ -52,13 +52,6 @@ Complementary medicines known to treat these kinds of health related problems:
 See below a list of useful links for more information. <br>
 Staysafe.
 
-### What happens when the detector is the body of a person or animal ?
-<p align="center">
-   <img height="300px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/electroboom.jpg"> <br>
- <a href="https://www.youtube.com/@ElectroBOOM" >view on Youtube the videos by Electroboom</a>
-</p>
-
-
 <br>
 
 ## Home Automation Safety & Health
@@ -120,7 +113,13 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 
 <br>
 
-## Useful links 
+## What happens when the detector is the body of a person or animal ?
+<p align="center">
+   <img height="300px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/electroboom.jpg"> <br>
+ <a href="https://www.youtube.com/@ElectroBOOM" >view on Youtube the videos by Electroboom</a>
+</p>
+
+### Useful links 
 Below is a list of links with useful information about these kind of abusice and many times criminous and terrorist usages.
 
 **Exposure limits * Electric and magnetic fields in daily life * Regulation and control * Research and recommendations** <br>
