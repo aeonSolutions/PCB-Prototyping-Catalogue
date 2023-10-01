@@ -54,10 +54,11 @@ Scientific Data | No | No
 
 </div>
 
-## How to proceeed
-If you are certain your health related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or enginener and ask him/her to audit your home , work place (or other place you find it to be the root cause) to setup measurment devices (more than 2) , for electromagnetic radiation detection (or other, for instance photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup meeds to be bale to do sensor data measurements uploads to an experimental data repository (see table 1 above). At the same time is a mandatory requirement to notify authotires and include the web address link where sensor data is being uploaded and stored. 
+## How to proceed
+If you are certain your health related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or engineer and ask him/her to audit your home , work place (or other place you find it to be the root cause) to setup measurement devices (more than 2) , for electromagnetic radiation detection (or other, for instance photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup needs to be bale to do sensor data measurements uploads to an experimental data repository (see table 1 above). At the same time is a mandatory requirement to notify authorities and include the web address link where sensor data is being uploaded and stored.
 
- :warning: **Only after you have those data measurments is advised to go to a conventional doctor / medicine**.
+⚠️ **Only after you have those data measurements is advised to go to a conventional doctor / medicine.**
+
 
 Complementary medicines known to treat these kinds of health related problems:
 - [Tai Ji Chuan](https://en.wikipedia.org/wiki/Tai_chi)
