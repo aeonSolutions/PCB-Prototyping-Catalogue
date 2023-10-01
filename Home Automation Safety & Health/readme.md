@@ -21,7 +21,7 @@
 
 ## Safety usage of the smart devices provided below
 
-The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more. (except those with "5G" technologies)
+The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, WIFI routers at home, and many more. (except those with "5G" technologies). This type of aggressions have the characteristic to happen only during short periods of time, in the order of milliseconds or less regardless of electromagnetic radiation conditions and threshold limits of wireless networks. 
 
 **The devices listed below are not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
 
