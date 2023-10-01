@@ -23,7 +23,11 @@
 
 The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, WIFI routers at home, and many more. (except those with directional beam forming technologies). This type of aggressions have the characteristic to happen only during short periods of time, in the order of milliseconds or less regardless of electromagnetic radiation conditions and threshold limits of wireless networks.  
 
-Two concepts are very important to know and learn about: the **superposition of different electromagnetic waves**, its meanings and what resulting wave and EM energy produces (for instance an energy spike that produces an instantaneous flash of light). And the second concept is **wave pattern marching** to produce an EM wave with higher energy. These concepts and subjects can be found easily on google and in scientific publications.   
+Two concepts are very important to know and learn about: 
+- the **superposition of different electromagnetic waves**, its meanings and what resulting wave and EM energy produces (for instance an energy spike that produces an instantaneous flash of light).
+- and the second concept is **wave pattern matching** to produce an EM wave with higher energy (for instance an high voltage , low amperage corona effect similar to those possible to see during a thunderstorm).
+
+These concepts and subjects can be found easily on google and in scientific publications.   
 
 
 **The devices listed below are not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
