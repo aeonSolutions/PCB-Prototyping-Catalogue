@@ -23,13 +23,13 @@
 
 The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more. (except those with "5G" technologies)
 
-**Are not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
+**The devices listed below are not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
 
-**When installing any of the solutions provided below, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" these smart devices below are unable to detect**.  
+**When installing any of the solutions provided below, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" the smart devices below are unable to detect**.  
 
 **Always use the smart devices below connected to a public data repository with LIVE data streams. While at the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
 
-**Be advised**
+ :warning: **Be advised**
 
 
 Known open data repositories partially compatible with these smart devices:
@@ -42,12 +42,12 @@ Known open data repositories partially compatible with these smart devices:
 ## How to proceeed
 If you are certain your health related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or enginener and ask him/her to audit your home , work place (or other place you find it to be the root cause) to setup measurment devices, for electromagnetic radiation detection (or other, for instance photonics, also known as lasers) and do active monitoring 24/7. 
 
-**Only after you have those data measurments is advised to go to a conventional doctor / medicine**.
+ :warning: **Only after you have those data measurments is advised to go to a conventional doctor / medicine**.
 
 Complementary medicines known to treat these kinds of health related problems:
 - [Tai Ji Chuan](https://en.wikipedia.org/wiki/Tai_chi)
 - [Acupunture](https://en.wikipedia.org/wiki/Acupuncture)
-- Reiki Therapy](https://en.wikipedia.org/wiki/Reiki)
+- [Reiki Therapy](https://en.wikipedia.org/wiki/Reiki)
 
 See below a list of useful links for more information. <br>
 Staysafe.
