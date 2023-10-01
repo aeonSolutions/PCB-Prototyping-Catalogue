@@ -39,6 +39,16 @@ Known open data repositories partially compatible with these smart devices:
 
 <br>
 
+### How to proceeed
+If you are certain your health related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or enginener and ask him/her to audit your home , work place (or other place you find it to be the root cause) to setup measurment devices, for electromagnetic radiation detection (or other, for insatnce photonics, also known as lasers) and do active monitoring 24/7. 
+
+**Only after you have those data measurments is advised to go to a conventional doctor / mecicine**.   
+
+See below a list of useful links for more information. <br>
+Staysafe.
+
+<br>
+
 ## Home Automation Safety & Health
 - **Indoor Plants**
   - [Indoor Smart Plant Watering with builtin micro wave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
@@ -94,6 +104,28 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)
 - [Upgradable ESP32 MCU](https://github.com/aeonSolutions/AeonLabs-Upgradable-MCU-ESP32)
+
+
+<br>
+
+## Useful links 
+Below is a list of links with useful information about these kind of abusice and many times criminous and terrorist usages.
+
+**Exposure limits * Electric and magnetic fields in daily life * Regulation and control * Research and recommendations** <br>
+Alternating fields with an extremely low frequency generate an electric current in the body. If the alternating fields are strong enough, this generated current can disrupt the functioning of nerves and muscles in the body and cause flashes of light in the field of vision. According to the recommendation of the Council 1999/519/EC, the following threshold values must not be exceeded by the fields so that these effects do not occur:
+- for the electric field, the limit is 5 kilovolt per metre (5000 V/m or 5 kV/m);
+- for the magnetic field, the limit is 100 microtesla (100 µT).
+
+**Want to know more?**
+- www.bbemg.ulg.ac.be (Belgian BioElectroMagnetic Group)
+- www.milieurapport.be (research reports about the high-voltage network)
+- www.who.int/peh-emf/en (World Health Organisation - electromagnetic fields)
+- www.health.fgov.be/CSS_HGR (advice and recommendations of the Superior Health Council)
+
+View the official PDF document:<br>
+https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme_file/19104217/Infofiche%20Electriciteit%20en%20gezondheid_EN_definitieve%20versie.pdf 
+  
+
 
 <br />
 <br />
