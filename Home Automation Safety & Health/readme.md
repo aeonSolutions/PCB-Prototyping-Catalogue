@@ -47,6 +47,13 @@ If you are certain your health related problem is caused by some kind of wireles
 See below a list of useful links for more information. <br>
 Staysafe.
 
+### What happens when the detector is the body of a person or animal ?
+<p align="center">
+   <img height="300px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/electroboom.jpg"> <br>
+ <a href="https://www.youtube.com/@ElectroBOOM" >view on Youtube the videos by Electroboom</a>
+</p>
+
+
 <br>
 
 ## Home Automation Safety & Health
