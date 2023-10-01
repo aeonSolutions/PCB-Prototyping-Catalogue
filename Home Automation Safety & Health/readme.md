@@ -39,6 +39,20 @@ Known open data repositories partial compatible with these smart devices:
 
 <br>
 
+<div align="center">
+ 
+Cloud Host | API | Open Source
+-- | -- | --
+Zonodo | ReST | Yes
+OSF | Yes | Yes
+Harvard's Dataverse | Yes | Yes
+DRYAD | No | No
+Mendeley | Yes | No
+Data in Brief: | No | No
+Scientific Data | No | No
+
+</div>
+
 ## How to proceeed
 If you are certain your health related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or enginener and ask him/her to audit your home , work place (or other place you find it to be the root cause) to setup measurment devices, for electromagnetic radiation detection (or other, for instance photonics, also known as lasers) and do active monitoring 24/7. 
 
