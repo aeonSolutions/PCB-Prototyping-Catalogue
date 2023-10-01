@@ -40,6 +40,7 @@ Known open data repositories partial compatible with these smart devices:
 <br>
 
 <div align="center">
+ Table 1 - List of data repositories with an API <br>
  
 Cloud Host | API | Open Source
 -- | -- | --
