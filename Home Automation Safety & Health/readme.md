@@ -138,7 +138,7 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 </p>
 
 ### Useful links 
-Below is a list of links with useful information about these kind of abusice and many times criminous and terrorist usages.
+Below is a list of links with useful information about these kind of abusive and many times criminous and terrorist usages.
 
 **Exposure limits * Electric and magnetic fields in daily life * Regulation and control * Research and recommendations** <br>
 Alternating fields with an extremely low frequency generate an electric current in the body. If the alternating fields are strong enough, this generated current can disrupt the functioning of nerves and muscles in the body and cause flashes of light in the field of vision. According to the recommendation of the Council 1999/519/EC, the following threshold values must not be exceeded by the fields so that these effects do not occur:
