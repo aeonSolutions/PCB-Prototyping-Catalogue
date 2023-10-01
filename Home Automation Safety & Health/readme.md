@@ -40,9 +40,14 @@ Known open data repositories partially compatible with these smart devices:
 <br>
 
 ## How to proceeed
-If you are certain your health related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or enginener and ask him/her to audit your home , work place (or other place you find it to be the root cause) to setup measurment devices, for electromagnetic radiation detection (or other, for insatnce photonics, also known as lasers) and do active monitoring 24/7. 
+If you are certain your health related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or enginener and ask him/her to audit your home , work place (or other place you find it to be the root cause) to setup measurment devices, for electromagnetic radiation detection (or other, for instance photonics, also known as lasers) and do active monitoring 24/7. 
 
-**Only after you have those data measurments is advised to go to a conventional doctor / mecicine**.   
+**Only after you have those data measurments is advised to go to a conventional doctor / medicine**.
+
+Complementary medicines known to treat these kinds of health related problems:
+- [Tai Ji Chuan](https://en.wikipedia.org/wiki/Tai_chi)
+- [Acupunture](https://en.wikipedia.org/wiki/Acupuncture)
+- Reiki Therapy](https://en.wikipedia.org/wiki/Reiki)
 
 See below a list of useful links for more information. <br>
 Staysafe.
