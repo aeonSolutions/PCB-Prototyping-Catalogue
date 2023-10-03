@@ -22,9 +22,9 @@
 
 # 12-bit Smart Data Acquisition Devices
 
-## [12-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS (09-2023 revision) ](https://github.com/aeonSolutions/aeonlabs-12bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS-rev-09-2023/blob/main/README.md)
+## [12-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS (10-2023 revision) ](https://github.com/aeonSolutions/aeonlabs-12bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS-rev-09-2023/blob/main/README.md)
 
-This is the repository for revision "09-2023" of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
+This is the repository for revision "10-2023" of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
 
 <p align="center">
     <img src="https://github.com/aeonSolutions/aeonlabs-12bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS-rev-09-2023/blob/main/media/pcb_front.png" width="250px">
