@@ -34,9 +34,12 @@ Wearables have revolutionized the way we interact with technology, seamlessly in
 
 <br>
 
-**Hire me on Fiverr**
+**Hire me**
 
-If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
+If you like my work here and are looking to design and deploy your own smart device you can hire me on:
+
+- [Fiverr](https://www.fiverr.com/s/GjmPxe). 
+- [Guru](https://www.guru.com/freelancers/miguel-tomas)
 
 <br>
 
