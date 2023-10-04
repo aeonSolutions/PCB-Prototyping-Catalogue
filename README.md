@@ -180,8 +180,23 @@ Digital transformation has revolutionized home automation by integrating advance
 <br>
 
 <p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/wearables.png" height="300">
+</p>
+
+## Wearables 
+Open hardware and wearables represent the convergence of innovation and accessibility in the world of technology. Open hardware refers to the design and development of electronic devices, such as wearables, with a commitment to transparency and collaboration. It encourages the sharing of schematics, source code, and documentation, allowing a wider community of developers and enthusiasts to tinker, improve, and customize these devices. Wearables, on the other hand, are a category of technology that encompasses a wide range of devices like smartwatches, fitness trackers, and augmented reality glasses. These gadgets seamlessly integrate into our daily lives, providing us with valuable data and enhancing our connectivity. The synergy of open hardware and wearables fosters an environment where individuals can not only monitor their health, track their activities, or interact with digital information but also actively participate in the creation and evolution of these technologies, democratizing innovation and pushing the boundaries of what's possible.
+
+
+- [wearables](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables)
+
+
+<br>
+<br>
+
+<p align="center">
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" height="300">
 </p>
+
 
 ## Mental Health Wellness Solutions (7)
 
