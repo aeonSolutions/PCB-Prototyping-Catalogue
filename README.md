@@ -104,7 +104,7 @@ thank you.
 
 If you like my work here and are looking to design and deploy your own smart device you can hire me on:
 
-- [Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25
+- [Fiverr](https://www.fiverr.com/s/GjmPxe). 
 - [Guru](https://www.guru.com/freelancers/miguel-tomas)
 
 <br>
