@@ -47,12 +47,19 @@ This repo contains the KiCad files for the AeonLabs E-Ink / E-Paper Display Prog
    <img src="https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer/blob/main/Designs/pcb_front.png" height="350"> 
 </p>
 
-# [AeonLabs-Smart Passive E-Ink Display-PCI-e](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e)
+## [AeonLabs-Smart Passive E-Ink Display-PCI-e](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e)
 A PCB for a 2.13" E-Ink Display with PCI-e connection. Requires #no #power an can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for #labelling or #price tagging. Total cost, including the E-Ink Display starts at only 10 euros. Already assembled.
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/blob/main/designs/final.jpg" height="350"> 
 </p>
+
+
+## Other Makers
+- [ESP32-S3-RGB-Panel 40 pin](https://github.com/W00ng/ESP32-S3-RGB-Panel)
+
+<br>
+<br>
 
 ## Liked it ? Get a Free PCB for yourself
 Send me your device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
