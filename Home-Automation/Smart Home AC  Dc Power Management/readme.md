@@ -5,6 +5,10 @@
 
 - [110-220V AC Smart Power Outlet Socket LK-EU01](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/tree/main)
 
+<p align="center">
+   <img height="250" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/LK-EU01%20smart%20outlet%20enclosure.png">
+</p>
+
 
 - [110-220V AC Smart Power Outlet](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/README.md)
 
