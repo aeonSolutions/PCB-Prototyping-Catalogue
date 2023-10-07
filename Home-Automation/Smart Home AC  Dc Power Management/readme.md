@@ -3,6 +3,9 @@
 
 # Smart Home AC Power Management
 
+- [110-220V AC Smart Power Outlet Socket LK-EU01]()
+
+
 - [110-220V AC Smart Power Outlet](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/README.md)
 
 <br>
