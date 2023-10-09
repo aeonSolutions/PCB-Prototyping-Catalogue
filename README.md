@@ -402,7 +402,7 @@ To make any of the available PCBs here run as intended is needed to download int
 ### PCB Fabrication
 <p align="center">
  
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/all_pcb.png" alt="" height="60">](https://www.allpcb.com/?Mb_InviteId=79483) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcbway.jpg" alt="" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/eurocircuits.png" alt="" height="60">](https://be.eurocircuits.com) [<img height="30" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">](https://www.seeedstudio.com/)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/all_pcb.png" alt="" height="60">](https://www.allpcb.com/?Mb_InviteId=79483) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcbway.jpg" alt="" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/eurocircuits.png" alt="" height="60">](https://be.eurocircuits.com) [<img height="30" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">](https://www.seeedstudio.com/fusion.html)
 
 </p>
 
