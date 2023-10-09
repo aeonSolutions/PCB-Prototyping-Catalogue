@@ -18,19 +18,19 @@ If time (or datasheets) are not your thing, there are more PCB designs with circ
 
 <p align="center">
  <a href"https://www.apple.com/shop/accessories/all/homekit">
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_apple_home.png" height="50">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_apple_home.png" height="50">
  </a>
 <a href="https://home.google.com"> 
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_google_home.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_google_home.png" height="50">
  </a>
 <a href="https://www.home-assistant.io">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_home_assistanr.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_home_assistanr.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_matter.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_matter.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_zigbee.jpg" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_zigbee.jpg" height="50">
  </a>
 </p>
 
@@ -104,7 +104,7 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
 <br>
 
@@ -112,7 +112,7 @@ Make a donation on paypal and get a TAX refund*.
 Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
 In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
 <br />
 <br />
