@@ -38,6 +38,9 @@ To learn more about these technologies, visit the S.D.A.D. open science project 
 
 <br>
 
+### [Data Acquisition for Electric Current and Electric Tension]()
+- [16-bit Smart Data Acquisition for Electric Current and Electric Tension](https://github.com/aeonSolutions/AeonLabs_openscience-Smart-Data-Acquisition-for-Electric-Tension-and-Current) (1)
+
 
 ### [Data Acquisition with a resistivity meter](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
 - [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) (10)
