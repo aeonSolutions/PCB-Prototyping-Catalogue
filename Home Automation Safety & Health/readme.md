@@ -77,6 +77,10 @@ Staysafe.
 
 <br>
 
+<p align="center">
+    <img height="300" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/energy_unbalance_health.jpg">
+</p>
+
 ## Home Automation Safety & Health
 (list of open hardware devices i prototyped to this date)
 
