@@ -149,7 +149,7 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 ## Comercial Health Related Wearables 
 I recommend wearing of a "Medical Grade" smartwatch when you know there's abnormal electromagnetic / photonic activity in the spaces most frequented (home, office, etc). The minimum specifications and requirements are:
 - Telemedicine, i.e., sharing of medical* data with others throguh the  mobile app (see smartwatch suggested below)
-- Able to upload all medical* data to a custom data repository, for instance to a dataverse (www.dataverse.org) (I haven't found one to date with this capabiltiy, any manufacturer here willing to open source their firmware and mobile app source code? I am willing to help and program this and other important functionalities ) .
+- Able to upload all medical* data to a custom data repository, for instance to a dataverse (www.dataverse.org) (I haven't found one to date with this capabiltiy. Any manufacturer here willing to open source their firmware and mobile app source code? I am willing to help and program this and other important functionalities ) .
 - Ability to measure REM sleep during the night (see smartwatch suggested below)
 - App wiht ability to plot data measurements in a chart (see smartwatch suggested below) for one to make instananeuous snapshots to doodle and comment when in an urgent situatiuon or in urgent need.  
 
