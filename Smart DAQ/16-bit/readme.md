@@ -61,7 +61,7 @@ ________________________________________________________________________________
 ### PCB Conceptualization and Design
 <p align="center">
  
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/saturnPCBdesignLogo.png" alt="" height="60">](https://saturnpcb.com) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/kicad_logo_small.png" alt="" height="60">](https://www.kicad.org) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/AppCAD.jpg" alt="" height="60">](https://www.broadcom.com/appcad)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/saturnPCBdesignLogo.png" alt="" height="60">](https://saturnpcb.com) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/kicad_logo_small.png" alt="" height="60">](https://www.kicad.org) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/AppCAD.jpg" alt="" height="60">](https://www.broadcom.com/appcad)
 
 </p>
 
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 ### PCB Fabrication
 <p align="center">
  
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png" alt="" height="60">](https://www.allpcb.com/?Mb_InviteId=79483) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg" alt="" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/eurocircuits.png" alt="" height="60">](https://be.eurocircuits.com)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/all_pcb.png" alt="" height="60">](https://www.allpcb.com/?Mb_InviteId=79483) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcbway.jpg" alt="" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/eurocircuits.png" alt="" height="60">](https://be.eurocircuits.com)
 
 </p>
 
