@@ -36,8 +36,12 @@ Make sure to also check my **Open Source Software Catalogue** [here](https://git
 | [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
 |-------------|------|
 
-**Suport**
+**Technical Suport**
+Need technical suport for any of my projects i have freely available here ? <br>
+Technical suport in prototype smart devices like the ones i have available here ? <br>
+Cick here or on the sponosrs buttion at the top and right side pane. Thank you
 
+**Sponsor**
 AeonLabs invests time and resources providing this open source hoardware electronics, please support AeonLabs and open-source hardware by purchasing products from AeonLabs!
 Links at the top, bottom and right side pane. Thank you.
 
