@@ -147,8 +147,8 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 <br>
 
 ## Comercial Health Related Wearables 
-I recommned wearing of a "Medical Grade" smartwatch when you know there's abnormal electromagnetic / photonic activity in the spaces most frequented (home, office, etc). The minimum specifications and requirements are:
-- Tele medicine, i.e., sharing of medical* data with others throguh the  mobile app (see smartwatch suggested below)
+I recommend wearing of a "Medical Grade" smartwatch when you know there's abnormal electromagnetic / photonic activity in the spaces most frequented (home, office, etc). The minimum specifications and requirements are:
+- Telemedicine, i.e., sharing of medical* data with others throguh the  mobile app (see smartwatch suggested below)
 - Able to upload all medical* data to a custom data repository, for instance to a dataverse (www.dataverse.org) (I haven't found one to date with this capabiltiy) .
 - Ability to measure REM sleep during the night (see smartwatch suggested below)
 - App wiht ability to plot data measurements in a chart (see smartwatch suggested below) for one to make instananeuous snapshots to doodle and comment when in an urgent situatiuon or in urgent need.  
@@ -156,8 +156,8 @@ I recommned wearing of a "Medical Grade" smartwatch when you know there's abnorm
 For the remainder of 2023 and first half of 2024 the OEM smartwatch i recommned is sold on Aliexpress [here](https://s.click.aliexpress.com/e/_DdOPKhh). 
 
 ⚠️ **Important remarks**
-- Accuracy of the smartwartch is not the top most important requirement. What is important is for you to know the brand and model of all sensors builtin into the smartwatch. 
--  Smart warches are mainly electronics devices and are prone to electromagentic and even photonic interferce., causing temporary mafunction and incorrent sensor measurments. This is expected for this kind of devices. Therefore, it is important the user to be willing to learn and document all errors a smartwatch may produce when collecting sensor measurments and append it to any kind of abnormal event it maybe happing, simply because it is, most likely, a result of somekind of a wireless aggression.  
+- Accuracy of the smartwatch is not the top most important requirement. What is important is for you to know the brand and model of all sensors builtin into the smartwatch.
+- Smart watches are mainly electronics devices and are prone to electromagnetic and even photonic interference., causing temporary malfunction and incorrect sensor measurements. This is expected for this kind of devices. Therefore, it is important the user to be willing to learn and document all errors a smartwatch may produce when collecting sensor measurements and append it to any kind of abnormal event it maybe happening, simply because it is, most likely, a result of some kind of a wireless aggression.
 
 <br>
 
