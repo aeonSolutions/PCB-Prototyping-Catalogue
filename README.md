@@ -400,6 +400,27 @@ To make any of the available PCBs here run as intended is needed to download int
 
 </p>
 
+<br>
+
+**WHERE TO FIND PCB COMPONENTS 3D MODEL?**
+
+- <a href="https://www.snapeda.com/" target="_blank">SnapEDA</a>
+- <a href="https://componentsearchengine.com/" target="_blank">Component Search Engine</a>
+- Distributors: 
+  - <a href="https://www.digikey.in/en/resources/3d-models" target="_blank">Digikey</a>
+  - <a href="https://www.mouser.in/electronic-cad-symbols-models/" target="_blank">Mouser</a>
+- <a href="https://www.ultralibrarian.com/" target="_blank">UltraLibrarian</a>
+- <a href="https://octopart.com/" target="_blank">Octopart</a>
+- <a href="https://www.3dcontentcentral.com/" target="_blank" class="rank-math-link">3DContentCentral</a>
+- <a href="https://my.solidworks.com/cadmodels/search?q=Raspberry%20Pi" target="_blank">Solidworks</a>
+- <a href="https://grabcad.com/" target="_blank">GrabCAD</a>
+- <a href="https://www.traceparts.com/en" target="_blank">TraceParts</a>
+- <a href="https://www.rs-online.com/designspark/3d-cad-zone" target="_blank">DesignSpark 3d Zone</a>
+- <a href="https://3dwarehouse.sketchup.com/?hl=en" target="_blank">3DWarehouse</a>
+- <a href="http://www.pcb-3d.com/" target="_blank">PCB-3D</a>
+- <a href="https://www.turbosquid.com/Search/Index.cfm?keyword=component" target="_blank">Turbosquid</a>
+- <a href="https://sketchfab.com/" target="_blank">SketchFab</a>
+
 <br />
 <br />
 
