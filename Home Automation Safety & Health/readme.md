@@ -184,7 +184,18 @@ Alternating fields with an extremely low frequency generate an electric current 
 View the official PDF document:<br>
 https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme_file/19104217/Infofiche%20Electriciteit%20en%20gezondheid_EN_definitieve%20versie.pdf 
   
+<br>
 
+**US National Library** <br>
+["Possible Effects of Radiofrequency Electromagnetic Field Exposure on Central Nerve System"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513191/#:~:text=Neurological%20cognitive%20disorders%2C%20such%20as,et%20al.%2C%202007)
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/emf_head_paper.jpeg" height="300">
+</p>
+
+<br>
+
+**Journal of NeuroEngineering and Rehabilitation** <br>
+["Neuron matters: neuromodulation with electromagnetic stimulation must consider neurons as dynamic identities"](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-022-01094-4)
 
 <br />
 <br />
