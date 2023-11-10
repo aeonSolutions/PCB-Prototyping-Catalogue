@@ -56,17 +56,13 @@ This is the repository for the 12bit Smart DAQ Device with unique data fingerpri
 ## [Open Science: 12bit Smart DAQ Device with unique data fingerprint](https://github.com/aeonSolutions/openScienceResearch-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-)
 
 <p align="right">
-    sponsored by <br>
+    2nd place! Sponsored by <br>
     <a href="https://be.eurocircuits.com/">
        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/raw/main/media/eurocircuits.png">
     </a>
-</p>
-
-<p align="right">
-    2nd place <br>
     <a href="https://www.electromaker.io/project/view/how-to-setup-a-smart-daq-to-upload-live-experimental-data-to">
        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/electromaker_logo.png">
-    </a>
+    </a>  
 </p>
 
 This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository. This hardware electronics won the 2nd place on the [Electromaker](https://www.electromaker.io/) & [Eurocircuits PCB Design Contest 2022](https://www.electromaker.io/contest/eurocircuits-pcb-2022) for the capability of the proposed firmware code be able to Upload live experimental data to a "data repository", in particular to [Harvard's dataverse](https://dataverse.harvard.edu). Read about htis project on the electromaker website [here](https://www.electromaker.io/project/view/how-to-setup-a-smart-daq-to-upload-live-experimental-data-to).
