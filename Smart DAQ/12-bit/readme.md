@@ -69,8 +69,8 @@ This is the repository for the 12bit Smart DAQ Device with unique data fingerpri
     </a>
 </p>
 
-This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
- 
+This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository. This hardware electronics won the 2nd place on the [Electromaker](https://www.electromaker.io/) & [Eurocircuits PCB Design Contest 2022](https://www.electromaker.io/contest/eurocircuits-pcb-2022) for the capability of the proposed firmware code be able to Upload live experimental data to a "data repository", in particular to [Harvard's dataverse](https://dataverse.harvard.edu). Read about htis project on the electromaker website [here](https://www.electromaker.io/project/view/how-to-setup-a-smart-daq-to-upload-live-experimental-data-to).
+
 <p align="center">
    <img src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/LDAD%20fron.png" height="250"> 
 </p>
@@ -167,7 +167,7 @@ ________________________________________________________________________________
 ### PCB Conceptualization and Design
 <p align="center">
  
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/saturnPCBdesignLogo.png" alt="" height="60">](https://saturnpcb.com) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/kicad_logo_small.png" alt="" height="60">](https://www.kicad.org) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/AppCAD.jpg" alt="" height="60">](https://www.broadcom.com/appcad)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/saturnPCBdesignLogo.png" alt="" height="60">](https://saturnpcb.com) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/kicad_logo_small.png" alt="" height="60">](https://www.kicad.org) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/AppCAD.jpg" alt="" height="60">](https://www.broadcom.com/appcad)
 
 </p>
 
@@ -178,7 +178,7 @@ ________________________________________________________________________________
 ### PCB Fabrication
 <p align="center">
  
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/all_pcb.png" alt="" height="60">](https://www.allpcb.com/?Mb_InviteId=79483) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/pcbway.jpg" alt="" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/eurocircuits.png" alt="" height="60">](https://be.eurocircuits.com)
+[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/all_pcb.png" alt="" height="60">](https://www.allpcb.com/?Mb_InviteId=79483) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcbway.jpg" alt="" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/eurocircuits.png" alt="" height="60">](https://be.eurocircuits.com)
 
 </p>
 
@@ -217,7 +217,7 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
 <br>
 
@@ -225,7 +225,7 @@ Make a donation on paypal and get a TAX refund*.
 Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
 In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
 <br />
 <br />
