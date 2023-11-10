@@ -55,13 +55,28 @@ This is the repository for the 12bit Smart DAQ Device with unique data fingerpri
 
 ## [Open Science: 12bit Smart DAQ Device with unique data fingerprint](https://github.com/aeonSolutions/openScienceResearch-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-)
 
+<p align="right">
+    sponsored by <br>
+    <a href="https://be.eurocircuits.com/">
+       <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/raw/main/media/eurocircuits.png">
+    </a>
+</p>
+
+<p align="right">
+    2nd place <br>
+    <a href="https://www.electromaker.io/project/view/how-to-setup-a-smart-daq-to-upload-live-experimental-data-to">
+       <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/electromaker_logo.png">
+    </a>
+</p>
+
 This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
  
 <p align="center">
    <img src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/LDAD%20fron.png" height="250"> 
 </p>
 
-=====================================================================================
+<br>
+<br>
 
 ## [ LDAD NANO MAX Smart DAQ](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-MAX-Smart-DAQ)
 This repo contains the KiCad files for the AeonLabs LDAD NANO MAX Smart DAQ and more than 20 sensors compatible with I2C protocol communication. 
@@ -70,8 +85,8 @@ This repo contains the KiCad files for the AeonLabs LDAD NANO MAX Smart DAQ and 
    <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-MAX-Smart-DAQ/blob/main/designs/pcb.jpg" height="250"> 
 </p>
 
-=====================================================================================
-
+<br>
+<br>
 
 ## 4- [ LDAD LVDT MAX Smart DAQ](https://github.com/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ)
 This repo contains the KiCad files for the   AeonLabs LDAD LVDT MAX Smart DAQ and more than 20 sensors compatible with I2C protocol communication. 
@@ -80,8 +95,8 @@ This repo contains the KiCad files for the   AeonLabs LDAD LVDT MAX Smart DAQ an
    <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-LVDT-MAX-Smart-DAQ/blob/main/designs/pcb.jpg" height="250"> 
 </p>
 
-=====================================================================================
-
+<br>
+<br>
 
 ## 5- [ LDAD NANO LVDT DS LS Smart DAQ](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ)
 This repo contains the KiCad files for the About AeonLabs LDAD NANO for LVDT precision measurements and more than 20 other sensors compatible with I2C protocol communication. 
@@ -90,8 +105,8 @@ This repo contains the KiCad files for the About AeonLabs LDAD NANO for LVDT pre
    <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ/blob/main/designs/pcb.jpg" height="250"> 
 </p>
 
-=====================================================================================
-
+<br>
+<br>
 
 ## 6- [ LDAD NANO HX Smart DAQ](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-HX-Smart-DAQ)
 This repo contains the KiCad files for the  AeonLabs  LDAD NANO for strain sensing / weight measurements and more than 20 other sensors compatible with I2C protocol communication. 
@@ -100,7 +115,8 @@ This repo contains the KiCad files for the  AeonLabs  LDAD NANO for strain sensi
    <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-HX-Smart-DAQ/blob/main/designs/pcb.jpg" height="250"> 
 </p>
 
-=====================================================================================
+<br>
+<br>
 
 ## 12- [ LDAD ATOM For I2C Sensors](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors)
 This repo contains the KiCad files for the LDAD ATOM features 1 I2C (or 1 digital in)  connection, has WIFI and BLE connectivity, externally powered 3.3V to 12V such as a USB plug.  This PCB was made to Fit a [45x25mm](https://s.click.aliexpress.com/e/_A5Elob) enclosure.
@@ -110,7 +126,8 @@ It can connect 1 digital sensor and up to 8 I2C sensors.
    <img src="https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-I2C-Sensors/blob/main/designs/pcb_front.png" height="250"> 
 </p>
 
-=====================================================================================
+<br>
+<br>
 
 ## 13- [AeonLabs LDAD ATOM For Temperature](https://github.com/aeonSolutions/AeonLabs-LDAD-ATOM-For-Temperature)
 This repo contains the KiCad files for the LDAD ATOM features 1 DS18b20 temperature sensor, has WIFI and BLE connectivity, externanlly powerted 3.3V to 12V such as a USB plug.
