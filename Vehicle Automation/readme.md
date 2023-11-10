@@ -24,7 +24,8 @@ Autonomous vehicles, also known as self-driving cars, are revolutionizing the tr
 
 <br>
  
- - Open CANBUS (In the make...Stay tuned.)
+What's planned for 2024.... <br>
+The electrical system and electronics for all Volvos with the common chassis MKII, period 1998 to 2005, using the existing wiring on those cars (backward compatible) and replacing all electronics with open hardware I will design and prototype.  To achieve this task I will be using donor car electronics and electrical wiring I already have. This will serve as a ground base to commercialize automotive solutions using an open business logic (open hardware and open software) for other car brands and models.
  
 <br>
 
