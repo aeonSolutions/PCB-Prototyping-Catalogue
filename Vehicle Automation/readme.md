@@ -25,7 +25,12 @@ Autonomous vehicles, also known as self-driving cars, are revolutionizing the tr
 <br>
  
 What's planned for 2024.... <br>
-The electrical system and electronics for all Volvos with the common chassis MKII, period 1998 to 2005, using the existing wiring on those cars (backward compatible) and replacing all electronics with open hardware I will design and prototype.  To achieve this task I will be using donor car electronics and electrical wiring I already have. This will serve as a ground base to commercialize automotive solutions using an open business logic (open hardware and open software) for other car brands and models.
+The electrical system and electronics for all Volvos with the common chassis MKII, period 1998 to 2005, using the existing wiring on those cars (backward compatible) and replacing all electronics with open hardware I will design and prototype.  To achieve this task I will be using donor car electronics and electrical wiring I already have. This will serve as a ground base to commercialize automotive solutions using an open business logic (open hardware and open software) for other car brands and models. Including LPG systems. 
+
+ <p align="center">
+     <img height="350" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Vehicle%20Automation/media/image_2023-11-10_161202912.png"> <br>
+     me side by side a 2001 volvo MKII S60 
+ </p>
  
 <br>
 
