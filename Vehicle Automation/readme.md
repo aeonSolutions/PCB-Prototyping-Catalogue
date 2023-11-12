@@ -36,7 +36,10 @@ The electrical system and electronics for all Volvos with the common chassis MKI
 Nowadays, repairing hardware electronics is impossible or almost impossible. Current practice forces a car owner to replace instead of repair. This has a really high cost nd psuhes owners to seek other less trustworthy solutions using used components from other vehicles. Since this type of components is nowadays heavily protected, maintenance and repair outside the offical car manufaturer authorized dealer poses aditional risks every time a piece of hardware electronics or firmware requires reverse engineering and modifiction just to enable it and make it work in another vehicle. 
 
 **The Ideia** <br>
-Design and prototype an OEM hardware electronics capable to the same operation and functionaltiy, however instead of using closed and protected logic, it uses open hardware and open firmware hardware electronics as a direct replacement into existing* wiring in a vehicle, in particular older cars. This will facilitate repairablity and maintenance on any "repair shop" outside authorized dealers. And requires no reverse engineering and no modification to make it work in a vehicle. 
+Design and prototype an OEM hardware electronics capable to the same operation and functionaltiy, however instead of using closed and protected logic, it uses open hardware and open firmware hardware electronics as a direct replacement into existing* wiring in a vehicle, in particular older cars. This will facilitate repairablity and maintenance on any "repair shop" outside authorized dealers. And requires no reverse engineering and no modification to make it work in a vehicle. <br>
+
+Since this is an open hardware project, the main selection of choice for the operating system will be Android Auto for the main LCD screen , in the center console. Nowadays there are a plentitude of "open auto" soltuions using a raspberry pi. I'll be designing an hardware solution made to fit an SoC module, and i'll be starting with NVidia's Jetson Nano. In the following Youtube video there's a good example of a traditional media unit  https://www.youtube.com/watch?v=RgbHXTHUnQw
+
  
 <br>
 
