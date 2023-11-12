@@ -64,7 +64,7 @@ In the third milestone I'll be replacing the factory instrument cluster dashboar
 - make it compatible for autonomous driving modules
 
 **4th Milestone** <br>
-In the fourth milestone I'll be adding Authonoous driving capabilities ...
+In the fourth milestone I'll be adding Autonoous driving capabilities ...
 - Obstacle detection and automatic breaking
 - Direct compatible with [Comma.ai](http://www.comma.ai) autonomous driving solution
  
