@@ -40,6 +40,27 @@ Design and prototype an OEM hardware electronics capable to the same operation a
 
 Since this is an open hardware project, the main selection of choice for the operating system will be Android Auto for the main LCD screen , in the center console. Nowadays there are a plenitude of "open auto" solutions using a raspberry pi. I'll be designing the hardware electronics made to fit an SoC module, and i'll be starting with NVidia's Jetson Nano. In the following YouTube video there's a good example of a traditional media unit https://www.youtube.com/watch?v=RgbHXTHUnQw
 
+<br>
+
+**What hardware electronics will be conceptualized , prototyped and tested** <br>
+The first milestrone has the main objective to do a direct replacement of all proprietary hardware electronics and replace them by open hardware solutions i'll be prototyping, namely: 
+- The ECU, in all similar to the one sold by the Australians [HalTech](https://www.haltech.com) and the well known Speedduino.
+- The ETM throtle control
+- The instrument cluster on the dashboard
+- The Air Quality Control module
+- The Car Media Audio
+- The Door locking for each door plus the trunk
+- The control electronics for the front headlights , i'll b adding a "cargo load" sensor to automaticaly adjust the headlight beam angle
+- The control electronics for the back headlights
+
+In second milestone i'll be replacing the factory Air Quality control unit and also the Car Audio in the center console by a custom made LCD screen, in particular:
+- Add an LCD screen to the center console running Android Auto with software customizations
+
+In the third milestone I'll be replcing the factory instrument cluster dashboard unit and replace it with a custom made LCD screen for some cool 3D graphics rending , in particular:
+- add an LCD screen to the instrument cluster running some cool 3D graphics rendering
+- make it compatible for autonomous driving modules
+
+In the fourth milestone I'll be adding Authonoous driving capabilities ... (more info. soon)
  
 <br>
 
