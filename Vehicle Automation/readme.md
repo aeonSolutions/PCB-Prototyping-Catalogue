@@ -43,6 +43,7 @@ Since this is an open hardware project, the main selection of choice for the ope
 <br>
 
 **What hardware electronics will be conceptualized , prototyped and tested** <br>
+**1st Milestone** <br>
 The first milestrone has the main objective to do a direct replacement of all proprietary hardware electronics and replace them by open hardware solutions i'll be prototyping, namely: 
 - The ECU, in all similar to the one sold by the Australians [HalTech](https://www.haltech.com) and the well known Speedduino.
 - The ETM throtle control
@@ -53,13 +54,16 @@ The first milestrone has the main objective to do a direct replacement of all pr
 - The control electronics for the front headlights , i'll b adding a "cargo load" sensor to automaticaly adjust the headlight beam angle
 - The control electronics for the back headlights
 
+**2nd Milestone** <br>
 In second milestone i'll be replacing the factory Air Quality control unit and also the Car Audio in the center console by a custom made LCD screen, in particular:
 - Add an LCD screen to the center console running Android Auto with software customizations
 
+**3rd Milestone** <br>
 In the third milestone I'll be replcing the factory instrument cluster dashboard unit and replace it with a custom made LCD screen for some cool 3D graphics rending , in particular:
 - add an LCD screen to the instrument cluster running some cool 3D graphics rendering
 - make it compatible for autonomous driving modules
 
+**4th Milestone** <br>
 In the fourth milestone I'll be adding Authonoous driving capabilities ... (more info. soon)
  
 <br>
