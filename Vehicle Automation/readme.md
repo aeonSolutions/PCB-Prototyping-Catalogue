@@ -59,7 +59,7 @@ In second milestone i'll be replacing the factory Air Quality control unit and a
 - Add an LCD screen to the center console running Android Auto with software customizations
 
 **3rd Milestone** <br>
-In the third milestone I'll be replcing the factory instrument cluster dashboard unit and replace it with a custom made LCD screen for some cool 3D graphics rending , in particular:
+In the third milestone I'll be replacing the factory instrument cluster dashboard unit and replace it with a custom made LCD screen for some cool 3D graphics rending , in particular:
 - add an LCD screen to the instrument cluster running some cool 3D graphics rendering
 - make it compatible for autonomous driving modules
 
