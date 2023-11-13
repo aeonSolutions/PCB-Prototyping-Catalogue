@@ -89,7 +89,14 @@ Links at the top, bottom and right side pane. Thank you.
     <a href="https://medium.com/@mtpsilva">
       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/medium.jpg" height="100">
    </a>
+
+   <a href="https://hackaday.io/projects/hacker/1255305">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackday_logo.png" height="100">
+   </a>
+   
  </p>
+
+ 
 
 <br>
 <br>
