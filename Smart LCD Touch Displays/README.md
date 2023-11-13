@@ -92,6 +92,10 @@ ________________________________________________________________________________
 
 </p>
 
+## Other Maker projects
+- [ESP32 Cheap Yellow Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
+-[ESP32 Trinity](https://github.com/witnessmenow/ESP32-Trinity)
+
 <br />
 <br />
 
