@@ -58,6 +58,8 @@ A PCB for a 2.13" E-Ink Display with PCI-e connection. Requires #no #power an ca
 ## Other Makers
 - [ESP32-S3-RGB-Panel 40 pin](https://github.com/W00ng/ESP32-S3-RGB-Panel) <br>
 Screen: 4.0-inch display with 480x480 resolution, capacitive touch panel gt911
+- [ESP32 Cheap Yellow Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
+-[ESP32 Trinity](https://github.com/witnessmenow/ESP32-Trinity)
 
 <br>
 <br>
@@ -92,9 +94,6 @@ ________________________________________________________________________________
 
 </p>
 
-## Other Maker projects
-- [ESP32 Cheap Yellow Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
--[ESP32 Trinity](https://github.com/witnessmenow/ESP32-Trinity)
 
 <br />
 <br />
