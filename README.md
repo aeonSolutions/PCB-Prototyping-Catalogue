@@ -88,29 +88,7 @@ Links at the top, bottom and right side pane. Thank you.
    
  </p>
 
- 
-
 <br>
-<br>
-
-
-<br>
-
-### Download the PCB design files in KiCad
-
-Subscription users have available to download the original hardware pcb design files as a KiCad project complete with circuit schemetics and component list (BOM). To enable download you need to subscribe to a montlhy plan [here](https://github.com/sponsors/aeonSolutions). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB)
-
-thank you.
-
-<br>
-
-**Hire me**
-
-If you like my work here and are looking to design and deploy your own smart device you can hire me on:
-
-- [Fiverr](https://www.fiverr.com/s/GjmPxe). 
-- [Guru](https://www.guru.com/freelancers/miguel-tomas)
-
 <br>
 
 ### Compatibility
@@ -423,8 +401,16 @@ To make any of the available PCBs here run as intended is needed to download int
 <br />
 <br />
 
+### Download the PCB design files in KiCad
+
+Subscription users have available to download the original hardware pcb design files as a KiCad project complete with circuit schemetics and component list (BOM). To enable download you need to subscribe to a montlhy plan [here](https://github.com/sponsors/aeonSolutions). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB)
+
+thank you.
+
+<br>
 
 ### PCB Fabrication
+
 <p align="center">
  
 [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/all_pcb.png" alt="" height="60">](https://www.allpcb.com/?Mb_InviteId=79483) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcbway.jpg" alt="" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/eurocircuits.png" alt="" height="60">](https://be.eurocircuits.com) [<img height="30" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">](https://www.seeedstudio.com/fusion.html)
@@ -450,10 +436,12 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 <br>
 
-**Hire me on Fiverr**
+**Hire me**
 
-If you like my work here and are looking to design and deploy your own smart device you can [hire me on Fiverr](https://www.fiverr.com/s/GjmPxe). The price starts at $25. 
+If you like my work here and are looking to design and deploy your own smart device you can hire me on:
 
+- [Fiverr](https://www.fiverr.com/s/GjmPxe). 
+- [Guru](https://www.guru.com/freelancers/miguel-tomas)
 
 <br>
 
