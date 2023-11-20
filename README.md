@@ -54,27 +54,17 @@ Links at the top, bottom and right side pane. Thank you.
 
 - Smart Distributed DC Power Management (5V DC 60W)
 - Smart EMF Shield Curtain for Windows and Balconies
-- Smart Power over USB-A Scheduler
-- 16-bit Smart data Acquisiton SDAD
 - 24-bit Smart data Acquisiton SDAD for Hydrostatic Weight Measurments up to 20Kg 
-- smart device for smoke and fire monitoring and detection 
-- [firmware prototyping] (1st milestone completed)
 - PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" IoE solutions. (Robotics, autonomous vehicles, live data acquisition). See here [the Jetson Nano Project](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano).
 
 <br>
 
 ### The most recent updates 
- (september update)
-
-  **KiCad Footprints**
-
- Added a sector for custom KiCad footprints i use on my hardware electronics. See the DiY/ Maker section below for more information. 
-
+ (November update)
   
   **Smart Home Automation section**
-- Started the project "Smart EMF Shield Curtain for Windows and Balconies"  
-- The 78x39mm Solar Cell support PCB design project is completed. Have a look at the final PCB design. **Zero breaks when assembling it with the fragile solar cell**
-- Started the project: "45,000mA Power Wall using 18650 Lithium Polymer Batteries". See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come. 
+- The project "Smart EMF Shield Curtain for Windows and Balconies" is now on its 5th iteration  
+- The project: "Power Wall using 18650 Lithium Polymer Batteries" is now on its 3rd iteration. See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come. 
   
 <br />
 <br />
