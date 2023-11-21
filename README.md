@@ -85,7 +85,6 @@ Links at the top, bottom and right side pane. Thank you.
    <a href="https://hackaday.io/projects/hacker/1255305">
       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackday_logo.png" height="100">
    </a>
-   
  </p>
 
 <br>
@@ -128,7 +127,9 @@ Links at the top, bottom and right side pane. Thank you.
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/construction_industry.jpg" height="300">
+  <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry">
+     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/construction_industry.jpg" height="300">
+  </a>
 </p>
 
 ## [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry) (7)
@@ -144,7 +145,9 @@ Digital transformation in the construction industry is revolutionizing the way p
 <br>
 
 <p align="center">
+   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md">
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" height="300">
+   </a>
 </p>
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (31)
@@ -162,10 +165,12 @@ Digital transformation has revolutionized home automation by integrating advance
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/wearables.png" height="300">
+   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/wearables.png" height="300">
+   </a>
 </p>
 
-## Wearables 
+## [Wearables](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables) 
 Wearables have revolutionized the way we interact with technology, seamlessly integrating it into our daily lives. These small, often stylish devices are designed to be worn on the body, offering a wide array of functionalities. From smartwatches that keep us connected, track our fitness, and provide timely information, to fitness trackers that monitor our health and activity levels, wearables have become indispensable companions. Additionally, emerging technologies like augmented reality glasses promise to transform how we perceive and interact with the digital world. Whether enhancing productivity, promoting healthier lifestyles, or even aiding in medical diagnoses, wearables are shaping the future of personal technology, ushering in an era of convenience and connectivity that is changing the way we live, work, and play.
 
 
@@ -176,11 +181,13 @@ Wearables have revolutionized the way we interact with technology, seamlessly in
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" height="300">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health">
+       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" height="300">
+    </a>
 </p>
 
 
-## Mental Health Wellness Solutions (7)
+## [Mental Health Wellness Solutions](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) (7)
 
 Mental health refers to a person's emotional, psychological, and social well-being. It is an essential aspect of overall health and impacts how individuals think, feel, and behave. While there is ongoing research on the potential effects of electromagnetic radiation (EMR) on human health, current scientific evidence does not establish a direct link between EMR and mental health disorders. The primary concern regarding EMR revolves around its potential impacts on physical health, such as the increased risk of cancer or other physiological effects. However, maintaining a balanced lifestyle, including managing screen time and taking regular breaks from electronic devices, is advisable for overall well-being, including mental health.
 
@@ -196,10 +203,12 @@ Mental health refers to a person's emotional, psychological, and social well-bei
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/smart_solar_cell.jpg" height="300">
+   <a href="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/smart_solar_cell.jpg" height="300">
+   </a>
 </p>
 
-## Smart Solar Solutions (7)
+## [Smart Solar Solutions](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (7)
 
 Smart solar cell solutions integrate advanced technologies to enhance the efficiency, reliability, and functionality of solar cells. These solutions utilize intelligent features like embedded sensors, Internet of Things (IoT) connectivity, and data analytics to optimize energy production, monitor performance, and enable remote management. By leveraging real-time data and predictive algorithms, smart solar cell solutions can maximize the output of solar panels, adapt to changing weather conditions, and identify maintenance needs proactively. Furthermore, these solutions facilitate seamless integration with smart grids, allowing for effective energy management and grid stability. Smart solar cell solutions play a vital role in driving the widespread adoption of renewable energy by improving overall system performance, reducing operational costs, and providing valuable insights for sustainable energy management.
 
@@ -211,10 +220,12 @@ Smart solar cell solutions integrate advanced technologies to enhance the effici
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Consumer_1600x900.jpg" height="300">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md">
+        <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Consumer_1600x900.jpg" height="300">
+    </a>
 </p>
 
-## Micro & Small Enterprise Businesses (7)
+## [Micro & Small Enterprise Businesses](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (7)
 
 Digital transformation has revolutionized small businesses by providing them with new opportunities and competitive advantages. Through the adoption of digital tools and technologies, small businesses can streamline their operations, enhance their productivity, and reach a wider customer base. Online platforms and e-commerce solutions enable small businesses to establish an online presence, sell products and services globally, and compete with larger corporations. Cloud computing allows for cost-effective data storage and collaboration, while data analytics provides valuable insights for informed decision-making. Furthermore, digital marketing techniques, such as social media advertising and search engine optimization, help small businesses target their desired audience and create personalized customer experiences. Overall, digital transformation has empowered small businesses to thrive in the digital era, enabling them to grow, innovate, and adapt to changing market dynamics. See all commercial solutions [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Commercial%20Business).
 
@@ -233,10 +244,12 @@ Digital transformation has revolutionized small businesses by providing them wit
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digitaltransformation-1920x883.jpg" height="300">
+   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digitaltransformation-1920x883.jpg" height="300">
+   </a>
 </p>
 
-## Office (7)
+## [Office](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md) (7)
 
 Digital transformation in the office refers to the process of integrating advanced technologies and digital tools to optimize productivity, streamline operations, and enhance collaboration. It involves the adoption of cloud-based platforms, automation, data analytics, and other digital solutions to replace traditional manual processes. This transformation empowers employees to work more efficiently, enables remote and flexible work arrangements, improves communication and information sharing, and drives innovation. By embracing digital transformation, organizations can stay competitive, adapt to evolving market demands, and leverage data-driven insights to make informed decisions, ultimately leading to improved overall performance and growth.
 
@@ -248,25 +261,28 @@ Digital transformation in the office refers to the process of integrating advanc
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/schwerpunktthema-digitale-transformation-breitbild-schmal.jpg" height="300">
+  <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md">
+    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/schwerpunktthema-digitale-transformation-breitbild-schmal.jpg" height="300">
+  </a>
 </p>
 
-## Industrial Enterprise Businesses (6)
+## [Industrial Enterprise Businesses](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md) (6)
 
 Digital transformation has revolutionized industrial enterprises by integrating advanced technologies into their operations. These companies are leveraging digital solutions to optimize efficiency, enhance productivity, and streamline processes. Through the adoption of automation, artificial intelligence, Internet of Things (IoT), and cloud computing, industrial enterprises are experiencing improved connectivity, real-time data analytics, and predictive maintenance capabilities. This transformation enables them to achieve higher levels of agility, scalability, and adaptability, resulting in reduced costs, accelerated innovation, and increased customer satisfaction. By embracing digital technologies, industrial enterprises are paving the way for a more agile and competitive future.
 
- - [Warehouse](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md) (6)
- - [Factory Work Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md) (6)
+ - [Warehouse & Factory Work Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md) (6)
 
 <br>
 <br>
 
 <p align="center">
+   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Laboratory%20Automation/readme.md">
    <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" height="300">
+   </a>
 </p>
 
 
-## Laboratory Automation (13)
+## [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Laboratory%20Automation/readme.md) (13)
 
 Smart data acquisition devices are cutting-edge technologies that enable the efficient and accurate collection of data. These devices incorporate advanced sensors, connectivity options, and intelligent processing capabilities, allowing them to gather and transmit real-time data from various sources. They are designed to be compact, portable, and user-friendly, making them suitable for a wide range of applications across industries. Smart data acquisition devices play a crucial role in streamlining data acquisition processes, enhancing data quality, and enabling quick decision-making. With their ability to capture and analyze data in real-time, these devices empower organizations to optimize their operations, improve productivity, and drive innovation in the digital age.
 
@@ -277,10 +293,12 @@ Smart data acquisition devices are cutting-edge technologies that enable the eff
 <br>
 
 <p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Vehicle%20Automation/readme.md">
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Autonomous-car.jpg" height="300">
+    </a>
 </p>
 
-## Vehicle Automation
+## [Vehicle Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Vehicle%20Automation/readme.md)
 
 Autonomous vehicles, also known as self-driving cars, are revolutionizing the transportation industry. These vehicles utilize advanced technologies such as artificial intelligence, sensors, and cameras to navigate and operate without human intervention. By eliminating the need for a human driver, autonomous vehicles offer numerous benefits. They enhance road safety by minimizing human error, increase efficiency by optimizing routes and reducing traffic congestion, and provide mobility options for those who cannot drive, such as the elderly or disabled. Additionally, autonomous vehicles have the potential to reduce fuel consumption and emissions, contributing to a more sustainable and environmentally friendly future. While there are still challenges to overcome, such as regulatory frameworks and public acceptance, autonomous vehicles hold great promise for transforming our transportation systems and improving the way we move from one place to another.
 
@@ -290,11 +308,12 @@ Autonomous vehicles, also known as self-driving cars, are revolutionizing the tr
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digital-transformation.jpg" height="300">
+  <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances">
+     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digital-transformation.jpg" height="300">
+  </a>
 </p>
 
-## Robotics & Industrial Automation (1)
-
+## [Robotics & Industrial Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances) (1)
 
 Robotics and industrial automation have revolutionized the way we manufacture and operate in various industries. These advanced technologies involve the design, development, and application of robotic systems to perform tasks with high precision, efficiency, and reliability. By incorporating automation into industrial processes, companies can streamline production, reduce costs, and improve overall productivity. Robots can handle repetitive and dangerous tasks, freeing up human workers to focus on more complex and creative activities. With continuous advancements in robotics and automation, we can expect to witness further optimization and integration of these technologies in diverse sectors, leading to increased efficiency and competitiveness in the global market.
 
@@ -304,10 +323,12 @@ Robotics and industrial automation have revolutionized the way we manufacture an
 <br>
 
 <p align="center">
+   <a href="#">
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/medical_smart_devices.jpg" height="300">
+   </a>
 </p>
 
-## Medical and Health (0)
+## [Medical and Health]() (0)
 
 Medical smart devices for health monitoring represent a paradigm shift in the realm of healthcare, harnessing advanced sensor technologies and data analytics to provide real-time and personalized insights into an individual's physiological parameters. These cutting-edge devices, often wearable in nature, seamlessly integrate with the individual's daily life, capturing intricate biometric data such as heart rate variability, electrodermal activity, and oxygen saturation levels. Leveraging wireless connectivity and cloud-based platforms, these devices facilitate continuous monitoring and analysis, enabling early detection of anomalies and trends that may indicate the onset of various medical conditions. The amalgamation of machine learning algorithms and intricate sensor data empowers healthcare professionals with the ability to decipher complex physiological interactions and guide informed clinical interventions. As these devices evolve, they hold immense potential to revolutionize preventive and precision medicine, ushering in an era of proactive health management and personalized therapeutic strategies.
 
@@ -317,10 +338,12 @@ Medical smart devices for health monitoring represent a paradigm shift in the re
 <br>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_makers.jpg" height="300">
+  <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_makers.jpg" height="300">
+  </a>
 </p>
 
-## Do It Yourself (DIY) & Makers (11)
+## [Do It Yourself (DIY) & Makers](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (11)
 
 DIY innovation refers to the practice of creating and developing solutions or inventions through do-it-yourself (DIY) methods. It involves individuals taking a hands-on approach to problem-solving and using their creativity and resourcefulness to design and build unique products or systems. DIY innovation encourages experimentation, collaboration, and the utilization of readily available tools, materials, and technologies. It empowers individuals to explore their ideas, overcome challenges, and bring their visions to life without relying on traditional institutions or established processes. DIY innovation fosters a culture of self-sufficiency, innovation, and personal growth, while also promoting affordability and accessibility in the development of new ideas and solutions. Below are a few, see the full list [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/DIY-Maker). If you're looking to expedite work, in [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields) there's a list of PCB modules ready to deploy.  
 
@@ -349,7 +372,9 @@ KiCad footptints i use on my hardware electronics:
 <br />
 
 <p align="center">
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="250">
+  <a href="https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL">
+    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="250">
+  </a>
 </p>
 
 #### [Firmware Download / Burner](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) (1)
@@ -359,7 +384,9 @@ To make any of the available PCBs here run as intended is needed to download int
 <br />
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Photo%2BDec%2B11%2C%2B1%2B39%2B43%2BAM.jpg" height="300">
+   <a href="#">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Photo%2BDec%2B11%2C%2B1%2B39%2B43%2BAM.jpg" height="300">
+   </a>
 </p>
 
 ### Other DIY Projects and Makers
