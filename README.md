@@ -41,11 +41,10 @@ Make sure to also check my **Open Source Software Catalogue** [here](https://git
 **Technical Suport** <br>
 Need technical suport for any of my projects i have freely available here ? <br>
 Need Technical suport in prototype a smart device like the ones i have available here ? <br>
-
 Cick [here](https://github.com/sponsors/aeonSolutions) or on the sponsor buttion at the top and right side pane. Thank you
 
 **Sponsor** <br>
-AeonLabs invests time and resources providing this open source hoardware electronics, please support AeonLabs and open-source hardware by purchasing products from AeonLabs!
+AeonLabs invests time and resources providing this open source hardware electronics, please support AeonLabs and open-source hardware by purchasing products from AeonLabs!
 Links at the top, bottom and right side pane. Thank you.
 
 <br>
@@ -69,21 +68,21 @@ Links at the top, bottom and right side pane. Thank you.
 <br />
 <br />
 
-### View my hardware projects on ...
+###  Read all about my open hardware projects on ...
 <p align="center">
    <a href="https://www.instructables.com/member/mtpsilva/instructables/">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/instructables_logo.png" height="100">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/instructables_logo.png" height="50">
    </a>
 
    <a href="https://www.hackster.io/mtpsilva">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackster_io.png" height="100">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackster_io.png" height="50">
    </a>
     <a href="https://medium.com/@mtpsilva">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/medium.jpg" height="100">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/medium.jpg" height="50">
    </a>
 
    <a href="https://hackaday.io/projects/hacker/1255305">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackday_logo.png" height="100">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackday_logo.png" height="50">
    </a>
  </p>
 
@@ -112,14 +111,17 @@ Links at the top, bottom and right side pane. Thank you.
 
 <br>
 
-### Available Open Hardware PCB Designs 
+### Buy ready to use 
 
 <p align="center"> 
-<a href="https://www.tindie.com/stores/aeonlabs/">
-    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg" alt="" width="200">
-    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/gumroad.png" width="200">
- </a> 
+  <a href="https://www.tindie.com/stores/aeonlabs/">
+     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/tindie_amazing_small.jpg" alt="" height="50">
+   </a> 
+   <a href="https://aeonlabs.gumroad.com">
+     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/gumroad.png" height="50">
+   </a>
  <br>
+ 
   To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.
 </p>
  
@@ -351,7 +353,7 @@ DIY innovation refers to the practice of creating and developing solutions or in
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=1Q-IPH6u9Qg">
-    <img src="https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png" alt="" height="360">
+    <img src="https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/youtube.png" alt="" height="250">
   </a>
 </p>
 
@@ -373,7 +375,7 @@ KiCad footptints i use on my hardware electronics:
 
 <p align="center">
   <a href="https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL">
-    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/progIDE.png" alt="" height="250">
+    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/progIDE.png" alt="" height="250">
   </a>
 </p>
 
