@@ -25,7 +25,7 @@ buy on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https:/
 [AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). 
 
 
-This repository is the main catalog for all PCB prototypes and publicly available here on GitHub. There are now a total of **59** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
+This repository is the main catalog for all PCB prototypes and publicly available here on GitHub. There are now a total of **61** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
 
 In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 
@@ -347,7 +347,7 @@ Medical smart devices for health monitoring represent a paradigm shift in the re
   </a>
 </p>
 
-## [Do It Yourself (DIY) & Makers](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (11)
+## [Do It Yourself (DIY) & Makers](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (13)
 
 DIY innovation refers to the practice of creating and developing solutions or inventions through do-it-yourself (DIY) methods. It involves individuals taking a hands-on approach to problem-solving and using their creativity and resourcefulness to design and build unique products or systems. DIY innovation encourages experimentation, collaboration, and the utilization of readily available tools, materials, and technologies. It empowers individuals to explore their ideas, overcome challenges, and bring their visions to life without relying on traditional institutions or established processes. DIY innovation fosters a culture of self-sufficiency, innovation, and personal growth, while also promoting affordability and accessibility in the development of new ideas and solutions. Below are a few, see the full list [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/DIY-Maker). If you're looking to expedite work, in [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields) there's a list of PCB modules ready to deploy.  
 
@@ -362,7 +362,7 @@ DIY innovation refers to the practice of creating and developing solutions or in
 <br>
 
 - [ESP32-S3 MCU Tester QFN-56](https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/README.md) (1)
-- [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md) (7)
+- [Many PCB Modules in KiCad ready to deploy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields/README.md) (9)
 
 <br>
 
