@@ -59,9 +59,11 @@ Links at the top, bottom and right side pane. Thank you.
 <br>
 
 ### The most recent updates 
- (November update)
-  
-  **Smart Home Automation section**
+(November update) <br>
+**DIY / Makers section** 
+- There's now available a circuit schematic and PCB template for the ESP32 C3 MCU <br>
+
+**Smart Home Automation section**
 - The project "Smart Distributed DC Power Management" is now on its 5th iteration  
 - The project: "Power Wall using 18650 Lithium Polymer Batteries" is now on its 3rd iteration. See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come. 
   
