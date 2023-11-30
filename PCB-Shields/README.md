@@ -26,9 +26,9 @@ This is a list of all PCB modules / shield designs in KiCad format.
 # [ESP32 C3](https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-c3)
  This repo contains a pcb design for a ESP32 C3 MCU. Suitable as a add-on design for any other KiCad project.
  
- <p align="center">
-     <img height="250" src="https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_front.png">
- </p>
+<p align="center">
+    <img height="250" src="https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-c3/blob/main/Circuit%20Schematic/esp32_c3_circuit_schematic.png">
+</p>
  
 # [ESP32 S3](https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-s3)
  This repo contains a pcb design for a ESP32 S3 MCU. Suitable as a add-on design for any other KiCad project.
