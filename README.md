@@ -62,7 +62,7 @@ Links at the top, bottom and right side pane. Thank you.
  (November update)
   
   **Smart Home Automation section**
-- The project "Smart EMF Shield Curtain for Windows and Balconies" is now on its 5th iteration  
+- The project "Smart Distributed DC Power Management" is now on its 5th iteration  
 - The project: "Power Wall using 18650 Lithium Polymer Batteries" is now on its 3rd iteration. See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come. 
   
 <br />
