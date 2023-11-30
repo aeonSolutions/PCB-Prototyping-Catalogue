@@ -21,7 +21,7 @@
 </p>
 
 # DIY & Makers PCBs essentials:  modules / Shields
-This is a list of all PCB modules / shield designs in KiCad format.
+A list of all PCB modules / shield designs ready to use in KiCad.
 
 # [ESP32 C3](https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-c3)
  This repo contains a pcb design for a ESP32 C3 MCU. Suitable as a add-on design for any other KiCad project.
