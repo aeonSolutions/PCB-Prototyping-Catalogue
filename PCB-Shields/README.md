@@ -12,7 +12,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [DIY & Maker](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [DIY & Maker](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)   >>   DIY & Makers PCBs essentials: modules / Shields
 
 <br>
 
