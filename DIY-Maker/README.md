@@ -69,6 +69,9 @@ This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best wa
 ## [DIY & Makers PCBs essentials: modules / Shields](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/PCB-Shields/README.md)
 A list of all PCB modules / shield designs ready to use in KiCad.
 
+<br>
+<br>
+
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
 ## Liked it ? Get a Free PCB for yourself
