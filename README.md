@@ -25,7 +25,7 @@ buy on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https:/
 [AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). 
 
 
-This repository is the main catalog for all PCB prototypes and publicly available here on GitHub. There are now a total of **61** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
+This repository is the main catalog for all PCB prototypes and publicly available here on GitHub. There are now a total of **62** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. See the list of [fully tested & ready to use PCB designs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Fully-tested-&-ready-to-use-PCB-designs).<br>
 
 In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 
@@ -59,7 +59,10 @@ Links at the top, bottom and right side pane. Thank you.
 <br>
 
 ### The most recent updates 
-(November update) <br>
+(December update) <br>
+**Laboratory Section**
+- There's now available the KiCad project files for a "Capacitive Moisture and Temperature Sensor"
+ 
 **DIY / Makers section** 
 - There's now available a circuit schematic and PCB template for the ESP32 C3 MCU <br>
 
