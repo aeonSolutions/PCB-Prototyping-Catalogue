@@ -74,7 +74,7 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
 <br>
 
@@ -82,7 +82,7 @@ Make a donation on paypal and get a TAX refund*.
 Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
 In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
 #
 
