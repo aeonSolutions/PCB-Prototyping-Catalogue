@@ -18,6 +18,11 @@
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)
 
+<p align="right">
+ <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
+Last update: 01-12-2023
+</p>
+
 ## Home Automation
 
 Home automation has transformed the way we interact with our living spaces, thanks to the integration of AI-enabled smart devices. With home automation, mundane tasks can be seamlessly managed, creating a more convenient and efficient lifestyle. AI-powered smart devices, such as voice assistants, thermostats, lighting systems, and security cameras, provide homeowners with unprecedented control over their environment. Through voice commands or mobile apps, one can effortlessly adjust the temperature, and lighting ambiance, or even lock/unlock doors from anywhere. These devices utilize AI algorithms to learn user preferences, adapt to individual needs, and optimize energy consumption. AI-enabled security systems are capable of identifying and distinguishing between authorized and unauthorized individuals, enhancing home safety. Furthermore, the interconnectedness of smart devices allows for intelligent automation, where actions are triggered based on specific events or schedules. Home automation with AI has not only elevated comfort and convenience but also promotes energy efficiency, safety, and a truly personalized living experience.
