@@ -12,7 +12,10 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
-
+<p align="right">
+ <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
+Last update: 30-11-2023
+</p>
 
 # Smart Wireless Wave Safety
 
@@ -60,19 +63,19 @@ Known open data repositories partially compatible with these smart devices:
 
 <p align="center">
  <a href"https://www.apple.com/shop/accessories/all/homekit">
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_apple_home.png" height="50">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_apple_home.png" height="50">
  </a>
 <a href="https://home.google.com"> 
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_google_home.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_google_home.png" height="50">
  </a>
 <a href="https://www.home-assistant.io">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_home_assistanr.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_home_assistanr.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_matter.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_matter.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_zigbee.jpg" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_zigbee.jpg" height="50">
  </a>
 </p>
 
@@ -112,7 +115,7 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
 <br>
 
@@ -120,13 +123,10 @@ Make a donation on paypal and get a TAX refund*.
 Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
 In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
-<br />
-<br />
+#
 
-______________________________________________________________________________________________________________________________
 ### License
-2023 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics solutions for open-hardware development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
