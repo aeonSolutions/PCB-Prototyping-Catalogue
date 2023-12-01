@@ -55,6 +55,11 @@ To learn more about these technologies, visit the S.D.A.D. open science project 
 
 <br>
 
+### Purposely designed sensors
+- [Capacitive-Moisture and Temperature made for 100 mm height laboratory specimens](https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor)
+
+<br>
+
 ### Weather Station
 - [Wireless Battery & Solar Powered Rain meter](https://github.com/aeonSolutions/aeonlabs-HomeAutomation-Outdoors-Wireless-Battery-powered-Rainmeter)
 
@@ -140,7 +145,8 @@ In return I will give a free PCB design in KiCad to all patreon supporters. To l
 <br />
 <br />
 
-______________________________________________________________________________________________________________________________
+#
+
 ### License
 
 Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
