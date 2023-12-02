@@ -50,9 +50,7 @@ Links at the top, bottom and right side pane. Thank you.
 <br>
 
 ### Current projects i've been working on the past 4 weeks...
-
-- Smart Distributed DC Power Management (5V DC 60W)
-- Smart EMF Shield Curtain for Windows and Balconies
+- Open Hardware electronics for the automotive sector
 - 24-bit Smart data Acquisiton SDAD for Hydrostatic Weight Measurments up to 20Kg 
 - PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" IoE solutions. (Robotics, autonomous vehicles, live data acquisition). See here [the Jetson Nano Project](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano).
 
