@@ -41,7 +41,7 @@ Make sure to also check my **Open Source Software Catalogue** [here](https://git
 **Technical Suport** <br>
 Need technical suport for any of my projects i have freely available here ? <br>
 Need Technical suport in prototype a smart device like the ones i have available here ? <br>
-Cick [here](https://github.com/sponsors/aeonSolutions) or on the sponsor buttion at the top and right side pane. Thank you
+Cick [here](https://github.com/sponsors/aeonSolutions) or on the sponsor button at the top and right side pane. Thank you
 
 **Sponsor** <br>
 AeonLabs invests time and resources providing this open source hardware electronics, please support AeonLabs and open-source hardware by purchasing products from AeonLabs!
