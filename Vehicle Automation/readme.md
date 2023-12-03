@@ -48,6 +48,8 @@ Go to the main repository of this project, [here](https://github.com/aeonSolutio
  - [Nissan-LEAF-Battery-Upgrade](https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade)
  - [Nissan-LEAF-CCS](https://github.com/dalathegreat/Nissan-LEAF-CCS)
 
+### Engine
+ - [Oil temperature on the dashboard](https://github.com/moe01324/ESP32_OilTemp) 
 ### Makers
 - [Daniel Öster](https://github.com/dalathegreat)
 - [multi-channel electroluminescent display driver by benkrasnow](https://github.com/benkrasnow/EL_driver_multi)
