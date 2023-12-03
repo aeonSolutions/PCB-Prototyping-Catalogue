@@ -20,7 +20,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 01-12-2023
+Last update: 03-12-2023
 </p>
 
 ## Safety usage of the smart devices provided below
@@ -85,36 +85,42 @@ Staysafe.
     <img height="300" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/energy_unbalance_health.jpg">
 </p>
 
-## Home Automation Safety & Health
+# Home Automation Safety & Health
 (list of open hardware devices i prototyped to this date)
 
-- **Indoor Plants**
-  - [Indoor Smart Plant Watering with builtin micro wave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
+## Indoor Plants
+  ### [Indoor Smart Plant Watering with builtin micro wave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
   
 This Smart Indoor plant monitoring and watering is designed to be inserted into any indoor plant vase. Is able to measure and calculate the moisture content in the vase, and when detects low water contents, activates the water pump. Is able to connect to a local home server to upload indoor temperature, humidity, and air quality measurement data. This way, the owner, can have a history record database, without the need for expensive cloud subscriptions.  Additionally, it features a 6 LED system composed of an ultraviolet LED, an Infrared LED and an RGB LED, when combined with multiple devices like this one in the same room is able to perform some basic light aggression protection from an unknown light source outside during the night & day. 
 
-  - [Indoor Smart Plant Watering , EMF & Sound deterctor RGB UV IR LED](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields)
+  ### [Indoor Smart Plant Watering , EMF & Sound deterctor RGB UV IR LED](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields)
 
   
-  - [Smart Wireless Sonic/Sound Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
-  - [Smart Wireless with spectrometer microwave active Monitoring and analysis](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
+  ### [Smart Wireless Sonic/Sound Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
+  ### [Smart Wireless with spectrometer microwave active Monitoring and analysis](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
 
 <br>
 
-- **On any room in a buidling**
-  - [Smart Indoor Environement EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
+## On any room in a buidling
+### [Smart Indoor Environement EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
   
   This Smart Indoor Environment EM RF Energy Monitor does not solve the electromagnetic health concern one may have indoors. However, is a step forward in correctly identifying such electromagnetic disturbances nearby, for instance, when observing recurrently a mid-air energy spike, with the most common visual effect, a really small bright light flash. This smart device is able to do electromagnetic (EM) radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID),  which makes collected data more trustworthy of its origins.
   
-  - [Smart Indoor Environement GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification)
+### [Smart Indoor Environement GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification)
   
   This Smart Indoor Env. GSM Cell Tower Monitor is built to do active monitoring of GSM Cell Towers nearby to look for any kind of hidden GSM/4G device repeater. Known to be used for stealing one's GSM communications data using some kind of Man-in-the-middle attack. This smart device is able to do GSM/4G radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID), which makes collected data more trustworthy of its origins.
   
-  - [Smart Indoor Environement EM RF Energy Monitor & GSM 4G Cell Tower Identification]()   (soon...stay tuned!)
+### [Smart Indoor Environement EM RF Energy Monitor & GSM 4G Cell Tower Identification]()   (soon...stay tuned!)
 
 
-  - [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
-    
+### [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
+
+### [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep)
+
+<p align="center">
+    <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_pillow.png">
+</p>
+   
 <br>
 
 ## Compatibility
@@ -210,6 +216,7 @@ https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme
 |-------------|------|
 
 <br>
+<br>
 
 ## Author
 
@@ -243,12 +250,8 @@ In return I will give a free PCB design in KiCad to all patreon supporters. To l
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
-<br />
-<br />
+# 
 
-______________________________________________________________________________________________________________________________
 ### License
-2023 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
+Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
