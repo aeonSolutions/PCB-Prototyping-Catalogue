@@ -114,6 +114,9 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 
 
 ### [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
+<p align="center">
+     <img height="150px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/emf-protection-window-film.jpg" />
+</p>
 
 ### [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep)
 
