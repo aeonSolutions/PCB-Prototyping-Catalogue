@@ -120,7 +120,13 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 <p align="center">
     <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_pillow.png">
 </p>
-   
+
+ ### [Bed sheet EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/tree/main)
+
+<p align="center">
+    <img height="150" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_bed_sheet.png">
+</p>
+
 <br>
 
 ## Compatibility
