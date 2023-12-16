@@ -93,6 +93,10 @@ Alternatively, and if you do not want to build a PCB by yourself and like to buy
    <a href="https://www.tindie.com/stores/aeonlabs/"> <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/tindie_sell.png" height="150"> </a>
 </p>
 
+## Projects by other Makers
+- [Power latch with microcontrollers](https://github.com/pcbreflux/espressif) by [pcbreflux](https://github.com/pcbreflux)
+ 
+
 <br />
 <br />
 
