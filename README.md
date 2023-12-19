@@ -60,13 +60,15 @@ Links at the top, bottom and right side pane. Thank you.
 (December update) <br>
 **Laboratory Section**
 - There's now available the KiCad project files for a "Capacitive Moisture and Temperature Sensor"
+- The S.D.A.D. for rain measurements has now a status of fully tested and working.
  
 **DIY / Makers section** 
 - There's now available a circuit schematic and PCB template for the ESP32 C3 MCU <br>
 
 **Smart Home Automation section**
 - The project "Smart Distributed DC Power Management" is now on its 5th iteration  
-- The project: "Power Wall using 18650 Lithium Polymer Batteries" is now on its 3rd iteration. See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come. 
+- The project: "Power Wall using 18650 Lithium Polymer Batteries" is now on its 3rd iteration. See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come.
+- The smart rainmeter for home automation and gardening has now a status of fully tested and working.
   
 <br />
 <br />
