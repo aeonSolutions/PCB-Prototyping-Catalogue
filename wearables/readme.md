@@ -19,6 +19,8 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Wearables](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables)
 
 ## Wearables
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
+
 Wearables have revolutionized the way we interact with technology, seamlessly integrating it into our daily lives. These small, often stylish devices are designed to be worn on the body, offering a wide array of functionalities. From smartwatches that keep us connected, track our fitness, and provide timely information, to fitness trackers that monitor our health and activity levels, wearables have become indispensable companions. Additionally, emerging technologies like augmented reality glasses promise to transform how we perceive and interact with the digital world. Whether enhancing productivity, promoting healthier lifestyles, or even aiding in medical diagnoses, wearables are shaping the future of personal technology, ushering in an era of convenience and connectivity that is changing the way we live, work, and play.
 
 (soon...)
@@ -34,12 +36,8 @@ Wearables have revolutionized the way we interact with technology, seamlessly in
 
 <br>
 
-**Hire me**
-
-If you like my work here and are looking to design and deploy your own smart device you can hire me on:
-
-- [Fiverr](https://www.fiverr.com/s/GjmPxe). 
-- [Guru](https://www.guru.com/freelancers/miguel-tomas)
+**Hire AeonLabs**
+If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
 
 <br>
 
