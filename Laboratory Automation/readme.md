@@ -20,10 +20,11 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 18-12-2023
+Last update: 2-12-2023
 </p>
 
 ## Laboratory Automation
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
 The Smart DAQ devices available here have the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally, connect and synchronize data measurements collected with a data repository. For instance, hosted remotely on a [Dataverse](http://www.dataverse.org).
 
@@ -103,6 +104,10 @@ To learn more about these technologies, visit the S.D.A.D. open science project 
 |-------------|------|
 
 <br />
+
+**Hire AeonLabs** <br>
+If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
+
 <br />
 
 ## Author
