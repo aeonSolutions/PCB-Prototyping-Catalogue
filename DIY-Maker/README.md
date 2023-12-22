@@ -26,6 +26,7 @@ Last update: 30-11-2023
 </p>
 
 # DIY & Makers PCBs essentials
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
 - [Upgradable ESP32 MCU](https://github.com/aeonSolutions/AeonLabs-Upgradable-MCU-ESP32)
 
@@ -116,12 +117,8 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 <br>
 
-**Hire me**
-
-If you like my work here and are looking to design and deploy your own smart device you can hire me on:
-
-- [Fiverr](https://www.fiverr.com/s/GjmPxe). 
-- [Guru](https://www.guru.com/freelancers/miguel-tomas)
+**Hire AeonLabs** <br>
+If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
 
 <br>
 
