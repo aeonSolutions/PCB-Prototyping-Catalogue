@@ -7,6 +7,8 @@
 <br>
 
 # Commerial Business 
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
+
 
 - [AeonLabs WIFI BLE RFID NFC Desk Contacless Reader Writer](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer)
 
@@ -55,7 +57,12 @@ Don't forget to check out some cool photos of assembly on a Philips Senseo Coffe
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+
 <br />
+
+**Hire AeonLabs** <br>
+If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
+
 <br />
 
 ## Author
