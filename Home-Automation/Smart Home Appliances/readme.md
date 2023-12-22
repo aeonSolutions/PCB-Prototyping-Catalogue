@@ -2,10 +2,11 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 01-12-2023
+Last update: 22-12-2023
 </p>
 
 # Smart Home Appliances
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
 ### Available PCB Designs as KiCad Project files for DIY and Makers
 
@@ -70,6 +71,10 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 
 <br />
+
+**Hire AeonLabs** <br>
+If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
+
 <br />
 
 ## Author
