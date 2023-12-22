@@ -20,10 +20,11 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 18-12-2023
+Last update: 22-12-2023
 </p>
 
 ## Safety usage of the smart devices provided below
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
 The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, WIFI routers at home, and many more. (except those with directional beam forming technologies). This type of aggressions have the characteristic to happen only during short periods of time, in the order of milliseconds or less regardless of electromagnetic radiation conditions and threshold limits of wireless networks.  
 
@@ -232,6 +233,10 @@ https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme
 |-------------|------|
 
 <br>
+
+**Hire AeonLabs** <br>
+If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
+
 <br>
 
 ## Author
