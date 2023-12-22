@@ -36,7 +36,7 @@ Last update: 22-12-2023
 
 <br>
 
-**Hire AeonLabs**
+**Hire AeonLabs** <br>
 If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
 
 <br>
