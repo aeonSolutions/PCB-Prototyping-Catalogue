@@ -18,7 +18,7 @@ Last update: 12-12-2023
 </p>
 
 # Open Hardware Electronics Prototyping Catalogue
-buy on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) 
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
  <br>
 
@@ -123,23 +123,6 @@ Links at the top, bottom and right side pane. Thank you.
  </a>
 </p>
 
-<br>
-
-### Buy ready to use 
-
-<p align="center"> 
-  <a href="https://www.tindie.com/stores/aeonlabs/">
-     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/tindie_amazing_small.jpg" alt="" height="50">
-   </a> 
-   <a href="https://aeonlabs.gumroad.com">
-     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/gumroad.png" height="50">
-   </a>
- <br>
- 
-  To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.
-</p>
- 
-<br>
 <br>
 
 <p align="center">
