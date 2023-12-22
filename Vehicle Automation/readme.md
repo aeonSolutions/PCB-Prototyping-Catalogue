@@ -24,6 +24,7 @@
 </div>
 
 ## Vehicle Automation
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
 Autonomous vehicles, also known as self-driving cars, are revolutionizing the transportation industry. These vehicles utilize advanced technologies such as artificial intelligence, sensors, and cameras to navigate and operate without human intervention. By eliminating the need for a human driver, autonomous vehicles offer numerous benefits. They enhance road safety by minimizing human error, increase efficiency by optimizing routes and reducing traffic congestion, and provide mobility options for those who cannot drive, such as the elderly or disabled. Additionally, autonomous vehicles have the potential to reduce fuel consumption and emissions, contributing to a more sustainable and environmentally friendly future. While there are still challenges to overcome, such as regulatory frameworks and public acceptance, autonomous vehicles hold great promise for transforming our transportation systems and improving the way we move from one place to another.
 
@@ -53,7 +54,6 @@ Go to the main repository of this project, [here](https://github.com/aeonSolutio
 ### Makers
 - [Daniel Öster](https://github.com/dalathegreat)
 - [multi-channel electroluminescent display driver by benkrasnow](https://github.com/benkrasnow/EL_driver_multi)
-
 
 
 <br>
@@ -89,6 +89,10 @@ Go to the main repository of this project, [here](https://github.com/aeonSolutio
 |-------------|------|
 
 <br>
+
+**Hire AeonLabs** <br>
+If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
+
 <br>
 
 ## Author
