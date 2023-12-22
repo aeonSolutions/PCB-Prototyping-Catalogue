@@ -126,15 +126,6 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 <br>
 
-**Hire me**
-
-If you like my work here and are looking to design and deploy your own smart device you can hire me on:
-
-- [Fiverr](https://www.fiverr.com/s/GjmPxe). 
-- [Guru](https://www.guru.com/freelancers/miguel-tomas)
-
-<br>
-
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
 The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
