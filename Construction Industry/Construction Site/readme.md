@@ -38,7 +38,7 @@ This repo contains the PCB Gerber files for a smart device able to connect to se
 <img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="150">
 </p>
 
-- [Smart Concrete Curing Monitoring Device](https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity)
+- [Smart Concrete Curing Monitoring Device](https://aeonsolutions.github.io/products/concretematurity/)
 
 This repo contains intructions on how to assemble a smart PCB able to monitor Fresh Reinforced concrete Hardening to determine concrete maturity and estimate its streght. The smart PCB is a 12bit smart DAQ. 
 
