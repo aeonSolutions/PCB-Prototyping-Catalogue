@@ -83,9 +83,23 @@ If you are certain your health related problem is caused by some kind of wireles
 - Extreme localized muscle tension
 - Extreme localized muscle relxation
   
-Thermo and hygrometer imbalances require immediatly wear of protective clothes regardless of weather or season. in particular wearing a winter polar jacket (impermeable) during all times the agression is happening and until the victim's body starts to be hot and confortable to a point of showing a pink face.  
+Thermo and hygrometer imbalances require immediatly wear of protective clothes regardless of weather or season. in particular wearing a winter polar jacket (impermeable) during all times the agression is happening and until the victim's body starts to be hot and confortable to a point of showing a pink face.  The author recommends one from the "North Face" brand or wirth equal thermal and hygrometic properties. 
 
-### Complementary medicines known to treat these kinds of health related problems
+**Tinnitus and Insomnias** <br>
+Tinnitus is the term for hearing sounds that come from inside your body, rather than from an outside source. It's often described as “ringing in the ears”, although several sounds can be heard, including: buzzing. humming. grinding. It’s often described as “ringing in the ears”, although several sounds can be heard, including:
+- buzzing
+- humming
+- grinding
+- hissing
+- whistling
+
+Some people may hear sounds similar to music or singing, and others hear noises that beat in time with their pulse (pulsatile tinnitus). You can [read more on Wikipedia](https://en.wikipedia.org/wiki/Tinnitus).
+
+Tinnitus and insomnias require immediate correction of [circadian rhythms](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx) in the victim.  Changes in the circadian rhythms due to tinnitus and insomnias cause thermo and hygrometer imbalances and therefore require immediate wear of protective clothes regardless of weather or season. in particular wearing a winter polar jacket (impermeable) during all times the agression is happening and until the victim's body starts to be hot and confortable to a point of showing a pink face and also when all sleep cycles are resyncronized, usuall after a good and restful nap. The author recommends one from the "North Face" brand or wirth equal thermal and hygrometic properties. <br>
+
+
+
+### Complementary medicines known to assist treatment and cure these kinds of health related problems
 - [Tai Ji Chuan](https://en.wikipedia.org/wiki/Tai_chi)
 - [Acupunture](https://en.wikipedia.org/wiki/Acupuncture)
 - [Reiki Therapy](https://en.wikipedia.org/wiki/Reiki)
