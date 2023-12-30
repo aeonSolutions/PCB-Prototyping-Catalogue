@@ -78,8 +78,14 @@ If you are certain your health related problem is caused by some kind of wireles
 
 ⚠️ **Only after you have those data measurements is advised to go to a conventional medical doctor / medicine.**
 
+### Knonw symptom of a wireless aggresion
+**Thermo and hygrometer imbalances**
+- Extreme localized muscle tension
+- Extreme localized muscle relxation
+  
+Thermo and hygrometer imbalances require immediatly wear of protective clothes regardless of weather or season. in particular wearing a winter polar jacket (impermeable) during all times the agression is happening and until the victim's body starts to be hot and confortable to a point of showing a pink face.  
 
-Complementary medicines known to treat these kinds of health related problems:
+### Complementary medicines known to treat these kinds of health related problems
 - [Tai Ji Chuan](https://en.wikipedia.org/wiki/Tai_chi)
 - [Acupunture](https://en.wikipedia.org/wiki/Acupuncture)
 - [Reiki Therapy](https://en.wikipedia.org/wiki/Reiki)
