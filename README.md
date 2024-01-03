@@ -127,7 +127,7 @@ Links at the top, bottom and right side pane. Thank you.
 
 <p align="center">
   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry">
-     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/construction_industry.jpg" height="300">
+     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/construction_industry.jpg" width="100%">
   </a>
 </p>
 
@@ -145,7 +145,7 @@ Digital transformation in the construction industry is revolutionizing the way p
 
 <p align="center">
    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" height="300">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" width="100%">
    </a>
 </p>
 
@@ -165,7 +165,7 @@ Digital transformation has revolutionized home automation by integrating advance
 
 <p align="center">
    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/wearables.png" height="300">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/wearables.png" width="100%">
    </a>
 </p>
 
@@ -181,7 +181,7 @@ Wearables have revolutionized the way we interact with technology, seamlessly in
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health">
-       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" height="300">
+       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" width="100%">
     </a>
 </p>
 
@@ -203,7 +203,7 @@ Mental health refers to a person's emotional, psychological, and social well-bei
 
 <p align="center">
    <a href="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/smart_solar_cell.jpg" height="300">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/smart_solar_cell.jpg" width="100%">
    </a>
 </p>
 
@@ -220,7 +220,7 @@ Smart solar cell solutions integrate advanced technologies to enhance the effici
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md">
-        <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Consumer_1600x900.jpg" height="300">
+        <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Consumer_1600x900.jpg" width="100%">
     </a>
 </p>
 
@@ -244,7 +244,7 @@ Digital transformation has revolutionized small businesses by providing them wit
 
 <p align="center">
    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Commercial%20Business/README.md">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digitaltransformation-1920x883.jpg" height="300">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digitaltransformation-1920x883.jpg" width="100%">
    </a>
 </p>
 
@@ -261,7 +261,7 @@ Digital transformation in the office refers to the process of integrating advanc
 
 <p align="center">
   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20LCD%20Touch%20Displays/README.md">
-    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/schwerpunktthema-digitale-transformation-breitbild-schmal.jpg" height="300">
+    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/schwerpunktthema-digitale-transformation-breitbild-schmal.jpg" width="100%">
   </a>
 </p>
 
@@ -293,7 +293,7 @@ Smart data acquisition devices are cutting-edge technologies that enable the eff
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Vehicle%20Automation/readme.md">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Autonomous-car.jpg" height="300">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Autonomous-car.jpg" width="100%">
     </a>
 </p>
 
@@ -308,7 +308,7 @@ Autonomous vehicles, also known as self-driving cars, are revolutionizing the tr
 
 <p align="center">
   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances">
-     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digital-transformation.jpg" height="300">
+     <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digital-transformation.jpg" width="100%">
   </a>
 </p>
 
@@ -323,7 +323,7 @@ Robotics and industrial automation have revolutionized the way we manufacture an
 
 <p align="center">
    <a href="#">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/medical_smart_devices.jpg" height="300">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/medical_smart_devices.jpg" width="100%">
    </a>
 </p>
 
@@ -338,7 +338,7 @@ Medical smart devices for health monitoring represent a paradigm shift in the re
 
 <p align="center">
   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_makers.jpg" height="300">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_makers.jpg" width="100%">
   </a>
 </p>
 
