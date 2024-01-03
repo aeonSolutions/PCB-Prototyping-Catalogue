@@ -276,7 +276,7 @@ Digital transformation has revolutionized industrial enterprises by integrating 
 
 <p align="center">
    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Laboratory%20Automation/readme.md">
-   <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" height="300">
+   <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" width="100%">
    </a>
 </p>
 
@@ -384,7 +384,7 @@ To make any of the available PCBs here run as intended is needed to download int
 
 <p align="center">
    <a href="#">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Photo%2BDec%2B11%2C%2B1%2B39%2B43%2BAM.jpg" height="300">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/Photo%2BDec%2B11%2C%2B1%2B39%2B43%2BAM.jpg" width="100%">
    </a>
 </p>
 
