@@ -42,7 +42,7 @@ Home automation has transformed the way we interact with our living spaces, than
 - [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) (8)
 
 ## Garden Automation
-- [Wireless Battery Powered Rainmeter](https://github.com/aeonSolutions/aeonlabs-HomeAutomation-Outdoors-Wireless-Battery-powered-Rainmeter)
+- [Wireless Battery Powered Rainmeter](https://aeonsolutions.github.io/products/rain_meter/index.html)
 
 **Made by other Makers**
 
