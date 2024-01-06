@@ -97,7 +97,8 @@ Some people may hear sounds similar to music or singing, and others hear noises 
 
 Tinnitus and insomnias require immediate correction of [circadian rhythms](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx) in the victim.  Changes in the circadian rhythms due to tinnitus and insomnias cause thermo and hygrometer imbalances and therefore require immediate wear of protective clothes regardless of weather or season. in particular wearing a winter polar jacket (impermeable) during all times the agression is happening and until the victim's body starts to be hot and confortable to a point of showing a pink face and also when all sleep cycles are resyncronized, usuall after a good and restful nap. The author recommends one from the "North Face" brand or wirth equal thermal and hygrometic properties. <br>
 
-
+### Where to complaint , where to report
+If you are a portuguese citizen can raise a complaint on the [Portuguese army website](https://canaldadenuncia.exercito.pt/?nav=pBeIW7qH). 
 
 ### Complementary medicines known to assist treatment and cure these kinds of health related problems
 - [Tai Ji Chuan](https://en.wikipedia.org/wiki/Tai_chi)
