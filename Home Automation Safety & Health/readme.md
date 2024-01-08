@@ -93,7 +93,7 @@ Tinnitus is the term for hearing sounds that come from inside your body, rather 
 - hissing
 - whistling
 
-Some people may hear sounds similar to music or singing, and others hear noises that beat in time with their pulse (pulsatile tinnitus). You can [read more on Wikipedia](https://en.wikipedia.org/wiki/Tinnitus).
+Some people may hear sounds similar to music or singing, and others hear noises that beat in time with their pulse (pulsatile tinnitus). You can [read more on Wikipedia](https://en.wikipedia.org/wiki/Tinnitus). In summary every time one listens to a sound caused by electricity in the air,  if you're inside a building it means someone or some device is throwing electricity at you. An example of it are what is know as tinnitus. 
 
 Tinnitus and insomnias require immediate correction of [circadian rhythms](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx) in the victim.  Changes in the circadian rhythms due to tinnitus and insomnias cause thermo and hygrometer imbalances and therefore require immediate wear of protective clothes regardless of weather or season. in particular wearing a winter polar jacket (impermeable) during all times the agression is happening and until the victim's body starts to be hot and confortable to a point of showing a pink face and also when all sleep cycles are resyncronized, usuall after a good and restful nap. The author recommends one from the "North Face" brand or wirth equal thermal and hygrometic properties. <br>
 
