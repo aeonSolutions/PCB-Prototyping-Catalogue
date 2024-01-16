@@ -67,6 +67,9 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 
 <br>
 
+# by other makers
+- [oju voice a Google nest hack](https://github.com/justLV/onju-voice)
+
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 
