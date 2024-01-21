@@ -36,6 +36,7 @@ Home automation has transformed the way we interact with our living spaces, than
 **Made by other Makers**
 
  - [HomeNode](https://github.com/zrwaite/HomeNode) by Zac Waite , [Steven Gong](https://www.youtube.com/@stevengongg) et al.
+ - [Smart Alarm](https://github.com/blaniosh/alarm/wiki) by [Brett Laniosh](https://github.com/blaniosh)
  
 ## Home Automation
 - [Smart Home Appliances](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Appliances/readme.md) (5)
