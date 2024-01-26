@@ -206,6 +206,7 @@ For the remainder of 2023 and first half of 2024 the OEM smartwatch i recommned 
 
 ## Projects from other DIY Makers
 - [Analog Sound Analyzer](https://github.com/donnersm/Analog-Analyzer) by [Mark Donners](http://theelectronicengineer.nl/)
+- [The Gem Infrasound Logger and Custom‐Built Instrumentation](https://github.com/ajakef/Earthquake_Infrasound_Paper) by [Jake Anderson](https://github.com/ajakef/)
 
 <br>
 
