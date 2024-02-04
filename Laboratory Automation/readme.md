@@ -62,7 +62,7 @@ To learn more about these technologies, visit the S.D.A.D. open science project 
 ### Purposely designed sensors
 - [Capacitive Sensor for water content & Temperature DAQ made for specimens with 100 mm in height](https://github.com/aeonSolutions/AeonLabs-Open-Science-Capacitive-Moisture-Sensor)
 - [Capacitive Sensor for water content & Temperature DAQ made for specimens with 50 mm in height]()
-- 
+
 <br>
 
 ### Weather Station
