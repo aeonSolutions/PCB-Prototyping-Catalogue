@@ -17,7 +17,7 @@
 Last update: 7-2-2024
 </p>
 
-# Open Hardware Electronics Prototyping Catalogue
+# Catalogue of Open Hardware Electronics & Prototyping 
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. <br>
 If your prefer browsing in a more graphical manner , you can [view this page as a landing webapge](https://aeonsolutions.github.io/portfolio/hardware_electronics/).
 
