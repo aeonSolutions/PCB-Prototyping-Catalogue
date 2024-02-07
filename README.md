@@ -14,47 +14,30 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 8-1-2024
+Last update: 7-2-2024
 </p>
 
 # Open Hardware Electronics Prototyping Catalogue
-[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
+[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. <br>
+If your prefer browsing in a more graphical manner , you can [view this page as a landing webapge](https://aeonsolutions.github.io/portfolio/hardware_electronics/).
 
  <br>
 
-[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire AeonLabs.
-
-
-This repository is the main catalog for all PCB prototypes and publicly available here on GitHub. There are now a total of **62** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. <br>
+This repository is the main catalog for all my PCB prototypes I have publicly available here on GitHub. There are now a total of **63** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.  In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
+<br>
 
 <p align="center">
 <a href="https://aeonsolutions.github.io/products/">View a list of open hardware solutions ready to buy, install and use</a>
 </p>
 
-In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
+
 
 Make sure to also check my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
 
-<br>
-
-**Get a Notification on every PCB update**
-
-| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
-|-------------|------|
-
-**Technical Suport** <br>
-Need technical suport for any of my projects i have freely available here ? <br>
-Need Technical suport in prototype a smart device like the ones i have available here ? <br>
-Cick [here](https://github.com/sponsors/aeonSolutions) or on the sponsor button at the top and right side pane. Thank you
-
-**Sponsor** <br>
-AeonLabs invests time and resources providing this open source hardware electronics, please support AeonLabs and open-source hardware by purchasing products from AeonLabs!
-Links at the top, bottom and right side pane. Thank you.
-
-<br>
-
 ### Current projects i've been working on the past 4 weeks...
-- Open Hardware electronics for the automotive sector ( currently designing an open ECU )
+- Open Hardware electronics for the automotive sector:
+  - The OPEN ECU is now for PCB fabrication
+  - Designing the Front Door Electronics and also the Intruments Cluster 
 - 24-bit Smart data Acquisiton SDAD for Hydrostatic Weight Measurments up to 20Kg 
 - PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" IoE solutions. (Robotics, autonomous vehicles, live data acquisition). See here [the Jetson Nano Project](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano).
 
@@ -134,6 +117,24 @@ Links at the top, bottom and right side pane. Thank you.
      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/construction_industry.jpg" width="100%">
   </a>
 </p>
+
+<br>
+
+**Get a Notification on every PCB update**
+
+| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
+|-------------|------|
+
+**Technical Suport** <br>
+Need technical suport for any of my projects i have freely available here ? <br>
+Need Technical suport in prototype a smart device like the ones i have available here ? <br>
+Cick [here](https://github.com/sponsors/aeonSolutions) or on the sponsor button at the top and right side pane. Thank you
+
+**Sponsor** <br>
+AeonLabs invests time and resources providing this open source hardware electronics, please support AeonLabs and open-source hardware by purchasing products from AeonLabs!
+Links at the top, bottom and right side pane. Thank you.
+
+<br>
 
 ## [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry) (7)
 
