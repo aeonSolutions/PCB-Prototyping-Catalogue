@@ -23,19 +23,17 @@ If your prefer browsing in a more graphical manner , you can [view this page as 
 
  <br>
 
-This repository is the main catalog for all my PCB prototypes I have publicly available here on GitHub. There are now a total of **63** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.  In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
+This repository is the main catalog for all my PCB prototypes I have publicly available here on GitHub. There are now a total of **68** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.  In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 <br>
 
 <p align="center">
 <a href="https://aeonsolutions.github.io/products/">View a list of open hardware solutions ready to buy, install and use</a>
 </p>
 
-
-
 Make sure to also check my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
 
 ### Current projects i've been working on the past 4 weeks...
-- Open Hardware electronics for the automotive sector:
+- 6 new Open Hardware electronics for the automotive sector:
   - The OPEN ECU is now for PCB fabrication
   - Designing the Front Door Electronics and also the Intruments Cluster 
 - 24-bit Smart data Acquisiton SDAD for Hydrostatic Weight Measurments up to 20Kg 
