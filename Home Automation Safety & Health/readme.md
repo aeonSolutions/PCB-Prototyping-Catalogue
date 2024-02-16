@@ -76,6 +76,26 @@ Scientific Data | No | No
 
 </div>
 
+### Sponsors
+Most recent sponsorships made for this project were made by:
+- [Maria Jesus Amorim](https://www.facebook.com/mariajesus.amorim) with a sponsorship of 800€.
+- [Bernardino Pereira da Silva](https://www.facebook.com/bernardino.silva.9883) e [Maria Cecilia Fonseca Pinto](https://www.facebook.com/profile.php?id=100054375758029) with a sponsorship of 150€.
+
+in return were give support and assistance on all thungs wireless related to abusibe usages and even criminous and terrorst type of activities.  In particular electromagnetic (radio frequency, etc, ..) and photonic (lasers, LED, etc..). 
+
+Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
+
+<br>
+
 ## How to proceed
 If you are certain your health related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or engineer and ask him/her to audit your home , work place (or other place you find it to be the root cause) to setup measurement devices (more than 2) , for electromagnetic radiation detection (or other, for instance photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup needs to be able to do sensor data measurements uploads to an experimental data repository (see table 1 above). At the same time is a mandatory requirement to notify authorities and include the web address link where sensor data is being uploaded and stored.
 
