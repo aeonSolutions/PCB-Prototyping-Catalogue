@@ -81,7 +81,7 @@ Most recent sponsorships made for this project were made by:
 - [Maria Jesus Amorim](https://www.facebook.com/mariajesus.amorim) with a sponsorship of 800€.
 - [Bernardino Pereira da Silva](https://www.facebook.com/bernardino.silva.9883) e [Maria Cecilia Fonseca Pinto](https://www.facebook.com/profile.php?id=100054375758029) with a sponsorship of 150€.
 
-in return were give support and assistance on all thungs wireless related to abusibe usages and even criminous and terrorst type of activities.  In particular electromagnetic (radio frequency, etc, ..) and photonic (lasers, LED, etc..). 
+in return were given support and assistance on all things wireless related to abusive usages and even criminous and terrorist type of activities, in particular electromagnetic (radio frequency, etc, ..) and photonic (lasers, LED, etc..). 
 
 Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
