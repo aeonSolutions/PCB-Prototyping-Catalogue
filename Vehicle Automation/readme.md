@@ -38,7 +38,7 @@ The electrical system and electronics for all Volvo's with the common chassis MK
 Go to the main repository of this project, [here](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/tree/main).
 
  <p align="center">
-     <img height="350" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Vehicle%20Automation/media/image_2023-11-10_161202912.png"> <br>
+     <img height="350" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Vehicle%20Automation/media/prototyping_is_like_this.jpg"> <br>
      me side by side a 2001 volvo MKII S60 
  </p>
 
