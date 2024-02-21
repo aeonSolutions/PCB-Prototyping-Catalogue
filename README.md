@@ -21,19 +21,17 @@ Last update: 17-2-2024
 </p>
 
 # Catalogue of Open Hardware Electronics & Prototyping 
-[where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. <br>
-If your prefer browsing in a more graphical manner , you can [view this page as a landing webapge](https://aeonsolutions.github.io/portfolio/hardware_electronics/).
-
- <br>
+<sup> [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. </sup>
 
 This repository is the main catalog for all my PCB prototypes I have publicly available here on GitHub. There are now a total of **68** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.  In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 <br>
 
 <br>
-There are now 2 ways to navigate my hardware electronics catalog. The icon below, to the right, will take you  another page where this catalog is displayed using a conventional landing page desgin & styling. This option is suited to all those users that are only looking for a solution of a problem and not into the real technical details. If you like code and more technnical information, browse this page instead.  The icon below to the left, will take you directlty to a webpage with all hardware electronics currently at the [M.V.P. stage](https://en.wikipedia.org/wiki/Minimum_viable_product) . If you're not into technical information and are here only to buy this is the option for you. 
+
+There are now 2 ways to navigate my hardware electronics catalog. The icon below, to the right, will take you  another page where this catalog is displayed using a conventional landing page desgin & styling. This option is suited to all those users that are only looking for a solution of a problem and not into the real technical details. If you like code and more technnical information, browse this page instead.  The icon below to the left, will take you directlty to a webpage with all hardware electronics currently at the [M.V.P. stage](https://en.wikipedia.org/wiki/Minimum_viable_product). If you're not into technical information and are here only to buy this is the option for you. 
 
 <p align="center">
- <a href="">
+ <a href="https://aeonsolutions.github.io/portfolio/hardware_electronics/">
  <img alt="View this repository in a conventional landing page" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_icon.png"></a>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <a href="https://aeonsolutions.github.io/products/">
@@ -57,23 +55,6 @@ Make sure to also check my **Open Source Software Catalogue** [here](https://git
 
 <br>
 
-### The most recent updates 
-(December update) <br>
-**Laboratory Section**
-- There's now available the KiCad project files for a "Capacitive Moisture and Temperature Sensor"
-- The S.D.A.D. for rain measurements has now a status of fully tested and working.
- 
-**DIY / Makers section** 
-- There's now available a circuit schematic and PCB template for the ESP32 C3 MCU <br>
-
-**Smart Home Automation section**
-- The project "Smart Distributed DC Power Management" is now on its 5th iteration  
-- The project: "Power Wall using 18650 Lithium Polymer Batteries" is now on its 3rd iteration. See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come.
-- The smart rainmeter for home automation and gardening has now a status of fully tested and working.
-  
-<br />
-<br />
-
 ###  Read all about my open hardware projects on ...
 <p align="center">
    <a href="https://www.instructables.com/member/mtpsilva/instructables/">
@@ -93,6 +74,23 @@ Make sure to also check my **Open Source Software Catalogue** [here](https://git
  </p>
 
 <br>
+
+### The most recent updates 
+(December update) <br>
+**Laboratory Section**
+- There's now available the KiCad project files for a "Capacitive Moisture and Temperature Sensor"
+- The S.D.A.D. for rain measurements has now a status of fully tested and working.
+ 
+**DIY / Makers section** 
+- There's now available a circuit schematic and PCB template for the ESP32 C3 MCU <br>
+
+**Smart Home Automation section**
+- The project "Smart Distributed DC Power Management" is now on its 5th iteration  
+- The project: "Power Wall using 18650 Lithium Polymer Batteries" is now on its 3rd iteration. See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come.
+- The smart rainmeter for home automation and gardening has now a status of fully tested and working.
+  
+<br />
+<br />
 
 ### Sponsor Open Hardware Solutions
 Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
