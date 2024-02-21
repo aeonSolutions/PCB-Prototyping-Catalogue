@@ -29,11 +29,24 @@ If your prefer browsing in a more graphical manner , you can [view this page as 
 This repository is the main catalog for all my PCB prototypes I have publicly available here on GitHub. There are now a total of **68** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.  In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 <br>
 
+<br>
+There are now 2 ways to navigate my hardware electronics catalog. The icon below, to the right, will take you  another page where this catalog is displayed using a conventional landing page desgin & styling. This option is suited to all those users that are only looking for a solution of a problem and not into the real technical details. If you like code and more technnical information, browse this page instead.  The icon below to the left, will take you directlty to a webpage with all hardware electronics currently at the [M.V.P. stage](https://en.wikipedia.org/wiki/Minimum_viable_product) . If you're not into technical information and are here only to buy this is the option for you. 
+
 <p align="center">
-<a href="https://aeonsolutions.github.io/products/">View a list of open hardware solutions ready to buy, install and use</a>
+ <a href="">
+ <img alt="View this repository in a conventional landing page" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_icon.png"></a>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <a href="https://aeonsolutions.github.io/products/">
+  <img alt="View all open hardware solutions ready to buy, install and use" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcb_icon.png">
+ </a> <br>
+ <sup>View this repository in a conventional landing page</sup>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ <sup> View all open hardware solutions ready to buy, install and use</sup>
 </p>
 
 Make sure to also check my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
+
+<br>
 
 ### Current projects i've been working on the past 4 weeks...
 - 6 new Open Hardware electronics for the automotive sector:
