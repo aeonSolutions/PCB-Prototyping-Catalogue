@@ -42,7 +42,7 @@ There are now 2 ways to navigate my hardware electronics catalog. The icon below
  <sup> View all open hardware solutions ready to buy, install and use</sup>
 </p>
 
-Make sure to also check my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
+Make sure you also view my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
 
 <br>
 
@@ -93,6 +93,7 @@ Make sure to also check my **Open Source Software Catalogue** [here](https://git
 <br />
 
 ### Sponsor Open Hardware Solutions
+AeonLabs invests time and resources providing this open source hardware electronics. <br>
 Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
 <p align="center">
@@ -154,10 +155,6 @@ Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a G
 Need technical suport for any of my projects i have freely available here ? <br>
 Need Technical suport in prototype a smart device like the ones i have available here ? <br>
 Cick [here](https://github.com/sponsors/aeonSolutions) or on the sponsor button at the top and right side pane. Thank you
-
-**Sponsor** <br>
-AeonLabs invests time and resources providing this open source hardware electronics, please support AeonLabs and open-source hardware by purchasing products from AeonLabs!
-Links at the top, bottom and right side pane. Thank you.
 
 <br>
 
