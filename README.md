@@ -165,7 +165,7 @@ Digital transformation in the construction industry is revolutionizing the way p
    </a>
 </p>
 
-## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (31)
+## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md) (32)
 
 Digital transformation has revolutionized home automation by integrating advanced technologies and connectivity into our living spaces. Through the seamless integration of smart devices, sensors, and networks, homes have become smarter and more efficient than ever before. With digital transformation, homeowners can control and monitor various aspects of their homes remotely, such as lighting, security systems, temperature, and even appliances, through mobile applications and voice commands. This transformative shift has not only enhanced convenience and comfort but has also improved energy efficiency, safety, and overall quality of life. The ability to automate and personalize our living environments has reshaped the way we interact with our homes, making them more intelligent, responsive, and adaptable to our individual needs and preferences.
 
