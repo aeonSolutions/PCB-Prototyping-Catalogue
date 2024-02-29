@@ -31,6 +31,22 @@ Last update: 29-02-2024
 
 Home automation has transformed the way we interact with our living spaces, thanks to the integration of AI-enabled smart devices. With home automation, mundane tasks can be seamlessly managed, creating a more convenient and efficient lifestyle. AI-powered smart devices, such as voice assistants, thermostats, lighting systems, and security cameras, provide homeowners with unprecedented control over their environment. Through voice commands or mobile apps, one can effortlessly adjust the temperature, and lighting ambiance, or even lock/unlock doors from anywhere. These devices utilize AI algorithms to learn user preferences, adapt to individual needs, and optimize energy consumption. AI-enabled security systems are capable of identifying and distinguishing between authorized and unauthorized individuals, enhancing home safety. Furthermore, the interconnectedness of smart devices allows for intelligent automation, where actions are triggered based on specific events or schedules. Home automation with AI has not only elevated comfort and convenience but also promotes energy efficiency, safety, and a truly personalized living experience.
 
+<p align="center">
+ <a href="https://aeonsolutions.github.io/portfolio/hardware_electronics/home_automation/">
+ <img alt="View this repository in a conventional landing page" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_icon.png"></a>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <a href="https://aeonsolutions.github.io/products/">
+  <img alt="View all open hardware solutions ready to buy, install and use" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcb_icon.png">
+ </a> <br>
+ <sup>View this repository in a conventional landing page</sup>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ <sup> View all open hardware solutions ready to buy, install and use</sup>
+</p>
+
+Make sure you also view my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
+
+<br>
+
 <br>
 
 ## Smart Home Management 
