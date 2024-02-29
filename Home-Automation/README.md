@@ -57,7 +57,7 @@ Home automation has transformed the way we interact with our living spaces, than
 - [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (7)
 - [Smart Home AC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/readme.md) (3)
 - [Smart Home Solar Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/readme.md) (4)
-- [Smart DSMR5+ meter]()
+- [Smart DSMR5+ Power meter](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-DSMR-5-Power-Meter)
 
 **Made by other Makers**
 
@@ -65,17 +65,6 @@ Home automation has transformed the way we interact with our living spaces, than
 - [Libre Solar Project](https://github.com/LibreSolar)
 - [esp32_p1meter](https://github.com/RoySpringer/esp32_p1meter) by [Roy Springer](https://github.com/RoySpringer)
 - [esp8266_p1meter](https://github.com/daniel-jong/esp8266_p1meter) by [Daniel de Jong](https://github.com/daniel-jong)
-
-<br>
-
-## Download the PCB design files in KiCad
-
-Subscription users have available to download the original hardware pcb design files as a KiCad project complete with circuit schemetics and component list (BOM). To enable download you need to subscribe to a montlhy plan [here](https://github.com/sponsors/aeonSolutions). thank you.
-
-<br>
-
-**Hire AeonLabs**
-If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
 
 <br>
 
