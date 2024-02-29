@@ -20,7 +20,7 @@ Last update: 21-2-2024
 # Catalogue of Open Hardware Electronics & Prototyping 
 <sup> [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. </sup>
 
-This repository is the main catalog for all my PCB prototypes I have publicly available here on GitHub. There are now a total of **68** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.  In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
+This repository is the main catalog for all my PCB prototypes I have publicly available here on GitHub. There are now a total of **69** PCBs for smart devices, A.I. enabled, designed in KiCad and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.  In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 <br>
 
 <br>
@@ -73,18 +73,10 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 <br>
 
 ### The most recent updates 
-(December update) <br>
-**Laboratory Section**
-- There's now available the KiCad project files for a "Capacitive Moisture and Temperature Sensor"
-- The S.D.A.D. for rain measurements has now a status of fully tested and working.
- 
-**DIY / Makers section** 
-- There's now available a circuit schematic and PCB template for the ESP32 C3 MCU <br>
+(February update) <br>
 
 **Smart Home Automation section**
-- The project "Smart Distributed DC Power Management" is now on its 5th iteration  
-- The project: "Power Wall using 18650 Lithium Polymer Batteries" is now on its 3rd iteration. See [Jehu Garcia](https://www.youtube.com/@jehugarcia) for an overview of what's to come.
-- The smart rainmeter for home automation and gardening has now a status of fully tested and working.
+- The Smart Power Meter made for the new DSRM 5+ power meters from the utility company
   
 <br />
 <br />
