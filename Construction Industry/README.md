@@ -29,7 +29,7 @@ Last update: 29-02-2024
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. </sup> <br>
 
 <p align="center">
- <a href="https://aeonsolutions.github.io/portfolio/hardware_electronics/home_automation/">
+ <a href="https://aeonsolutions.github.io/portfolio/hardware_electronics/construction/">
  <img alt="View this repository in a conventional landing page" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_icon.png"></a>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <a href="https://aeonsolutions.github.io/products/">
