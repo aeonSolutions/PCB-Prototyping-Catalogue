@@ -23,7 +23,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 2-12-2023
+Last update: 29-02-2024
 </p>
 
 ## Laboratory Automation
@@ -32,6 +32,22 @@ Last update: 2-12-2023
 The Smart DAQ devices available here have the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally, connect and synchronize data measurements collected with a data repository. For instance, hosted remotely on a [Dataverse](http://www.dataverse.org).
 
 These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices and are able to connect with each other using swarm intelligence. The main purpose is to increase data integrity and trustworthiness among DAQ devices connected and on all experimental data collected during an experiment or research project.
+
+
+<p align="center">
+ <a href="https://aeonsolutions.github.io/portfolio/hardware_electronics/laboratory/">
+ <img alt="View this repository in a conventional landing page" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_icon.png"></a>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <a href="https://aeonsolutions.github.io/products/">
+  <img alt="View all open hardware solutions ready to buy, install and use" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcb_icon.png">
+ </a> <br>
+ <sup>View this repository in a conventional landing page</sup>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ <sup> View all open hardware solutions ready to buy, install and use</sup>
+</p>
+
+Make sure you also view my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue).  <br> <br>
+
 
 **Summary of advantages of these Smart Data Acquisition Devices (S.D.A.D.)**
 - Ability to collect sensor measurements in real-time / LIVE and generate a unique fingerprint identification (UFPID) from and for a sensor data record;
