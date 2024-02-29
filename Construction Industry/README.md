@@ -40,7 +40,7 @@ Last update: 29-02-2024
  <sup> View all open hardware solutions ready to buy, install and use</sup>
 </p>
 
-Make sure you also view my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
+
 
 <br>
 
@@ -48,6 +48,9 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 - [Building Smart Network Connectivity](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Building%20Smart%20Network%20Connectivity) (3)
 - 🆕 [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site) (2)
 - [Smart technologies for Vehicle Roads and Driving Safety  ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Construction%20Industry/Roads%20&%20vehicles/readme.md) (2)
+
+
+Make sure you also view my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
 
 <br>
 
