@@ -43,10 +43,6 @@ Home automation has transformed the way we interact with our living spaces, than
  <sup> View all open hardware solutions ready to buy, install and use</sup>
 </p>
 
-Make sure you also view my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
-
-<br>
-
 <br>
 
 ## Smart Home Management 
@@ -81,6 +77,9 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 - [Libre Solar Project](https://github.com/LibreSolar)
 - [esp32_p1meter](https://github.com/RoySpringer/esp32_p1meter) by [Roy Springer](https://github.com/RoySpringer)
 - [esp8266_p1meter](https://github.com/daniel-jong/esp8266_p1meter) by [Daniel de Jong](https://github.com/daniel-jong)
+
+
+Make sure you also view my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
 
 <br>
 
