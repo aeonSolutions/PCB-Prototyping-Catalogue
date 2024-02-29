@@ -62,6 +62,8 @@ Home automation has transformed the way we interact with our living spaces, than
 
 - [ESP32 USB-C Power Supply](https://github.com/mike-rankin/ESP32_USB-C_Power_Supply)
 - [Libre Solar Project](https://github.com/LibreSolar)
+- [esp32_p1meter](https://github.com/RoySpringer/esp32_p1meter) by [Roy Springer](https://github.com/RoySpringer)
+- [esp8266_p1meter](https://github.com/daniel-jong/esp8266_p1meter) by [Daniel de Jong](https://github.com/daniel-jong)
 
 <br>
 
