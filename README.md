@@ -1,4 +1,4 @@
-[![](https://dcbadge.vercel.app/api/server/HY4h6UTC) ](https://discord.gg/nYe9YMKf)
+[![](https://dcbadge.vercel.app/api/server/czYK5pXA) ](https://discord.gg/czYK5pXA)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
 <a href="https://github.com/sponsors/aeonSolutions">
    <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
