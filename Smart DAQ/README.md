@@ -23,7 +23,7 @@
 ## Smart Data Acquisition
 
 ### [Data Acquisition with a resistivity meter](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
-- [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) (10)
+- [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) (13)
 - [16-bit Smart Data Acquisition Device](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/16-bit/readme.md) (1)
 - [24-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (2) (soon . stay tuned.)
 
