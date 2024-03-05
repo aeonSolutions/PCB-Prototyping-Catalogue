@@ -37,7 +37,27 @@ This is the repository for revision "10-2023" of the 12-bit Smart DAQ Device wit
 This is the repository for revision "02-2023" of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
 
 <p align="center">
-    <img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/designs/image_2023-06-28_124820880.png" width="250px">
+    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/12-bit/media/sdad_pcb_rev_03-2023.jpg" height="250px">
+</p>
+
+<br>
+
+## [12-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS (02-2023 revision) ](https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS)
+
+This is the repository for revision "02-2023" of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
+
+<p align="center">
+    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/12-bit/media/sdad_pcb_rev_02-2023.jpg" height="250px">
+</p>
+
+<br>
+
+## [12-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS (02-2023 revision) ](https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS)
+
+This is the repository for revision "02-2023" of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
+
+<p align="center">
+    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/12-bit/media/sdad_pcb_rev_01-2023.jpg" height="250px">
 </p>
 
 <br>
