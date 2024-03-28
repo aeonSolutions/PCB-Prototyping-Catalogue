@@ -62,7 +62,7 @@ This is the PCB for testing QFN-58 ESP32 S3 MCUs.
 
 - [Solder Reflow Plate PCB](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB)
 
-Improved Kicad PCB schematics for a DIY Solder Reflow Plate from the original pcb schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
+Improved Kicad PCB schematics for a DIY Solder Reflow Plate from the original PCB schematic by [AfterEarthLTD](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
 
 ### As Seen On GreatScott! 
 This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best way to reflow solder? Hot Plate to the rescue! DIY or Buy"
@@ -73,19 +73,25 @@ This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best wa
 
 <br>
 
-## [DIY & Makers PCBs essentials: modules / Shields](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/PCB-Shields/README.md)
-A list of all PCB modules / shield designs ready to use in KiCad.
+## Useful Utilities
+For the promotion of your hardware electronics schematics on a browser there are available free, open-source,  Web Gerber viewers, ready to be integrated into an existing website.
+I recommend 🥰 [GRX](https://github.com/hpcreery/GRX) made by [Hunter Creery](https://github.com/hpcreery) and [Peyton Creery](https://github.com/phcreery). Anyone can try it out on the following website: [https://grx.creery.org/](https://grx.creery.org/)
+
+<br>
+
+[Gerber viewer](https://github.com/xingrz/GerberViewer) by [XiNGRZ](https://github.com/xingrz) is another option for the promotion of PCB design works online.
+
 
 <br>
 <br>
 
-*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
+*Don't forget to LIKE, SHARE, and subscribe to the free WhatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-## Liked it ? Get a Free PCB for yourself
-Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
+## Liked it? Get a Free PCB for yourself
+Send me your Device or hardware and I will design a custom PCB for it. Free of charge. Contact me on WhatsApp or email for more info. 
 
 ## Q&A WhatsApp Group
-If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
+If you have any questions or simply  like this kind of project and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 ## Fully assembled PCB
