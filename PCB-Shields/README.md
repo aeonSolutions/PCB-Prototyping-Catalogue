@@ -1,5 +1,4 @@
-[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
- [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 ![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue?style=for-the-badge)
@@ -24,17 +23,17 @@
 </p>
 
 # DIY & Makers PCBs essentials:  modules / Shields
-A list of all PCB modules / shield designs ready to use in KiCad.
+A list of all PCB modules/shield designs ready to use in KiCad.
 
 # [ESP32 C3](https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-c3)
- This repo contains a pcb design for a ESP32 C3 MCU. Suitable as a add-on design for any other KiCad project.
+ This repo contains a PCB design for an ESP32 C3 MCU. Suitable as an add-on design for any other KiCad project.
  
 <p align="center">
     <img height="250" src="https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-c3/blob/main/Circuit%20Schematic/esp32_c3_circuit_schematic.png">
 </p>
  
 # [ESP32 S3](https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-s3)
- This repo contains a pcb design for a ESP32 S3 MCU. Suitable as a add-on design for any other KiCad project.
+ This repo contains a PCB design for an ESP32 S3 MCU. Suitable as an add-on design for any other KiCad project.
  
  <p align="center">
      <img height="250" src="https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-s3/raw/main/Circuit%20Schematic/esp32_c3_circuit_schematic.png">
