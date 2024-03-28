@@ -37,18 +37,18 @@ There are now 2 ways to navigate my hardware electronics catalog. The icon below
  </a> <br>
  <sup>View this repository in a conventional landing page</sup>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
- <sup> View all open hardware solutions ready to buy, install and use</sup>
+ <sup> View all open hardware solutions ready to buy, install, and use</sup>
 </p>
 
 Make sure you also view my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue). 
 
 <br>
 
-### Current projects i've been working on the past 4 weeks...
+### Current projects I've been working on the past 4 weeks...
 - 6 new Open Hardware electronics for the automotive sector:
   - The OPEN ECU is now for PCB fabrication
-  - Designing the Front Door Electronics and also the Intruments Cluster 
-- 24-bit Smart data Acquisiton SDAD for Hydrostatic Weight Measurments up to 20Kg 
+  - Designing the Front Door Electronics and also the Instrument Cluster 
+- 24-bit Smart data Acquisition SDAD for Hydrostatic Weight Measurements up to 20Kg 
 - PCB design and prototyping using [Nvidia's Jetson Nano](https://s.click.aliexpress.com/e/_DnoQOSD) for "Artificial Intelligence" IoE solutions. (Robotics, autonomous vehicles, live data acquisition). See here [the Jetson Nano Project](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano).
 
 <br>
@@ -80,11 +80,16 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 - The Smart Power Meter made for the new DSRM 5+ power meters from the utility company
   
 <br />
+
+## Promotion of DIY Work online
+For the promotion of your hardware electronics schematics on a browser there are available free, open-source,  Web Gerber viewers, ready to be integrated into an existing website.
+I recommend 🥰 [GRX](https://github.com/hpcreery/GRX) made by [Hunter Creery](https://github.com/hpcreery) and [Peyton Creery](https://github.com/phcreery). Anyone can try it out on the following website: [https://grx.creery.org/](https://grx.creery.org/)
+
 <br />
 
 ### Sponsor Open Hardware Solutions [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-AeonLabs invests time and resources providing this open source hardware electronics. <br>
-Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+AeonLabs invests time and resources in providing this open-source hardware electronics. <br>
+Did you like any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
