@@ -1,5 +1,4 @@
-[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
- [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 ![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue?style=for-the-badge)
@@ -83,16 +82,10 @@ I recommend 🥰 [GRX](https://github.com/hpcreery/GRX) made by [Hunter Creery](
 
 
 <br>
-<br>
 
 *Don't forget to LIKE, SHARE, and subscribe to the free WhatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-## Liked it? Get a Free PCB for yourself
-Send me your Device or hardware and I will design a custom PCB for it. Free of charge. Contact me on WhatsApp or email for more info. 
-
-## Q&A WhatsApp Group
-If you have any questions or simply  like this kind of project and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
-[A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+<br>
 
 ## Fully assembled PCB
 Alternatively, and if you do not want to build a PCB by yourself and like to buy one, you can do it here:
