@@ -22,10 +22,14 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 22-12-2023
+Last update: 28-03-2023
 </p>
 
-# DIY & Makers PCBs essentials
+
+# DIY & Makers PCB Modules 
+To view a list of many PCB modules/shield designs ready to use in KiCad [click here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/PCB-Shields/README.md).
+
+# DIY & Makers PCB essentials
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
 - [Upgradable ESP32 MCU](https://github.com/aeonSolutions/AeonLabs-Upgradable-MCU-ESP32)
