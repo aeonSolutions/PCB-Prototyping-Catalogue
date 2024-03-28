@@ -73,7 +73,7 @@ This is the Gerber & KiCad files for the Youtuber GreatScott! video "The Best wa
 
 <br>
 
-## Useful Utilities
+## Promotion of DIY Work online
 For the promotion of your hardware electronics schematics on a browser there are available free, open-source,  Web Gerber viewers, ready to be integrated into an existing website.
 I recommend 🥰 [GRX](https://github.com/hpcreery/GRX) made by [Hunter Creery](https://github.com/hpcreery) and [Peyton Creery](https://github.com/phcreery). Anyone can try it out on the following website: [https://grx.creery.org/](https://grx.creery.org/)
 
