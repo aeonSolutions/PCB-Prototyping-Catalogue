@@ -85,7 +85,15 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 For the promotion of your hardware electronics schematics on a browser there are available free, open-source,  Web Gerber viewers, ready to be integrated into an existing website.
 I recommend 🥰 [GRX](https://github.com/hpcreery/GRX) made by [Hunter Creery](https://github.com/hpcreery) and [Peyton Creery](https://github.com/phcreery). Anyone can try it out on the following website: [https://grx.creery.org/](https://grx.creery.org/)
 
-<br />
+
+## CE Ready Logo
+Many of my hardware electronics designs include a "CE Ready" logo. This means that particular hardware is ready to get a CE marking.
+
+<p align="center">
+   <img height="100px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/CE_READY.png">
+</p>
+
+<br>
 
 ### Sponsor Open Hardware Solutions [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 AeonLabs invests time and resources in providing this open-source hardware electronics. <br>
