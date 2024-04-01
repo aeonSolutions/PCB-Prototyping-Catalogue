@@ -74,10 +74,17 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 <br>
 
 ### The most recent updates 
-(February update) <br>
+(April update) <br>
 
-**Smart Home Automation section**
-- The Smart Power Meter made for the new DSRM 5+ power meters from the utility company
+**Open Automotive Section**
+- a Dual Band Antenna for Volvo P2
+- an LED upgrade for the instruments cluster of Volvo P2
+- a Clutch Position Sensor upgrade for the Volvo P2
+- an LED upgrade for the back doors of a Volvo P2
+- The newest PCB revision for the Smart Concrete Device, now with a power consumption of only ~60nA
+- The 220V AC Smart Outlet compatible with Tuya, Home Assistant, etc 
+- The newest PCB revision for the rain meter, now with a power consumption of only ~60nA
+- the newest  PCB revision for an Electromagnetic Detector and Monitor that fits inside an 18650 Battery Enclosure.
   
 <br />
 
