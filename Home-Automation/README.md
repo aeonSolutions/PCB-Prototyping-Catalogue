@@ -1,4 +1,4 @@
-[![](https://dcbadge.vercel.app/api/server/HY4h6UTC) ](https://discord.gg/nYe9YMKf)
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 ![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue?style=for-the-badge)
@@ -25,7 +25,7 @@ Last update: 29-02-2024
 </p>
 
 # 🔸 Home Automation [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-💬 🆕 <sup> There's a new Discord Server for this all other projects. to Join [click here](https://discord.gg/nYe9YMKf). <br>
+💬 🆕 <sup> There's a new Discord Server for this and all other projects. To join [click here](https://discord.gg/nYe9YMKf). <br>
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. </sup> <br>
 
 Home automation has transformed the way we interact with our living spaces, thanks to the integration of AI-enabled smart devices. With home automation, mundane tasks can be seamlessly managed, creating a more convenient and efficient lifestyle. AI-powered smart devices, such as voice assistants, thermostats, lighting systems, and security cameras, provide homeowners with unprecedented control over their environment. Through voice commands or mobile apps, one can effortlessly adjust the temperature, and lighting ambiance, or even lock/unlock doors from anywhere. These devices utilize AI algorithms to learn user preferences, adapt to individual needs, and optimize energy consumption. AI-enabled security systems are capable of identifying and distinguishing between authorized and unauthorized individuals, enhancing home safety. Furthermore, the interconnectedness of smart devices allows for intelligent automation, where actions are triggered based on specific events or schedules. Home automation with AI has not only elevated comfort and convenience but also promotes energy efficiency, safety, and a truly personalized living experience.
@@ -39,7 +39,7 @@ Home automation has transformed the way we interact with our living spaces, than
  </a> <br>
  <sup>View this repository in a conventional landing page</sup>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
- <sup> View all open hardware solutions ready to buy, install and use</sup>
+ <sup> View all open hardware solutions ready to buy, install, and use</sup>
 </p>
 
 <br>
@@ -180,7 +180,7 @@ Make a donation on PayPal and get a TAX refund*.
 </p>
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
