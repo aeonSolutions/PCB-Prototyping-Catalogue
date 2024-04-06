@@ -22,13 +22,13 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 16-12-2023
+Last update: 6-04-2024
 </p>
 
 ## Safety usage of the smart devices provided below
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
-The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, WIFI routers at home, and many more. (except those with directional beam forming technologies). This type of aggressions have the characteristic to happen only during short periods of time, in the order of milliseconds or less regardless of electromagnetic radiation conditions and threshold limits of wireless networks.  
+The smart safety & health solutions available below, are for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, WIFI routers at home, and many more. (except those with directional beam forming technologies). This type of aggression has the characteristic to happen only during short periods of time, in the order of milliseconds or less regardless of electromagnetic radiation conditions and threshold limits of wireless networks.  
 
 <p align="center">
    <a href="https://io.adafruit.com/aeonlabs/dashboards/em-sensor-data?kiosk=true">
@@ -38,22 +38,22 @@ The smart safety & health solutions available below, are for the kind of wireles
 </p>
 
 Two concepts are very important to know and learn about: 
-- the **superposition of different electromagnetic waves**, its meanings and what resulting wave and EM energy produces (for instance an energy spike that produces an instantaneous flash of light).
-- and the second concept is **wave pattern matching** to produce an EM wave with higher energy (for instance an high voltage , low amperage corona effect similar to those possible to see during a thunderstorm).
+- the **superposition of different electromagnetic waves**, its meanings, and what resulting wave and EM energy produces (for instance an energy spike that produces an instantaneous flash of light).
+- and the second concept is **wave pattern matching** to produce an EM wave with higher energy (for instance a high voltage, low amperage corona effect similar to those possible to see during a thunderstorm).
 
-These concepts and subjects can be found easily on google and in scientific publications.   
+These concepts and subjects can be found easily on Google and in scientific publications.   
 
 
 **The devices listed below are not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
 
-**When installing any of the solutions provided below, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" the smart devices below are unable to detect**.  
+**When installing any of the solutions provided below, take action and be conscious that the aggression/aggressor may change to other types and kinds of "wireless devices" the smart devices below are unable to detect**.  
 
-**Always use the smart devices below connected to a public data repository with LIVE data streams. While at the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. To my knowledge, data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
+**Always use the smart devices below connected to a public data repository with LIVE data streams. At the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. To my knowledge, data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
 
  :warning: **Be advised**
 
 
-Known open data repositories partial compatible with these smart devices:
+Known open data repositories partially compatible with these smart devices:
 - www.dataverse.org [partial compatible] (open firmware provided here uses a dataverse repository API)
 - www.figshare.com [partial compatible]
 - www.datadryad.org [not compatible; no API]
@@ -80,9 +80,9 @@ Most recent sponsorships made for this project were made by:
 - [Maria Jesus Amorim](https://www.facebook.com/mariajesus.amorim) with a sponsorship of 800€.
 - [Bernardino Pereira da Silva](https://www.facebook.com/bernardino.silva.9883) e [Maria Cecilia Fonseca Pinto](https://www.facebook.com/profile.php?id=100054375758029) with a sponsorship of 150€.
 
-in return were given support and assistance on all things wireless related to abusive usages and even criminous and terrorist type of activities, in particular electromagnetic (radio frequency, etc, ..) and photonic (lasers, LED, etc..). 
+in return were given support and assistance on all things wireless related to abusive usages and even criminous and terrorist types of activities, in particular electromagnetic (radio frequency, etc, ..) and photonic (lasers, LED, etc..). 
 
-Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+Did you like any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
@@ -96,39 +96,39 @@ Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a G
 <br>
 
 ## How to proceed
-If you are certain your health related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or engineer and ask him/her to audit your home , work place (or other place you find it to be the root cause) to setup measurement devices (more than 2) , for electromagnetic radiation detection (or other, for instance photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup needs to be able to do sensor data measurements uploads to an experimental data repository (see table 1 above). At the same time is a mandatory requirement to notify authorities and include the web address link where sensor data is being uploaded and stored.
+If you are certain your health-related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or engineer and ask him/her to audit your home, workplace (or another place you find it to be the root cause) to setup measurement devices (more than 2), for electromagnetic radiation detection (or other, for instance, photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup needs to be able to do sensor data measurement uploads to an experimental data repository (see Table 1 above). At the same time is a mandatory requirement to notify authorities and include the web address link where sensor data is being uploaded and stored.
 
-⚠️ **Only after you have those data measurements is advised to go to a conventional medical doctor / medicine.**
+⚠️ **Only after you have those data measurements is advised to go to a conventional medical doctor/medicine.**
 
-### Knonw symptom of a wireless aggresion
+### Knonw symptoms of a wireless aggression
 **Thermo and hygrometer imbalances**
 - Extreme localized muscle tension
-- Extreme localized muscle relxation
+- Extremely localized muscle relaxation
   
-Thermo and hygrometer imbalances require immediatly wear of protective clothes regardless of weather or season. in particular wearing a winter polar jacket (impermeable) during all times the agression is happening and until the victim's body starts to be hot and confortable to a point of showing a pink face.  The author recommends one from the "North Face" brand or wirth equal thermal and hygrometic properties. 
+Thermo and hygrometer imbalances require immediate wear of protective clothes regardless of weather or season. in particular, wearing a winter polar jacket (impermeable) during all times the aggression is happening and until the victim's body starts to be hot and comfortable to the point of showing a pink face.  The author recommends one from the "North Face" brand or with equal thermal and hygrometic properties. 
 
 **Tinnitus and Insomnias** <br>
-Tinnitus is the term for hearing sounds that come from inside your body, rather than from an outside source. It's often described as “ringing in the ears”, although several sounds can be heard, including: buzzing. humming. grinding. It’s often described as “ringing in the ears”, although several sounds can be heard, including:
+Tinnitus is the term for hearing sounds that come from inside your body, rather than from an outside source. It's often described as “ringing in the ears”, although several sounds can be heard, including buzzing. humming. grinding. It’s often described as “ringing in the ears”, although several sounds can be heard, including:
 - buzzing
 - humming
 - grinding
 - hissing
 - whistling
 
-Some people may hear sounds similar to music or singing, and others hear noises that beat in time with their pulse (pulsatile tinnitus). You can [read more on Wikipedia](https://en.wikipedia.org/wiki/Tinnitus). In summary every time one listens to a sound caused by electricity in the air,  if you're inside a building it means someone or some device is throwing electricity at you. An example of it are what is know as [tinnitus](https://simple.wikipedia.org/wiki/Tinnitus). 
+Some people may hear sounds similar to music or singing, and others hear noises that beat in time with their pulse (pulsatile tinnitus). You can [read more on Wikipedia](https://en.wikipedia.org/wiki/Tinnitus). In summary, every time one listens to a sound caused by electricity in the air,  if you're inside a building it means someone or some device is throwing electricity at you. An example of it is what is known as [tinnitus](https://simple.wikipedia.org/wiki/Tinnitus). 
 
-Tinnitus and insomnias require immediate correction of [circadian rhythms](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx) in the victim.  Changes in the circadian rhythms due to tinnitus and insomnias cause thermo and hygrometer imbalances and therefore require immediate wear of protective clothes regardless of weather or season. in particular wearing a winter polar jacket (impermeable) during all times the agression is happening and until the victim's body starts to be hot and confortable to a point of showing a pink face and also when all sleep cycles are resyncronized, usuall after a good and restful nap. The author recommends one from the "North Face" brand or wirth equal thermal and hygrometic properties. <br>
+Tinnitus and insomnias require immediate correction of [circadian rhythms](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx) in the victim.  Changes in the circadian rhythms due to tinnitus and insomnias cause thermo and hygrometer imbalances and therefore require immediate wear of protective clothes regardless of weather or season. in particular, wearing a winter polar jacket (impermeable) during all times the aggression is happening and until the victim's body starts to be hot and comfortable to the point of showing a pink face and also when all sleep cycles are resynchronized, usually after a good and restful nap. The author recommends one from the "North Face" brand or with equal thermal and hygrometric properties. <br>
 
-### Where to complaint , where to report
-If you are a portuguese citizen can raise a complaint on the [Portuguese army website](https://canaldadenuncia.exercito.pt/?nav=pBeIW7qH). 
+### Where to complaint, where to report
+If you are a Portuguese citizen can raise a complaint on the [Portuguese army website](https://canaldadenuncia.exercito.pt/?nav=pBeIW7qH). 
 
-### Complementary medicines known to assist treatment and cure these kinds of health related problems
+### Complementary medicines known to assist treatment and cure these kinds of health-related problems
 - [Tai Ji Chuan](https://en.wikipedia.org/wiki/Tai_chi)
 - [Acupunture](https://en.wikipedia.org/wiki/Acupuncture)
 - [Reiki Therapy](https://en.wikipedia.org/wiki/Reiki)
 
 See below a list of useful links for more information. <br>
-Staysafe.
+Stay safe.
 
 <br>
 
@@ -137,10 +137,10 @@ Staysafe.
 </p>
 
 # Home Automation Safety & Health
-(list of open hardware devices i prototyped to this date)
+(list of open hardware devices I prototyped to this date)
 
 ## Indoor Plants
-  ### [Indoor Smart Plant Watering with builtin micro wave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
+  ### [Indoor Smart Plant Watering with builtin microwave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
   
 This Smart Indoor plant monitoring and watering is designed to be inserted into any indoor plant vase. Is able to measure and calculate the moisture content in the vase, and when detects low water contents, activates the water pump. Is able to connect to a local home server to upload indoor temperature, humidity, and air quality measurement data. This way, the owner, can have a history record database, without the need for expensive cloud subscriptions.  Additionally, it features a 6 LED system composed of an ultraviolet LED, an Infrared LED and an RGB LED, when combined with multiple devices like this one in the same room is able to perform some basic light aggression protection from an unknown light source outside during the night & day. 
 
@@ -152,14 +152,14 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 
 <br>
 
-## On any room in a buidling
-### [Smart Indoor Environement EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
+## On any room in a building
+### [Smart Indoor Environment EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
   
-  This Smart Indoor Environment EM RF Energy Monitor does not solve the electromagnetic health concern one may have indoors. However, is a step forward in correctly identifying such electromagnetic disturbances nearby, for instance, when observing recurrently a mid-air energy spike, with the most common visual effect, a really small bright light flash. This smart device is able to do electromagnetic (EM) radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID),  which makes collected data more trustworthy of its origins.
+  This Smart Indoor Environment EM RF Energy Monitor does not solve the electromagnetic health concern one may have indoors. However, is a step forward in correctly identifying such electromagnetic disturbances nearby, for instance, when observing recurrently a mid-air energy spike, with the most common visual effect, a really small bright light flash. This smart device is able to do electromagnetic (EM) radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID),  which makes collected data more trustworthy of its origins.
   
-### [Smart Indoor Environement GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification)
+### [Smart Indoor Environment GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification)
   
-  This Smart Indoor Env. GSM Cell Tower Monitor is built to do active monitoring of GSM Cell Towers nearby to look for any kind of hidden GSM/4G device repeater. Known to be used for stealing one's GSM communications data using some kind of Man-in-the-middle attack. This smart device is able to do GSM/4G radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID), which makes collected data more trustworthy of its origins.
+  This Smart Indoor Env. GSM Cell Tower Monitor is built to do active monitoring of GSM Cell Towers nearby to look for any kind of hidden GSM/4G device repeater. Known to be used for stealing one's GSM communications data using some kind of Man-in-the-middle attack. This smart device is able to do GSM/4G radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID), which makes collected data more trustworthy of its origins.
   
 ### [Smart Indoor Environement EM RF Energy Monitor & GSM 4G Cell Tower Identification]()   (soon...stay tuned!)
 
@@ -184,17 +184,17 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 <br>
 
 ## Comercial Health Related Wearables 
-I recommend wearing of a "Medical Grade" smartwatch when you know there's abnormal electromagnetic / photonic activity in the spaces most frequented (home, office, etc). The minimum specifications and requirements are:
-- Telemedicine, i.e., sharing of medical* data with others throguh the  mobile app (see smartwatch suggested below)
-- Able to upload all medical* data to a custom data repository, for instance to a dataverse (www.dataverse.org) (I haven't found one to date with this capabiltiy. Any manufacturer here willing to open source their firmware and mobile app source code? I am willing to help and program this and other important functionalities ) .
+I recommend wearing a "Medical Grade" smartwatch when you know there's abnormal electromagnetic/photonic activity in the spaces most frequented (home, office, etc). The minimum specifications and requirements are:
+- Telemedicine, i.e., sharing of medical* data with others through the  mobile app (see smartwatch suggested below)
+- Able to upload all medical* data to a custom data repository, for instance to a dataverse (www.dataverse.org) (I haven't found one to date with this capability. Any manufacturer here willing to open-source their firmware and mobile app source code? I am willing to help and program this and other important functionalities ).
 - Ability to measure REM sleep during the night (see smartwatch suggested below)
-- App wiht ability to plot data measurements in a chart (see smartwatch suggested below) for one to make instananeuous snapshots to doodle and comment when in an urgent situatiuon or in urgent need.  
+- App with the ability to plot data measurements in a chart (see smartwatch suggested below) for one to make instantaneous snapshots to doodle and comment when in an urgent situation or in urgent need.  
 
-For the remainder of 2023 and first half of 2024 the OEM smartwatch i recommned is sold on Aliexpress [here](https://s.click.aliexpress.com/e/_DdOPKhh). 
+For the remainder of 2023 and the first half of 2024 the OEM smartwatch I recommend is sold on Aliexpress [here](https://s.click.aliexpress.com/e/_DdOPKhh). 
 
 ⚠️ **Important remarks**
-- Accuracy of the smartwatch is not the top most important requirement. What is important is for you to know the brand and model of all sensors builtin into the smartwatch.
-- Smart watches are mainly electronics devices and are prone to electromagnetic and even photonic interference., causing temporary malfunction and incorrect sensor measurements. This is expected for this kind of devices. Therefore, it is important the user to be willing to learn and document all errors a smartwatch may produce when collecting sensor measurements and append it to any kind of abnormal event it maybe happening, simply because it is, most likely, a result of some kind of a wireless aggression.
+The accuracy of the smartwatch is not the most important requirement. What is important is for you to know the brand and model of all sensors built into the smartwatch.
+- Smartwatches are mainly electronic devices and are prone to electromagnetic and even photonic interference., causing temporary malfunction and incorrect sensor measurements. This is expected for this kind of device. Therefore, it is important for the user to be willing to learn and document all errors a smartwatch may produce when collecting sensor measurements and append it to any kind of abnormal event it may be happening, simply because it is, most likely, a result of some kind of wireless aggression.
 
 <br>
 
@@ -233,18 +233,18 @@ For the remainder of 2023 and first half of 2024 the OEM smartwatch i recommned 
 
 <br>
 
-## What happens when the detector is the body of a person or animal ?
+## What happens when the detector is the body of a person or animal?
 <p align="center">
    <img height="300px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home%20Automation%20Safety%20%26%20Health/media/electroboom.jpg"> <br>
  <a href="https://www.youtube.com/@ElectroBOOM" >view on Youtube the videos by Electroboom</a>
 </p>
 
 ### Useful links 
-Below is a list of links with useful information about these kind of abusive and many times criminous and terrorist usages.
+Below is a list of links with useful information about these kinds of abusive and many times criminal and terrorist usages.
 
 **Exposure limits * Electric and magnetic fields in daily life * Regulation and control * Research and recommendations** <br>
 Alternating fields with an extremely low frequency generate an electric current in the body. If the alternating fields are strong enough, this generated current can disrupt the functioning of nerves and muscles in the body and cause flashes of light in the field of vision. According to the recommendation of the Council 1999/519/EC, the following threshold values must not be exceeded by the fields so that these effects do not occur:
-- for the electric field, the limit is 5 kilovolt per metre (5000 V/m or 5 kV/m);
+- for the electric field, the limit is 5 kilovolts per meter (5000 V/m or 5 kV/m);
 - for the magnetic field, the limit is 100 microtesla (100 µT).
 
 **Want to know more?**
@@ -297,24 +297,17 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
 
 <br />
 
 ### Make a donation on Paypal
-Make a donation on paypal and get a TAX refund*.
+Make a donation on PayPal and get a TAX refund*.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
-<br>
-
-### Support all these open hardware projects and become a patreon  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
-In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
-
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
 # 
 
