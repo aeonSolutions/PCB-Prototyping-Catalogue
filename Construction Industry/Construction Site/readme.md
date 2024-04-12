@@ -28,6 +28,9 @@ Last update: 30-11-2023
 
 ## [Construcion Site]()
 
+- [Smart Construction Device](https://github.com/aeonSolutions/AeonLabs-Smart-Construction-Device)
+  The Smart Construction Device can connect to all kinds of sensors. It features 2x channel Ports and is capable of monitoring for more than one year without the need to recharge batteries.
+
 <br>
 
 - [Smart Device for Structural Self-Sensing Carbon Fiber Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/)
@@ -40,7 +43,7 @@ This repo contains the PCB Gerber files for a smart device able to connect to se
 
 - [Smart Concrete Curing Monitoring Device](https://aeonsolutions.github.io/products/concretematurity/)
 
-This repo contains intructions on how to assemble a smart PCB able to monitor Fresh Reinforced concrete Hardening to determine concrete maturity and estimate its streght. The smart PCB is a 12bit smart DAQ. 
+This repo contains instructions on how to assemble a smart PCB able to monitor Fresh Reinforced concrete Hardening to determine concrete maturity and estimate its streght. The smart PCB is a 12bit smart DAQ. 
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity/blob/main/designs/smart%20concrete%20maturity%20inside%20transparent%20enclosure.jpeg" height="150">
@@ -65,24 +68,17 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
 
 <br />
 
 ### Make a donation on Paypal
-Make a donation on paypal and get a TAX refund*.
+Make a donation on PayPal and get a TAX refund*.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
-<br>
-
-### Support all these open hardware projects and become a patreon  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
-In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
-
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
 #
 
