@@ -29,6 +29,7 @@ Last update: 12-04-2024
 ## [Construcion Site]()
 
 - [Smart Construction Device](https://github.com/aeonSolutions/AeonLabs-Smart-Construction-Device)
+  
   The Smart Construction Device can connect to all kinds of sensors. It features 2x channel Ports and is capable of monitoring for more than one year without the need to recharge batteries.
 
 <br>
