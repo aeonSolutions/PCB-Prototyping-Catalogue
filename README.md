@@ -21,7 +21,7 @@ Last update: 01-04-2024
 # Catalogue of Open Hardware Electronics I Prototype 
 <sup> [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. </sup>
 
-This repository is the main catalog for all my PCB prototypes I have publicly available here on GitHub. There are now a total of **74** PCBs for smart devices, A.I. enabled, designed in KiCad, and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.  In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
+This repository is the main catalog for all my PCB prototypes I have publicly available here on GitHub. There are now a total of **75** PCBs for smart devices, A.I. enabled, designed in KiCad, and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use.  In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.  While the reader browses this catalog, don't forget to read the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 <br>
 
 <br>
@@ -76,16 +76,23 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 ### The most recent updates 
 (April update) <br>
 
+**Open Construction Industry Section**
+-  Smart Construction Device, with a power consumption of only ~320nA
+- The newest PCB revision for the Smart Concrete Device, now with a power consumption of only ~320nA
+   
 **Open Automotive Section**
 - a Dual Band Antenna for Volvo P2
 - an LED upgrade for the instruments cluster of Volvo P2
 - a Clutch Position Sensor upgrade for the Volvo P2
 - an LED upgrade for the back doors of a Volvo P2
-- The newest PCB revision for the Smart Concrete Device, now with a power consumption of only ~60nA
+
+**Open Home Automation** 
 - The 220V AC Smart Outlet compatible with Tuya, Home Assistant, etc 
-- The newest PCB revision for the rain meter, now with a power consumption of only ~60nA
 - the newest  PCB revision for an Electromagnetic Detector and Monitor that fits inside an 18650 Battery Enclosure.
-  
+
+**Open Science Laboratory**
+  - The newest PCB revision for the rain meter, now with a power consumption of only ~320nA
+
 <br />
 
 ## Promotion of DIY Work online
