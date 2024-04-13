@@ -21,7 +21,7 @@
 
 # 12-bit Smart Data Acquisition Devices
 
-## [12-bit Smart DAQ 45x55 ABS (10-2023 revision) ](https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS
+## [12-bit Smart DAQ 45x55 ABS (10-2023 revision) ](https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS)
 
 
 This is the repository for revision "10-2023" of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
