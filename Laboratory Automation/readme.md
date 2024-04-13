@@ -23,7 +23,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 05-03-2024
+Last update: 13-04-2024
 </p>
 
 ## Laboratory Automation
@@ -43,7 +43,7 @@ These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices
  </a> <br>
  <sup>View this repository in a conventional landing page</sup>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
- <sup> View all open hardware solutions ready to buy, install and use</sup>
+ <sup> View all open hardware solutions ready to buy, install, and use</sup>
 </p>
 
 Make sure you also view my **Open Source Software Catalogue** [here](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue).  <br> <br>
@@ -53,7 +53,7 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 - Ability to collect sensor measurements in real-time / LIVE and generate a unique fingerprint identification (UFPID) from and for a sensor data record;
 - Ability to store sensor measurement records on a dataset (Excel CSV file, SQLite Database) using blockchain technologies;
 - Ability to connect with other SDADs on the same experiment using SWARM technology to increase experimental data authenticity and trustworthiness;
-- Ability to exchange data with a data repository in real-time / LIVE , for instance [www.dataverse.org](http://www.dataverse.org/), autonomously and without any human intervention with the purpose of increasing experimental data authenticity and trustworthiness;
+- Ability to exchange data with a data repository in real-time / LIVE, for instance [www.dataverse.org](http://www.dataverse.org/), autonomously and without any human intervention with the purpose of increasing experimental data authenticity and trustworthiness;
 - Ability to upload individual experimental data records to a data repository in real-time / LIVE;
 - Ability to connect to other SDADs on other experiments and link experimental data in a Blockchain-like manner with the purpose of increasing experimental data authenticity and trustworthiness on a scientific project or research campaign. For instance, link experimental data measurements from two or more ongoing experiments on the same project;
 
@@ -67,7 +67,7 @@ To learn more about these technologies, visit the S.D.A.D. open science project 
 
 ### [Data Acquisition with a resistivity meter](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
 - [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) (13)
-- [16-bit Smart Data Acquisition Device](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/16-bit/readme.md) (1)
+- [16-bit Smart Data Acquisition Device](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/16-bit/readme.md) (3)
 - [24-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (2) (soon . stay tuned.)
 
 <br>
