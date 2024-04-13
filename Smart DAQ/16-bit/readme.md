@@ -38,7 +38,7 @@ rev. 10-2023
 This is the repository of the 16-bit Smart DAQ Device (SDAD) with a unique data fingerprint able to do experimental data upload to any data repository.
 
 <p align="center">
-    <img src="https://github.com/aeonSolutions/AeonLabs-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/raw/main/media/rev_03_2024_pcb_front.jpeg" width="250px">
+    <img src="https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/raw/main/media/revision_10_2023_16bit.png" width="250px">
 </p>
 
 <br>
