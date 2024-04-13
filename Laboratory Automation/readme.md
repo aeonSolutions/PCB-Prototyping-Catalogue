@@ -166,7 +166,7 @@ Make a donation on PayPal and get a TAX refund*.
 </p>
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
