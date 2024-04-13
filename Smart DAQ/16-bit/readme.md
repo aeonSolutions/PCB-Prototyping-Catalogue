@@ -21,7 +21,19 @@
 
 # 16-bit Smart Data Acquisition Devices
 
-## [16-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS  ](https://github.com/aeonSolutions/AeonLabs-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/README.md)
+### [16-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS  ](https://github.com/aeonSolutions/AeonLabs-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/README.md)
+rev. 03-2024
+
+This is the repository of the 16-bit Smart DAQ Device (SDAD) with a unique data fingerprint able to do experimental data upload to any data repository.
+
+<p align="center">
+    <img src="https://github.com/aeonSolutions/AeonLabs-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/raw/main/media/rev_03_2024_pcb_front.jpeg" width="250px">
+</p>
+
+<br>
+
+### [16-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS  ](https://github.com/aeonSolutions/AeonLabs-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/README.md)
+rev. 10-2023
 
 This is the repository of the 16-bit Smart DAQ Device (SDAD) with a unique data fingerprint able to do experimental data upload to any data repository.
 
