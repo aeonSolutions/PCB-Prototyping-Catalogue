@@ -32,7 +32,7 @@ This is the repository of the 16-bit Smart DAQ Device (SDAD) with a unique data 
 <br>
 
 ## Join the Beta Program
-Join the beta program to test and debug to provide feedback, ideas, modifications, suggestions, improvements. And in return, write your own article blog or post on social media about it. See participation conditions on the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Beta-Participation-Agreement).  
+Join the beta program to test and debug to provide feedback, ideas, modifications, suggestions, and improvements. And in return, write your article blog, or post on social media about it. See participation conditions on the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Beta-Participation-Agreement).  
 
 ## Contributing
 
@@ -71,7 +71,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/migueltomas">
@@ -89,8 +89,8 @@ Make a donation on paypal and get a TAX refund*.
     </a>
 </p>
 
-### Support all these open hardware projects and become a Github sponsor  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a Github sponsor.
+### Support all these open hardware projects and become a GitHub sponsor  
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becomming a Github sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
