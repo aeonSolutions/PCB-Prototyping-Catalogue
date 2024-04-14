@@ -89,7 +89,8 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 **Open Home Automation** 
 - The 220V AC Smart Outlet compatible with Tuya, Home Assistant, etc 
 - the newest  PCB revision for an Electromagnetic Detector and Monitor that fits inside an 18650 Battery Enclosure.
-
+- The newest PCB revision for the USB-A Smart Scheduler, now with a power consumption of only ~320nA
+   
 **Open Science Laboratory**
   - The newest PCB revision for the rain meter, now with a power consumption of only ~320nA
 
