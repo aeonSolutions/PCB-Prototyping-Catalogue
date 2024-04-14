@@ -21,7 +21,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 29-02-2024
+Last update: 14-04-2024
 </p>
 
 # 🔸 Home Automation [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
@@ -56,6 +56,11 @@ Home automation has transformed the way we interact with our living spaces, than
 - [Smart Home Appliances](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Appliances/readme.md) (5)
 - [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) (8)
 
+**Made by other makers**
+
+- [Smart Door/Window sensor](https://github.com/salvatoreraccardi/Smart-DoorWindow-sensor) by [Salvatore Raccardi](https://github.com/salvatoreraccardi) <br>
+The focus of this project is to prove how it is possible to drastically reduce the power consumption(in deep sleep/standby) of battery-powered smart devices by developing a customized power latch. Better design of smart devices would ensure a longer product life cycle.
+ 
 ## Garden Automation
 - [Wireless Battery Powered Rainmeter](https://aeonsolutions.github.io/products/rain_meter/index.html)
 
@@ -65,7 +70,7 @@ Home automation has transformed the way we interact with our living spaces, than
 
 
 ## Power
-- [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (7)
+- [Distributed Power Storage & Management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) (7), with a extreme low power consumption at about ~320nA only!
 - [Smart Home AC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/readme.md) (3)
 - [Smart Home Solar Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20Solar%20Power%20Management/readme.md) (4)
 - 🆕 [Smart DSMR5+ Power meter](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-DSMR-5-Power-Meter)
