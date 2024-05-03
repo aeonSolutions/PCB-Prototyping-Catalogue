@@ -28,12 +28,22 @@ Nowadays, installing solar photovoltaic panels on big city buildings is limited 
 
 **The idea**
 
-The idea of this "Smart Home Solar Power Management" Project is to develop simple components and accessories that enable easy, "for dummies" kind of installation of solar photovoltaic cells. For that to happen is required installation of additional wiring in the apartment electrical network. Staring with a 5V DC wire, suitable for most small home appliances such as vacuum cleaners, smartphones, tablets, and any other smart device or technology. And another with 12V DC suited for computers, gaming consoles, and OLED TV displays. This can be achieved by installing "power delivery" technologies, common in USB-C power solutions.
+The idea of this "Smart Home Solar Power Management" Project is to develop simple components and accessories that enable easy, "for dummies" kind of installation of solar photovoltaic cells. For that to happen is required installation of additional wiring in the apartment's electrical network. Staring with a 5V DC wire, suitable for most small home appliances such as vacuum cleaners, smartphones, tablets, and any other smart device or technology. And another with 12V DC suited for computers, gaming consoles, and OLED TV displays. This can be achieved by installing "power delivery" technologies, common in USB-C power solutions.
 
-Energy storage methodology follows a decentralized architecture of installation, where each individual room or compartment has its own "independent" battery storage upwards 40.000mAh. All connected to a Smart Home device I made available , here, on my Github.
+Energy storage methodology follows a decentralized architecture of installation, where each individual room or compartment has its own "independent" battery storage upwards of 40.000mAh. All are connected to a Smart Home device I made available, here, on my Github.
 The solar panels can be assembled in a Lego-style kind of way. Due to the reduced size of the photovoltaic solar cells, can be assembled into any shape or area. For instance glass door windows and doors. For instance in a terrasse or a terrasse exterior wall regardless of floor area shape.
 
-<br>
+<p align="center">
+ <a href="https://aeonsolutions.github.io/portfolio/hardware_electronics/home_automation/">
+ <img alt="View this repository in a conventional landing page" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_icon.png"></a>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <a href="https://aeonsolutions.github.io/products/">
+  <img alt="View all open hardware solutions ready to buy, install and use" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcb_icon.png">
+ </a> <br>
+ <sup>View this repository in a conventional landing page</sup>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ <sup> View all open hardware solutions ready to buy, install, and use</sup>
+</p>
 
 ## Solar Home Automation
 
@@ -97,7 +107,7 @@ The hour glass means the hardware electronics or the firmware programming hasn't
 The new icon means the link next to it was recently updated with new contents 
 
 💬  **Comments on the Discussion page** <br>
-The comments icon means there are usefeul and even new comments on the [discussions page](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/discussions) important for what you are seeing or reading.
+The comments icon means there are useful and even new comments on the [discussions page](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/discussions) important for what you are seeing or reading.
 
 <br />
 
