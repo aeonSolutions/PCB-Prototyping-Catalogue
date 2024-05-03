@@ -77,8 +77,8 @@ To learn more about these technologies, visit the S.D.A.D. open science project 
 - [24-bit Smart Hydrostatic Weight Scales](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (1) 
 
 <p align="center">
-    <img height="200px" width="45%" src="https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/blob/main/media/acrylic%20hydrostatic%20weight%20scale_with_speciment_on_top.jpg">
-    <img height="200px" width="45%" src="https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/blob/main/media/acrylic%20hydrostatic%20weight%20scale_red_usb_cable_1.jpg"> 
+    <img height="200px" src="https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/blob/main/media/acrylic%20hydrostatic%20weight%20scale_with_speciment_on_top.jpg">
+    <img height="200px" src="https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/blob/main/media/acrylic%20hydrostatic%20weight%20scale_red_usb_cable_1.jpg"> 
 </p>
 
 ### Purposely designed sensors
