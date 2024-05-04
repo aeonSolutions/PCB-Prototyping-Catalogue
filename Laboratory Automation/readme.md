@@ -66,8 +66,8 @@ To learn more about these technologies, visit the S.D.A.D. open science project 
 
 
 ### [Data Acquisition with a resistivity meter](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/README.md)
-- [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) (13)
-- [16-bit Smart Data Acquisition Device](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/16-bit/readme.md) (2)
+- ✓ 🟢  [12-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) (13)
+- ✓ 🟢 [16-bit Smart Data Acquisition Device](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Smart%20DAQ/16-bit/readme.md) (2)
 - [24-bit Smart Data Acquisition Devices](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (2) (soon . stay tuned.)
 
 <p align="center">
@@ -76,7 +76,7 @@ To learn more about these technologies, visit the S.D.A.D. open science project 
 
 ### Weight Scales
 - [24-bit Smart Weight Scales](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (1) (soon . stay tuned.)
-- [24-bit Smart Hydrostatic Weight Scales](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (1) 
+- ✓ 🟢  [24-bit Smart Hydrostatic Weight Scales](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/24-bit/readme.md) (1) 
 
 <p align="center">
     <img height="200px" src="https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/blob/main/media/acrylic%20hydrostatic%20weight%20scale_with_speciment_on_top.jpg">
