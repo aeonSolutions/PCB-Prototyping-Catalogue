@@ -9,15 +9,16 @@
 [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/)
 
 
-This public PCB catalogue features PCB desings that are not fully tested or require minor changes to the PCB or shcematics. Suited to all DIY and Makers in electronics, however a regular user may find him/her self in need to read components datasheets before any usage of the PCB is possible.
+This public PCB catalog features PCB designs that are not fully tested or require minor changes to the PCB or schematics. Suited to all DIY and Makers in electronics, however, a regular user may find him/herself in need of reading components datasheets before any usage of the PCB is possible.
 
-If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my open hardware work. Click [here for fully tested PCB designs and circuit chematics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
+If time (or datasheets) are not your thing, there are more PCB designs with circuit schematics fully tested and working ready to download, available to all who donate or sponsor my open hardware work. Click [here for fully tested PCB designs and circuit chematics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Fully-Tested-Working-PCB-Catalogue). To order a custom PCB according to your specifications and needs, go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB).
 
 
 ## [Home Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/README.md)
-- [Smart Coffee Machine Addon](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)
 
-This repo contains the KiCad files for the AeonLabs Home Automation Smart Coffee MAchine Addon. This PCB adds WiFi and BLE capabilities to any home or office coffee machine. Is able to control the water boiler temperature; remotely order a cup of coffee (with the possibility to control of the quantity of coffee in the cup); grind coffee beans. 
+✓ 🟢 **[Smart Coffee Machine Addon](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)**
+
+This repo contains the KiCad files for the AeonLabs Home Automation Smart Coffee MAchine Addon. This PCB adds WiFi and BLE capabilities to any home or office coffee machine. Is able to control the water boiler temperature; remotely order a cup of coffee (with the possibility to control of the quantity of coffee in the cup); and grind coffee beans. 
 Don't forget to check out some cool photos of assembly on a Philips Senseo Coffee Machine [here](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/tree/main/Philips%20Senseo)  
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/pcb_front.png" height="150">
@@ -66,7 +67,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
 
