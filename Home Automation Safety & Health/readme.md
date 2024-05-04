@@ -164,18 +164,18 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 ### [Smart Indoor Environement EM RF Energy Monitor & GSM 4G Cell Tower Identification]()   (soon...stay tuned!)
 
 
-### [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
+### ✓ 🟢 [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
 <p align="center">
      <img height="150px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/emf-protection-window-film.jpg" />
 </p>
 
-### [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep)
+### ⌛ [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep)
 
 <p align="center">
     <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_pillow.png">
 </p>
 
- ### [Bed sheet EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/tree/main)
+ ### ⌛ [Bed sheet EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/tree/main)
 
 <p align="center">
     <img height="150" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_bed_sheet.png">
