@@ -28,13 +28,13 @@ Last update: 12-04-2024
 
 ## [Construcion Site]()
 
-- [Smart Construction Device](https://github.com/aeonSolutions/AeonLabs-Smart-Construction-Device)
+✓ 🟢 **[Smart Construction Device](https://github.com/aeonSolutions/AeonLabs-Smart-Construction-Device)**
   
   The Smart Construction Device can connect to all kinds of sensors. It features 2x channel Ports and is capable of monitoring for more than one year without the need to recharge batteries.
 
 <br>
 
-- [Smart Device for Structural Self-Sensing Carbon Fiber Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/)
+✓ 🟢 **[Smart Device for Structural Self-Sensing Carbon Fiber Based Composites](https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/)**
 
 This repo contains the PCB Gerber files for a smart device able to connect to self-sensing carbon fiber composites for structural active monitoring. 
 
@@ -42,9 +42,9 @@ This repo contains the PCB Gerber files for a smart device able to connect to se
 <img src="https://github.com/aeonSolutions/openScience-Smart-Device-for-Structural-Self-Sensing-Carbon-Fiber-Based-Composites-/blob/main/Designs/pcb_front.png" height="150">
 </p>
 
-- [Smart Concrete Curing Monitoring Device](https://aeonsolutions.github.io/products/concretematurity/)
+✓ 🟢 **[Smart Concrete Curing Monitoring Device](https://aeonsolutions.github.io/products/concretematurity/)**
 
-This repo contains instructions on how to assemble a smart PCB able to monitor Fresh Reinforced concrete Hardening to determine concrete maturity and estimate its streght. The smart PCB is a 12bit smart DAQ. 
+This repo contains instructions on how to assemble a smart PCB able to monitor Fresh Reinforced concrete Hardening to determine concrete maturity and estimate its strength. The smart PCB is a 12-bit smart DAQ. 
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Monitor-Fresh-Reinforced-concrete-Hardening-Strength-maturity/blob/main/designs/smart%20concrete%20maturity%20inside%20transparent%20enclosure.jpeg" height="150">
