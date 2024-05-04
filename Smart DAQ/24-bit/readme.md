@@ -25,7 +25,7 @@
 ### Hydrostatic Weight Scales
 
 
- - [24-bit Smart data Acquisiton SDAD for Hydrostatic Weight Measurments up to 20Kg ](https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/tree/main)
+ - ✓ 🟢 [24-bit Smart data Acquisition SDAD for Hydrostatic Weight Measurements up to 20Kg ](https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/tree/main)
    
  
 <br>
