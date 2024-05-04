@@ -18,7 +18,7 @@ Last update: 29-02-2024
 
 <br>
 
-- [110-220V AC Smart Power Switch](https://aeonsolutions.github.io/products/wall_mount_switch/index.html)
+✓ 🟢 **[110-220V AC Smart Power Switch](https://aeonsolutions.github.io/products/wall_mount_switch/index.html)**
 
 The smart outlet PCB designed specifically to fit traditional wall mount light switch boxes with dimensions 54x54x45++mm, brings a new level of convenience and functionality to residential and commercial spaces. This innovative solution seamlessly replaces the conventional light switch, providing users with the ability to control their lighting or other connected devices remotely. The compact PCB design ensures a perfect fit within the existing switch box, eliminating the need for any additional modifications or wiring. With features like wireless connectivity, compatibility with voice assistants, and programmable scheduling, this smart outlet PCB revolutionizes the way we interact with our electrical systems, making our lives more efficient and comfortable.
 
@@ -28,7 +28,7 @@ The smart outlet PCB designed specifically to fit traditional wall mount light s
 
 <br>
 
-- [110-220V AC Smart Power Switch with easy AC plug connectors](https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/tree/main)
+✓ 🟢 **[110-220V AC Smart Power Switch with easy AC plug connectors](https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/tree/main)**
  
 The smart outlet PCB designed specifically to fit traditional wall mount light switch boxes with dimensions 54x54x45++mm, brings a new level of convenience and functionality to residential and commercial spaces. This innovative solution seamlessly replaces the conventional light switch, providing users with the ability to control their lighting or other connected devices remotely. The compact PCB design ensures a perfect fit within the existing switch box, eliminating the need for any additional modifications or wiring. With features like wireless connectivity, compatibility with voice assistants, and programmable scheduling, this smart outlet PCB revolutionizes the way we interact with our electrical systems, making our lives more efficient and comfortable. This one in particular has easy AC plug connectors for a more clean and faster installation.
 
@@ -87,14 +87,14 @@ A yellow circle means the hardware electronics or the firmware programming code 
 🔴 **Hardware or firmware fully tested but not working.** <br>
 A red circle means the hardware electronics or the firmware programming code was fully tested, and found some kind of critical error or fault. This means the electronics or firmware code cannot be used in a vehicle. 
 
-⌛ **Hardware Design / firmware programming not started.** <br>
-The hour glass means the hardware electronics or the firmware programming hasn't started. Most likely because is waiting for the necessary test components needed for reverse engineering and also engineering of the new open solution. 
+⌛ **Hardware Design/firmware programming not started.** <br>
+The hourglass means the hardware electronics or the firmware programming hasn't started. Most likely because is waiting for the necessary test components needed for reverse engineering and also engineering of the new open solution. 
 
 🆕 **New updated contents** <br>
 The new icon means the link next to it was recently updated with new contents 
 
 💬  **Comments on the Discussion page** <br>
-The comments icon means there are usefeul and even new comments on the [discussions page](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/discussions) important for what you are seeing or reading.
+The comments icon means there are useful and even new comments on the [discussions page](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/discussions) important for what you are seeing or reading.
 
 <br />
 <br />
