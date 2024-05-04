@@ -122,7 +122,7 @@ Tinnitus and insomnias require immediate correction of [circadian rhythms](https
 ### Where to complaint, where to report
 If you are a Portuguese citizen can raise a complaint on the [Portuguese army website](https://canaldadenuncia.exercito.pt/?nav=pBeIW7qH). 
 
-### Complementary medicines known to assist treatment and cure these kinds of health-related problems
+### Complementary medicines are known to assist treatment and cure of these kinds of health-related problems
 - [Tai Ji Chuan](https://en.wikipedia.org/wiki/Tai_chi)
 - [Acupunture](https://en.wikipedia.org/wiki/Acupuncture)
 - [Reiki Therapy](https://en.wikipedia.org/wiki/Reiki)
@@ -177,6 +177,7 @@ This smart device is intended to be installed and fixed into a copper electromag
 
 <p align="center">
      <img height="150px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/emf-protection-window-film.jpg" />
+     <img height="150px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/raw/main/media/smart_epm_18650_photo_4.jpg">
 </p>
 
 <br>
