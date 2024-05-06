@@ -183,7 +183,7 @@ This smart device is intended to be installed and fixed into a copper electromag
 <br>
 
 
-### ⌛ [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep)
+### ✓ 🟢 [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep)
 
 <p align="center">
     <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_pillow.png">
@@ -192,7 +192,7 @@ This smart device is intended to be installed and fixed into a copper electromag
 <br>
 
 
- ### ⌛ [Bed sheet EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/tree/main)
+ ### ✓ 🟢 [Bed sheet EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/tree/main)
 
 <p align="center">
     <img height="150" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_bed_sheet.png">
