@@ -91,6 +91,9 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 - the newest  PCB revision for an Electromagnetic Detector and Monitor that fits inside an 18650 Battery Enclosure.
 - The newest PCB revision for the USB-A Smart Scheduler, now with a power consumption of only ~320nA
 - The newest "Smart Power Management" made to fit an enclosure sold on AliExpress
+
+**Open Health** 
+- The newest "Smart EM Monitor" so you can sleep better at night 
    
 **Open Science Laboratory**
   - The newest PCB revision for the rain meter, now with a power consumption of only ~320nA
