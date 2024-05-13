@@ -155,6 +155,8 @@ This Smart Indoor plant monitoring and watering is designed to be inserted into 
 ## On any room in a building
 
 ### ✓ 🟢 [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
+<sup> **status: <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">M.V.P.</a>** NOW SELLING on <a href="tindie.com/stores/aeonlabs/">Tindie.com</a>  </sup> <br>
+
 This smart device is intended to be installed and fixed into a copper electromagnetic (EM) shield on any EM indoor window or balcony door. It has the main ability to collect EM sensor data from the curtain itself and send it to a public data repository, for instance, a #dataverse (see www.dataverse.org)
 
 <p align="center">
