@@ -14,7 +14,7 @@
 </a>
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpeg" height="300">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/home_automation.jpg" height="300">
 </p>
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)
