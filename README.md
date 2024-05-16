@@ -209,22 +209,6 @@ Digital transformation has revolutionized home automation by integrating advance
 <br>
 
 <p align="center">
-   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables">
-      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/wearables.png" width="100%">
-   </a>
-</p>
-
-## [Wearables](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables) 
-Wearables have revolutionized the way we interact with technology, seamlessly integrating it into our daily lives. These small, often stylish devices are designed to be worn on the body, offering a wide array of functionalities. From smartwatches that keep us connected, track our fitness, and provide timely information, to fitness trackers that monitor our health and activity levels, wearables have become indispensable companions. Additionally, emerging technologies like augmented reality glasses promise to transform how we perceive and interact with the digital world. Whether enhancing productivity, promoting healthier lifestyles, or even aiding in medical diagnoses, wearables are shaping the future of personal technology, ushering in an era of convenience and connectivity that is changing the way we live, work, and play.
-
-
-- [wearables](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables)
-
-
-<br>
-<br>
-
-<p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health">
        <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" width="100%">
     </a>
@@ -235,13 +219,9 @@ Wearables have revolutionized the way we interact with technology, seamlessly in
 
 Mental health refers to a person's emotional, psychological, and social well-being. It is an essential aspect of overall health and impacts how individuals think, feel, and behave. While there is ongoing research on the potential effects of electromagnetic radiation (EMR) on human health, current scientific evidence does not establish a direct link between EMR and mental health disorders. The primary concern regarding EMR revolves around its potential impacts on physical health, such as the increased risk of cancer or other physiological effects. However, maintaining a balanced lifestyle, including managing screen time and taking regular breaks from electronic devices, is advisable for overall well-being, including mental health.
 
-  - [Indoor Smart Plant Watering with builtin microwave LED Jammer](https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering)
-  - [Smart Wireless Electromagnetic Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
-  - [Smart Wireless Sonic/Sound Wave Active Monitoring](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
-  - [Smart Wireless with spectrometer microwave active Monitoring and analysis](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Wireless%20Wave%20Safety/readme.md) (soon...stay tuned!)
-  - [Smart Indoor Environment EM RF Energy Monitor](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor)
-  - [Smart Indoor Environment GSM 4G Cell Tower Identification](https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environement-GSM-4G-Cell-Tower-Identification)
-  - View more [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) ...
+-  ✓ 🟢 [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
+-  ✓ 🟢 [Pillowcase EMF Protection for Better Health & Sleep](https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep)
+- View more [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health) ...
 
 <br>
 <br>
@@ -353,10 +333,27 @@ Autonomous vehicles, also known as self-driving cars, are revolutionizing the tr
 <br>
 
 <p align="center">
+   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/wearables.png" width="100%">
+   </a>
+</p>
+
+## [Wearables](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables) 
+Wearables have revolutionized the way we interact with technology, seamlessly integrating it into our daily lives. These small, often stylish devices are designed to be worn on the body, offering a wide array of functionalities. From smartwatches that keep us connected, track our fitness, and provide timely information, to fitness trackers that monitor our health and activity levels, wearables have become indispensable companions. Additionally, emerging technologies like augmented reality glasses promise to transform how we perceive and interact with the digital world. Whether enhancing productivity, promoting healthier lifestyles, or even aiding in medical diagnoses, wearables are shaping the future of personal technology, ushering in an era of convenience and connectivity that is changing the way we live, work, and play.
+
+- [wearables](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/wearables)
+
+<br>
+<br>
+
+<p align="center">
   <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances">
      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/digital-transformation.jpg" width="100%">
   </a>
 </p>
+
+<br>
+<br>
 
 ## [Robotics & Industrial Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20Appliances) (1)
 
@@ -409,7 +406,7 @@ DIY innovation refers to the practice of creating and developing solutions or in
 
 **KiCad Footprints and Symbols**
 
-KiCad footptints i use on my hardware electronics:
+KiCad footprints i use on my hardware electronics:
 
 - [KiCad Footprints](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/KiCad_Footprints)
 
