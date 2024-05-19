@@ -210,7 +210,7 @@ Digital transformation has revolutionized home automation by integrating advance
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health">
-       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" width="100%">
+       <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/mental_health.jpg" width="100%">
     </a>
 </p>
 
