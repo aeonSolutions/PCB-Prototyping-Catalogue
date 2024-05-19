@@ -2,15 +2,16 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 29-02-2024
+Last update: 19-05-2024
 </p>
 
 # Smart Home AC Power Management
 
-- 🆕 [110-220V AC Smart Power Outlet Socket LK-EU01](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/tree/main)
+- 🆕 **[110-220V AC Smart Power Outlet Socket LK-EU01](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/tree/main)**
 
 <p align="center">
-   <img height="250" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/LK-EU01%20smart%20outlet%20enclosure.png">
+ <img height="200" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/lk-eu01_pcb_assembled_14.jpg">
+ <<img height="200" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/lk-eu01_pcb_assembled_20.jpg">
 </p>
 
 
