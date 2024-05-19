@@ -6,16 +6,22 @@ Last update: 19-05-2024
 </p>
 
 # Smart Home AC Power Management
-
-- 🆕 **[110-220V AC Smart Power Outlet Socket LK-EU01](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/tree/main)**
+ ✓ 🟢 🆕 **[110-220V AC Smart Power Outlet Socket LK-EU01](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/tree/main)**
 
 <p align="center">
  <img height="200" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/lk-eu01_pcb_assembled_14.jpg">
  <<img height="200" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/lk-eu01_pcb_assembled_20.jpg">
 </p>
 
+<br> 
 
-- [110-220V AC Smart Power Outlet](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/README.md)
+✓ 🟢 **[110-220V AC Smart Power Outlet](https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/README.md)**
+
+<p align="center">
+   <img  height="200" src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch%20functionalities.jpeg">
+   <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch_2.jpeg">
+</p>
+
 
 <br>
 
@@ -24,7 +30,7 @@ Last update: 19-05-2024
 The smart outlet PCB designed specifically to fit traditional wall mount light switch boxes with dimensions 54x54x45++mm, brings a new level of convenience and functionality to residential and commercial spaces. This innovative solution seamlessly replaces the conventional light switch, providing users with the ability to control their lighting or other connected devices remotely. The compact PCB design ensures a perfect fit within the existing switch box, eliminating the need for any additional modifications or wiring. With features like wireless connectivity, compatibility with voice assistants, and programmable scheduling, this smart outlet PCB revolutionizes the way we interact with our electrical systems, making our lives more efficient and comfortable.
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch_2.jpeg" width=250>
+   <img  height="200" src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch.jpeg">
 </p>
 
 <br>
