@@ -38,7 +38,7 @@ Go to the main repository of this project, [here](https://github.com/aeonSolutio
 
  <p align="center">
      <img height="350" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Vehicle%20Automation/media/prototyping_is_like_this.jpg"> <br>
-     me side by side a 2001 volvo MKII S60 
+     me side by side a 2001 P2 Volvo S60 
  </p>
 
 
