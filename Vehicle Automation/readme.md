@@ -34,7 +34,7 @@ Autonomous vehicles, also known as self-driving cars, are revolutionizing the tr
  
 What's planned for 2024.... <br>
 The electrical system and electronics for all Volvo's with the common chassis MKII, period 1998 to 2005, using the existing wiring on those cars (backward compatible) and replacing all electronics with open hardware I will design and prototype. To achieve this task I will be using donor car electronics and electrical wiring I already have. This will serve as a ground base to commercialize automotive solutions using an open business logic (open hardware and open software) for other car brands and models. Including LPG systems. <br>
-Go to the main repository of this project, [here](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/tree/main).
+Go to the main repository of this project, [here](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware).
 
  <p align="center">
      <img height="350" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Vehicle%20Automation/media/prototyping_is_like_this.jpg"> <br>
