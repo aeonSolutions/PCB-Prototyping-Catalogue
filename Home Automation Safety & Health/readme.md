@@ -29,7 +29,7 @@ Last update: 02-06-2024
 
 There are 40,000 women who are persecuted and attacked per year with some device or contraption that causes the medical condition known as "cancer". Worse, many medical treatments are the main reason for death.
 
-Simply, because the victim is not capable of turning off the devices that attack him/her repetitively and recurrently. All because the victim does not have a device capable of detecting and monitoring this invisible and remote aggression. And as if it weren't enough, it's a mandatory condition, to have some daily record, a #LogBook, a #history of occurrences of this type of aggression, capable of serving as evidence, preferably one that can be used in "real-time" and remotely by authorities and law enforcement. 
+Simply, because the victim is not capable of turning off the devices that attack him/her repetitively and recurrently. All because the victim does not have a device capable of detecting and monitoring this type of invisible and wireless aggression. And as if it weren't enough, it's a mandatory condition, to have some daily record, a #LogBook, a #history of occurrences of this type of aggression, capable of serving as evidence, preferably one that can be used in "real-time" and remotely by authorities and law enforcement. 
 
 ## Safety usage of the smart devices provided below
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
