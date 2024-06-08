@@ -112,11 +112,11 @@ In a simplistic way, whenever someone denies or refuses to talk about any type o
 - It is a person who pays for some type of service
 - Someone paid to bully or hurt that person
 
-One way to know if someone is being attacked with some type of "invisible sparks" is to ask that person to pass an electromagnetic field detector across their body. If he or she refuses, submit a complaint to the proper authorities. In Portugal, the complaint needs to be submitted on the Portuguese Army's reporting platform 🪖.
+One way to know if someone is being attacked with some type of "invisible sparks" is to ask that person to pass an electromagnetic field detector across their body  (sold on AliExpress: https://s.click.aliexpress.com/e/_DDaoCQJ). If he or she refuses, submit a complaint to the proper authorities. In Portugal, the complaint needs to be submitted on the Portuguese Army's reporting platform 🪖.
 
 Anyone close to someone who is being attacked also suffers from ongoing aggression, although with less intensity (not always). Even so, it is possible to make measurements, in any part of the body, to measure radiation that is happening around both persons. For those who refuse, you have the option of taking measurements on yourself, and if you detect any abnormal values, the first step is to move away from the person you are with to a safe distance. You then need to send measurements made in a complaint to the proper authorities, classify it as "electromagnetic bioterrorism" and add the GPS location, date, and time of the invisible aggression.
 
-Finally, one way to automate detection and monitoring attacks of EMF or EMP nature is to install a video surveillance camera capable of recording at high speed and only in the UV range. Electromagnetic explosions or just electric arcs usually release UV light that a camera with such characteristics can capture and record both in space and time that can be later used as a complaint to the authorities. 
+Finally, one way to automate detection and monitoring attacks of EMF or EMP nature is to install a video surveillance camera (sold on AliExpress: https://s.click.aliexpress.com/e/_DEmfjtt) capable of recording at high speed and only in the UV range. Electromagnetic explosions or just electric arcs usually release UV light that a camera with such characteristics can capture and record both in space and time that can be later used as a complaint to the authorities. 
 
 ### Knonw symptoms of a wireless aggression
 **Thermo and hygrometer imbalances**
