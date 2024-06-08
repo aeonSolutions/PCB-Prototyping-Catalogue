@@ -22,7 +22,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 02-06-2024
+Last update: 08-06-2024
 </p>
 
 "...in the United States, 40,000 women die from breast cancer each year.... "
@@ -50,11 +50,11 @@ Two concepts are very important to know and learn about:
 These concepts and subjects can be found easily on Google and in scientific publications.   
 
 
-**The devices listed below are not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
+**The devices listed below are not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, laser and laser-like devices and technologies. 
 
 **When installing any of the solutions provided below, take action and be conscious that the aggression/aggressor may change to other types and kinds of "wireless devices" the smart devices below are unable to detect**.  
 
-**Always use the smart devices below connected to a public data repository with LIVE data streams. At the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. To my knowledge, data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
+**Always use the smart devices below to connect to a public data repository with LIVE data streams. At the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. To my knowledge, data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
 
  :warning: **Be advised**
 
@@ -102,9 +102,17 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work by becom
 <br>
 
 ## How to proceed
-If you are certain your health-related problem is caused by some kind of wireless aggression, the first thing you need to do is to seek a wireless communications expert or engineer and ask him/her to audit your home, workplace (or another place you find it to be the root cause) to setup measurement devices (more than 2), for electromagnetic radiation detection (or other, for instance, photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup needs to be able to do sensor data measurement uploads to an experimental data repository (see Table 1 above). At the same time is a mandatory requirement to notify authorities and include the web address link where sensor data is being uploaded and stored.
+If you are certain some kind of wireless aggression causes your health-related problem, the first thing you need to do is to seek a wireless communications expert or engineer and ask him/her to audit your home, workplace (or another place you find it to be the root cause) to setup measurement devices (more than 2), for electromagnetic radiation detection (or other, for instance, photonics, also known as lasers) and do active monitoring 24/7. The monitoring setup needs to be able to do sensor data measurement uploads to an experimental data repository (see Table 1 above). At the same time is a mandatory requirement to notify authorities and include the web address link where sensor data is being uploaded and stored.
 
 ⚠️ **Only after you have those data measurements is advised to go to a conventional medical doctor/medicine.**
+
+In a simplistic way, whenever someone denies or refuses to talk about any type of distant neurosensory aggression it is because...
+- It is a person who pays for some type of service
+- Someone paid to bully or hurt that person
+
+One of the ways to know if someone is being attacked with some type of "invisible sparks" is to ask that person to pass the electromagnetic field detector across their body. If he or she refuses, submit a complaint to the proper authorities. In Portugal, the complaint needs to be submitted on the Portuguese Army's reporting platform 🪖.
+Anyone close to someone who is being attacked also suffers from ongoing aggression, although with less intensity (not always). Even so, it is possible to make measurements, in any part of the body, to measure radiation that is happening around both persons. For those who refuse, you have the option of taking measurements on yourself, and if you detect any abnormal values, the first step is to move away from the person you are with to a safe distance. You then need to send the measurements in a complaint to the proper authorities, and classify it as "electromagnetic bioterrorism".
+Finally, one way to detect and monitor attacks of EMF or EMP nature is to install a video surveillance camera capable of recording at high speed and only in the UV range. Electromagnetic explosions or just electric arcs usually release UV light that a camera with such characteristics can capture and record both in space and time.
 
 ### Knonw symptoms of a wireless aggression
 **Thermo and hygrometer imbalances**
