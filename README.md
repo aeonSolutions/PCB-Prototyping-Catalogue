@@ -15,7 +15,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 06-05-2024
+Last update: 11-06-2024
 </p>
 
 # Catalogue of Open Hardware Electronics
@@ -74,21 +74,17 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 <br>
 
 ### The most recent updates 
-(April update) <br>
+(June update) <br>
 
 **Open Construction Industry Section**
 -  Smart Construction Device, with a power consumption of only ~320nA
 - The newest PCB revision for the Smart Concrete Device, now with a power consumption of only ~320nA
    
 **Open Automotive Section**
-- a Dual Band Antenna for Volvo P2
-- an LED upgrade for the instruments cluster of Volvo P2
-- a Clutch Position Sensor upgrade for the Volvo P2
-- an LED upgrade for the back doors of a Volvo P2
+- 3rd light stop replacement PCB
 
 **Open Home Automation** 
 - The 220V AC Smart Outlet compatible with Tuya, Home Assistant, etc 
-- the newest  PCB revision for an Electromagnetic Detector and Monitor that fits inside an 18650 Battery Enclosure.
 - The newest PCB revision for the USB-A Smart Scheduler, now with a power consumption of only ~320nA
 - The newest "Smart Power Management" made to fit an enclosure sold on AliExpress
 
@@ -104,6 +100,14 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 For the promotion of your hardware electronics schematics on a browser there are available free, open-source,  Web Gerber viewers, ready to be integrated into an existing website.
 I recommend 🥰 [GRX](https://github.com/hpcreery/GRX) made by [Hunter Creery](https://github.com/hpcreery) and [Peyton Creery](https://github.com/phcreery). Anyone can try it out on the following website: [https://grx.creery.org/](https://grx.creery.org/)
 
+## Right to Repair Logo
+Many of my hardware electronics designs include a "Right to Repair" logo, which means that particular hardware is repair-friendly, with repair aid instructions on the PCB board itself.  
+
+<p align="center">
+   <img height="100px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/right_to_repair.png">
+</p>
+
+<br>
 
 ## CE Ready Logo
 Many of my hardware electronics designs include a "CE Ready" logo, which means that particular hardware is ready to get a CE marking. To learn more about this marking goto to [Wikipedia here](https://en.wikipedia.org/wiki/CE_marking).
