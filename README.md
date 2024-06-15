@@ -107,8 +107,6 @@ Many of my hardware electronics designs include a "Right to Repair" logo, which 
    <img height="100px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/right_to_repair.png">
 </p>
 
-<br>
-
 ## CE Ready Logo
 Many of my hardware electronics designs include a "CE Ready" logo, which means that particular hardware is ready to get a CE marking. To learn more about this marking goto to [Wikipedia here](https://en.wikipedia.org/wiki/CE_marking).
 
