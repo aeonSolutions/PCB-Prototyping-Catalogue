@@ -14,8 +14,15 @@ Last update: 19-06-2024
 # Commerial Business 
 [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use.
 
+## [NFC Business Card](https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC)
+A Business Card with NFC. 
 
-- [AeonLabs WIFI BLE RFID NFC Desk Contactless Reader Writer](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer)
+<p align="center">
+<img height="200px" src="https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC/blob/main/media/pcb_front.jpg">
+<img height="200px" src="https://github.com/aeonSolutions/AeonLabs-Business-BusinessCardNFC/blob/main/media/pcb_back.jpg">
+</p>
+
+## [AeonLabs WIFI BLE RFID NFC Desk Contactless Reader Writer](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer)
 
 This repo contains the KiCad files for the  AeonLabs WIFI BLE RFID NFC Desk Contactless Reader Writer. This PCB adds WiFi and BLE capabilities to a OEM RFID NFC reader.
 Features an RGB LED and a Buzzer and is designed to be mounted on existing commercial RFID NFC reader enclosures such as the one found here https://s.click.aliexpress.com/e/_9wRPxz. This PCB is best suited for home automation or commercial uses for # attendance #management at factories or offices.
@@ -26,7 +33,7 @@ Features an RGB LED and a Buzzer and is designed to be mounted on existing comme
 
 <br>
 
-- [Smart Coffee Machine Addon](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)
+## [Smart Coffee Machine Addon](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon)
 
 This repo contains the KiCad files for the AeonLabs Home Automation Smart Coffee MAchine Addon. This PCB adds WiFi and BLE capabilities to any home or office coffee machine. Is able to control the water boiler temperature; remotely order a cup of coffee (with the possibility to control the quantity of coffee in the cup); grind coffee beans. 
 Don't forget to check out some cool photos of assembly on a Philips Senseo Coffee Machine [here](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/tree/main/Philips%20Senseo)  
