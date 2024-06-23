@@ -20,6 +20,7 @@
 <br>
 
 # 16-bit Smart Data Acquisition Devices
+<sup> <img height="15" src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png">  **status: <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">M.V.P.</a>** NOW SELLING on <a href="https://www.tindie.com/stores/aeonlabs/">Tindie.com</a>  </sup> <br>
 
 ### [16-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS  ](https://github.com/aeonSolutions/AeonLabs-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/README.md)
 rev. 03-2024
