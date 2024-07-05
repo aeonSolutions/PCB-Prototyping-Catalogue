@@ -15,7 +15,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 16-06-2024
+Last update: 05-07-2024
 </p>
 
 # Catalogue of Open Hardware Electronics
@@ -45,6 +45,11 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 <br>
 
 ### Current projects I've been working on the past 4 weeks...
+- Smart Lightning Detector for the outdoors <br>
+  This hardware electronics is now being designed and prototyped in the coming weeks it has the main capability of detecting lightning strikes up to 40 km distance.
+- Smart Corona Discharge Detector <br>
+This hardware electronics is now being designed and prototyped in the coming weeks it has the main capability of detecting corona discharge indoors in a room.
+
 - 6 new Open Hardware electronics for the automotive sector:
   - The OPEN ECU is now for PCB fabrication
   - Designing the Front Door Electronics and also the Instrument Cluster 
