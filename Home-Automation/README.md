@@ -80,6 +80,7 @@ The focus of this project is to prove how it is possible to drastically reduce t
  
 ## Garden Automation
 - [Wireless Battery Powered Rainmeter](https://aeonsolutions.github.io/products/rain_meter/index.html)
+- [Smart Lighting Device]()
 
 **Made by other Makers**
 
