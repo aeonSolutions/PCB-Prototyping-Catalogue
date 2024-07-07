@@ -15,7 +15,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 05-07-2024
+Last update: 07-07-2024
 </p>
 
 # Catalogue of Open Hardware Electronics
@@ -101,6 +101,7 @@ This hardware electronics is now being designed and prototyped in the coming wee
    
 **Open Science Laboratory**
   - The newest PCB revision for the rain meter, now with a power consumption of only ~320nA
+  - The new ESP-32-C3_UFID Module with "Unique Fingerprint Identification" Technology
 
 <br />
 
