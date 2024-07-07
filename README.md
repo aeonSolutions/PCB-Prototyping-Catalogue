@@ -101,7 +101,7 @@ This hardware electronics is now being designed and prototyped in the coming wee
    
 **Open Science Laboratory**
   - The newest PCB revision for the rain meter, now with a power consumption of only ~320nA
-  - The new ESP-32-C3_UFID Module with "Unique Fingerprint Identification" Technology
+  - The new ESP-32-C3-UFID Module with "Unique Fingerprint Identification" Technology
 
 <br />
 
