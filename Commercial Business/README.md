@@ -61,6 +61,10 @@ Don't forget to check out some cool photos of assembly on a Philips Senseo Coffe
 
 <br>
 
+## Other useful Open Projects
+**[openhaystack](https://github.com/seemoo-lab/openhaystack)** by [Secure Mobile Networking Lab](https://github.com/seemoo-lab) <br>
+OpenHaystack is a framework for tracking personal Bluetooth devices via Apple's massive Find My network. Use it to create your own tracking tags that you can append to physical objects (keyrings, backpacks, ...) or integrate it into other Bluetooth-capable devices such as notebooks.
+
 ## Compatibility
 
 <p align="center">
