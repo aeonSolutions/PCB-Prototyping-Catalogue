@@ -398,7 +398,7 @@ Medical smart devices for health monitoring represent a paradigm shift in the re
   </a>
 </p>
 
-## [Do It Yourself (DIY) & Makers](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (13)
+## [Hardware Design Templates](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) (13)
 
 DIY innovation refers to the practice of creating and developing solutions or inventions through do-it-yourself (DIY) methods. It involves individuals taking a hands-on approach to problem-solving and using their creativity and resourcefulness to design and build unique products or systems. DIY innovation encourages experimentation, collaboration, and the utilization of readily available tools, materials, and technologies. It empowers individuals to explore their ideas, overcome challenges, and bring their visions to life without relying on traditional institutions or established processes. DIY innovation fosters a culture of self-sufficiency, innovation, and personal growth, while also promoting affordability and accessibility in the development of new ideas and solutions. Below are a few, see the full list [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/DIY-Maker). If you're looking to expedite work, in [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/PCB-Shields) there's a list of PCB modules ready to deploy.  
 
