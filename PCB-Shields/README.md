@@ -14,7 +14,7 @@
    <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
 </a>
 
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [DIY & Maker](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)   >>   DIY & Makers PCBs essentials: modules / Shields
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [DIY & Maker](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)   >>   Hardware Design Templates
 
 <br>
 
@@ -22,7 +22,7 @@
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_makers.jpg" height="300">
 </p>
 
-# DIY & Makers PCBs essentials:  modules / Shields
+# Hardware Design Templates
 A list of all PCB modules/shield designs ready to use in KiCad.
 
 # [ESP32 C3](https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-c3)
