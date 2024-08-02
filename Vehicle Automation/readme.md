@@ -46,6 +46,11 @@ Go to the main repository of this project, [here](https://github.com/aeonSolutio
 
 ## Other Makers
 
+### Jeep
+- [Inclinometer](https://github.com/upiir/pitch_roll_indicator) - Pitch roll indicator
+
+<br>
+  
 ### Battery  
  - [BYD-Battery-Emulator-For-Gen24 ](https://github.com/dalathegreat/BYD-Battery-Emulator-For-Gen24)
  - [Nissan-LEAF-Battery-Upgrade](https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade)
