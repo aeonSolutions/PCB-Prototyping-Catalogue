@@ -23,6 +23,17 @@
 <sup> <img height="15" src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png">  **status: <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">M.V.P.</a>** NOW SELLING on <a href="https://www.tindie.com/stores/aeonlabs/">Tindie.com</a>  </sup> <br>
 
 ### [16-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS  ](https://github.com/aeonSolutions/AeonLabs-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/README.md)
+rev. 10-2024
+
+This is the repository of the 16-bit Smart DAQ Device (SDAD) with a unique data fingerprint able to do experimental data upload to any data repository.
+
+<p align="center">
+    <img src="https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/blob/main/media/revision_10_2024_16bit_lcd.jpg" width="250px">
+</p>
+
+<br>
+
+### [16-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS  ](https://github.com/aeonSolutions/AeonLabs-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/README.md)
 rev. 03-2024
 
 This is the repository of the 16-bit Smart DAQ Device (SDAD) with a unique data fingerprint able to do experimental data upload to any data repository.
