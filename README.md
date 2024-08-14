@@ -11,14 +11,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/aeonSolutions.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aeonSolutions?tab=followers) 
 </p>
 
-
+Navigation: [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> Main Page - open Hardware Electronics
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
 Last update: 11-08-2024
 </p>
 
-# Catalogue of Open Hardware Electronics
+# Open Hardware Electronics Page
 <sup> [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. </sup>
 
 This repository is the main catalog for all my [white label hardware electronics](https://en.m.wikipedia.org/wiki/White-label_product) I prototype and made publicly available here on GitHub. In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.
