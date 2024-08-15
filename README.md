@@ -134,7 +134,7 @@ Many of my hardware electronics designs include a "CE Ready" logo, which means t
 
 <br>
 
-### Sponsor Open Hardware Solutions [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+### Contribute to Open Hardware [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 AeonLabs invests time and resources in providing this open-source hardware electronics. <br>
 Did you like any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
