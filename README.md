@@ -181,7 +181,7 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work by becom
 # Technical Support
 Need technical support for any of my projects I have freely available here? <br>
 Need Technical support on prototyping a smart device like the ones I have available here? <br>
-Click [here](https://github.com/sponsors/aeonSolutions) or on the sponsor button at the top and right side pane. Thank you
+Click [here](https://github.com/aeonSolutions/aeonSolutions/wiki/How-to-Hire-AeonLabs) to see all contact options. Thank you
 
 **Get a Notification on every PCB update**
 
