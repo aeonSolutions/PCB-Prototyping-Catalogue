@@ -50,6 +50,9 @@ The Smart DAQ devices available here have the minimum hardware characteristics t
 
 These Smart DAQ devices are of type "Internet of Everything" (IoE) Smart Devices and are able to connect with each other using swarm intelligence. The main purpose is to increase data integrity and trustworthiness among DAQ devices connected and on all experimental data collected during an experiment or research project.
 
+There are now 2 ways to navigate my hardware electronics catalog. The icons below will take you  to another page where this catalog is displayed using a conventional landing page design & styling. If you like code and more technical information, browse this page instead.
+ 
+The icon to the left is suited to all those users who are only looking for a solution to a problem and not into the real technical details.  The icon to the right will take you directly to a webpage with all hardware electronics currently at the [M.V.P. stage](https://en.wikipedia.org/wiki/Minimum_viable_product). If you're not into technical information and are here only to buy, this is the option for you. 
 
 <p align="center">
  <a href="https://aeonsolutions.github.io/portfolio/hardware_electronics/laboratory/">
