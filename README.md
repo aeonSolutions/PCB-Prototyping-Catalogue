@@ -135,7 +135,7 @@ Many of my hardware electronics designs include a "CE Ready" logo, which means t
 <br>
 
 ### Contribute to Open Hardware [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-AeonLabs invests time and resources in providing this open-hardware electronics. <br>
+AeonLabs invests time and resources in providing open-hardware electronics for anyone to use. <br>
 
 Did you like any open hardware electronics? <br>
 Bug reports and pull requests are welcome on any of AeonLabs repositories. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/CODE_OF_CONDUCT.md).
