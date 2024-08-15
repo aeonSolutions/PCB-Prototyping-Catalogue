@@ -135,7 +135,18 @@ Many of my hardware electronics designs include a "CE Ready" logo, which means t
 <br>
 
 ### Contribute to Open Hardware [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-AeonLabs invests time and resources in providing this open-source hardware electronics. <br>
+AeonLabs invests time and resources in providing this open-hardware electronics. <br>
+
+Did you like any open hardware electronics? <br>
+Bug reports and pull requests are welcome on any of AeonLabs repositories. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/CODE_OF_CONDUCT.md).
+
+- Contributing
+  - [Your Contributions Matter](https://github.com/aeonSolutions/aeonSolutions/wiki/Your-Contributions-Matter)
+  - [Contributor Code of Conduct](https://github.com/aeonSolutions/aeonSolutions/wiki/Contributor-Code-of-Conduct)
+
+Join the beta program to test and debug to provide feedback, ideas, modifications, suggestions, and improvements. In return, write your article in your blog or post it on social media. See participation conditions on the [Wiki](https://github.com/aeonSolutions/aeonSolutions/wiki/Beta-Participation-Agreement).  
+
+
 Did you like any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
 <p align="center">
