@@ -15,7 +15,7 @@
    <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/construction_industry.jpg" height="300">
 </p>
 
-[Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  [Open Hardware Electronics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  
 [Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry) 
 
 <p align="right">
@@ -23,7 +23,7 @@
 Last update: 29-02-2024
 </p>
 
-## These Hardware Electronics are Sponsorware 💰💰💰
+## Contribute to Open Hardware Electronics 💰💰💰
 The optimized design files for each of the hardware electronics listed are only available to my sponsors on GitHub Sponsors.
 It features many PCB optimizations such as much more energy efficiency and much less EMI  on the boards. This means, for instance, much better hardware performance and lasting battery life. 
 
@@ -89,19 +89,19 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 A green circle means the hardware electronics or the firmware programming code was fully tested, each of its functionalities and capabilities. And it can be installed in a vehicle. Keep in mind this does not mean errors won't happen. As in everything related to electronics and software, there are revisions and updates. This open hardware is no different.
 
 🟡 **Hardware or firmware not tested. Working capability is unknown, it may work or not.** <br>
-A yellow circle means the hardware electronics or the firmware programming code was not fully tested, each of its functionalities and capabilities. This does not mean it not working , it simply means testing is needed before giving a green circle of approval.  
+A yellow circle means the hardware electronics or the firmware programming code was not fully tested, each of its functionalities and capabilities. This does not mean it not working, it simply means testing is needed before giving a green circle of approval.  
 
 🔴 **Hardware or firmware fully tested but not working.** <br>
 A red circle means the hardware electronics or the firmware programming code was fully tested, and found some kind of critical error or fault. This means the electronics or firmware code cannot be used in a vehicle. 
 
 ⌛ **Hardware Design / firmware programming not started.** <br>
-The hour glass means the hardware electronics or the firmware programming hasn't started. Most likely because is waiting for the necessary test components needed for reverse engineering and also engineering of the new open solution. 
+The hourglass means the hardware electronics or the firmware programming hasn't started. Most likely because is waiting for the necessary test components needed for reverse engineering and also engineering of the new open solution. 
 
 🆕 **New updated contents** <br>
 The new icon means the link next to it was recently updated with new contents 
 
 💬  **Comments on the Discussion page** <br>
-The comments icon means there are usefeul and even new comments on the [discussions page](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/discussions) important for what you are seeing or reading.
+The comments icon means there are useful and even new comments on the [discussions page](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/discussions) important for what you are seeing or reading.
 
 <br />
 
@@ -146,7 +146,7 @@ Make a donation on PayPal and get a TAX refund*.
 </p>
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
@@ -157,9 +157,7 @@ Liked any of my PCB KiCad Designs? Help and Support my open work to all by becom
     </a>
 </p>
 
-# 
+## License
 
-### License
-
-Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
+Before proceeding to download any of AeonLab's open-source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/aeonSolutions/wiki/AeonLabs-Licensing) for more information. For commercial business solutions contact AeonLabs ℹ️ using the contacts above. Thank you 🙏.
 
