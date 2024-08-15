@@ -1,8 +1,13 @@
-[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
- [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l6j3nh4iyum7zj4nngl6" alt="trackgit-views" />
 </a>
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/raw/main/media/home_automation.jpg" height="300">
+</p>
+
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  [Main Page - Open Hardware Electronics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >> [Open Hardware Electronics Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki)  >> Components i use on my PCB Designs
 
 ### Order a custom PCB
 Is possible to own or licence any of the PCB designs publicly available here. Order custom made, design and assembled PCBs according to the byer specifiations.
