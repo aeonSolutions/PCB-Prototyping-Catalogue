@@ -199,6 +199,10 @@ Click [here](https://github.com/aeonSolutions/aeonSolutions/wiki/How-to-Hire-Aeo
 | [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
 |-------------|------|
 
+## License
+
+Before proceeding to download any of AeonLab's open-source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/aeonSolutions/wiki/AeonLabs-Licensing) for more information. For commercial business solutions contact AeonLabs ℹ️ using the contacts above. Thank you 🙏.
+
 <br>
 
 <p align="center">
@@ -570,10 +574,6 @@ Did you like any of my PCB KiCad Designs? Help and Support my open work to all b
         <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
     </a>
 </p>
-
-## License
-
-Before proceeding to download any of AeonLab's open-source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/aeonSolutions/wiki/AeonLabs-Licensing) for more information. For commercial business solutions contact AeonLabs ℹ️ using the contacts above. Thank you 🙏.
 
 Emoji: https://gist.github.com/rxaviers/7360908
 
