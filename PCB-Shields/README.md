@@ -14,7 +14,7 @@
    <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
 </a>
 
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [DIY & Maker](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)   >>   Hardware Design Templates
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  [Open Hardware Electronics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)   >>    [DIY & Maker](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)   >>   Hardware Design Templates
 
 <br>
 
@@ -40,15 +40,15 @@ A list of all PCB modules/shield designs ready to use in KiCad.
  </p>
  
 # [AC 85V-220V 1A to DC 5.0V](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0)
- This repo contains a pcb design for a AC220V 1A to DC 5V0 converter. Suitable as a add-on design for any other KiCad project.
+ This repo contains a PCB design for an AC220V 1A to DC 5V0 converter. Suitable as an add-on design for any other KiCad project.
  
  <p align="center">
      <img height="250" src="https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_front.png">
  </p>
  
 # [DC DC 1.8-28V Step up](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up)
-This is a pcb design for a DC DC [1.8;28]V step-up. Suitable as a add-on design for any other KiCad project.
-Ro change the output voltage one needs to change the resistance in the voltage divider connected to pin 3 of the MT3608 IC.
+This is a PCB design for a DC DC [1.8;28]V step-up. Suitable as an add-on design for any other KiCad project.
+To change the output voltage one needs to change the resistance in the voltage divider connected to pin 3 of the MT3608 IC.
  
  <p align="center">
      <img height="250" src="https://github.com/aeonSolutions/AeonLabs-PCB-Shields-DC2DC--1.8-28-V-step-up-down/blob/main/designs/pcb_front.png">
@@ -63,28 +63,28 @@ This is a PCB module for a DC to DC step down to [5; 0.8]V. Ready to be imported
  </p>
 
 # [RFID NFC RC522](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522)
- This is a pcb design for a AeonLabs PCB Shields RFID NFC RC522. Suitable as a add-on design for any other KiCad project.
+ This is a PCB design for an AeonLabs PCB Shields RFID NFC RC522. Suitable as an add-on design for any other KiCad project.
 
  <p align="center">
      <img height="250" src="https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/blob/main/designs/pcb_front.png">
  </p>
 
 # [2.4Ghz Receiver to UART](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/README.md)
-This is a pcb design module for a 2.4Ghz receiver to UART focused on all those Handheld Barcode & QR code scanners sold on AliExpress (see [here](https://s.click.aliexpress.com/e/_DFo4U4B)). Suitable as a add-on design for any other KiCad project.
+This is a PCB design module for a 2.4Ghz receiver to UART focused on all those Handheld Barcode & QR code scanners sold on AliExpress (see [here](https://s.click.aliexpress.com/e/_DFo4U4B)). Suitable as an add-on design for any other KiCad project.
 
  <p align="center">
      <img height="250" src="https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/designs/pcb_front.png">
  </p>
 
 # [8.7V Battery Charger BMS](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-8.7V-Battery-Charger-BMS/blob/main/README.md)
-This is a pcb design module for a 8.7V Battery Charger BMS up to 2A , overcharging, overcurrent protection. Suitable as a add-on design for any other KiCad project.
+This is a PCB design module for a 8.7V Battery Charger BMS up to 2A, overcharging, and overcurrent protection. Suitable as an add-on design for any other KiCad project.
 
  <p align="center">
      <img height="250" src="https://github.com/aeonSolutions/AeonLabs-PCB-Modules-8.7V-Battery-Charger-BMS/blob/main/designs/pcb_front.png">
  </p>
 
 # [AeonLabs PCB modules NRF24x Transceiver](https://github.com/aeonSolutions/AeonLabs-PCB-modules-NRF24x-Transceiver/blob/main/README.md)
-This is a pcb design module for a Nordic NRF24x Tranceiver 2.4Ghz. Suitable as a add-on design for any other KiCad project.
+This is a PCB design module for a Nordic NRF24x Tranceiver 2.4 GHz. Suitable as an add-on design for any other KiCad project.
 
  <p align="center">
      <img height="250" src="https://github.com/aeonSolutions/AeonLabs-PCB-modules-NRF24x-Transceiver/blob/main/designs/pcb_front.png">
@@ -98,14 +98,11 @@ one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](http
 
 <br>
 
-*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-## Liked it ? Get a Free PCB for yourself
-Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
 
-## Q&A WhatsApp Group
-If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
-[A.I. Things](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+## Liked it? Get a Free PCB for yourself
+Send me your Device or hardware and I will design a custom PCB for it. Free of charge. Contact me on WhatsApp or email for more info. 
+
 
 ## Fully assembled PCB
 Alternatively, and if you do not want to build a PCB by yourself and like to buy one, you can do it here:
@@ -132,7 +129,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
 
 <p align+"left">
 <a href="https://www.buymeacoffee.com/migueltomas">
@@ -145,23 +142,12 @@ The PCB Desgin Files i provide here for anyone to use are free. If you like this
 <br />
 
 ### Make a donation on Paypal
-Make a donation on paypal and get a TAX refund*.
+Make a donation on PayPal and get a TAX refund*.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
 
 <br>
 
-### Support all these open hardware projects and become a patreon  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
-In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
+## License
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
-
-<br />
-<br />
-
-#
-
-### License
-
-Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
+Before proceeding to download any of AeonLab's open-source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/aeonSolutions/wiki/AeonLabs-Licensing) for more information. For commercial business solutions contact AeonLabs ℹ️ using the contacts above. Thank you 🙏.
