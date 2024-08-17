@@ -144,24 +144,31 @@ Make sure you also view my **Open Source Software Catalogue** [here](https://git
 
 <br />
 
-### Legend
-🟢 **Hardware or firmware fully tested and working** <br>
-A green circle means the hardware electronics or the firmware programming code was fully tested, each of its functionalities and capabilities. And it can be installed in a vehicle. Keep in mind this does not mean errors won't happen. As in everything related to electronics and software, there are revisions and updates. This open hardware is no different.
+### Legend used in all AeonLabs repositories
+🟢 **Fully tested and working** <br>
+A green circle means the hardware electronics or the programming code was fully tested, each of its functionalities and capabilities. And it can be installed in a vehicle. Keep in mind this does not mean errors won't happen. As in everything related to electronics and software, there are revisions and updates. This open hardware is no different.
+<br> &nbsp;&nbsp;&nbsp; 💯 Fully tested & working, no improvements necessary - already being sold online
+<br> &nbsp;&nbsp;&nbsp;  🆓 Fully Open hardware \ source code
+<br> &nbsp;&nbsp;&nbsp;  🤪 There's better than this. don't use it
+<br>  &nbsp;&nbsp;&nbsp; 🔐 Fully closed hardware \ source code
+<br>  &nbsp;&nbsp;&nbsp; ⚠️ it can be improved. 
+<br>  &nbsp;&nbsp;&nbsp; ⚡️ fully tested and working, however, it is a dangerous solution to deploy
 
-🟡 **Hardware or firmware not tested. Working capability is unknown, it may work or not.** <br>
-A yellow circle means the hardware electronics or the firmware programming code was not fully tested, each of its functionalities and capabilities. This does not mean it not working , it simply means testing is needed before giving a green circle of approval.  
+🟡 **Not tested. Working capability is unknown, it may work or not.** <br>
+A yellow circle means the hardware electronics or the programming code was not fully tested, each of its functionalities and capabilities. This does not mean it not working, it simply means testing is needed before giving a green circle of approval.  
 
-🔴 **Hardware or firmware fully tested but not working.** <br>
-A red circle means the hardware electronics or the firmware programming code was fully tested, and found some kind of critical error or fault. This means the electronics or firmware code cannot be used in a vehicle. 
 
-⌛ **Hardware Design / firmware programming not started.** <br>
-The hour glass means the hardware electronics or the firmware programming hasn't started. Most likely because is waiting for the necessary test components needed for reverse engineering and also engineering of the new open solution. 
+🔴 **Fully tested but not working.** <br>
+A red circle means the hardware electronics or the programming code was fully tested, and found some kind of critical error or fault. This means the electronics or firmware code cannot be used in a vehicle. 
+
+⌛ **Not started.** <br>
+The hourglass means the hardware electronics or the programming hasn't started. Most likely because is waiting for the necessary test components needed for reverse engineering and also engineering of the new open solution. 
 
 🆕 **New updated contents** <br>
 The new icon means the link next to it was recently updated with new contents 
 
 💬  **Comments on the Discussion page** <br>
-The comments icon means there are usefeul and even new comments on the [discussions page](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/discussions) important for what you are seeing or reading.
+The comments icon means there are useful and even new comments on the discussions page of the repository important for what you are seeing or reading.
 
 <br />
 
