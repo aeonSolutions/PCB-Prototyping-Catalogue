@@ -18,9 +18,8 @@
 Last update: 11-08-2024
 </p>
 
-## Welcome to AeonLabs's Open Hardware Electronics
-<sup> by [AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) <br>
- [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. </sup>
+## Welcome to Open Hardware Electronics <sub> [by AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) </sub>
+<sup> [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) already assembled and ready to use. </sup>
 
 ░ ░[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of open technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). To learn more about AeonLabs [click here](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md).
 
