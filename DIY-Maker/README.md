@@ -22,7 +22,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 28-03-2023
+Last update: 21-08-2024
 </p>
 
 
@@ -99,10 +99,8 @@ Alternatively, and if you do not want to build a PCB by yourself and like to buy
 </p>
 
 ## Projects by other Makers
-**[Power latch with microcontrollers](https://github.com/pcbreflux/espressif) by [pcbreflux](https://github.com/pcbreflux)**
-
-<brr>
- 
+**[Beny-Devices](https://beny-devices.eu/search?q=eval+design&options%5Bprefix%5D=last)** by [Petr Dvořák](https://www.linkedin.com/in/petr-dvorak-hw/) <br>
+**[Power latch with microcontrollers](https://github.com/pcbreflux/espressif)** by [pcbreflux](https://github.com/pcbreflux) <br> 
 **[esp32-c3-mini](https://github.com/fbiego/esp32-c3-mini)** by [Felix Biego](https://github.com/fbiego) <br>
 A demo LVGL Watch project for ESP32 C3 mini 240*240 touch display development board. Can also be built natively to test the LVGL UI.
 
@@ -151,7 +149,7 @@ Make a donation on PayPal and get a TAX refund*.
 </p>
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and support my open work by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
