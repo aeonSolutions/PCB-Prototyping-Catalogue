@@ -100,7 +100,10 @@ Alternatively, and if you do not want to build a PCB by yourself and like to buy
 
 ## Projects by other Makers
 **[Beny-Devices](https://beny-devices.eu/search?q=eval+design&options%5Bprefix%5D=last)** by [Petr Dvořák](https://www.linkedin.com/in/petr-dvorak-hw/) <br>
+Petr Dvořák is a "🚀 Hardware Designer :: From ideas to products :: 🤝 𝙏𝙝𝙖𝙩 𝙆𝙞𝘾𝘼𝘿 𝙜𝙪𝙮 🏗️", from Brno, South Moravia, Czechia. On his website, he sells useful modules compatible with Arduino and ESP32. 
+
 **[Power latch with microcontrollers](https://github.com/pcbreflux/espressif)** by [pcbreflux](https://github.com/pcbreflux) <br> 
+
 **[esp32-c3-mini](https://github.com/fbiego/esp32-c3-mini)** by [Felix Biego](https://github.com/fbiego) <br>
 A demo LVGL Watch project for ESP32 C3 mini 240*240 touch display development board. Can also be built natively to test the LVGL UI.
 
