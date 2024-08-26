@@ -11,7 +11,7 @@ Last update: 19-06-2024
 
 <br>
 
-## These Hardware Electronics are Sponsorware 💰💰💰
+## Contribute to open hardware electronics 💰💰💰
 The optimized design files for each of the hardware electronics listed are only available to my sponsors on GitHub Sponsors.
 It features many PCB optimizations such as much more energy efficiency and much less EMI  on the boards. This means, for instance, much better hardware performance and lasting battery life. 
 
