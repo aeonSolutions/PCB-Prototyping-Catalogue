@@ -65,6 +65,11 @@ Don't forget to check out some cool photos of assembly on a Philips Senseo Coffe
 **[openhaystack](https://github.com/seemoo-lab/openhaystack)** by [Secure Mobile Networking Lab](https://github.com/seemoo-lab) <br>
 OpenHaystack is a framework for tracking personal Bluetooth devices via Apple's massive Find My network. Use it to create your own tracking tags that you can append to physical objects (keyrings, backpacks, ...) or integrate it into other Bluetooth-capable devices such as notebooks.
 
+**[OSHW-reCamera-Series](https://github.com/Seeed-Studio/OSHW-reCamera-Series)** by [Seeed Studio](https://github.com/Seeed-Studio) <br>
+reCamera is a combination of a processor and a camera sensor.
+This combination makes reCamera a standalone system that can handle basic detection and control tasks on its own. <br>
+[reCamera-OS](https://github.com/Seeed-Studio/reCamera-OS), the software to run reCamera. 
+
 ## Compatibility
 
 <p align="center">
