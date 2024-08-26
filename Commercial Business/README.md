@@ -6,12 +6,12 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 19-06-2024
+Last update: 26-08-2024
 </p>
 
 <br>
 
-## Contribute to open hardware electronics 💰💰💰
+## Contribute to Open Hardware Electronics 💰💰💰
 The optimized design files for each of the hardware electronics listed are only available to my sponsors on GitHub Sponsors.
 It features many PCB optimizations such as much more energy efficiency and much less EMI  on the boards. This means, for instance, much better hardware performance and lasting battery life. 
 
