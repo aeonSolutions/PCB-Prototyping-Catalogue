@@ -22,7 +22,7 @@
 <p align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 03-05-2024
+Last update: 23-09-2024
 </p>
 
 ## Contribute to Open Hardware Electronics 💰💰💰
@@ -81,7 +81,10 @@ The icon to the left is suited to all those users who are only looking for a sol
 
 - [Smart Door/Window sensor](https://github.com/salvatoreraccardi/Smart-DoorWindow-sensor) by [Salvatore Raccardi](https://github.com/salvatoreraccardi) <br>
 The focus of this project is to prove how it is possible to drastically reduce the power consumption(in deep sleep/standby) of battery-powered smart devices by developing a customized power latch. Better design of smart devices would ensure a longer product life cycle.
- 
+
+## Entrance & Common Areas
+- [Smart Garage Door Opener](https://github.com/aeonSolutions/AeonLabs-Garage-Door_opener/tree/main)
+  
 ## Garden Automation
 - [Wireless Battery Powered Rainmeter](https://aeonsolutions.github.io/products/rain_meter/index.html)
 - [Smart Lighting Device]()
