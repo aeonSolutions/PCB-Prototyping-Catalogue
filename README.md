@@ -9,14 +9,14 @@
 [![GitHub stars](https://img.shields.io/github/stars/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/aeonSolutions/PCB-Prototyping-Catalogue/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/aeonSolutions/PCB-Prototyping-Catalogue/watchers/)
 [![GitHub followers](https://img.shields.io/github/followers/aeonSolutions.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aeonSolutions?tab=followers) 
-</p>
+</p04
 
 **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> Main Page - Open Hardware Electronics
 
 <p align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 11-08-2024
+Last update: 04-09-2024
 </p>
 
 ## Welcome to Open Hardware Electronics <sub> [by AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md) </sub>
@@ -90,29 +90,10 @@ This hardware electronics is now being designed and prototyped in the coming wee
 <br>
 
 ### The most recent updates 
-(June update) <br>
-
-**Business Section**
-- A Business Card with NFC
-
-**Open Construction Industry Section**
--  Smart Construction Device, with a power consumption of only ~320nA
-- The newest PCB revision for the Smart Concrete Device, now with a power consumption of only ~320nA
-   
-**Open Automotive Section**
-- 3rd light stop replacement PCB
+(September update) <br>
 
 **Open Home Automation** 
-- The 220V AC Smart Outlet compatible with Tuya, Home Assistant, etc 
-- The newest PCB revision for the USB-A Smart Scheduler, now with a power consumption of only ~320nA
-- The newest "Smart Power Management" made to fit an enclosure sold on AliExpress
-
-**Open Health** 
-- The newest "Smart EM Monitor" so you can sleep better at night 
-   
-**Open Science Laboratory**
-  - The newest PCB revision for the rain meter, now with a power consumption of only ~320nA
-  - The new ESP-32-C3-UFID Module with "Unique Fingerprint Identification" Technology
+- The newest Smart Garage 
 
 <br />
 
