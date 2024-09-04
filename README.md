@@ -30,7 +30,7 @@ Last update: 04-09-2024
 
 This repository is the main catalog for all my [white label hardware electronics](https://en.m.wikipedia.org/wiki/White-label_product) I prototype and made publicly available here on GitHub. In my PCB projects, I give preference to [EspressIF ESP32 line of microchips](https://s.click.aliexpress.com/e/_DepDnsn). However, designs are not limited to EspressIF.
 
-There are now a total of **80** PCBs for smart devices, A.I. enabled, designed in [KiCad EDA](https://www.kicad.org/), and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. While the reader browses this catalog, [don't forget to read the Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
+There are now a total of **81** PCBs for smart devices, A.I. enabled, designed in [KiCad EDA](https://www.kicad.org/), and ready to download, order fabrication at a PCB factory or buy them on [Tindie](https://www.tindie.com/products/aeonlabs/) and [Gumroad](https://aeonlabs.gumroad.com) ready to install and use. While the reader browses this catalog, [don't forget to read the Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki) full of useful information about all smart PCBs available here.
 <br>
 
 <br>
