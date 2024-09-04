@@ -90,7 +90,7 @@ This hardware electronics is now being designed and prototyped in the coming wee
 <br>
 
 ### The most recent updates 
-(September update) <br>
+<sup>**September update** </sup> <br>
 
 **Open Home Automation** 
 - The newest Smart Garage 
