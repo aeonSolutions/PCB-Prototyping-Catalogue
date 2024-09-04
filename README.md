@@ -93,7 +93,7 @@ This hardware electronics is now being designed and prototyped in the coming wee
 <sup>**September update** </sup> <br>
 
 **Open Home Automation** 
-- The newest Smart Garage 
+- The newest Smart Garage - This device allows the operation of the entrance door or garage from a smartphone 
 
 <br />
 
