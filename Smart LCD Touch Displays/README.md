@@ -1,8 +1,29 @@
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart LCD Touch Displays](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20LCD%20Touch%20Displays)
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
+ [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
+<a href="https://github.com/sponsors/aeonSolutions">
+   <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+</a>
+![](https://views.whatilearened.today/views/github/aeonSolutions/PCB-Prototyping-Catalogue.svg)
+**Unique Visits** <a href="https://trackgit.com"> <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l5m5z1845s10s47cuyl5" alt="trackgit-views" /> </a>
+[![GitHub Forks](https://img.shields.io/github/forks/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/aeonSolutions/PCB-Prototyping-Catalogue/fork)
+[![GitHub stars](https://img.shields.io/github/stars/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/aeonSolutions/PCB-Prototyping-Catalogue/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/aeonSolutions/PCB-Prototyping-Catalogue/watchers/)
+[![GitHub followers](https://img.shields.io/github/followers/aeonSolutions.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aeonSolutions?tab=followers) 
+</p04
+
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> [Main Page - Open Hardware Electronics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart LCD Touch Displays](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20LCD%20Touch%20Displays)
+
+<p align="right">
+   <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
+ <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
+Last update: 06-09-2024
+</p>
+
+
 
 <br>
 
-## These Hardware Electronics are Sponsorware 💰💰💰
+## Contribute to this project 💰💰💰
 The optimized design files for each of the hardware electronics listed are only available to my sponsors on GitHub Sponsors.
 It features many PCB optimizations such as much more energy efficiency and much less EMI  on the boards. This means, for instance, much better hardware performance and lasting battery life. 
 
@@ -30,12 +51,12 @@ This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" 
 </p>
 
 ### Nextion LCDs
-If you like this , but on another NEXTION LCD TOUCH, drop me a DM on whatsApp [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) and i will do for free the KiCad design for you.
+If you like this, but on another NEXTION LCD TOUCH, drop me a DM on the [Discord Server](https://discord.gg/hw3j3RwfJf).
 
 
 =====================================================================================
 ## [Smart Passive 2.13" E-Ink Display](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display)
-A PCB for a 2.13" E-Ink Display. Requires #no #power an can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for #labelling or #price tagging. Total cost, including the E-Ink Display starts at only 10 euros. Already assembled.
+A PCB for a 2.13" E-Ink Display. Requires #no #power and can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for # labeling or #price tagging. Total cost, including the E-Ink Display, starts at only 10 euros. Already assembled.
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_back.png" height="350"> 
@@ -43,7 +64,7 @@ A PCB for a 2.13" E-Ink Display. Requires #no #power an can be configured using 
 
 =====================================================================================
 ## [Smart Passive 2.9" E-Ink Display](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-2.9-E-Ink-Display)
-A PCB for a 2.13" E-Ink Display. Requires #no #power an can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for #labelling or #price tagging. Total cost, including the E-Ink Display starts at only 10 euros. Already assembled.
+A PCB for a 2.13" E-Ink Display. Requires #no #power and can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for # labeling or #price tagging. Total cost, including the E-Ink Display, starts at only 10 euros. Already assembled.
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-2.9-E-Ink-Display/blob/main/designs/pcb_back.png" height="350"> 
@@ -51,7 +72,7 @@ A PCB for a 2.13" E-Ink Display. Requires #no #power an can be configured using 
 
 =====================================================================================
 ## [Smart Passive E-Ink Display Programmer](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer)
-A PCB for programming E-Ink Displays. Plug the E-Ink Display to this PCB using magnietic pogo pins to upload a new static image to it.
+A PCB for programming E-Ink Displays. Plug the E-Ink Display into this PCB using magnetic pogo pins to upload a new static image to it.
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/blob/main/Designs/pcb_front.png" height="350"> 
@@ -79,45 +100,13 @@ Screen: 4.0-inch display with 480x480 resolution, capacitive touch panel gt911
 - [ESP32 Cheap Yellow Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 - [ESP32 Trinity](https://github.com/witnessmenow/ESP32-Trinity)
 
-<br>
-<br>
-
-## Liked it ? Get a Free PCB for yourself
-Send me your device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
-
-## Q&A WhatsApp Group
-If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
-[LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+## Arduino Libraries
+#### [LovyanGFX](https://github.com/lovyan03/LovyanGFX) 
+TFT_eSPI is a great library. However, it is structurally complex because it targets multiple architectures, making it very difficult to add required functions such as ESP-IDF support and 18-bit color support.
+LovyanGFX has been created to add these features and optimize performance.
+  
 
 <br />
-<br />
-
-______________________________________________________________________________________________________________________________
-
-### PCB Conceptualization and Design
-<p align="center">
- 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/saturnPCBdesignLogo.png" alt="" height="60">](https://saturnpcb.com) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/kicad_logo_small.png" alt="" height="60">](https://www.kicad.org) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/AppCAD.jpg" alt="" height="60">](https://www.broadcom.com/appcad)
-
-</p>
-
-<br />
-<br />
-
-
-### PCB Fabrication
-<p align="center">
- 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/all_pcb.png" alt="" height="60">](https://www.allpcb.com/?Mb_InviteId=79483) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcbway.jpg" alt="" height="60">](https://www.pcbway.com/setinvite.aspx?inviteid=572526) [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/eurocircuits.png" alt="" height="60">](https://be.eurocircuits.com)
-
-</p>
-
-
-<br />
-
-**Hire AeonLabs** <br>
-If you like my work here and are looking to design and deploy your own smart device find [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire me. 
-
 <br />
 
 ## Author
@@ -128,50 +117,48 @@ You can get in touch with me on my LinkedIn Profile:
 
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/migueltomas/)
 
+<a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 <a href="https://app.userfeel.com/t/2f6cb1e0" target="_blank"><img src="https://app.userfeel.com/tester/737648/image?.png" width="257" class="no-b-lazy"></a>
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
 
 <br>
 
-### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+**Hire me** <br>
+See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire AeonLabs.
 
-<p align+"left">
-<a href="https://www.buymeacoffee.com/migueltomas">
-   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" />
- </a>
 <br>
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/bmc_qr.png" height="130">
+
+### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
+The PCB design files I provide here are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/migueltomas">
+        <img height="35" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+    </a>
 </p>
 
 
+### Make a donation on PayPal
+Make a donation on PayPal and get a TAX refund*.
 
-<br />
+<p align="center">
+    <a href="http://paypal.me/mtpsilva">
+        <img height="35" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png">
+    </a>
+</p>
 
-### Make a donation on Paypal
-Make a donation on paypal and get a TAX refund*.
+### Support all these open hardware projects and become a GitHub sponsor  
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
-
-<br>
-
-### Support all these open hardware projects and become a patreon  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
-In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
-
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
-
-<br />
-<br />
-
-______________________________________________________________________________________________________________________________
-### License
-
-Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
-
-
-
-______________________________________________________________________________________________________________________________
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
 
 
