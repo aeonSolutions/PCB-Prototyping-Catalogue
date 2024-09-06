@@ -47,7 +47,7 @@ Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorwar
 This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" LCD Touch. This PCB adds WiFi and BLE capabilities to stock Nextion 7" LCDs (http://www.nextion.tech). Features a RGB LED and a Buzzer and is designed to be mounted on top of existing Nextion PCB board. Optionally can be installed with a RFID RC522 module for contactless read / write capabilities.
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/blob/main/designs/assembled2.jpg" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/blob/main/designs/assembled2.jpg" height="250"> 
 </p>
 
 ### Nextion LCDs
@@ -59,7 +59,7 @@ If you like this, but on another NEXTION LCD TOUCH, drop me a DM on the [Discord
 A PCB for a 2.13" E-Ink Display. Requires #no #power and can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for # labeling or #price tagging. Total cost, including the E-Ink Display, starts at only 10 euros. Already assembled.
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_back.png" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_back.png" height="250"> 
 </p>
 
 =====================================================================================
@@ -67,7 +67,7 @@ A PCB for a 2.13" E-Ink Display. Requires #no #power and can be configured using
 A PCB for a 2.13" E-Ink Display. Requires #no #power and can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for # labeling or #price tagging. Total cost, including the E-Ink Display, starts at only 10 euros. Already assembled.
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-2.9-E-Ink-Display/blob/main/designs/pcb_back.png" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-2.9-E-Ink-Display/blob/main/designs/pcb_back.png" height="250"> 
 </p>
 
 =====================================================================================
@@ -75,22 +75,22 @@ A PCB for a 2.13" E-Ink Display. Requires #no #power and can be configured using
 A PCB for programming E-Ink Displays. Plug the E-Ink Display into this PCB using magnetic pogo pins to upload a new static image to it.
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/blob/main/Designs/pcb_front.png" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/blob/main/Designs/pcb_front.png" height="250"> 
 </p>
 
 =====================================================================================
 ## [E-Ink / E-Paper Display Programmer](https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer)
-This repo contains the KiCad files for the AeonLabs E-Ink / E-Paper Display Programmer. This PCB can program any E-Ink Displays with a 24 pin FPC/FFC connector. It can fit an enclosure with dimensions of 35x35x4 mm
+This repo contains the KiCad files for the AeonLabs E-Ink / E-Paper Display Programmer. This PCB can program any E-Ink Display with a 24-pin FPC/FFC connector. It can fit an enclosure with dimensions of 35x35x4 mm
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer/blob/main/Designs/pcb_front.png" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-E-Ink-E-Paper-Display-Programmer/blob/main/Designs/pcb_front.png" height="250"> 
 </p>
 
 ## [AeonLabs-Smart Passive E-Ink Display-PCI-e](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e)
-A PCB for a 2.13" E-Ink Display with PCI-e connection. Requires #no #power an can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for #labelling or #price tagging. Total cost, including the E-Ink Display starts at only 10 euros. Already assembled.
+A PCB for a 2.13" E-Ink Display with PCI-e connection. Requires #no #power and can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for # labeling or #price tagging. Total cost, including the E-Ink Display, starts at only 10 euros. Already assembled.
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/blob/main/designs/final.jpg" height="350"> 
+   <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-PCI-e/blob/main/designs/final.jpg" height="250"> 
 </p>
 
 
