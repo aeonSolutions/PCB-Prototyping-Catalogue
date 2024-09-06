@@ -489,7 +489,7 @@ To make any of the available PCBs here run as intended is needed to download int
 
 ### Download the PCB design files in KiCad
 
-Subscription users have available to download the original hardware pcb design files as a KiCad project complete with circuit schemetics and component list (BOM). To enable download you need to subscribe to a montlhy plan [here](https://github.com/sponsors/aeonSolutions). To order a custom PCB acording to your specifications and needs , go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB)
+Subscription users have the ability to download the original hardware pcb design files as a KiCad project complete with circuit schematics and component list (BOM). To enable download you need to subscribe to a monthly plan [here](https://github.com/sponsors/aeonSolutions). To order a custom PCB according to your specifications and needs, go [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/custom_PCB)
 
 thank you.
 
@@ -528,7 +528,7 @@ See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-t
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB design files I provide here are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza, or a book to help me study, eat, and think new PCB design files.
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/migueltomas">
