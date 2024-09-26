@@ -1,3 +1,5 @@
+<img src="https://s11.flagcounter.com/count/jqrN/bg_FFFFFF/txt_000000/border_FFFFFF/columns_8/maxflags_16/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+
 [![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
 <a href="https://github.com/sponsors/aeonSolutions">
